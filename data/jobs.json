@@ -1,5 +1,10 @@
 {
-  "generated_at": null,
-  "source": "automation-not-configured",
-  "items": []
+  "generated_at": "2026-02-22T18:29:40.449880+00:00",
+  "source": "imap",
+  "items": [],
+  "stats": {
+    "new_items": 0,
+    "total_items": 0,
+    "processed_messages": 0
+  }
 }
