@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IB List Job Filter</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <h1>IB List Job Filter</h1>
+        <p>Auto-updated job feed from your email digest, published on GitHub Pages.</p>
+      </header>
+
+      <section class="panel output-panel">
+        <div class="feed-controls">
+          <button id="refreshBtn" type="button">Refresh feed</button>
+          <label class="checkbox">
+            <input type="checkbox" id="jobsOnly" checked />
+            Show only job-related items
+          </label>
+        </div>
+        <div class="summary" id="summary">Loading feed...</div>
+        <div id="results" class="results"></div>
+      </section>
+
+      <section class="panel input-panel">
+        <details>
+          <summary>Manual parser fallback (optional)</summary>
+          <label for="digestInput">Digest email text</label>
+          <textarea id="digestInput" placeholder="Paste full digest email here..."></textarea>
+
+          <div class="controls">
+            <button id="parseBtn" type="button">Parse pasted digest</button>
+            <button id="clearBtn" type="button" class="ghost">Clear</button>
+          </div>
+
+          <p class="hint">Use this only if the automated feed is not updated yet.</p>
+        </details>
+      </section>
+    </main>
+
+    <template id="itemTemplate">
+      <article class="card">
+        <div class="card-header">
+          <h2 class="title"></h2>
+          <span class="badge"></span>
+        </div>
+        <dl class="meta"></dl>
+        <div class="links"></div>
+        <pre class="snippet"></pre>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
