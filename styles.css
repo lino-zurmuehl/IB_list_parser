@@ -191,8 +191,10 @@ button.ghost {
   border: 1px solid #ece7de;
   border-radius: 10px;
   padding: 0.65rem;
-  max-height: 180px;
-  overflow: auto;
+  max-height: 360px;
+  min-height: 140px;
+  overflow-y: auto;
+  overflow-x: hidden;
   font: 0.83rem/1.4 "SFMono-Regular", Menlo, Consolas, monospace;
 }
 

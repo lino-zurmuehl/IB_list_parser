@@ -5,6 +5,7 @@ import imaplib
 import json
 import os
 import re
+from html import unescape
 from datetime import datetime, timezone
 from email.header import decode_header, make_header
 from email.policy import default
@@ -209,9 +210,23 @@ def extract_text_body(msg: email.message.Message) -> str:
 
 def split_messages(raw_text: str):
     normalized = raw_text.replace("\r", "")
-    chunks = re.split(r"\n(?=Message:\s+\d+\n)", normalized)
-    filtered = [c for c in chunks if re.search(r"^Message:\s+\d+", c, re.MULTILINE)]
+    chunks = re.split(r"\n(?=\s*Message:\s+\d+\n)", normalized)
+    filtered = [c for c in chunks if re.search(r"^\s*Message:\s+\d+", c, re.MULTILINE)]
     return filtered if filtered else [normalized]
+
+
+def html_to_text(raw_html: str) -> str:
+    text = raw_html
+    text = re.sub(r"(?is)<(script|style)\b.*?>.*?</\1>", " ", text)
+    text = re.sub(r"(?i)<br\s*/?>", "\n", text)
+    text = re.sub(r"(?i)</(p|div|li|tr|h[1-6])>", "\n", text)
+    text = re.sub(r"(?i)<li\b[^>]*>", "- ", text)
+    text = re.sub(r"(?is)<[^>]+>", " ", text)
+    text = unescape(text)
+    text = text.replace("\xa0", " ")
+    text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def extract_header(block: str, name: str) -> str:
@@ -293,6 +308,8 @@ def keyword_matches(lower_text: str, keyword: str) -> bool:
 
 
 def parse_digest_text(raw_text: str):
+    if re.search(r"(?i)<html|<br\s*/?>|<div\b|<body\b", raw_text):
+        raw_text = html_to_text(raw_text)
     items = []
     for idx, block in enumerate(split_messages(raw_text), start=1):
         subject = extract_header(block, "Subject") or f"Message {idx}"
@@ -312,7 +329,7 @@ def parse_digest_text(raw_text: str):
             "positionType": infer_type(text, is_job_post),
             "deadline": infer_deadline(text),
             "links": links,
-            "snippet": body.strip()[:900],
+            "snippet": body.strip(),
             "isJob": is_job_post,
             "isDsPolicyFit": fit["isDsPolicyFit"],
             "dsPolicyScore": fit["dsPolicyScore"],

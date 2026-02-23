@@ -232,7 +232,8 @@ function updateSummary(source = "current", suffix = "") {
 }
 
 function parseDigest(raw) {
-  const chunks = splitMessages(raw);
+  const normalizedInput = looksLikeHtml(raw) ? htmlToText(raw) : raw;
+  const chunks = splitMessages(normalizedInput);
   const items = chunks.map((chunk, i) => parseMessage(chunk, i + 1));
   return { items };
 }
@@ -240,8 +241,8 @@ function parseDigest(raw) {
 function splitMessages(raw) {
   const normalized = raw.replace(/\r/g, "");
   const fallback = normalized
-    .split(/\n(?=Message:\s+\d+\n)/)
-    .filter((part) => /^Message:\s+\d+/m.test(part));
+    .split(/\n(?=\s*Message:\s+\d+\n)/)
+    .filter((part) => /^\s*Message:\s+\d+/m.test(part));
 
   return fallback.length ? fallback : [normalized];
 }
@@ -270,7 +271,7 @@ function parseMessage(chunk, index) {
     deadline,
     positionType,
     links,
-    snippet: body.trim().slice(0, 900),
+    snippet: body.trim(),
     isJob,
     isDsPolicyFit: fit.isMatch,
     dsPolicyScore: fit.score,
@@ -392,6 +393,18 @@ function renderItems(items) {
 
 function renderEmpty(message) {
   resultsEl.innerHTML = `<div class="empty">${message}</div>`;
+}
+
+function looksLikeHtml(text) {
+  return /<html|<body|<div|<br\s*\/?>/i.test(text);
+}
+
+function htmlToText(rawHtml) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(rawHtml, "text/html");
+  doc.querySelectorAll("br").forEach((el) => el.replaceWith("\n"));
+  const text = (doc.body?.textContent || rawHtml).replace(/\u00a0/g, " ");
+  return text.replace(/[ \t]+\n/g, "\n").replace(/\n{3,}/g, "\n\n").trim();
 }
 
 function normalizeItems(items) {
