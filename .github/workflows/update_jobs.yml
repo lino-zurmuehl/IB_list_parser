@@ -22,7 +22,7 @@ jobs:
           fi
 
           hour=$(TZ=Europe/Berlin date +%H)
-          if [ "$hour" = "08" ] || [ "$hour" = "20" ]; then
+          if [ "$hour" = "12" ] || [ "$hour" = "13" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
             echo "Berlin hour is $hour: running update"
           else
