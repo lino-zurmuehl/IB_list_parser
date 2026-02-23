@@ -163,7 +163,7 @@ const PROFILE_POLICY_KEYWORDS = [
   "migration policy",
 ];
 
-const ISOLATED_ABBREVIATIONS = new Set(["ml", "ai", "ki"]);
+const ISOLATED_ABBREVIATIONS = new Set(["ml", "ai", "ki", "r"]);
 
 let activeItems = [];
 

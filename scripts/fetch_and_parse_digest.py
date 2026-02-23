@@ -168,7 +168,7 @@ PROFILE_POLICY_KEYWORDS = [
     "migration policy",
 ]
 
-ISOLATED_ABBREVIATIONS = {"ml", "ai", "ki"}
+ISOLATED_ABBREVIATIONS = {"ml", "ai", "ki", "r"}
 
 
 def decode_mime(value: str) -> str:
