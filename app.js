@@ -8,22 +8,23 @@ const summaryEl = document.getElementById("summary");
 const resultsEl = document.getElementById("results");
 const itemTemplate = document.getElementById("itemTemplate");
 
-const JOB_KEYWORDS = [
-  "job",
-  "vacancy",
-  "assistant professor",
-  "professor",
-  "stelle",
-  "stellenausschreibung",
-  "hilfskraft",
-  "praktikum",
-  "internship",
-  "bewerbung",
-  "bewerbungsfrist",
-  "apply",
-  "position",
-  "postdoc",
-  "phd",
+const JOB_REGEX_PATTERNS = [
+  /\bjob\b/i,
+  /\bvacanc(?:y|ies)\b/i,
+  /\bopening\b/i,
+  /\bassistant professor\b/i,
+  /\bprofessur\b/i,
+  /\bstelle\b/i,
+  /\bstellenausschreibung\b/i,
+  /\bhilfskraft\b/i,
+  /\bpraktikum\b/i,
+  /\binternship\b/i,
+  /\bbewerbung\b/i,
+  /\bbewerbungsfrist\b/i,
+  /\bapply\b/i,
+  /\bpostdoc\b/i,
+  /\bphd\b/i,
+  /\bdoktorand(?:en|in)?stelle\b/i,
 ];
 
 const DEADLINE_PATTERNS = [
@@ -258,7 +259,7 @@ function parseMessage(chunk, index) {
   const fit = classifyDsPolicyFit(text);
   const organization = inferOrganization(subject, body);
   const deadline = inferDeadline(text);
-  const positionType = inferPositionType(text);
+  const positionType = inferPositionType(text, isJob);
 
   return {
     index,
@@ -288,8 +289,7 @@ function cleanSubject(subject) {
 }
 
 function isJobRelated(text) {
-  const lower = text.toLowerCase();
-  return JOB_KEYWORDS.some((keyword) => lower.includes(keyword));
+  return JOB_REGEX_PATTERNS.some((pattern) => pattern.test(text));
 }
 
 function inferDeadline(text) {
@@ -302,14 +302,16 @@ function inferDeadline(text) {
   return "Not found";
 }
 
-function inferPositionType(text) {
+function inferPositionType(text, isJob = false) {
+  if (!isJob) return "N/A";
   const lower = text.toLowerCase();
   if (lower.includes("assistant professor")) return "Assistant Professor";
   if (lower.includes("postdoc")) return "Postdoc";
   if (lower.includes("phd")) return "PhD";
+  if (lower.includes("professur")) return "Professorship";
   if (lower.includes("praktikum") || lower.includes("internship")) return "Internship";
   if (lower.includes("hilfskraft")) return "Student Assistant";
-  if (lower.includes("stelle") || lower.includes("position") || lower.includes("job")) return "Position";
+  if (lower.includes("stelle") || /\bjob\b/i.test(text)) return "Position";
   return "N/A";
 }
 
@@ -404,7 +406,7 @@ function normalizeItems(items) {
     const fit = classifyDsPolicyFit(text);
     return {
       ...item,
-      isJob: Boolean(item.isJob ?? isJobRelated(text)),
+      isJob: isJobRelated(text),
       isDsPolicyFit: Boolean(item.isDsPolicyFit ?? fit.isMatch),
       dsPolicyScore: Number(item.dsPolicyScore ?? fit.score),
       dsPolicyMatchedKeywords: Array.isArray(item.dsPolicyMatchedKeywords) ? item.dsPolicyMatchedKeywords : fit.keywords,

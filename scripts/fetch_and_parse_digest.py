@@ -13,22 +13,23 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "jobs.json"
 
-JOB_KEYWORDS = [
-    "job",
-    "vacancy",
-    "assistant professor",
-    "professor",
-    "stelle",
-    "stellenausschreibung",
-    "hilfskraft",
-    "praktikum",
-    "internship",
-    "bewerbung",
-    "bewerbungsfrist",
-    "apply",
-    "position",
-    "postdoc",
-    "phd",
+JOB_REGEX_PATTERNS = [
+    re.compile(r"\bjob\b", re.IGNORECASE),
+    re.compile(r"\bvacanc(?:y|ies)\b", re.IGNORECASE),
+    re.compile(r"\bopening\b", re.IGNORECASE),
+    re.compile(r"\bassistant professor\b", re.IGNORECASE),
+    re.compile(r"\bprofessur\b", re.IGNORECASE),
+    re.compile(r"\bstelle\b", re.IGNORECASE),
+    re.compile(r"\bstellenausschreibung\b", re.IGNORECASE),
+    re.compile(r"\bhilfskraft\b", re.IGNORECASE),
+    re.compile(r"\bpraktikum\b", re.IGNORECASE),
+    re.compile(r"\binternship\b", re.IGNORECASE),
+    re.compile(r"\bbewerbung\b", re.IGNORECASE),
+    re.compile(r"\bbewerbungsfrist\b", re.IGNORECASE),
+    re.compile(r"\bapply\b", re.IGNORECASE),
+    re.compile(r"\bpostdoc\b", re.IGNORECASE),
+    re.compile(r"\bphd\b", re.IGNORECASE),
+    re.compile(r"\bdoktorand(?:en|in)?stelle\b", re.IGNORECASE),
 ]
 
 DEADLINE_PATTERNS = [
@@ -233,7 +234,9 @@ def infer_deadline(text: str) -> str:
     return "Not found"
 
 
-def infer_type(text: str) -> str:
+def infer_type(text: str, is_job_post: bool = False) -> str:
+    if not is_job_post:
+        return "N/A"
     lower = text.lower()
     if "assistant professor" in lower:
         return "Assistant Professor"
@@ -241,11 +244,13 @@ def infer_type(text: str) -> str:
         return "Postdoc"
     if "phd" in lower:
         return "PhD"
+    if "professur" in lower:
+        return "Professorship"
     if "praktikum" in lower or "internship" in lower:
         return "Internship"
     if "hilfskraft" in lower:
         return "Student Assistant"
-    if "stelle" in lower or "position" in lower or "job" in lower:
+    if "stelle" in lower or re.search(r"\bjob\b", text, flags=re.IGNORECASE):
         return "Position"
     return "N/A"
 
@@ -262,8 +267,7 @@ def infer_org(subject: str, body: str) -> str:
 
 
 def is_job(text: str) -> bool:
-    lower = text.lower()
-    return any(k in lower for k in JOB_KEYWORDS)
+    return any(pattern.search(text) for pattern in JOB_REGEX_PATTERNS)
 
 
 def classify_ds_policy_fit(text: str):
@@ -298,17 +302,18 @@ def parse_digest_text(raw_text: str):
         text = f"{subject}\n{body}"
         links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
         fit = classify_ds_policy_fit(text)
+        is_job_post = is_job(text)
 
         item = {
             "subject": clean_subject(subject),
             "from": sender,
             "date": date,
             "organization": infer_org(subject, body),
-            "positionType": infer_type(text),
+            "positionType": infer_type(text, is_job_post),
             "deadline": infer_deadline(text),
             "links": links,
             "snippet": body.strip()[:900],
-            "isJob": is_job(text),
+            "isJob": is_job_post,
             "isDsPolicyFit": fit["isDsPolicyFit"],
             "dsPolicyScore": fit["dsPolicyScore"],
             "dsPolicyMatchedKeywords": fit["dsPolicyMatchedKeywords"],
@@ -432,8 +437,8 @@ def main():
                 item.get("positionType", ""),
             ]
         )
-        if "isJob" not in item:
-            item["isJob"] = is_job(text)
+        item["isJob"] = is_job(text)
+        item["positionType"] = infer_type(text, bool(item.get("isJob")))
         if "isDsPolicyFit" not in item or "dsPolicyScore" not in item:
             fit = classify_ds_policy_fit(text)
             item["isDsPolicyFit"] = fit["isDsPolicyFit"]
