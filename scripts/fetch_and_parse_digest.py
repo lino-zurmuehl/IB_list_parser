@@ -334,32 +334,50 @@ def save_payload(payload):
 def fetch_messages():
     host = os.environ["IMAP_HOST"]
     port = int(os.environ.get("IMAP_PORT", "993"))
-    user = os.environ["IMAP_USER"]
+    user = os.environ["IMAP_USER"].strip()
     password = os.environ["IMAP_PASS"]
-    folder = os.environ.get("IMAP_FOLDER", "INBOX")
-    sender_filter = os.environ.get("SENDER_FILTER", "")
-    subject_filter = os.environ.get("SUBJECT_FILTER", "ib-liste")
+    folder = os.environ.get("IMAP_FOLDER", "INBOX").strip()
+    sender_filter = os.environ.get("SENDER_FILTER", "").strip()
+    subject_filter = os.environ.get("SUBJECT_FILTER", "ib-liste").strip()
 
     conn = imaplib.IMAP4_SSL(host, port)
     conn.login(user, password)
-    conn.select(folder)
-
-    criteria = ["UNSEEN"]
-    if sender_filter:
-        criteria.extend(["FROM", f'"{sender_filter}"'])
-    if subject_filter:
-        criteria.extend(["SUBJECT", f'"{subject_filter}"'])
-
-    status, data = conn.search(None, *criteria)
+    status, folder_info = conn.select(f'"{folder}"')
     if status != "OK":
         conn.logout()
-        return []
+        raise RuntimeError(f"Could not select IMAP folder: {folder!r}")
 
-    ids = data[0].split()
+    total_in_folder = folder_info[0].decode("utf-8", errors="ignore") if folder_info and folder_info[0] else "0"
+    print(f"imap_selected_folder={folder}")
+    print(f"imap_total_messages_in_folder={total_in_folder}")
+
+    # Try strict server-side filters first, then progressively relax.
+    search_attempts = []
+    strict_criteria = ["UNSEEN"]
+    if sender_filter:
+        strict_criteria.extend(["FROM", f'"{sender_filter}"'])
+    if subject_filter:
+        strict_criteria.extend(["SUBJECT", f'"{subject_filter}"'])
+    search_attempts.append(("strict", strict_criteria))
+    if sender_filter or subject_filter:
+        search_attempts.append(("unseen_only", ["UNSEEN"]))
+    search_attempts.append(("all", ["ALL"]))
+
+    ids = []
+    for label, criteria in search_attempts:
+        status, data = conn.search(None, *criteria)
+        if status != "OK":
+            continue
+        found = data[0].split() if data and data[0] else []
+        print(f"imap_search_{label}_count={len(found)}")
+        if found:
+            ids = found
+            break
+
     results = []
 
     for msg_id in ids:
-        status, fetched = conn.fetch(msg_id, "(RFC822)")
+        status, fetched = conn.fetch(msg_id, "(BODY.PEEK[])")
         if status != "OK" or not fetched:
             continue
 
@@ -369,6 +387,11 @@ def fetch_messages():
         sender = decode_mime(msg.get("From", ""))
         date = decode_mime(msg.get("Date", ""))
         body = extract_text_body(msg)
+
+        if subject_filter and subject_filter.lower() not in subject.lower():
+            continue
+        if sender_filter and sender_filter.lower() not in sender.lower():
+            continue
 
         results.append(
             {
