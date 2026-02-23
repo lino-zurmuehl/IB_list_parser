@@ -2,7 +2,7 @@ name: Update Job Feed
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,15 +12,30 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Gate by Berlin time (08:00 and 20:00)
+        id: gate
+        run: |
+          hour=$(TZ=Europe/Berlin date +%H)
+          if [ "$hour" = "08" ] || [ "$hour" = "20" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            echo "Berlin hour is $hour: running update"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Berlin hour is $hour: skipping update"
+          fi
+
       - name: Checkout
+        if: ${{ steps.gate.outputs.run == 'true' || github.event_name == 'workflow_dispatch' }}
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: ${{ steps.gate.outputs.run == 'true' || github.event_name == 'workflow_dispatch' }}
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Fetch digest emails and parse jobs
+        if: ${{ steps.gate.outputs.run == 'true' || github.event_name == 'workflow_dispatch' }}
         env:
           IMAP_HOST: ${{ secrets.IMAP_HOST }}
           IMAP_PORT: ${{ secrets.IMAP_PORT }}
@@ -32,6 +47,7 @@ jobs:
         run: python scripts/fetch_and_parse_digest.py
 
       - name: Commit updated feed
+        if: ${{ steps.gate.outputs.run == 'true' || github.event_name == 'workflow_dispatch' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

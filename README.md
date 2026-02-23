@@ -2,10 +2,13 @@
 
 This app now updates automatically:
 
-1. GitHub Action checks your mailbox via IMAP every 15 minutes.
+1. GitHub Action checks your mailbox via IMAP at 08:00 and 20:00 Berlin time.
 2. It parses new digest emails and extracts job-related posts.
 3. It updates `data/jobs.json` in the repo.
 4. GitHub Pages shows the updated jobs feed automatically.
+5. In the UI, you can filter by:
+   - Job-related items
+   - Data Science + Public Policy profile fit
 
 ## Files
 
@@ -52,6 +55,6 @@ If using Gmail, use an **App Password** (not your normal password), which requir
 
 ## Limitations
 
-- Updates are near-real-time (default every 15 minutes), not instant push.
+- Updates are not real-time; polling runs at 08:00 and 20:00 Berlin time.
 - IMAP provider settings differ across mail services.
 - Parsing is heuristic and may need keyword tuning over time.

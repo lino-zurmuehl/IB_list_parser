@@ -3,6 +3,7 @@ const parseBtn = document.getElementById("parseBtn");
 const clearBtn = document.getElementById("clearBtn");
 const refreshBtn = document.getElementById("refreshBtn");
 const jobsOnlyEl = document.getElementById("jobsOnly");
+const dsPolicyOnlyEl = document.getElementById("dsPolicyOnly");
 const summaryEl = document.getElementById("summary");
 const resultsEl = document.getElementById("results");
 const itemTemplate = document.getElementById("itemTemplate");
@@ -31,6 +32,139 @@ const DEADLINE_PATTERNS = [
   /bis zum\s+([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{2,4})/i,
 ];
 
+const PROFILE_DS_KEYWORDS = [
+  "data science",
+  "data scientist",
+  "datenwissenschaft",
+  "datenwissenschaftler",
+  "datenanalyse",
+  "datenanalyst",
+  "datengetrieben",
+  "datenbasiert",
+  "datenkompetenz",
+  "datenmanagement",
+  "datenmodellierung",
+  "datenvisualisierung",
+  "datenbank",
+  "business intelligence",
+  "kuenstliche intelligenz",
+  "künstliche intelligenz",
+  "maschinelles lernen",
+  "prädiktiv",
+  "praediktiv",
+  "prognosemodell",
+  "text mining",
+  "zeitreihenanalyse",
+  "wirkungsanalyse",
+  "evaluationsmethoden",
+  "statistik",
+  "statistische analyse",
+  "quantitative methoden",
+  "quantitative analyse",
+  "paneldaten",
+  "mikrodaten",
+  "forschungsdaten",
+  "survey daten",
+  "umfragedaten",
+  "machine learning",
+  "ml",
+  "ai",
+  "artificial intelligence",
+  "nlp",
+  "natural language processing",
+  "deep learning",
+  "statistics",
+  "statistical",
+  "causal inference",
+  "econometrics",
+  "python",
+  "r ",
+  "sql",
+  "pandas",
+  "scikit",
+  "analytics",
+  "data analysis",
+  "computational",
+  "quantitative",
+  "visualization",
+  "gis",
+  "big data",
+];
+
+const PROFILE_POLICY_KEYWORDS = [
+  "public policy",
+  "policy",
+  "politikberatung",
+  "politikfeldanalyse",
+  "politikanalyse",
+  "politikforschung",
+  "oeffentliche politik",
+  "öffentliche politik",
+  "verwaltung",
+  "oeffentliche verwaltung",
+  "öffentliche verwaltung",
+  "politik",
+  "regierung",
+  "ministerium",
+  "bundestag",
+  "bundesregierung",
+  "laender",
+  "länder",
+  "kommunalpolitik",
+  "eu",
+  "europaeische union",
+  "europäische union",
+  "entwicklungspolitik",
+  "sicherheitspolitik",
+  "friedenspolitik",
+  "klimapolitik",
+  "migrationspolitik",
+  "arbeitsmarktpolitik",
+  "sozialpolitik",
+  "bildungspolitik",
+  "gesundheitspolitik",
+  "regulierungspolitik",
+  "verordnung",
+  "gesetzgebung",
+  "verwaltungswissenschaft",
+  "politikwissenschaft",
+  "sozialwissenschaft",
+  "wirkungsorientierung",
+  "evidenzbasiert",
+  "evidenzbasierte politik",
+  "folgenabschaetzung",
+  "folgenabschätzung",
+  "monitoring",
+  "evaluation",
+  "thinktank",
+  "stiftung",
+  "governance",
+  "regulation",
+  "regulatory",
+  "government",
+  "ministry",
+  "parliament",
+  "think tank",
+  "international relations",
+  "global political economy",
+  "development",
+  "public administration",
+  "impact evaluation",
+  "evidence-based",
+  "social science",
+  "political science",
+  "public sector",
+  "european union",
+  "eu policy",
+  "united nations",
+  "peace",
+  "security policy",
+  "climate policy",
+  "migration policy",
+];
+
+const ISOLATED_ABBREVIATIONS = new Set(["ml", "ai", "ki"]);
+
 let activeItems = [];
 
 refreshBtn.addEventListener("click", () => {
@@ -46,7 +180,7 @@ parseBtn.addEventListener("click", () => {
   }
 
   const parsed = parseDigest(raw);
-  activeItems = parsed.items;
+  activeItems = normalizeItems(parsed.items);
   renderItems(activeItems);
   updateSummary("manual");
 });
@@ -56,6 +190,10 @@ clearBtn.addEventListener("click", () => {
 });
 
 jobsOnlyEl.addEventListener("change", () => {
+  renderItems(activeItems);
+  updateSummary();
+});
+dsPolicyOnlyEl.addEventListener("change", () => {
   renderItems(activeItems);
   updateSummary();
 });
@@ -70,7 +208,7 @@ async function loadFeed() {
     }
 
     const payload = await res.json();
-    activeItems = Array.isArray(payload.items) ? payload.items : [];
+    activeItems = normalizeItems(Array.isArray(payload.items) ? payload.items : []);
 
     renderItems(activeItems);
 
@@ -86,9 +224,10 @@ async function loadFeed() {
 function updateSummary(source = "current", suffix = "") {
   const total = activeItems.length;
   const jobs = activeItems.filter((it) => it.isJob).length;
-  const shown = jobsOnlyEl.checked ? jobs : total;
+  const profileFit = activeItems.filter((it) => it.isDsPolicyFit).length;
+  const shown = applyFilters(activeItems).length;
   const label = source === "manual" ? "Manual parse" : source === "feed" ? "Auto feed" : "Current view";
-  summaryEl.textContent = `${label}: ${total} item(s), ${jobs} job-related, showing ${shown}.${suffix}`;
+  summaryEl.textContent = `${label}: ${total} item(s), ${jobs} job-related, ${profileFit} DS+Policy fit, showing ${shown}.${suffix}`;
 }
 
 function parseDigest(raw) {
@@ -116,6 +255,7 @@ function parseMessage(chunk, index) {
   const text = `${subject}\n${body}`;
 
   const isJob = isJobRelated(text);
+  const fit = classifyDsPolicyFit(text);
   const organization = inferOrganization(subject, body);
   const deadline = inferDeadline(text);
   const positionType = inferPositionType(text);
@@ -131,6 +271,9 @@ function parseMessage(chunk, index) {
     links,
     snippet: body.trim().slice(0, 900),
     isJob,
+    isDsPolicyFit: fit.isMatch,
+    dsPolicyScore: fit.score,
+    dsPolicyMatchedKeywords: fit.keywords,
   };
 }
 
@@ -183,7 +326,7 @@ function inferOrganization(subject, body) {
 }
 
 function renderItems(items) {
-  const visible = jobsOnlyEl.checked ? items.filter((it) => it.isJob) : items;
+  const visible = applyFilters(items);
 
   if (!visible.length) {
     renderEmpty("No matching items found with current filter.");
@@ -210,6 +353,13 @@ function renderItems(items) {
       ["Organization", item.organization || "Unknown"],
       ["Type", item.positionType || "N/A"],
       ["Deadline", item.deadline || "Not found"],
+      ["DS+Policy Fit", item.isDsPolicyFit ? `Yes (${item.dsPolicyScore || 0})` : "No"],
+      [
+        "Matched Terms",
+        Array.isArray(item.dsPolicyMatchedKeywords) && item.dsPolicyMatchedKeywords.length
+          ? item.dsPolicyMatchedKeywords.join(", ")
+          : "None",
+      ],
     ];
 
     fields.forEach(([k, v]) => {
@@ -240,6 +390,61 @@ function renderItems(items) {
 
 function renderEmpty(message) {
   resultsEl.innerHTML = `<div class="empty">${message}</div>`;
+}
+
+function normalizeItems(items) {
+  return items.map((item) => {
+    const text = [
+      item.subject || "",
+      item.snippet || "",
+      item.organization || "",
+      item.positionType || "",
+    ].join("\n");
+
+    const fit = classifyDsPolicyFit(text);
+    return {
+      ...item,
+      isJob: Boolean(item.isJob ?? isJobRelated(text)),
+      isDsPolicyFit: Boolean(item.isDsPolicyFit ?? fit.isMatch),
+      dsPolicyScore: Number(item.dsPolicyScore ?? fit.score),
+      dsPolicyMatchedKeywords: Array.isArray(item.dsPolicyMatchedKeywords) ? item.dsPolicyMatchedKeywords : fit.keywords,
+    };
+  });
+}
+
+function applyFilters(items) {
+  return items.filter((it) => {
+    if (jobsOnlyEl.checked && !it.isJob) return false;
+    if (dsPolicyOnlyEl.checked && !it.isDsPolicyFit) return false;
+    return true;
+  });
+}
+
+function classifyDsPolicyFit(text) {
+  const lower = text.toLowerCase();
+  const dsHits = PROFILE_DS_KEYWORDS.filter((k) => keywordMatches(lower, k));
+  const policyHits = PROFILE_POLICY_KEYWORDS.filter((k) => keywordMatches(lower, k));
+  const score = dsHits.length + policyHits.length;
+  const isMatch = dsHits.length >= 1 && policyHits.length >= 1 && score >= 2;
+
+  return {
+    isMatch,
+    score,
+    keywords: [...dsHits, ...policyHits].slice(0, 10),
+  };
+}
+
+function keywordMatches(lowerText, keyword) {
+  const k = keyword.trim().toLowerCase();
+  if (!k) return false;
+  if (ISOLATED_ABBREVIATIONS.has(k)) {
+    return new RegExp(`\\b${escapeRegex(k)}\\b`, "i").test(lowerText);
+  }
+  return lowerText.includes(k);
+}
+
+function escapeRegex(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 loadFeed();

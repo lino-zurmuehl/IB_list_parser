@@ -37,6 +37,139 @@ DEADLINE_PATTERNS = [
     re.compile(r"bis zum\s+([0-9]{1,2}\.[0-9]{1,2}\.[0-9]{2,4})", re.IGNORECASE),
 ]
 
+PROFILE_DS_KEYWORDS = [
+    "data science",
+    "data scientist",
+    "datenwissenschaft",
+    "datenwissenschaftler",
+    "datenanalyse",
+    "datenanalyst",
+    "datengetrieben",
+    "datenbasiert",
+    "datenkompetenz",
+    "datenmanagement",
+    "datenmodellierung",
+    "datenvisualisierung",
+    "datenbank",
+    "business intelligence",
+    "kuenstliche intelligenz",
+    "künstliche intelligenz",
+    "maschinelles lernen",
+    "prädiktiv",
+    "praediktiv",
+    "prognosemodell",
+    "text mining",
+    "zeitreihenanalyse",
+    "wirkungsanalyse",
+    "evaluationsmethoden",
+    "statistik",
+    "statistische analyse",
+    "quantitative methoden",
+    "quantitative analyse",
+    "paneldaten",
+    "mikrodaten",
+    "forschungsdaten",
+    "survey daten",
+    "umfragedaten",
+    "machine learning",
+    "ml",
+    "ai",
+    "artificial intelligence",
+    "nlp",
+    "natural language processing",
+    "deep learning",
+    "statistics",
+    "statistical",
+    "causal inference",
+    "econometrics",
+    "python",
+    "r ",
+    "sql",
+    "pandas",
+    "scikit",
+    "analytics",
+    "data analysis",
+    "computational",
+    "quantitative",
+    "visualization",
+    "gis",
+    "big data",
+]
+
+PROFILE_POLICY_KEYWORDS = [
+    "public policy",
+    "policy",
+    "politikberatung",
+    "politikfeldanalyse",
+    "politikanalyse",
+    "politikforschung",
+    "oeffentliche politik",
+    "öffentliche politik",
+    "verwaltung",
+    "oeffentliche verwaltung",
+    "öffentliche verwaltung",
+    "politik",
+    "regierung",
+    "ministerium",
+    "bundestag",
+    "bundesregierung",
+    "laender",
+    "länder",
+    "kommunalpolitik",
+    "eu",
+    "europaeische union",
+    "europäische union",
+    "entwicklungspolitik",
+    "sicherheitspolitik",
+    "friedenspolitik",
+    "klimapolitik",
+    "migrationspolitik",
+    "arbeitsmarktpolitik",
+    "sozialpolitik",
+    "bildungspolitik",
+    "gesundheitspolitik",
+    "regulierungspolitik",
+    "verordnung",
+    "gesetzgebung",
+    "verwaltungswissenschaft",
+    "politikwissenschaft",
+    "sozialwissenschaft",
+    "wirkungsorientierung",
+    "evidenzbasiert",
+    "evidenzbasierte politik",
+    "folgenabschaetzung",
+    "folgenabschätzung",
+    "monitoring",
+    "evaluation",
+    "thinktank",
+    "stiftung",
+    "governance",
+    "regulation",
+    "regulatory",
+    "government",
+    "ministry",
+    "parliament",
+    "think tank",
+    "international relations",
+    "global political economy",
+    "development",
+    "public administration",
+    "impact evaluation",
+    "evidence-based",
+    "social science",
+    "political science",
+    "public sector",
+    "european union",
+    "eu policy",
+    "united nations",
+    "peace",
+    "security policy",
+    "climate policy",
+    "migration policy",
+]
+
+ISOLATED_ABBREVIATIONS = {"ml", "ai", "ki"}
+
 
 def decode_mime(value: str) -> str:
     if not value:
@@ -133,6 +266,28 @@ def is_job(text: str) -> bool:
     return any(k in lower for k in JOB_KEYWORDS)
 
 
+def classify_ds_policy_fit(text: str):
+    lower = text.lower()
+    ds_hits = [k for k in PROFILE_DS_KEYWORDS if keyword_matches(lower, k)]
+    policy_hits = [k for k in PROFILE_POLICY_KEYWORDS if keyword_matches(lower, k)]
+    score = len(ds_hits) + len(policy_hits)
+    is_match = len(ds_hits) >= 1 and len(policy_hits) >= 1 and score >= 2
+    return {
+        "isDsPolicyFit": is_match,
+        "dsPolicyScore": score,
+        "dsPolicyMatchedKeywords": (ds_hits + policy_hits)[:10],
+    }
+
+
+def keyword_matches(lower_text: str, keyword: str) -> bool:
+    k = keyword.strip().lower()
+    if not k:
+        return False
+    if k in ISOLATED_ABBREVIATIONS:
+        return bool(re.search(rf"\b{re.escape(k)}\b", lower_text, flags=re.IGNORECASE))
+    return k in lower_text
+
+
 def parse_digest_text(raw_text: str):
     items = []
     for idx, block in enumerate(split_messages(raw_text), start=1):
@@ -142,6 +297,7 @@ def parse_digest_text(raw_text: str):
         body = "\n\n".join(block.split("\n\n")[1:]) if "\n\n" in block else block
         text = f"{subject}\n{body}"
         links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
+        fit = classify_ds_policy_fit(text)
 
         item = {
             "subject": clean_subject(subject),
@@ -153,6 +309,9 @@ def parse_digest_text(raw_text: str):
             "links": links,
             "snippet": body.strip()[:900],
             "isJob": is_job(text),
+            "isDsPolicyFit": fit["isDsPolicyFit"],
+            "dsPolicyScore": fit["dsPolicyScore"],
+            "dsPolicyMatchedKeywords": fit["dsPolicyMatchedKeywords"],
         }
         fingerprint_source = f"{item['subject']}|{item['from']}|{item['date']}|{(links[0] if links else '')}"
         item["id"] = hashlib.sha1(fingerprint_source.encode("utf-8", errors="ignore")).hexdigest()[:16]
@@ -241,6 +400,22 @@ def main():
             new_items.append(item)
 
     merged = sorted(existing_items + new_items, key=lambda x: x.get("date", ""), reverse=True)
+    for item in merged:
+        text = "\n".join(
+            [
+                item.get("subject", ""),
+                item.get("snippet", ""),
+                item.get("organization", ""),
+                item.get("positionType", ""),
+            ]
+        )
+        if "isJob" not in item:
+            item["isJob"] = is_job(text)
+        if "isDsPolicyFit" not in item or "dsPolicyScore" not in item:
+            fit = classify_ds_policy_fit(text)
+            item["isDsPolicyFit"] = fit["isDsPolicyFit"]
+            item["dsPolicyScore"] = fit["dsPolicyScore"]
+            item["dsPolicyMatchedKeywords"] = fit["dsPolicyMatchedKeywords"]
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
