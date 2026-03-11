@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-03-11T16:23:00.400264+00:00",
+  "generated_at": "2026-03-11T16:38:48.096335+00:00",
   "source": "imap",
   "items": [
-    {
-      "subject": "Lino: your job alert for Werkstudent + Bundestag in Berlin Metropolitan Area has been created",
-      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
-      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
-      "dateUtc": "2026-03-11T15:51:47+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Bundestag  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Master@IBM Werkstudent Government & Regulatory Affairs (f/m/x)\n       IBM · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent (m/w/d) Regulatory/Public Affairs\n       ONYX Power · Berlin, Berlin, Germany\n\n                                                   Werkstudent Assistenz Politik-Redaktion (m/w/d)\n       The Pioneer · Berlin, Berlin, Germany\n\n                                             2 school alumni\n\n                                                   Stu­den­ti­sche Hilfs­kraft / Werk­stu­dent:in (w/m/d) im Be­reich Kom­mu­ni­ka­ti­ons­ma­nage­ment\n       Projektträger Jülich, Forschungszentrum Jülich GmbH · Berlin, Berlin, Germany\n\n                                                   Werkstudent (w/m/d) - Unterstützung Deutschland Leitung\n       Siemens Energy · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Corporate Public Policy in Berlin (all genders)\n       METRO AG · Berlin, Berlin, Germany\n\n                                             1 school alum\n\n                              Easy Apply\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
-      "isJob": true,
-      "isLinkedInJob": true,
-      "sourceTag": "linkedin",
-      "sourceFolder": "Jobalerts_Linkedin",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 10,
-      "dsPolicyMatchedKeywords": [
-        "data science",
-        "ai",
-        "gis",
-        "public policy",
-        "policy",
-        "politik",
-        "bundestag",
-        "eu",
-        "regulatory",
-        "government"
-      ],
-      "id": "cc3665bba7cb5179"
-    },
     {
       "subject": "Master@IBM Werkstudent Government & Regulatory Affairs (f/m/x)",
       "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
@@ -178,32 +147,6 @@
       "id": "113d4aacef746538"
     },
     {
-      "subject": "Lino: your job alert for Werkstudent + Qualitative Sozialforschung in Berlin Metropolitan Area has been created",
-      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
-      "date": "Wed, 11 Mar 2026 13:50:40 +0000",
-      "dateUtc": "2026-03-11T13:50:40+00:00",
-      "organization": "University of Applied Sciences · Berlin",
-      "positionType": "Student Assistant",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Qualitative Sozialforschung  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Studentische Hilfskraft in der Forschung (m/w/d)\n       IU International University of Applied Sciences · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Healthcare Consulting (m/w/d)\n       Moysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
-      "isJob": true,
-      "isLinkedInJob": true,
-      "sourceTag": "linkedin",
-      "sourceFolder": "Jobalerts_Linkedin",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "data science",
-        "ai",
-        "gis",
-        "public policy",
-        "policy"
-      ],
-      "id": "7675b465cba2fcf1"
-    },
-    {
       "subject": "Studentische Hilfskraft in der Forschung (m/w/d)",
       "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
       "date": "Wed, 11 Mar 2026 13:50:40 +0000",
@@ -246,32 +189,6 @@
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
       "id": "870071ea48c2aa22"
-    },
-    {
-      "subject": "Lino: your job alert for Werkstudent + Public Health in Berlin Metropolitan Area has been created",
-      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
-      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
-      "dateUtc": "2026-03-11T11:50:11+00:00",
-      "organization": "Universität Berlin · Berlin",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Public Health  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Working Student Healthcare\n       Edelman · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Studentische Beschäftigung mit 40 Monatsstunden\n       Technische Universität Berlin · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Healthcare Consulting (m/w/d)\n       Moysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany\n\n                                                   Werkstudent*in im Aufgabengebiet Bürger*innendialog\n       Stromnetz Berlin GmbH · Berlin, Berlin, Germany\n\n                                                   Studentische Beschäftigung mit 40 Monatsstunden\n       Technische Universität Berlin · Berlin, Berlin, Germany\n\n                                             1 connection\n\n                                                   Studentischer Mitarbeiter Market Access (m/w/d)\n       IGES Institut GmbH · Berlin, Berlin, Germany\n\n                                             2 company alumni\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
-      "isJob": true,
-      "isLinkedInJob": true,
-      "sourceTag": "linkedin",
-      "sourceFolder": "Jobalerts_Linkedin",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "data science",
-        "ai",
-        "gis",
-        "public policy",
-        "policy"
-      ],
-      "id": "b752bd4cdd92e6d3"
     },
     {
       "subject": "Working Student Healthcare",
@@ -5553,12 +5470,13 @@
     }
   ],
   "stats": {
-    "new_items": 15,
-    "total_items": 202,
+    "new_items": 1,
+    "total_items": 199,
     "processed_messages": 19,
     "processed_messages_imap": 16,
     "processed_messages_linkedin": 3,
     "removed_old_items": 0,
-    "removed_past_deadline_items": 1
+    "removed_past_deadline_items": 1,
+    "removed_legacy_linkedin_alerts": 0
   }
 }
