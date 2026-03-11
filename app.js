@@ -169,6 +169,7 @@ const ISOLATED_ABBREVIATIONS = new Set(["ml", "ai", "ki", "r"]);
 const NOISE_LINK_SUBSTRINGS = [
   "lists.fu-berlin.de/listinfo/ib-liste",
   "ib-liste@lists.fu-berlin.de",
+  "lists.fu-berlin.de/private/ib-liste/attachments/",
 ];
 
 let activeItems = [];
