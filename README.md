@@ -29,6 +29,8 @@ In your GitHub repo, add these **Actions secrets** under:
 - `IMAP_FOLDER` (example: `INBOX`)
 - `SENDER_FILTER` (optional, recommended)
 - `SUBJECT_FILTER` (optional, default `ib-liste`)
+- `MAX_ITEM_AGE_DAYS` (optional, default `28`; removes entries older than this)
+- `DEADLINE_GRACE_DAYS` (optional, default `5`; removes entries this many days after application deadline)
 
 ## Gmail note
 

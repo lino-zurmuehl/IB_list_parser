@@ -6,13 +6,16 @@ import json
 import os
 import re
 from html import unescape
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from email.header import decode_header, make_header
 from email.policy import default
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "jobs.json"
+MAX_ITEM_AGE_DAYS = int(os.environ.get("MAX_ITEM_AGE_DAYS", "28"))
+DEADLINE_GRACE_DAYS = int(os.environ.get("DEADLINE_GRACE_DAYS", "5"))
 
 JOB_REGEX_PATTERNS = [
     re.compile(r"\bjob\b", re.IGNORECASE),
@@ -172,6 +175,33 @@ PROFILE_POLICY_KEYWORDS = [
 
 ISOLATED_ABBREVIATIONS = {"ml", "ai", "ki", "r"}
 
+ENGLISH_MONTHS = {
+    "january": 1,
+    "jan": 1,
+    "february": 2,
+    "feb": 2,
+    "march": 3,
+    "mar": 3,
+    "april": 4,
+    "apr": 4,
+    "may": 5,
+    "june": 6,
+    "jun": 6,
+    "july": 7,
+    "jul": 7,
+    "august": 8,
+    "aug": 8,
+    "september": 9,
+    "sep": 9,
+    "sept": 9,
+    "october": 10,
+    "oct": 10,
+    "november": 11,
+    "nov": 11,
+    "december": 12,
+    "dec": 12,
+}
+
 
 def decode_mime(value: str) -> str:
     if not value:
@@ -180,6 +210,83 @@ def decode_mime(value: str) -> str:
         return str(make_header(decode_header(value)))
     except Exception:
         return value
+
+
+def normalize_to_utc(dt: datetime) -> datetime:
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
+def parse_mail_date(date_text: str):
+    if not date_text:
+        return None
+    try:
+        dt = parsedate_to_datetime(date_text)
+    except Exception:
+        return None
+    if not isinstance(dt, datetime):
+        return None
+    return normalize_to_utc(dt)
+
+
+def parse_iso_datetime(value: str):
+    if not value:
+        return None
+    try:
+        dt = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+    return normalize_to_utc(dt)
+
+
+def parse_deadline_date(text: str, fallback_year: int = None):
+    if not text:
+        return None
+
+    numeric = re.search(r"\b([0-3]?\d)[./-]([0-1]?\d)[./-](\d{2,4})\b", text)
+    if numeric:
+        day = int(numeric.group(1))
+        month = int(numeric.group(2))
+        year = int(numeric.group(3))
+        if year < 100:
+            year += 2000
+        try:
+            return datetime(year, month, day, tzinfo=timezone.utc).date()
+        except ValueError:
+            return None
+
+    english = re.search(
+        r"\b([0-3]?\d)(?:st|nd|rd|th)?\s+([A-Za-z]+)\s+(\d{4})\b|\b([A-Za-z]+)\s+([0-3]?\d)(?:st|nd|rd|th)?[,]?\s+(\d{4})\b",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if english:
+        if english.group(1) and english.group(2) and english.group(3):
+            day = int(english.group(1))
+            month_name = english.group(2).lower()
+            year = int(english.group(3))
+        else:
+            month_name = english.group(4).lower()
+            day = int(english.group(5))
+            year = int(english.group(6))
+        month = ENGLISH_MONTHS.get(month_name)
+        if month:
+            try:
+                return datetime(year, month, day, tzinfo=timezone.utc).date()
+            except ValueError:
+                return None
+
+    month_day = re.search(r"\b([0-3]?\d)[./-]([0-1]?\d)\b", text)
+    if month_day and fallback_year:
+        day = int(month_day.group(1))
+        month = int(month_day.group(2))
+        try:
+            return datetime(fallback_year, month, day, tzinfo=timezone.utc).date()
+        except ValueError:
+            return None
+
+    return None
 
 
 def decode_text_part(part: email.message.Message) -> str:
@@ -320,6 +427,15 @@ def infer_deadline(text: str) -> str:
         m = pattern.search(text)
         if m and m.group(1):
             return m.group(1).strip()
+
+    contextual = re.search(
+        r"(?:deadline|application deadline|apply by|bewerbungsfrist|bewerbungsschluss|frist|bis zum)\s*[:\-]?\s*([^\n\r.!?]{0,80})",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if contextual and contextual.group(1):
+        return contextual.group(1).strip()
+
     return "Not found"
 
 
@@ -394,14 +510,22 @@ def parse_digest_text(raw_text: str):
         links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
         fit = classify_ds_policy_fit(text)
         is_job_post = is_job(text)
+        parsed_mail_dt = parse_mail_date(date)
+        deadline_text = infer_deadline(text)
+        deadline_date = parse_deadline_date(
+            deadline_text if deadline_text != "Not found" else "",
+            fallback_year=(parsed_mail_dt.year if parsed_mail_dt else None),
+        )
 
         item = {
             "subject": clean_subject(subject),
             "from": sender,
             "date": date,
+            "dateUtc": (parsed_mail_dt.isoformat() if parsed_mail_dt else None),
             "organization": infer_org(subject, body),
             "positionType": infer_type(text, is_job_post),
-            "deadline": infer_deadline(text),
+            "deadline": deadline_text,
+            "deadlineDate": (deadline_date.isoformat() if deadline_date else None),
             "links": links,
             "snippet": body.strip(),
             "isJob": is_job_post,
@@ -518,7 +642,11 @@ def main():
             known_ids.add(item["id"])
             new_items.append(item)
 
-    merged = sorted(existing_items + new_items, key=lambda x: x.get("date", ""), reverse=True)
+    def item_date_for_sort(item):
+        dt = parse_iso_datetime(item.get("dateUtc", "")) or parse_mail_date(item.get("date", ""))
+        return dt or datetime.min.replace(tzinfo=timezone.utc)
+
+    merged = sorted(existing_items + new_items, key=item_date_for_sort, reverse=True)
     for item in merged:
         text = "\n".join(
             [
@@ -535,15 +663,50 @@ def main():
             item["isDsPolicyFit"] = fit["isDsPolicyFit"]
             item["dsPolicyScore"] = fit["dsPolicyScore"]
             item["dsPolicyMatchedKeywords"] = fit["dsPolicyMatchedKeywords"]
+        if not item.get("dateUtc"):
+            parsed_mail_dt = parse_mail_date(item.get("date", ""))
+            item["dateUtc"] = parsed_mail_dt.isoformat() if parsed_mail_dt else None
+        if not item.get("deadlineDate") and item.get("deadline") and item.get("deadline") != "Not found":
+            parsed_mail_dt = parse_mail_date(item.get("date", ""))
+            deadline_date = parse_deadline_date(
+                item.get("deadline", ""),
+                fallback_year=(parsed_mail_dt.year if parsed_mail_dt else None),
+            )
+            item["deadlineDate"] = deadline_date.isoformat() if deadline_date else None
+
+    now_utc = datetime.now(timezone.utc)
+    min_date_utc = now_utc - timedelta(days=MAX_ITEM_AGE_DAYS)
+    latest_allowed_deadline = (now_utc - timedelta(days=DEADLINE_GRACE_DAYS)).date()
+    pruned = []
+    removed_by_age = 0
+    removed_by_deadline = 0
+    for item in merged:
+        item_dt = parse_iso_datetime(item.get("dateUtc", "")) or parse_mail_date(item.get("date", ""))
+        if item_dt and item_dt < min_date_utc:
+            removed_by_age += 1
+            continue
+        deadline_date = None
+        deadline_raw = item.get("deadlineDate")
+        if isinstance(deadline_raw, str) and deadline_raw:
+            try:
+                deadline_date = datetime.fromisoformat(deadline_raw).date()
+            except ValueError:
+                deadline_date = None
+        if deadline_date and deadline_date < latest_allowed_deadline:
+            removed_by_deadline += 1
+            continue
+        pruned.append(item)
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": "imap",
-        "items": merged[:500],
+        "items": pruned[:500],
         "stats": {
             "new_items": len(new_items),
-            "total_items": len(merged[:500]),
+            "total_items": len(pruned[:500]),
             "processed_messages": len(mails),
+            "removed_old_items": removed_by_age,
+            "removed_past_deadline_items": removed_by_deadline,
         },
     }
 
