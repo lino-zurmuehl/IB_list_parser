@@ -594,15 +594,29 @@ def fetch_messages_from_folder(
     source_tag: str = "imap",
     allow_missing: bool = False,
 ):
-    status, folder_info = conn.select(f'"{folder}"')
-    if status != "OK":
+    folder_candidates = [folder]
+    if folder and not folder.upper().startswith("INBOX"):
+        folder_candidates.extend([f"INBOX/{folder}", f"INBOX.{folder}"])
+
+    selected_folder = None
+    folder_info = None
+    for candidate in folder_candidates:
+        status, info = conn.select(f'"{candidate}"')
+        if status == "OK":
+            selected_folder = candidate
+            folder_info = info
+            break
+
+    if selected_folder is None:
         if allow_missing:
+            joined = ",".join(folder_candidates)
             print(f"imap_skip_missing_folder[{source_tag}]={folder}")
+            print(f"imap_folder_candidates[{source_tag}]={joined}")
             return []
         raise RuntimeError(f"Could not select IMAP folder: {folder!r}")
 
     total_in_folder = folder_info[0].decode("utf-8", errors="ignore") if folder_info and folder_info[0] else "0"
-    print(f"imap_selected_folder[{source_tag}]={folder}")
+    print(f"imap_selected_folder[{source_tag}]={selected_folder}")
     print(f"imap_total_messages_in_folder[{source_tag}]={total_in_folder}")
 
     search_attempts = []
@@ -652,7 +666,7 @@ def fetch_messages_from_folder(
                 "mail_date": date,
                 "body": body,
                 "source_tag": source_tag,
-                "source_folder": folder,
+                "source_folder": selected_folder,
             }
         )
 
@@ -711,15 +725,18 @@ def main():
 
     mails = fetch_messages()
     new_items = []
+    source_counts = {}
 
     for mail in mails:
+        source_tag = mail.get("source_tag", "imap")
+        source_counts[source_tag] = source_counts.get(source_tag, 0) + 1
         parsed = parse_digest_text(
             mail["body"],
             fallback_subject=mail.get("mail_subject", ""),
             fallback_from=mail.get("mail_from", ""),
             fallback_date=mail.get("mail_date", ""),
-            force_single=(mail.get("source_tag") == "linkedin"),
-            source_tag=mail.get("source_tag", "imap"),
+            force_single=(source_tag == "linkedin"),
+            source_tag=source_tag,
             source_folder=mail.get("source_folder", ""),
         )
         for item in parsed:
@@ -804,6 +821,8 @@ def main():
             "new_items": len(new_items),
             "total_items": len(pruned[:500]),
             "processed_messages": len(mails),
+            "processed_messages_imap": source_counts.get("imap", 0),
+            "processed_messages_linkedin": source_counts.get("linkedin", 0),
             "removed_old_items": removed_by_age,
             "removed_past_deadline_items": removed_by_deadline,
         },
@@ -811,6 +830,8 @@ def main():
 
     save_payload(payload)
     print(f"processed_messages={len(mails)}")
+    print(f"processed_messages_imap={source_counts.get('imap', 0)}")
+    print(f"processed_messages_linkedin={source_counts.get('linkedin', 0)}")
     print(f"new_items={len(new_items)}")
     print(f"total_items={payload['stats']['total_items']}")
 
