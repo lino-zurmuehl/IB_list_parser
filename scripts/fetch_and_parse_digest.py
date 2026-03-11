@@ -600,6 +600,24 @@ def extract_linkedin_jobs(raw_html: str):
     return jobs
 
 
+def has_direct_linkedin_job_link(item: dict) -> bool:
+    links = item.get("links") or []
+    return any(isinstance(link, str) and "linkedin.com/jobs/view/" in link for link in links)
+
+
+def looks_like_legacy_linkedin_alert(item: dict) -> bool:
+    subject = (item.get("subject") or "").lower()
+    snippet = (item.get("snippet") or "").lower()
+    if not (
+        re.search(r"job alert .* has been created|jobbenachrichtigung .* wurde erstellt", subject, flags=re.IGNORECASE)
+        or "see your latest job matches" in snippet
+        or "job alert has been created" in snippet
+        or "ihre aktuellen jobempfehlungen anzeigen" in snippet
+    ):
+        return False
+    return not has_direct_linkedin_job_link(item)
+
+
 def classify_ds_policy_fit(text: str):
     lower = text.lower()
     ds_hits = [k for k in PROFILE_DS_KEYWORDS if keyword_matches(lower, k)]
@@ -928,6 +946,16 @@ def main():
             )
             item["deadlineDate"] = deadline_date.isoformat() if deadline_date else None
 
+    # Remove legacy "combined alert" LinkedIn entries.
+    cleaned = []
+    removed_legacy_linkedin_alerts = 0
+    for item in merged:
+        if bool(item.get("isLinkedInJob")) and looks_like_legacy_linkedin_alert(item):
+            removed_legacy_linkedin_alerts += 1
+            continue
+        cleaned.append(item)
+    merged = cleaned
+
     now_utc = datetime.now(timezone.utc)
     min_date_utc = now_utc - timedelta(days=MAX_ITEM_AGE_DAYS)
     latest_allowed_deadline = (now_utc - timedelta(days=DEADLINE_GRACE_DAYS)).date()
@@ -963,6 +991,7 @@ def main():
             "processed_messages_linkedin": source_counts.get("linkedin", 0),
             "removed_old_items": removed_by_age,
             "removed_past_deadline_items": removed_by_deadline,
+            "removed_legacy_linkedin_alerts": removed_legacy_linkedin_alerts,
         },
     }
 
@@ -971,6 +1000,7 @@ def main():
     print(f"processed_messages_imap={source_counts.get('imap', 0)}")
     print(f"processed_messages_linkedin={source_counts.get('linkedin', 0)}")
     print(f"new_items={len(new_items)}")
+    print(f"removed_legacy_linkedin_alerts={removed_legacy_linkedin_alerts}")
     print(f"total_items={payload['stats']['total_items']}")
 
 
