@@ -419,6 +419,7 @@ function renderItems(items) {
 
     const titleEl = node.querySelector(".title");
     const badgeEl = node.querySelector(".badge");
+    const sourceBadgeEl = node.querySelector(".source-badge");
     const metaEl = node.querySelector(".meta");
     const linksEl = node.querySelector(".links");
     const snippetEl = node.querySelector(".snippet");
@@ -427,12 +428,16 @@ function renderItems(items) {
     badgeEl.textContent = item.isJob ? "Job" : "Other";
     badgeEl.classList.add(item.isJob ? "job" : "other");
 
+    const sourceLabel = item.isLinkedInJob ? "LinkedIn" : "IB";
+    sourceBadgeEl.textContent = sourceLabel;
+    sourceBadgeEl.classList.add(item.isLinkedInJob ? "linkedin" : "ib");
+
     const fields = [
       ["From", item.from],
       ["Date", item.date],
       ["Organization", item.organization || "Unknown"],
       ["Type", item.positionType || "N/A"],
-      ["Source", item.isLinkedInJob ? "LinkedIn" : item.sourceTag || "IMAP"],
+      ["Source", item.isLinkedInJob ? "LinkedIn" : "IB-list"],
       ["Deadline", item.deadline || "Not found"],
       ["DS+Policy Fit", item.isDsPolicyFit ? `Yes (${item.dsPolicyScore || 0})` : "No"],
       [

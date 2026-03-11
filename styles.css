@@ -199,10 +199,37 @@ textarea {
   align-items: flex-start;
 }
 
+.card-tags {
+  display: inline-flex;
+  gap: 0.35rem;
+  align-items: center;
+}
+
 .title {
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.3;
+}
+
+.source-badge {
+  border-radius: 999px;
+  padding: 0.2rem 0.56rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  border: 1px solid var(--line);
+  white-space: nowrap;
+}
+
+.source-badge.linkedin {
+  color: #0a4f95;
+  background: #ecf5ff;
+  border-color: #b8d8ff;
+}
+
+.source-badge.ib {
+  color: #8b6200;
+  background: #fff6dc;
+  border-color: #f0dc99;
 }
 
 .badge {
