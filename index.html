@@ -8,25 +8,31 @@
   </head>
   <body>
     <main class="page">
-      <header class="hero">
-        <h1>IB List Job Filter</h1>
-        <p>Auto-updated feed from IB list digests and LinkedIn job alerts, published on GitHub Pages.</p>
+      <header class="hero panel">
+        <h1>Job Feed</h1>
+        <p>Unified feed from IB-list digests and LinkedIn job alerts.</p>
       </header>
 
       <section class="panel output-panel">
-        <div class="feed-controls">
+        <div class="output-header">
+          <div>
+            <h2>Current Openings</h2>
+            <p>Filter the feed by relevance and source.</p>
+          </div>
           <button id="refreshBtn" type="button">Refresh feed</button>
+        </div>
+        <div class="feed-controls">
           <label class="checkbox">
             <input type="checkbox" id="jobsOnly" checked />
-            Show only job-related items
+            Job-related
           </label>
           <label class="checkbox">
             <input type="checkbox" id="dsPolicyOnly" />
-            Show only Data Science + Policy fit
+            DS + Policy fit
           </label>
           <label class="checkbox">
             <input type="checkbox" id="linkedinOnly" />
-            Show only LinkedIn jobs
+            LinkedIn only
           </label>
         </div>
         <div class="summary" id="summary">Loading feed...</div>
@@ -35,7 +41,7 @@
 
       <section class="panel input-panel">
         <details>
-          <summary>Manual parser fallback (optional)</summary>
+          <summary>Manual Parser Fallback</summary>
           <label for="digestInput">Digest email text</label>
           <textarea id="digestInput" placeholder="Paste full digest email here..."></textarea>
 
@@ -57,7 +63,10 @@
         </div>
         <dl class="meta"></dl>
         <div class="links"></div>
-        <pre class="snippet"></pre>
+        <div class="snippet-wrap">
+          <div class="snippet-label">Message excerpt</div>
+          <pre class="snippet"></pre>
+        </div>
       </article>
     </template>
 
