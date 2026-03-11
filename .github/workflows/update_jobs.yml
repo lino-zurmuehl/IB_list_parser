@@ -50,6 +50,9 @@ jobs:
           IMAP_FOLDER: ${{ secrets.IMAP_FOLDER }}
           SENDER_FILTER: ${{ secrets.SENDER_FILTER }}
           SUBJECT_FILTER: ${{ secrets.SUBJECT_FILTER }}
+          LINKEDIN_IMAP_FOLDER: ${{ secrets.LINKEDIN_IMAP_FOLDER }}
+          LINKEDIN_SENDER_FILTER: ${{ secrets.LINKEDIN_SENDER_FILTER }}
+          LINKEDIN_SUBJECT_FILTER: ${{ secrets.LINKEDIN_SUBJECT_FILTER }}
         run: python scripts/fetch_and_parse_digest.py
 
       - name: Commit updated feed

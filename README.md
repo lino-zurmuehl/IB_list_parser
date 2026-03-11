@@ -3,12 +3,13 @@
 This app now updates automatically:
 
 1. GitHub Action checks your mailbox via IMAP at 08:00 and 20:00 Berlin time.
-2. It parses new digest emails and extracts job-related posts.
+2. It parses new digest emails and LinkedIn job alerts to extract job-related posts.
 3. It updates `data/jobs.json` in the repo.
 4. GitHub Pages shows the updated jobs feed automatically.
 5. In the UI, you can filter by:
    - Job-related items
    - Data Science + Public Policy profile fit
+   - LinkedIn job alerts
 
 ## Files
 
@@ -29,6 +30,9 @@ In your GitHub repo, add these **Actions secrets** under:
 - `IMAP_FOLDER` (example: `INBOX`)
 - `SENDER_FILTER` (optional, recommended)
 - `SUBJECT_FILTER` (optional, default `ib-liste`)
+- `LINKEDIN_IMAP_FOLDER` (optional, default `Jobalerts_Linkedin`)
+- `LINKEDIN_SENDER_FILTER` (optional, default `linkedin`)
+- `LINKEDIN_SUBJECT_FILTER` (optional, default empty)
 - `MAX_ITEM_AGE_DAYS` (optional, default `28`; removes entries older than this)
 - `DEADLINE_GRACE_DAYS` (optional, default `5`; removes entries this many days after application deadline)
 

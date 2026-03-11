@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "jobs.json"
 MAX_ITEM_AGE_DAYS = int(os.environ.get("MAX_ITEM_AGE_DAYS", "28"))
 DEADLINE_GRACE_DAYS = int(os.environ.get("DEADLINE_GRACE_DAYS", "5"))
+DEFAULT_LINKEDIN_FOLDER = "Jobalerts_Linkedin"
 
 JOB_REGEX_PATTERNS = [
     re.compile(r"\bjob\b", re.IGNORECASE),
@@ -353,6 +354,7 @@ def html_to_text(raw_html: str) -> str:
     text = re.sub(r"(?is)<[^>]+>", " ", text)
     text = unescape(text)
     text = text.replace("\xa0", " ")
+    text = re.sub(r"[\u200b-\u200f\u202a-\u202e\u2060\ufeff\u034f]", "", text)
     text = re.sub(r"[ \t]+\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -475,6 +477,26 @@ def is_job(text: str) -> bool:
     return any(pattern.search(text) for pattern in JOB_REGEX_PATTERNS)
 
 
+def is_linkedin_item(subject: str, sender: str, body: str, source_tag: str = "", source_folder: str = "") -> bool:
+    subject_l = (subject or "").lower()
+    sender_l = (sender or "").lower()
+    body_l = (body or "").lower()
+    source_tag_l = (source_tag or "").lower()
+    source_folder_l = (source_folder or "").lower()
+
+    if source_tag_l == "linkedin":
+        return True
+    if "linkedin" in source_folder_l:
+        return True
+    if "linkedin" in sender_l:
+        return True
+    if "jobalerts-noreply@linkedin.com" in sender_l:
+        return True
+    if "job alert" in subject_l or "jobbenachrichtigung" in subject_l:
+        return True
+    return "linkedin" in body_l and ("job alert" in body_l or "jobbenachrichtigung" in body_l)
+
+
 def classify_ds_policy_fit(text: str):
     lower = text.lower()
     ds_hits = [k for k in PROFILE_DS_KEYWORDS if keyword_matches(lower, k)]
@@ -497,19 +519,29 @@ def keyword_matches(lower_text: str, keyword: str) -> bool:
     return k in lower_text
 
 
-def parse_digest_text(raw_text: str):
+def parse_digest_text(
+    raw_text: str,
+    fallback_subject: str = "",
+    fallback_from: str = "",
+    fallback_date: str = "",
+    force_single: bool = False,
+    source_tag: str = "imap",
+    source_folder: str = "",
+):
     if re.search(r"(?i)<html|<br\s*/?>|<div\b|<body\b", raw_text):
         raw_text = html_to_text(raw_text)
     items = []
-    for idx, block in enumerate(split_messages(raw_text), start=1):
-        subject = extract_header(block, "Subject") or f"Message {idx}"
-        sender = extract_header(block, "From") or "Unknown"
-        date = extract_header(block, "Date") or "Unknown"
+    blocks = [raw_text] if force_single else split_messages(raw_text)
+    for idx, block in enumerate(blocks, start=1):
+        subject = extract_header(block, "Subject") or (fallback_subject if idx == 1 and fallback_subject else f"Message {idx}")
+        sender = extract_header(block, "From") or (fallback_from if idx == 1 and fallback_from else "Unknown")
+        date = extract_header(block, "Date") or (fallback_date if idx == 1 and fallback_date else "Unknown")
         body = extract_body(block)
         text = f"{subject}\n{body}"
         links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
         fit = classify_ds_policy_fit(text)
-        is_job_post = is_job(text)
+        linkedin_item = is_linkedin_item(subject, sender, body, source_tag=source_tag, source_folder=source_folder)
+        is_job_post = is_job(text) or linkedin_item
         parsed_mail_dt = parse_mail_date(date)
         deadline_text = infer_deadline(text)
         deadline_date = parse_deadline_date(
@@ -529,6 +561,9 @@ def parse_digest_text(raw_text: str):
             "links": links,
             "snippet": body.strip(),
             "isJob": is_job_post,
+            "isLinkedInJob": linkedin_item,
+            "sourceTag": source_tag or "imap",
+            "sourceFolder": source_folder or "",
             "isDsPolicyFit": fit["isDsPolicyFit"],
             "dsPolicyScore": fit["dsPolicyScore"],
             "dsPolicyMatchedKeywords": fit["dsPolicyMatchedKeywords"],
@@ -551,27 +586,25 @@ def save_payload(payload):
     DATA_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
-def fetch_messages():
-    host = os.environ["IMAP_HOST"]
-    port = int(os.environ.get("IMAP_PORT", "993"))
-    user = os.environ["IMAP_USER"].strip()
-    password = os.environ["IMAP_PASS"]
-    folder = os.environ.get("IMAP_FOLDER", "INBOX").strip()
-    sender_filter = os.environ.get("SENDER_FILTER", "").strip()
-    subject_filter = os.environ.get("SUBJECT_FILTER", "ib-liste").strip()
-
-    conn = imaplib.IMAP4_SSL(host, port)
-    conn.login(user, password)
+def fetch_messages_from_folder(
+    conn: imaplib.IMAP4_SSL,
+    folder: str,
+    sender_filter: str = "",
+    subject_filter: str = "",
+    source_tag: str = "imap",
+    allow_missing: bool = False,
+):
     status, folder_info = conn.select(f'"{folder}"')
     if status != "OK":
-        conn.logout()
+        if allow_missing:
+            print(f"imap_skip_missing_folder[{source_tag}]={folder}")
+            return []
         raise RuntimeError(f"Could not select IMAP folder: {folder!r}")
 
     total_in_folder = folder_info[0].decode("utf-8", errors="ignore") if folder_info and folder_info[0] else "0"
-    print(f"imap_selected_folder={folder}")
-    print(f"imap_total_messages_in_folder={total_in_folder}")
+    print(f"imap_selected_folder[{source_tag}]={folder}")
+    print(f"imap_total_messages_in_folder[{source_tag}]={total_in_folder}")
 
-    # Try strict server-side filters first, then progressively relax.
     search_attempts = []
     strict_criteria = ["UNSEEN"]
     if sender_filter:
@@ -589,13 +622,12 @@ def fetch_messages():
         if status != "OK":
             continue
         found = data[0].split() if data and data[0] else []
-        print(f"imap_search_{label}_count={len(found)}")
+        print(f"imap_search_{label}_count[{source_tag}]={len(found)}")
         if found:
             ids = found
             break
 
     results = []
-
     for msg_id in ids:
         status, fetched = conn.fetch(msg_id, "(BODY.PEEK[])")
         if status != "OK" or not fetched:
@@ -619,11 +651,57 @@ def fetch_messages():
                 "mail_from": sender,
                 "mail_date": date,
                 "body": body,
+                "source_tag": source_tag,
+                "source_folder": folder,
             }
         )
 
-    conn.logout()
     return results
+
+
+def fetch_messages():
+    host = os.environ["IMAP_HOST"]
+    port = int(os.environ.get("IMAP_PORT", "993"))
+    user = os.environ["IMAP_USER"].strip()
+    password = os.environ["IMAP_PASS"]
+
+    folder = os.environ.get("IMAP_FOLDER", "INBOX").strip()
+    sender_filter = os.environ.get("SENDER_FILTER", "").strip()
+    subject_filter = os.environ.get("SUBJECT_FILTER", "ib-liste").strip()
+
+    linkedin_folder = (os.environ.get("LINKEDIN_IMAP_FOLDER") or DEFAULT_LINKEDIN_FOLDER).strip()
+    linkedin_sender_filter = (os.environ.get("LINKEDIN_SENDER_FILTER") or "linkedin").strip()
+    linkedin_subject_filter = os.environ.get("LINKEDIN_SUBJECT_FILTER", "").strip()
+
+    conn = imaplib.IMAP4_SSL(host, port)
+    conn.login(user, password)
+
+    try:
+        results = []
+        results.extend(
+            fetch_messages_from_folder(
+                conn,
+                folder=folder,
+                sender_filter=sender_filter,
+                subject_filter=subject_filter,
+                source_tag="imap",
+                allow_missing=False,
+            )
+        )
+        if linkedin_folder:
+            results.extend(
+                fetch_messages_from_folder(
+                    conn,
+                    folder=linkedin_folder,
+                    sender_filter=linkedin_sender_filter,
+                    subject_filter=linkedin_subject_filter,
+                    source_tag="linkedin",
+                    allow_missing=True,
+                )
+            )
+        return results
+    finally:
+        conn.logout()
 
 
 def main():
@@ -635,7 +713,15 @@ def main():
     new_items = []
 
     for mail in mails:
-        parsed = parse_digest_text(mail["body"])
+        parsed = parse_digest_text(
+            mail["body"],
+            fallback_subject=mail.get("mail_subject", ""),
+            fallback_from=mail.get("mail_from", ""),
+            fallback_date=mail.get("mail_date", ""),
+            force_single=(mail.get("source_tag") == "linkedin"),
+            source_tag=mail.get("source_tag", "imap"),
+            source_folder=mail.get("source_folder", ""),
+        )
         for item in parsed:
             if item["id"] in known_ids:
                 continue
@@ -658,6 +744,19 @@ def main():
         )
         item["isJob"] = is_job(text)
         item["positionType"] = infer_type(text, bool(item.get("isJob")))
+        item["isLinkedInJob"] = bool(
+            item.get("isLinkedInJob")
+            or is_linkedin_item(
+                item.get("subject", ""),
+                item.get("from", ""),
+                item.get("snippet", ""),
+                source_tag=item.get("sourceTag", ""),
+                source_folder=item.get("sourceFolder", ""),
+            )
+        )
+        if item["isLinkedInJob"] and not item["isJob"]:
+            item["isJob"] = True
+            item["positionType"] = infer_type(text, True)
         if "isDsPolicyFit" not in item or "dsPolicyScore" not in item:
             fit = classify_ds_policy_fit(text)
             item["isDsPolicyFit"] = fit["isDsPolicyFit"]

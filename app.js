@@ -4,6 +4,7 @@ const clearBtn = document.getElementById("clearBtn");
 const refreshBtn = document.getElementById("refreshBtn");
 const jobsOnlyEl = document.getElementById("jobsOnly");
 const dsPolicyOnlyEl = document.getElementById("dsPolicyOnly");
+const linkedinOnlyEl = document.getElementById("linkedinOnly");
 const summaryEl = document.getElementById("summary");
 const resultsEl = document.getElementById("results");
 const itemTemplate = document.getElementById("itemTemplate");
@@ -198,6 +199,12 @@ dsPolicyOnlyEl.addEventListener("change", () => {
   renderItems(activeItems);
   updateSummary();
 });
+if (linkedinOnlyEl) {
+  linkedinOnlyEl.addEventListener("change", () => {
+    renderItems(activeItems);
+    updateSummary();
+  });
+}
 
 async function loadFeed() {
   try {
@@ -226,9 +233,10 @@ function updateSummary(source = "current", suffix = "") {
   const total = activeItems.length;
   const jobs = activeItems.filter((it) => it.isJob).length;
   const profileFit = activeItems.filter((it) => it.isDsPolicyFit).length;
+  const linkedin = activeItems.filter((it) => it.isLinkedInJob).length;
   const shown = applyFilters(activeItems).length;
   const label = source === "manual" ? "Manual parse" : source === "feed" ? "Auto feed" : "Current view";
-  summaryEl.textContent = `${label}: ${total} item(s), ${jobs} job-related, ${profileFit} DS+Policy fit, showing ${shown}.${suffix}`;
+  summaryEl.textContent = `${label}: ${total} item(s), ${jobs} job-related, ${profileFit} DS+Policy fit, ${linkedin} LinkedIn, showing ${shown}.${suffix}`;
 }
 
 function parseDigest(raw) {
@@ -260,7 +268,12 @@ function parseMessage(chunk, index) {
   const fit = classifyDsPolicyFit(text);
   const organization = inferOrganization(subject, body);
   const deadline = inferDeadline(text);
-  const positionType = inferPositionType(text, isJob);
+  const isLinkedInJob = detectLinkedInItem({
+    subject,
+    from,
+    snippet: body,
+  });
+  const positionType = inferPositionType(text, isJob || isLinkedInJob);
 
   return {
     index,
@@ -272,7 +285,8 @@ function parseMessage(chunk, index) {
     positionType,
     links,
     snippet: body.trim(),
-    isJob,
+    isJob: isJob || isLinkedInJob,
+    isLinkedInJob,
     isDsPolicyFit: fit.isMatch,
     dsPolicyScore: fit.score,
     dsPolicyMatchedKeywords: fit.keywords,
@@ -413,6 +427,7 @@ function renderItems(items) {
       ["Date", item.date],
       ["Organization", item.organization || "Unknown"],
       ["Type", item.positionType || "N/A"],
+      ["Source", item.isLinkedInJob ? "LinkedIn" : item.sourceTag || "IMAP"],
       ["Deadline", item.deadline || "Not found"],
       ["DS+Policy Fit", item.isDsPolicyFit ? `Yes (${item.dsPolicyScore || 0})` : "No"],
       [
@@ -475,9 +490,23 @@ function normalizeItems(items) {
     ].join("\n");
 
     const fit = classifyDsPolicyFit(text);
+    const isLinkedInJob = Boolean(
+      item.isLinkedInJob ??
+        detectLinkedInItem({
+          subject: item.subject,
+          from: item.from,
+          snippet: item.snippet,
+          sourceTag: item.sourceTag,
+          sourceFolder: item.sourceFolder,
+        })
+    );
+    const inferredJob = isJobRelated(text) || isLinkedInJob;
     return {
       ...item,
-      isJob: isJobRelated(text),
+      isJob: inferredJob,
+      isLinkedInJob,
+      sourceTag: item.sourceTag || "imap",
+      sourceFolder: item.sourceFolder || "",
       isDsPolicyFit: Boolean(item.isDsPolicyFit ?? fit.isMatch),
       dsPolicyScore: Number(item.dsPolicyScore ?? fit.score),
       dsPolicyMatchedKeywords: Array.isArray(item.dsPolicyMatchedKeywords) ? item.dsPolicyMatchedKeywords : fit.keywords,
@@ -489,8 +518,23 @@ function applyFilters(items) {
   return items.filter((it) => {
     if (jobsOnlyEl.checked && !it.isJob) return false;
     if (dsPolicyOnlyEl.checked && !it.isDsPolicyFit) return false;
+    if (linkedinOnlyEl && linkedinOnlyEl.checked && !it.isLinkedInJob) return false;
     return true;
   });
+}
+
+function detectLinkedInItem(item = {}) {
+  const subject = String(item.subject || "").toLowerCase();
+  const from = String(item.from || "").toLowerCase();
+  const snippet = String(item.snippet || "").toLowerCase();
+  const sourceTag = String(item.sourceTag || "").toLowerCase();
+  const sourceFolder = String(item.sourceFolder || "").toLowerCase();
+  if (sourceTag === "linkedin") return true;
+  if (sourceFolder.includes("linkedin")) return true;
+  if (from.includes("linkedin")) return true;
+  if (from.includes("jobalerts-noreply@linkedin.com")) return true;
+  if (subject.includes("job alert") || subject.includes("jobbenachrichtigung")) return true;
+  return snippet.includes("linkedin") && (snippet.includes("job alert") || snippet.includes("jobbenachrichtigung"));
 }
 
 function classifyDsPolicyFit(text) {
