@@ -182,30 +182,52 @@ def decode_mime(value: str) -> str:
         return value
 
 
-def extract_text_body(msg: email.message.Message) -> str:
-    if msg.is_multipart():
-        for part in msg.walk():
-            ctype = part.get_content_type()
-            disp = (part.get("Content-Disposition") or "").lower()
-            if ctype == "text/plain" and "attachment" not in disp:
-                payload = part.get_payload(decode=True)
-                if payload is None:
-                    continue
-                charset = part.get_content_charset() or "utf-8"
-                try:
-                    return payload.decode(charset, errors="replace")
-                except Exception:
-                    return payload.decode("utf-8", errors="replace")
-        return ""
+def decode_text_part(part: email.message.Message) -> str:
+    try:
+        content = part.get_content()
+        if isinstance(content, str):
+            return content
+        if isinstance(content, bytes):
+            charset = part.get_content_charset() or "utf-8"
+            return content.decode(charset, errors="replace")
+    except Exception:
+        pass
 
-    payload = msg.get_payload(decode=True)
+    payload = part.get_payload(decode=True)
     if payload is None:
-        return ""
-    charset = msg.get_content_charset() or "utf-8"
+        raw_payload = part.get_payload()
+        return raw_payload if isinstance(raw_payload, str) else ""
+
+    charset = part.get_content_charset() or "utf-8"
     try:
         return payload.decode(charset, errors="replace")
     except Exception:
         return payload.decode("utf-8", errors="replace")
+
+
+def extract_text_body(msg: email.message.Message) -> str:
+    if msg.is_multipart():
+        html_body = ""
+        plain_body = ""
+        for part in msg.walk():
+            if part.is_multipart():
+                continue
+            ctype = part.get_content_type()
+            disp = (part.get("Content-Disposition") or "").lower()
+            if "attachment" in disp:
+                continue
+            if ctype not in {"text/plain", "text/html"}:
+                continue
+            decoded = decode_text_part(part).strip()
+            if not decoded:
+                continue
+            if ctype == "text/html" and not html_body:
+                html_body = decoded
+            elif ctype == "text/plain" and not plain_body:
+                plain_body = decoded
+        return html_body or plain_body
+
+    return decode_text_part(msg)
 
 
 def split_messages(raw_text: str):
@@ -230,15 +252,67 @@ def html_to_text(raw_html: str) -> str:
 
 
 def extract_header(block: str, name: str) -> str:
-    pattern = re.compile(rf"^{re.escape(name)}:\s*([\s\S]*?)(?=\n[A-Z][A-Za-z-]+:|\n\n|$)", re.MULTILINE)
-    m = pattern.search(block)
-    if not m:
-        return ""
-    return re.sub(r"\n\s+", " ", m.group(1)).strip()
+    lines = block.replace("\r", "").split("\n")
+    header_re = re.compile(rf"^\s*{re.escape(name)}:\s*(.*)$", re.IGNORECASE)
+    any_header_re = re.compile(r"^\s*[A-Za-z][A-Za-z-]*:\s*")
+
+    for idx, line in enumerate(lines):
+        match = header_re.match(line)
+        if not match:
+            continue
+
+        value_parts = [match.group(1).strip()] if match.group(1).strip() else []
+        j = idx + 1
+        while j < len(lines):
+            nxt = lines[j]
+            stripped = nxt.strip()
+            if not stripped:
+                j += 1
+                continue
+            if any_header_re.match(stripped):
+                break
+            if nxt.startswith((" ", "\t")):
+                value_parts.append(stripped)
+                j += 1
+                continue
+            break
+
+        return re.sub(r"\s+", " ", " ".join(value_parts)).strip()
+
+    return ""
+
+
+def extract_body(block: str) -> str:
+    lines = block.replace("\r", "").split("\n")
+    header_re = re.compile(r"^\s*[A-Za-z][A-Za-z-]*:\s*")
+
+    idx = 0
+    seen_header = False
+    while idx < len(lines):
+        line = lines[idx]
+        stripped = line.strip()
+        if not stripped:
+            idx += 1
+            continue
+        if header_re.match(stripped):
+            seen_header = True
+            idx += 1
+            continue
+        if line.startswith((" ", "\t")) and seen_header:
+            idx += 1
+            continue
+        break
+
+    body = "\n".join(lines[idx:]).strip()
+    if not body:
+        body = block.strip()
+    return body
 
 
 def clean_subject(subject: str) -> str:
-    return re.sub(r"^\[ib-liste\]\s*", "", subject, flags=re.IGNORECASE).strip()
+    decoded = decode_mime(subject)
+    cleaned = re.sub(r"^\[ib-liste\]\s*", "", decoded, flags=re.IGNORECASE)
+    return re.sub(r"\s+", " ", cleaned).strip()
 
 
 def infer_deadline(text: str) -> str:
@@ -315,7 +389,7 @@ def parse_digest_text(raw_text: str):
         subject = extract_header(block, "Subject") or f"Message {idx}"
         sender = extract_header(block, "From") or "Unknown"
         date = extract_header(block, "Date") or "Unknown"
-        body = "\n\n".join(block.split("\n\n")[1:]) if "\n\n" in block else block
+        body = extract_body(block)
         text = f"{subject}\n{body}"
         links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
         fit = classify_ds_policy_fit(text)

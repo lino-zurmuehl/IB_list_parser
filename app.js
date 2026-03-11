@@ -251,7 +251,7 @@ function parseMessage(chunk, index) {
   const subject = extractHeader(chunk, "Subject") || `Message ${index}`;
   const from = extractHeader(chunk, "From") || "Unknown";
   const date = extractHeader(chunk, "Date") || "Unknown";
-  const body = chunk.split(/\n\n/).slice(1).join("\n\n") || chunk;
+  const body = extractBody(chunk);
 
   const links = Array.from(new Set(body.match(/https?:\/\/[^\s)>]+/g) || []));
   const text = `${subject}\n${body}`;
@@ -280,13 +280,71 @@ function parseMessage(chunk, index) {
 }
 
 function extractHeader(chunk, headerName) {
-  const re = new RegExp(`^${headerName}:\\s*([\\s\\S]*?)(?=\\n[A-Z][A-Za-z-]+:|\\n\\n|$)`, "m");
-  const match = chunk.match(re);
-  return match ? match[1].replace(/\n\s+/g, " ").trim() : "";
+  const lines = chunk.replace(/\r/g, "").split("\n");
+  const headerRe = new RegExp(`^\\s*${escapeRegex(headerName)}:\\s*(.*)$`, "i");
+  const anyHeaderRe = /^\s*[A-Za-z][A-Za-z-]*:\s*/;
+
+  for (let i = 0; i < lines.length; i += 1) {
+    const match = lines[i].match(headerRe);
+    if (!match) continue;
+
+    const parts = [];
+    if (match[1] && match[1].trim()) parts.push(match[1].trim());
+
+    let j = i + 1;
+    while (j < lines.length) {
+      const next = lines[j];
+      const stripped = next.trim();
+      if (!stripped) {
+        j += 1;
+        continue;
+      }
+      if (anyHeaderRe.test(stripped)) break;
+      if (/^[ \t]/.test(next)) {
+        parts.push(stripped);
+        j += 1;
+        continue;
+      }
+      break;
+    }
+
+    return parts.join(" ").replace(/\s+/g, " ").trim();
+  }
+
+  return "";
+}
+
+function extractBody(chunk) {
+  const lines = chunk.replace(/\r/g, "").split("\n");
+  const headerRe = /^\s*[A-Za-z][A-Za-z-]*:\s*/;
+  let i = 0;
+  let seenHeader = false;
+
+  while (i < lines.length) {
+    const line = lines[i];
+    const stripped = line.trim();
+    if (!stripped) {
+      i += 1;
+      continue;
+    }
+    if (headerRe.test(stripped)) {
+      seenHeader = true;
+      i += 1;
+      continue;
+    }
+    if (/^[ \t]/.test(line) && seenHeader) {
+      i += 1;
+      continue;
+    }
+    break;
+  }
+
+  const body = lines.slice(i).join("\n").trim();
+  return body || chunk;
 }
 
 function cleanSubject(subject) {
-  return subject.replace(/^\[ib-liste\]\s*/i, "").trim();
+  return subject.replace(/^\[ib-liste\]\s*/i, "").replace(/\s+/g, " ").trim();
 }
 
 function isJobRelated(text) {
