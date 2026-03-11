@@ -16,6 +16,12 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   color: var(--ink);
@@ -27,7 +33,9 @@ body {
 }
 
 .page {
-  width: min(1120px, 94vw);
+  width: 100%;
+  max-width: 1120px;
+  padding-inline: min(3vw, 14px);
   margin: 1.6rem auto 3rem;
   display: grid;
   gap: 1rem;
@@ -39,6 +47,7 @@ body {
   border-radius: 16px;
   padding: 1.1rem;
   box-shadow: var(--shadow);
+  min-width: 0;
 }
 
 .hero {
@@ -57,11 +66,14 @@ body {
   margin: 0;
   color: var(--muted);
   font-size: 0.98rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .output-panel {
   display: grid;
   gap: 0.85rem;
+  min-width: 0;
 }
 
 .output-header {
@@ -71,6 +83,11 @@ body {
   gap: 1rem;
   padding-bottom: 0.7rem;
   border-bottom: 1px solid var(--line);
+  min-width: 0;
+}
+
+.output-header > div {
+  min-width: 0;
 }
 
 .output-header h2 {
@@ -97,6 +114,7 @@ body {
   border: 1px solid var(--line);
   border-radius: 12px;
   background: #fff;
+  min-width: 0;
 }
 
 .controls {
@@ -135,6 +153,9 @@ button.ghost {
   border-radius: 999px;
   padding: 0.38rem 0.62rem;
   background: #fff;
+  min-width: 0;
+  max-width: 100%;
+  white-space: normal;
 }
 
 .checkbox:has(input:checked) {
@@ -148,6 +169,8 @@ button.ghost {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .input-panel details summary {
@@ -177,6 +200,7 @@ textarea {
 .results {
   display: grid;
   gap: 0.8rem;
+  min-width: 0;
 }
 
 .card {
@@ -185,6 +209,7 @@ textarea {
   padding: 0.95rem;
   background: #fff;
   transition: border-color 150ms ease, box-shadow 150ms ease;
+  min-width: 0;
 }
 
 .card:hover {
@@ -345,7 +370,7 @@ textarea {
 
 @media (max-width: 900px) {
   .page {
-    width: min(1160px, 96vw);
+    max-width: 1160px;
   }
 
   .output-header {
@@ -361,6 +386,17 @@ textarea {
   .output-header {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .feed-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .checkbox {
+    width: 100%;
+    border-radius: 12px;
+    padding: 0.48rem 0.62rem;
   }
 
   .meta {
