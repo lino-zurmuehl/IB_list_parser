@@ -187,15 +187,20 @@ button.ghost {
 .snippet {
   margin: 0.75rem 0 0;
   white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  hyphens: auto;
   background: #f9f8f4;
   border: 1px solid #ece7de;
   border-radius: 10px;
-  padding: 0.65rem;
+  padding: 0.85rem 0.95rem;
+  max-width: 100%;
   max-height: 360px;
   min-height: 140px;
   overflow-y: auto;
   overflow-x: hidden;
-  font: 0.83rem/1.4 "SFMono-Regular", Menlo, Consolas, monospace;
+  color: #2a2722;
+  font: 0.94rem/1.62 "Avenir Next", "Segoe UI", sans-serif;
 }
 
 .empty {
