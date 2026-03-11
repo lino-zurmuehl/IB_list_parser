@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T16:09:27.528481+00:00",
+  "generated_at": "2026-03-11T16:23:00.400264+00:00",
   "source": "imap",
   "items": [
     {
@@ -34,6 +34,150 @@
       "id": "cc3665bba7cb5179"
     },
     {
+      "subject": "Master@IBM Werkstudent Government & Regulatory Affairs (f/m/x)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "IBM",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4379872462/"
+      ],
+      "snippet": "Master@IBM Werkstudent Government & Regulatory Affairs (f/m/x)\nIBM · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "regulatory",
+        "government"
+      ],
+      "id": "da9b033f4fb4ad50"
+    },
+    {
+      "subject": "Werkstudent (m/w/d) Regulatory/Public Affairs",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "ONYX Power",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4375160326/"
+      ],
+      "snippet": "Werkstudent (m/w/d) Regulatory/Public Affairs\nONYX Power · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "regulatory"
+      ],
+      "id": "8ec9921db11e3dad"
+    },
+    {
+      "subject": "Werkstudent Assistenz Politik-Redaktion (m/w/d)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "The Pioneer",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4379846028/"
+      ],
+      "snippet": "Werkstudent Assistenz Politik-Redaktion (m/w/d)\nThe Pioneer · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "politik"
+      ],
+      "id": "bc504331e471f183"
+    },
+    {
+      "subject": "Stu­den­ti­sche Hilfs­kraft / Werk­stu­dent:in (w/m/d) im Be­reich Kom­mu­ni­ka­ti­ons­ma­nage­ment",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "Projektträger Jülich, Forschungszentrum Jülich GmbH",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4381435715/"
+      ],
+      "snippet": "Stu­den­ti­sche Hilfs­kraft / Werk­stu­dent:in (w/m/d) im Be­reich Kom­mu­ni­ka­ti­ons­ma­nage­ment\nProjektträger Jülich, Forschungszentrum Jülich GmbH · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "1e1f2583b54230a4"
+    },
+    {
+      "subject": "Werkstudent (w/m/d) - Unterstützung Deutschland Leitung",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "Siemens Energy",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4382293203/"
+      ],
+      "snippet": "Werkstudent (w/m/d) - Unterstützung Deutschland Leitung\nSiemens Energy · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "68d04d50bb48b672"
+    },
+    {
+      "subject": "Werkstudent Corporate Public Policy in Berlin (all genders)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "METRO AG",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4380977416/"
+      ],
+      "snippet": "Werkstudent Corporate Public Policy in Berlin (all genders)\nMETRO AG · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "public policy",
+        "policy"
+      ],
+      "id": "113d4aacef746538"
+    },
+    {
       "subject": "Lino: your job alert for Werkstudent + Qualitative Sozialforschung in Berlin Metropolitan Area has been created",
       "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
       "date": "Wed, 11 Mar 2026 13:50:40 +0000",
@@ -60,6 +204,50 @@
       "id": "7675b465cba2fcf1"
     },
     {
+      "subject": "Studentische Hilfskraft in der Forschung (m/w/d)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 13:50:40 +0000",
+      "dateUtc": "2026-03-11T13:50:40+00:00",
+      "organization": "IU International University of Applied Sciences",
+      "positionType": "Student Assistant",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4381853381/"
+      ],
+      "snippet": "Studentische Hilfskraft in der Forschung (m/w/d)\nIU International University of Applied Sciences · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "5f3adbfc716bf042"
+    },
+    {
+      "subject": "Werkstudent Healthcare Consulting (m/w/d)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 13:50:40 +0000",
+      "dateUtc": "2026-03-11T13:50:40+00:00",
+      "organization": "Moysies & Partner IT- und Managementberatung",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4379847319/"
+      ],
+      "snippet": "Werkstudent Healthcare Consulting (m/w/d)\nMoysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "870071ea48c2aa22"
+    },
+    {
       "subject": "Lino: your job alert for Werkstudent + Public Health in Berlin Metropolitan Area has been created",
       "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
       "date": "Wed, 11 Mar 2026 11:50:11 +0000",
@@ -84,6 +272,138 @@
         "policy"
       ],
       "id": "b752bd4cdd92e6d3"
+    },
+    {
+      "subject": "Working Student Healthcare",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Edelman",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4381989342/"
+      ],
+      "snippet": "Working Student Healthcare\nEdelman · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "5d7dfd18808691e9"
+    },
+    {
+      "subject": "Studentische Beschäftigung mit 40 Monatsstunden",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Technische Universität Berlin",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4380966786/"
+      ],
+      "snippet": "Studentische Beschäftigung mit 40 Monatsstunden\nTechnische Universität Berlin · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "8ecf39d8fa84e2a8"
+    },
+    {
+      "subject": "Werkstudent Healthcare Consulting (m/w/d)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Moysies & Partner IT- und Managementberatung",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4379847319/"
+      ],
+      "snippet": "Werkstudent Healthcare Consulting (m/w/d)\nMoysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "66d6f5d04a4c37d4"
+    },
+    {
+      "subject": "Werkstudent*in im Aufgabengebiet Bürger*innendialog",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Stromnetz Berlin GmbH",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4381716483/"
+      ],
+      "snippet": "Werkstudent*in im Aufgabengebiet Bürger*innendialog\nStromnetz Berlin GmbH · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "2c3198b804a37a8e"
+    },
+    {
+      "subject": "Studentische Beschäftigung mit 40 Monatsstunden",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Technische Universität Berlin",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4380965772/"
+      ],
+      "snippet": "Studentische Beschäftigung mit 40 Monatsstunden\nTechnische Universität Berlin · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "9443d1620cfce8c9"
+    },
+    {
+      "subject": "Studentischer Mitarbeiter Market Access (m/w/d)",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "IGES Institut GmbH",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/jobs/view/4382058895/"
+      ],
+      "snippet": "Studentischer Mitarbeiter Market Access (m/w/d)\nIGES Institut GmbH · Berlin, Berlin, Germany",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "fd9e6292e4c6f2fe"
     },
     {
       "subject": "Stellenangebot: Wissenschaftliche Hilfskraft (m/w/d) ? Synthese & politische Kommunikation (Helmholtz-Forum Erde und Umwelt)",
@@ -5233,8 +5553,8 @@
     }
   ],
   "stats": {
-    "new_items": 1,
-    "total_items": 188,
+    "new_items": 15,
+    "total_items": 202,
     "processed_messages": 19,
     "processed_messages_imap": 16,
     "processed_messages_linkedin": 3,
