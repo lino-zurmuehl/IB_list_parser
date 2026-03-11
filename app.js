@@ -453,7 +453,7 @@ function renderItems(items) {
         a.href = url;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
-        a.textContent = "Open link";
+        a.textContent = item.isLinkedInJob ? "Apply on LinkedIn" : "Open link";
         linksEl.appendChild(a);
       });
     }

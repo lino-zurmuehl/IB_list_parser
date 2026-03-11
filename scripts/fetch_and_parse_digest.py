@@ -6,6 +6,7 @@ import json
 import os
 import re
 from html import unescape
+from html.parser import HTMLParser
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from email.header import decode_header, make_header
@@ -497,6 +498,108 @@ def is_linkedin_item(subject: str, sender: str, body: str, source_tag: str = "",
     return "linkedin" in body_l and ("job alert" in body_l or "jobbenachrichtigung" in body_l)
 
 
+class LinkExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self._in_a = False
+        self._href = ""
+        self._text_parts = []
+        self.links = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() == "a":
+            self._in_a = True
+            self._href = dict(attrs).get("href", "")
+            self._text_parts = []
+
+    def handle_data(self, data):
+        if self._in_a:
+            self._text_parts.append(data)
+
+    def handle_endtag(self, tag):
+        if tag.lower() == "a" and self._in_a:
+            text = re.sub(r"\s+", " ", "".join(self._text_parts)).strip()
+            self.links.append((self._href, text))
+            self._in_a = False
+            self._href = ""
+            self._text_parts = []
+
+
+def normalize_linkedin_job_url(url: str) -> str:
+    if not url:
+        return ""
+    clean = unescape(url).replace("&amp;", "&")
+    job_id_match = re.search(r"/jobs/view/(\d+)", clean)
+    if job_id_match:
+        return f"https://www.linkedin.com/jobs/view/{job_id_match.group(1)}/"
+    return clean
+
+
+def extract_linkedin_jobs(raw_html: str):
+    parser = LinkExtractor()
+    try:
+        parser.feed(raw_html)
+    except Exception:
+        return []
+
+    jobs = []
+    seen_ids = set()
+    for href, text in parser.links:
+        href_l = href.lower()
+        if "/jobs/view/" not in href_l:
+            continue
+        if "jobcard_body" not in href_l and text.strip() == "":
+            continue
+        title = re.sub(r"\s+", " ", text).strip()
+        if not title or title.lower() in {"see all jobs", "alle jobs ansehen"}:
+            continue
+
+        normalized_url = normalize_linkedin_job_url(href)
+        job_id_match = re.search(r"/jobs/view/(\d+)", normalized_url)
+        job_id = job_id_match.group(1) if job_id_match else normalized_url
+        if job_id in seen_ids:
+            continue
+        seen_ids.add(job_id)
+
+        jobs.append({"title": title, "url": normalized_url, "job_id": job_id})
+
+    if not jobs:
+        return []
+
+    text = html_to_text(raw_html)
+    lines = [re.sub(r"\s+", " ", line).strip() for line in text.splitlines()]
+
+    for job in jobs:
+        title_l = job["title"].lower()
+        idx = next((i for i, line in enumerate(lines) if line.lower() == title_l), -1)
+        if idx == -1:
+            idx = next((i for i, line in enumerate(lines) if title_l in line.lower()), -1)
+
+        meta = ""
+        if idx != -1:
+            for j in range(idx + 1, min(idx + 6, len(lines))):
+                candidate = lines[j]
+                if not candidate:
+                    continue
+                if candidate.lower() in {"easy apply", "actively recruiting", "aktiver einsteller"}:
+                    continue
+                if "see all jobs" in candidate.lower() or "alle jobs ansehen" in candidate.lower():
+                    break
+                meta = candidate
+                break
+
+        org = "Unknown"
+        if " · " in meta:
+            org = meta.split(" · ", 1)[0].strip() or "Unknown"
+        elif meta:
+            org = meta
+
+        job["meta"] = meta
+        job["organization"] = org
+
+    return jobs
+
+
 def classify_ds_policy_fit(text: str):
     lower = text.lower()
     ds_hits = [k for k in PROFILE_DS_KEYWORDS if keyword_matches(lower, k)]
@@ -528,6 +631,41 @@ def parse_digest_text(
     source_tag: str = "imap",
     source_folder: str = "",
 ):
+    if source_tag == "linkedin" and re.search(r"(?is)<html|<body|<table|<a\s", raw_text):
+        linkedin_jobs = extract_linkedin_jobs(raw_text)
+        if linkedin_jobs:
+            parsed_mail_dt = parse_mail_date(fallback_date)
+            items = []
+            for idx, job in enumerate(linkedin_jobs, start=1):
+                title = job["title"]
+                meta = job.get("meta", "")
+                body = f"{title}\n{meta}".strip()
+                text = f"{title}\n{body}"
+                fit = classify_ds_policy_fit(text)
+                item = {
+                    "subject": clean_subject(title),
+                    "from": fallback_from or "LinkedIn Job Alerts",
+                    "date": fallback_date or "Unknown",
+                    "dateUtc": (parsed_mail_dt.isoformat() if parsed_mail_dt else None),
+                    "organization": job.get("organization", "Unknown"),
+                    "positionType": infer_type(text, True),
+                    "deadline": "Not found",
+                    "deadlineDate": None,
+                    "links": [job["url"]],
+                    "snippet": body,
+                    "isJob": True,
+                    "isLinkedInJob": True,
+                    "sourceTag": source_tag or "linkedin",
+                    "sourceFolder": source_folder or "",
+                    "isDsPolicyFit": fit["isDsPolicyFit"],
+                    "dsPolicyScore": fit["dsPolicyScore"],
+                    "dsPolicyMatchedKeywords": fit["dsPolicyMatchedKeywords"],
+                }
+                fingerprint_source = f"{item['subject']}|{item['from']}|{item['date']}|{job.get('job_id', idx)}"
+                item["id"] = hashlib.sha1(fingerprint_source.encode("utf-8", errors="ignore")).hexdigest()[:16]
+                items.append(item)
+            return items
+
     if re.search(r"(?i)<html|<br\s*/?>|<div\b|<body\b", raw_text):
         raw_text = html_to_text(raw_text)
     items = []
