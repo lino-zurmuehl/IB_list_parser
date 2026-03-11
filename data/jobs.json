@@ -1,7 +1,90 @@
 {
-  "generated_at": "2026-03-11T11:35:39.272386+00:00",
+  "generated_at": "2026-03-11T15:54:58.353047+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Lino: your job alert for Werkstudent + Bundestag in Berlin Metropolitan Area has been created",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 15:51:47 +0000",
+      "dateUtc": "2026-03-11T15:51:47+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Bundestag  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Master@IBM Werkstudent Government & Regulatory Affairs (f/m/x)\n       IBM · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent (m/w/d) Regulatory/Public Affairs\n       ONYX Power · Berlin, Berlin, Germany\n\n                                                   Werkstudent Assistenz Politik-Redaktion (m/w/d)\n       The Pioneer · Berlin, Berlin, Germany\n\n                                             2 school alumni\n\n                                                   Stu­den­ti­sche Hilfs­kraft / Werk­stu­dent:in (w/m/d) im Be­reich Kom­mu­ni­ka­ti­ons­ma­nage­ment\n       Projektträger Jülich, Forschungszentrum Jülich GmbH · Berlin, Berlin, Germany\n\n                                                   Werkstudent (w/m/d) - Unterstützung Deutschland Leitung\n       Siemens Energy · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Corporate Public Policy in Berlin (all genders)\n       METRO AG · Berlin, Berlin, Germany\n\n                                             1 school alum\n\n                              Easy Apply\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 10,
+      "dsPolicyMatchedKeywords": [
+        "data science",
+        "ai",
+        "gis",
+        "public policy",
+        "policy",
+        "politik",
+        "bundestag",
+        "eu",
+        "regulatory",
+        "government"
+      ],
+      "id": "cc3665bba7cb5179"
+    },
+    {
+      "subject": "Lino: your job alert for Werkstudent + Qualitative Sozialforschung in Berlin Metropolitan Area has been created",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 13:50:40 +0000",
+      "dateUtc": "2026-03-11T13:50:40+00:00",
+      "organization": "University of Applied Sciences · Berlin",
+      "positionType": "Student Assistant",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Qualitative Sozialforschung  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Studentische Hilfskraft in der Forschung (m/w/d)\n       IU International University of Applied Sciences · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Healthcare Consulting (m/w/d)\n       Moysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 5,
+      "dsPolicyMatchedKeywords": [
+        "data science",
+        "ai",
+        "gis",
+        "public policy",
+        "policy"
+      ],
+      "id": "7675b465cba2fcf1"
+    },
+    {
+      "subject": "Lino: your job alert for Werkstudent + Public Health in Berlin Metropolitan Area has been created",
+      "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+      "date": "Wed, 11 Mar 2026 11:50:11 +0000",
+      "dateUtc": "2026-03-11T11:50:11+00:00",
+      "organization": "Universität Berlin · Berlin",
+      "positionType": "Position",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "See your latest job matches\n\n                 Your job alert has been created:  Werkstudent + Public Health  in  Berlin Metropolitan Area\n\n       You’ll receive notifications when new jobs are posted that match your search preferences.\n\n                                                   Working Student Healthcare\n       Edelman · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Studentische Beschäftigung mit 40 Monatsstunden\n       Technische Universität Berlin · Berlin, Berlin, Germany\n\n                                             Actively recruiting\n\n                                                   Werkstudent Healthcare Consulting (m/w/d)\n       Moysies & Partner IT- und Managementberatung · Berlin, Berlin, Germany\n\n                                                   Werkstudent*in im Aufgabengebiet Bürger*innendialog\n       Stromnetz Berlin GmbH · Berlin, Berlin, Germany\n\n                                                   Studentische Beschäftigung mit 40 Monatsstunden\n       Technische Universität Berlin · Berlin, Berlin, Germany\n\n                                             1 connection\n\n                                                   Studentischer Mitarbeiter Market Access (m/w/d)\n       IGES Institut GmbH · Berlin, Berlin, Germany\n\n                                             2 company alumni\n\n                                   See all jobs\n\n             This email was intended for Lino Zurmühl (Data Science for Public Policy | AI Behaviourist @ MPI )\n      Learn why we included this.\n    You are receiving Job Alert emails.\n       Manage job alerts     ·    Help\n\n     © 2026 LinkedIn Corporation, 1000 West Maude Avenue, Sunnyvale, CA 94085.   LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
+      "isJob": true,
+      "isLinkedInJob": true,
+      "sourceTag": "linkedin",
+      "sourceFolder": "Jobalerts_Linkedin",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 5,
+      "dsPolicyMatchedKeywords": [
+        "data science",
+        "ai",
+        "gis",
+        "public policy",
+        "policy"
+      ],
+      "id": "b752bd4cdd92e6d3"
+    },
     {
       "subject": "Stellenangebot: Wissenschaftliche Hilfskraft (m/w/d) ? Synthese & politische Kommunikation (Helmholtz-Forum Erde und Umwelt)",
       "from": "Jakob Stuchtey <jakob.stuchtey@gfz.de>",
@@ -29,7 +112,8 @@
         "monitoring",
         "evaluation"
       ],
-      "id": "126329e5e360b793"
+      "id": "126329e5e360b793",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation: Discussion with Roberta Metsola on the Future of Europe on 17 March",
@@ -52,7 +136,8 @@
         "eu",
         "parliament"
       ],
-      "id": "c1d87fc027b75586"
+      "id": "c1d87fc027b75586",
+      "isLinkedInJob": false
     },
     {
       "subject": "Berlin Art Fusion Workshop - Call for Participants",
@@ -80,7 +165,8 @@
       "dsPolicyMatchedKeywords": [
         "gis"
       ],
-      "id": "9af56cd0b339a0ad"
+      "id": "9af56cd0b339a0ad",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung - CARE Deutschland e.V. sucht neue Schulcoaches",
@@ -111,7 +197,8 @@
         "gis",
         "eu"
       ],
-      "id": "ef0476a368035bb6"
+      "id": "ef0476a368035bb6",
+      "isLinkedInJob": false
     },
     {
       "subject": "Explore Marzahn on March 21: Community Beyond the Plattenbau",
@@ -131,7 +218,8 @@
       "isDsPolicyFit": false,
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
-      "id": "6c4cdc500f1a0c59"
+      "id": "6c4cdc500f1a0c59",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung: Exile Talks - Syrien nach Assad (26.03., 19h, Berlin)",
@@ -154,7 +242,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "378ece3921b37bc8"
+      "id": "378ece3921b37bc8",
+      "isLinkedInJob": false
     },
     {
       "subject": "CIR Stellenausschreibung Volontär*in international Campaigning zur Agrarwende",
@@ -183,7 +272,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "d019070d818df3be"
+      "id": "d019070d818df3be",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltungshinweis (online): Cyberbedrohungen | 16.03.",
@@ -205,7 +295,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "4ff79d2c293ff76c"
+      "id": "4ff79d2c293ff76c",
+      "isLinkedInJob": false
     },
     {
       "subject": "SDAW Förderung Tagungskosten",
@@ -230,7 +321,8 @@
         "sicherheitspolitik",
         "stiftung"
       ],
-      "id": "30206115135b5b6b"
+      "id": "30206115135b5b6b",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und",
@@ -252,7 +344,8 @@
         "eu"
       ],
       "id": "beb061ef2c726efd",
-      "dateUtc": "2026-03-10T09:45:30+00:00"
+      "dateUtc": "2026-03-10T09:45:30+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und Organisation (50 %, Berlin) ? Polnischer Sozialrat e.V.",
@@ -275,7 +368,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "a2eaf1d3bf48385a"
+      "id": "a2eaf1d3bf48385a",
+      "isLinkedInJob": false
     },
     {
       "subject": "Plurales Einführungswerk \"Grundfragen der",
@@ -298,7 +392,8 @@
         "eu"
       ],
       "id": "a592867235eb6d10",
-      "dateUtc": "2026-03-10T09:41:14+00:00"
+      "dateUtc": "2026-03-10T09:41:14+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Plurales Einführungswerk \"Grundfragen der Ökonomie\": Einladung & Buchveröffentlichung",
@@ -322,7 +417,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "402cf55eb0fc0fb7"
+      "id": "402cf55eb0fc0fb7",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications for the Master?s Programme",
@@ -350,7 +446,8 @@
         "eu"
       ],
       "id": "d8a841a769dd34a9",
-      "dateUtc": "2026-03-10T07:34:33+00:00"
+      "dateUtc": "2026-03-10T07:34:33+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications for the Master?s Programme in Southeast European Studies | Deadline: 25. March 2026",
@@ -379,7 +476,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "e2c58a0770bb2d87"
+      "id": "e2c58a0770bb2d87",
+      "isLinkedInJob": false
     },
     {
       "subject": "SHK Stellenausschreibung bei der DGAP e .V.",
@@ -403,7 +501,8 @@
         "eu"
       ],
       "id": "608a48dcf95b0c2c",
-      "dateUtc": "2026-03-09T15:53:07+00:00"
+      "dateUtc": "2026-03-09T15:53:07+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und",
@@ -424,7 +523,8 @@
         "eu"
       ],
       "id": "9bd8976aa761370c",
-      "dateUtc": "2026-03-09T14:29:20+00:00"
+      "dateUtc": "2026-03-09T14:29:20+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und Organisation (50 %, Berlin) ? Polnischer Sozialrat e.V., Bewerbungsfrist am 17.03.2026",
@@ -446,7 +546,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "3cdb7344831c1a1c"
+      "id": "3cdb7344831c1a1c",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zur Diskussionsveranstaltung mit Adis",
@@ -470,7 +571,8 @@
         "stiftung"
       ],
       "id": "1d672091dcdc540b",
-      "dateUtc": "2026-03-09T14:08:30+00:00"
+      "dateUtc": "2026-03-09T14:08:30+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zur Diskussionsveranstaltung mit Adis Ahmetovic (MdB, SPD) und Iryna Shulikina (Vitsche) zur aktuellen Situation in der Ukraine (Berlin, 16.3.)",
@@ -495,7 +597,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "012fc48eeeb8fea0"
+      "id": "012fc48eeeb8fea0",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for applications: European Master's Programme",
@@ -524,7 +627,8 @@
         "peace"
       ],
       "id": "fcc771e913986004",
-      "dateUtc": "2026-03-09T13:15:51+00:00"
+      "dateUtc": "2026-03-09T13:15:51+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for applications: European Master's Programme in Human Rights and Democratisation 2026-27",
@@ -554,7 +658,8 @@
         "development",
         "peace"
       ],
-      "id": "472a4fb44733b2ac"
+      "id": "472a4fb44733b2ac",
+      "isLinkedInJob": false
     },
     {
       "subject": "Jacques Delors Centre Scholarship",
@@ -578,7 +683,8 @@
         "governance"
       ],
       "id": "875910422eab499d",
-      "dateUtc": "2026-03-09T12:58:14+00:00"
+      "dateUtc": "2026-03-09T12:58:14+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und",
@@ -599,7 +705,8 @@
         "eu"
       ],
       "id": "5c8b8a476533e3f2",
-      "dateUtc": "2026-03-09T11:46:42+00:00"
+      "dateUtc": "2026-03-09T11:46:42+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Eventmanagement und Organisation (50 %, Berlin) ? Polnischer Sozialrat e.V., Bewerbungsfrist am 17.03.2026",
@@ -621,7 +728,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "03e03502da9981f4"
+      "id": "03e03502da9981f4",
+      "isLinkedInJob": false
     },
     {
       "subject": "Online-Vortrag | 25.03.2026 | ?Glanz, Glaube und",
@@ -658,7 +766,8 @@
         "stiftung"
       ],
       "id": "ca27ce4a775abe3a",
-      "dateUtc": "2026-03-09T10:14:59+00:00"
+      "dateUtc": "2026-03-09T10:14:59+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Online-Vortrag | 25.03.2026 | ?Glanz, Glaube und Rechtsruck - Zur Religion des Neo-Aristokratismus? | Andreas Kemper |19:00 ? 20:30 Uhr | Möglichkeit zur kostenlosen Teilnahme",
@@ -696,7 +805,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "d840d9651063883b"
+      "id": "d840d9651063883b",
+      "isLinkedInJob": false
     },
     {
       "subject": "Online-Vortrag | 11.03.2026 | ?Die Umdeutung der",
@@ -732,7 +842,8 @@
         "stiftung"
       ],
       "id": "349b3674d8880c61",
-      "dateUtc": "2026-03-09T10:07:54+00:00"
+      "dateUtc": "2026-03-09T10:07:54+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Online-Vortrag | 11.03.2026 | ?Die Umdeutung der Vergangenheit - Geschichtspolitische Strategien der extremen Rechten? | Dr.in phil. Nina Rabuza| 19:00 ? 20:30 Uhr | Möglichkeit zur kostenlosen Teilnahme",
@@ -769,7 +880,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "e858a072720349ef"
+      "id": "e858a072720349ef",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung ?Junge Menschen sind unsere Zukunft",
@@ -807,7 +919,8 @@
         "peace"
       ],
       "id": "b253faa0556876d5",
-      "dateUtc": "2026-03-09T09:02:42+00:00"
+      "dateUtc": "2026-03-09T09:02:42+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung ?Junge Menschen sind unsere Zukunft ? aber heute ignoriert?? am 17. März 2026 um 18 Uhr in Hamburg",
@@ -846,7 +959,8 @@
         "stiftung",
         "peace"
       ],
-      "id": "e0398c4b7df3c1b6"
+      "id": "e0398c4b7df3c1b6",
+      "isLinkedInJob": false
     },
     {
       "subject": "[Vitamin 'B': How to Build Your Network? | Online,",
@@ -873,7 +987,8 @@
         "eu"
       ],
       "id": "80f6f66eff51c91d",
-      "dateUtc": "2026-03-09T08:06:00+00:00"
+      "dateUtc": "2026-03-09T08:06:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "[Vitamin 'B': How to Build Your Network? | Online, 18 March]",
@@ -901,7 +1016,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "a736919a019b854d"
+      "id": "a736919a019b854d",
+      "isLinkedInJob": false
     },
     {
       "subject": "CfP. 1-tägiger Workshop: 11.12. 2026",
@@ -925,7 +1041,8 @@
       ],
       "id": "f2c9d3c83f146d12",
       "dateUtc": "2026-03-09T07:26:47+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "CfP. 1-tägiger Workshop: 11.12. 2026 Menschenrechte Global-Lokal Umsetzen, Darmstadt",
@@ -949,7 +1066,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "10210f0e34bf2de0"
+      "id": "10210f0e34bf2de0",
+      "isLinkedInJob": false
     },
     {
       "subject": "10.03. online event invitation: Populism across",
@@ -976,7 +1094,8 @@
         "european union"
       ],
       "id": "85d614548b5785ec",
-      "dateUtc": "2026-03-08T18:09:18+00:00"
+      "dateUtc": "2026-03-08T18:09:18+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "10.03. online event invitation: Populism across Europe - National Roots, European Consequences | ERA x JDGAP",
@@ -1004,7 +1123,8 @@
         "eu",
         "european union"
       ],
-      "id": "d15981ccd97d7b15"
+      "id": "d15981ccd97d7b15",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zur Projektvorstellung Glocal",
@@ -1033,7 +1153,8 @@
         "development"
       ],
       "id": "70a5d76814284b7a",
-      "dateUtc": "2026-03-08T06:44:13+00:00"
+      "dateUtc": "2026-03-08T06:44:13+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zur Projektvorstellung Glocal Changemaker Network",
@@ -1063,7 +1184,8 @@
         "eu",
         "development"
       ],
-      "id": "02cd29ae9158db19"
+      "id": "02cd29ae9158db19",
+      "isLinkedInJob": false
     },
     {
       "subject": "Podiumsdiskussion zum Iran-Krieg",
@@ -1084,7 +1206,8 @@
         "governance"
       ],
       "id": "5bc4f084cfbb98f1",
-      "dateUtc": "2026-03-06T18:48:24+00:00"
+      "dateUtc": "2026-03-06T18:48:24+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Podiumsdiskussion zum Iran-Krieg",
@@ -1106,7 +1229,8 @@
       "dsPolicyMatchedKeywords": [
         "governance"
       ],
-      "id": "7a2388d8b6a0f095"
+      "id": "7a2388d8b6a0f095",
+      "isLinkedInJob": false
     },
     {
       "subject": "Summer School Course in Pyla, Cyprus!",
@@ -1127,7 +1251,8 @@
         "united nations"
       ],
       "id": "9f90a844bd89948d",
-      "dateUtc": "2026-03-06T15:03:44+00:00"
+      "dateUtc": "2026-03-06T15:03:44+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Die 100-Milliarden-Euro-Frage: Wie viel",
@@ -1152,7 +1277,8 @@
         "peace"
       ],
       "id": "b54dffd40fa128a4",
-      "dateUtc": "2026-03-06T11:25:42+00:00"
+      "dateUtc": "2026-03-06T11:25:42+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Die 100-Milliarden-Euro-Frage: Wie viel Aufrüstung brauchen wir?",
@@ -1178,7 +1304,8 @@
         "eu",
         "peace"
       ],
-      "id": "b381e31199b4fef7"
+      "id": "b381e31199b4fef7",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Zwischen Blockade und Verantwortung -",
@@ -1204,7 +1331,8 @@
         "stiftung"
       ],
       "id": "2a05bf7b70f9600c",
-      "dateUtc": "2026-03-06T09:57:27+00:00"
+      "dateUtc": "2026-03-06T09:57:27+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Zwischen Blockade und Verantwortung - Deutschlands Kandidatur für den UN-Sicherheitsrat (Vortrag in Leipzig)",
@@ -1231,7 +1359,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "f9e8ba494eb6a477"
+      "id": "f9e8ba494eb6a477",
+      "isLinkedInJob": false
     },
     {
       "subject": "Bewerbungsfrist 15.März - Facilitation Training",
@@ -1254,7 +1383,8 @@
       "dsPolicyMatchedKeywords": [],
       "id": "11641ed449e80967",
       "dateUtc": "2026-03-06T09:41:12+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Bewerbungsfrist 15.März - Facilitation Training for Trialog between Palestinians, Israelis and Germans",
@@ -1277,7 +1407,8 @@
       "isDsPolicyFit": false,
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
-      "id": "5cd01023e35f0da3"
+      "id": "5cd01023e35f0da3",
+      "isLinkedInJob": false
     },
     {
       "subject": "Job Offer: 1 SHK (12h/Woche) im Programm",
@@ -1299,7 +1430,8 @@
       ],
       "id": "d8929b28a2a6e48d",
       "dateUtc": "2026-03-06T09:40:48+00:00",
-      "deadlineDate": "2026-12-31"
+      "deadlineDate": "2026-12-31",
+      "isLinkedInJob": false
     },
     {
       "subject": "Job Offer: 1 SHK (12h/Woche) im Programm \"re:constitution\" (Forum Transregionale Studien)",
@@ -1321,7 +1453,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "121a6d31c4c64472"
+      "id": "121a6d31c4c64472",
+      "isLinkedInJob": false
     },
     {
       "subject": "[Spring Equinox Reflection Walk @ Berlin | 14",
@@ -1349,7 +1482,8 @@
         "eu"
       ],
       "id": "4cdb8ec20e57a906",
-      "dateUtc": "2026-03-06T07:39:00+00:00"
+      "dateUtc": "2026-03-06T07:39:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "[Spring Equinox Reflection Walk @ Berlin | 14 March]",
@@ -1378,7 +1512,8 @@
         "gis",
         "eu"
       ],
-      "id": "adc25eba1d678040"
+      "id": "adc25eba1d678040",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Abstracts: ?Demokratische Resilienz im",
@@ -1402,7 +1537,8 @@
         "think tank"
       ],
       "id": "2118784c092937ad",
-      "dateUtc": "2026-03-05T17:16:28+00:00"
+      "dateUtc": "2026-03-05T17:16:28+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Abstracts: ?Demokratische Resilienz im Zeitalter Künstlicher Intelligenz? am 8.?9. Juni 2026 in München (Deadline 15. März)",
@@ -1427,7 +1563,8 @@
         "politikwissenschaft",
         "think tank"
       ],
-      "id": "614d2b79788303bd"
+      "id": "614d2b79788303bd",
+      "isLinkedInJob": false
     },
     {
       "subject": "Praktikum (europa-)politische Bildung",
@@ -1450,7 +1587,8 @@
         "europäische union"
       ],
       "id": "4e6b5dd234337e98",
-      "dateUtc": "2026-03-05T16:23:14+00:00"
+      "dateUtc": "2026-03-05T16:23:14+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Werde jetzt Mentor*in für ein Grundschulkind, um",
@@ -1475,7 +1613,8 @@
         "eu"
       ],
       "id": "551a81512ccccb4a",
-      "dateUtc": "2026-03-05T15:19:39+00:00"
+      "dateUtc": "2026-03-05T15:19:39+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Werde jetzt Mentor*in für ein Grundschulkind, um noch in diesem Durchgang zu starten!",
@@ -1501,7 +1640,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "e29a75efc1287769"
+      "id": "e29a75efc1287769",
+      "isLinkedInJob": false
     },
     {
       "subject": "Die neuesten politjobs für Studierende bei NExT,",
@@ -1531,7 +1671,8 @@
         "stiftung"
       ],
       "id": "eb13fc46970b1017",
-      "dateUtc": "2026-03-05T14:52:01+00:00"
+      "dateUtc": "2026-03-05T14:52:01+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Die neuesten politjobs für Studierende bei NExT, der Stiftung Mercator und Brand New Bundestag",
@@ -1562,7 +1703,8 @@
         "monitoring",
         "stiftung"
       ],
-      "id": "b7d4382c604dba8f"
+      "id": "b7d4382c604dba8f",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung beim Aspen Institute Deutschland",
@@ -1588,7 +1730,8 @@
         "eu"
       ],
       "id": "06cacae953ff0546",
-      "dateUtc": "2026-03-05T14:44:49+00:00"
+      "dateUtc": "2026-03-05T14:44:49+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Postdoc position (m/f/d) in Environmental/Forest",
@@ -1613,7 +1756,8 @@
         "governance"
       ],
       "id": "d5bd7c990007f23b",
-      "dateUtc": "2026-03-05T13:25:35+00:00"
+      "dateUtc": "2026-03-05T13:25:35+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Postdoc position (m/f/d) in Environmental/Forest Governance focusing on Innovation and Experiments",
@@ -1639,7 +1783,8 @@
         "policy",
         "governance"
       ],
-      "id": "373ead994c26729a"
+      "id": "373ead994c26729a",
+      "isLinkedInJob": false
     },
     {
       "subject": "\"Die NGO-Debatte\" - Der Podcast",
@@ -1672,7 +1817,8 @@
         "stiftung"
       ],
       "id": "2220a498e1cff866",
-      "dateUtc": "2026-03-05T11:57:55+00:00"
+      "dateUtc": "2026-03-05T11:57:55+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "IALANA: Suche nach Praktikanten zu Sanktionen und",
@@ -1696,7 +1842,8 @@
         "politikwissenschaft"
       ],
       "id": "a150cac6cc40a55c",
-      "dateUtc": "2026-03-05T10:17:13+00:00"
+      "dateUtc": "2026-03-05T10:17:13+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "IALANA: Suche nach Praktikanten zu Sanktionen und / oder IGH Gutachten zu Atomwaffen",
@@ -1721,7 +1868,8 @@
         "eu",
         "politikwissenschaft"
       ],
-      "id": "6d59efb9fc351d71"
+      "id": "6d59efb9fc351d71",
+      "isLinkedInJob": false
     },
     {
       "subject": "\"Die NGO-Debatte\" - Der Podcast",
@@ -1754,7 +1902,8 @@
         "stiftung"
       ],
       "id": "97a434786a454b95",
-      "dateUtc": "2026-03-05T07:48:12+00:00"
+      "dateUtc": "2026-03-05T07:48:12+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation: Discussion with Roberta Metsola on the",
@@ -1776,7 +1925,8 @@
         "parliament"
       ],
       "id": "df17daefd5943cac",
-      "dateUtc": "2026-03-04T15:12:22+00:00"
+      "dateUtc": "2026-03-04T15:12:22+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation: Discussion with Roberta Metsola on the Future of Europe on 17 March",
@@ -1799,7 +1949,8 @@
         "eu",
         "parliament"
       ],
-      "id": "0c8ec2428ae8e21b"
+      "id": "0c8ec2428ae8e21b",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Aktuelles zum langfristigen EU-Haushalt",
@@ -1824,7 +1975,8 @@
         "eu"
       ],
       "id": "fedc25e373b82d6c",
-      "dateUtc": "2026-03-04T15:01:21+00:00"
+      "dateUtc": "2026-03-04T15:01:21+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Aktuelles zum langfristigen EU-Haushalt // Podiumsdiskussion mit EU-Parlament, EU-Kommission & Landesregierung // 20.3. // Kiel",
@@ -1851,7 +2003,8 @@
         "ministerium",
         "eu"
       ],
-      "id": "30dbe0b39f7bbb67"
+      "id": "30dbe0b39f7bbb67",
+      "isLinkedInJob": false
     },
     {
       "subject": "Events, Podien, Film & Iran",
@@ -1875,7 +2028,8 @@
         "governance"
       ],
       "id": "15d91dc5d31f1600",
-      "dateUtc": "2026-03-04T14:42:43+00:00"
+      "dateUtc": "2026-03-04T14:42:43+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Events, Podien, Film & Iran",
@@ -1900,7 +2054,8 @@
         "eu",
         "governance"
       ],
-      "id": "e19a0171e631f18f"
+      "id": "e19a0171e631f18f",
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung Bundesfreiwilligendienst UN Women",
@@ -1933,7 +2088,8 @@
         "eu"
       ],
       "id": "1a51ec9bb5787392",
-      "dateUtc": "2026-03-04T14:20:12+00:00"
+      "dateUtc": "2026-03-04T14:20:12+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung Bundesfreiwilligendienst UN Women Deutschland- Finanzen",
@@ -1967,7 +2123,8 @@
         "r ",
         "eu"
       ],
-      "id": "0be27c3249391a69"
+      "id": "0be27c3249391a69",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Projektassistenz in der",
@@ -1989,7 +2146,8 @@
         "eu"
       ],
       "id": "ebcc3445535cf732",
-      "dateUtc": "2026-03-04T13:22:50+00:00"
+      "dateUtc": "2026-03-04T13:22:50+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Projektassistenz in der internationalen Zusammenarbeit (Braunschweig)",
@@ -2012,7 +2170,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "668781b9d4c0026f"
+      "id": "668781b9d4c0026f",
+      "isLinkedInJob": false
     },
     {
       "subject": "Hertie School - We are hiring!",
@@ -2045,7 +2204,8 @@
         "governance"
       ],
       "id": "2c3d5b8e2a4e0524",
-      "dateUtc": "2026-03-04T12:18:57+00:00"
+      "dateUtc": "2026-03-04T12:18:57+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Applications are open: Humanity in Action",
@@ -2070,7 +2230,8 @@
         "eu"
       ],
       "id": "893e2ebc6dec4394",
-      "dateUtc": "2026-03-04T12:14:45+00:00"
+      "dateUtc": "2026-03-04T12:14:45+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Master Europäisches Regieren in der Transformation",
@@ -2098,7 +2259,8 @@
       ],
       "id": "48ee230f175c5031",
       "dateUtc": "2026-03-04T11:19:27+00:00",
-      "deadlineDate": "2026-03-16"
+      "deadlineDate": "2026-03-16",
+      "isLinkedInJob": false
     },
     {
       "subject": "Master Europäisches Regieren in der Transformation in an der Uni Osnabrück: Bewerbungsfrist 16.03.2026",
@@ -2126,7 +2288,8 @@
         "sozialwissenschaft",
         "peace"
       ],
-      "id": "436ab92b3af28ed2"
+      "id": "436ab92b3af28ed2",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Online-Veranstaltungsreihe \"Vier Jahre",
@@ -2155,7 +2318,8 @@
         "peace"
       ],
       "id": "058e979b143557b3",
-      "dateUtc": "2026-03-04T08:44:39+00:00"
+      "dateUtc": "2026-03-04T08:44:39+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung: Online-Veranstaltungsreihe \"Vier Jahre Zeitenwende\"",
@@ -2185,7 +2349,8 @@
         "eu",
         "peace"
       ],
-      "id": "407415d03c4af859"
+      "id": "407415d03c4af859",
+      "isLinkedInJob": false
     },
     {
       "subject": "REMINDER: Europe's Defence in Debate (23-25 March",
@@ -2210,7 +2375,8 @@
         "think tank"
       ],
       "id": "47d1076d5e884224",
-      "dateUtc": "2026-03-04T07:34:48+00:00"
+      "dateUtc": "2026-03-04T07:34:48+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "REMINDER: Europe's Defence in Debate (23-25 March LOCCUM)",
@@ -2236,7 +2402,8 @@
         "eu",
         "think tank"
       ],
-      "id": "13d750e1f1d7e5c7"
+      "id": "13d750e1f1d7e5c7",
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung Studentische Mitarbeit Business &",
@@ -2261,7 +2428,8 @@
         "eu"
       ],
       "id": "b116ca2fffd434de",
-      "dateUtc": "2026-03-03T14:18:44+00:00"
+      "dateUtc": "2026-03-03T14:18:44+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung Studentische Mitarbeit Business & Human Rights",
@@ -2287,7 +2455,8 @@
         "gis",
         "eu"
       ],
-      "id": "7cb7d8fbd4bdcf16"
+      "id": "7cb7d8fbd4bdcf16",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications: Potsdam Summer School 2026",
@@ -2317,7 +2486,8 @@
         "ministry"
       ],
       "id": "53903d2033be93a1",
-      "dateUtc": "2026-03-03T13:42:12+00:00"
+      "dateUtc": "2026-03-03T13:42:12+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications: Potsdam Summer School 2026 ?Sustainability Meets Geopolitics?, Fall 2026, Application Deadline: March 31st, 2026",
@@ -2348,7 +2518,8 @@
         "eu",
         "ministry"
       ],
-      "id": "15edb1cf6aa47acb"
+      "id": "15edb1cf6aa47acb",
+      "isLinkedInJob": false
     },
     {
       "subject": "Last Call: Ausschreibung SHK-Stelle",
@@ -2371,7 +2542,8 @@
         "eu"
       ],
       "id": "dc362f65d4d5c17a",
-      "dateUtc": "2026-03-03T13:11:01+00:00"
+      "dateUtc": "2026-03-03T13:11:01+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stelle: Koordination kommunaler",
@@ -2399,7 +2571,8 @@
       ],
       "id": "6f09e323e2d7bf0c",
       "dateUtc": "2026-03-03T11:01:40+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Stelle: Koordination kommunaler Entwicklungspolitik",
@@ -2427,7 +2600,8 @@
         "politik",
         "entwicklungspolitik"
       ],
-      "id": "2f76973e20ec3a17"
+      "id": "2f76973e20ec3a17",
+      "isLinkedInJob": false
     },
     {
       "subject": "Virtual Launch: Making Rule of Law Resilience Work",
@@ -2453,7 +2627,8 @@
         "security policy"
       ],
       "id": "72aae330e03928bf",
-      "dateUtc": "2026-03-03T10:38:51+00:00"
+      "dateUtc": "2026-03-03T10:38:51+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Virtual Launch: Making Rule of Law Resilience Work in EU Enlargement.",
@@ -2480,7 +2655,8 @@
         "eu",
         "security policy"
       ],
-      "id": "79957712ee9eb371"
+      "id": "79957712ee9eb371",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenangebot: Boards and Membership Officer  ?",
@@ -2504,7 +2680,8 @@
       ],
       "id": "bac63697d3a1a696",
       "dateUtc": "2026-03-03T10:38:27+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenangebot: Boards and Membership Officer ? Teilzeit (20h/Woche)",
@@ -2528,7 +2705,8 @@
         "politik",
         "eu"
       ],
-      "id": "d94c8a62788ff60a"
+      "id": "d94c8a62788ff60a",
+      "isLinkedInJob": false
     },
     {
       "subject": "Teilnehmer*innen für Fokusgruppe gesucht: Deine",
@@ -2560,7 +2738,8 @@
         "thinktank"
       ],
       "id": "74a9a7b475a4ce9c",
-      "dateUtc": "2026-03-03T09:31:58+00:00"
+      "dateUtc": "2026-03-03T09:31:58+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Teilnehmer*innen für Fokusgruppe gesucht: Deine Sicht auf die deutsche Außen- und Europapolitik",
@@ -2593,7 +2772,8 @@
         "evidenzbasiert",
         "thinktank"
       ],
-      "id": "00a47f2cd2c41ced"
+      "id": "00a47f2cd2c41ced",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Papers - Special Issue \"Emotions from",
@@ -2619,7 +2799,8 @@
         "political science"
       ],
       "id": "a7f00c00b0c99e6e",
-      "dateUtc": "2026-03-02T20:15:46+00:00"
+      "dateUtc": "2026-03-02T20:15:46+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Papers - Special Issue \"Emotions from Bellow\"",
@@ -2646,7 +2827,8 @@
         "regulation",
         "political science"
       ],
-      "id": "506d9c55241e51ba"
+      "id": "506d9c55241e51ba",
+      "isLinkedInJob": false
     },
     {
       "subject": "Spinelli Forum 2026: German Italian Young Leaders",
@@ -2672,7 +2854,8 @@
         "security policy"
       ],
       "id": "965d7fc669bb84c0",
-      "dateUtc": "2026-03-02T19:25:00+00:00"
+      "dateUtc": "2026-03-02T19:25:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Spinelli Forum 2026: German Italian Young Leaders Dialogue; Call for Applications",
@@ -2699,7 +2882,8 @@
         "eu",
         "security policy"
       ],
-      "id": "2dc8d14d1af7780a"
+      "id": "2dc8d14d1af7780a",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenangebot studentische*r Mitarbeiter*in DFBEW",
@@ -2727,7 +2911,8 @@
         "eu"
       ],
       "id": "4f31a44fdea1d80b",
-      "dateUtc": "2026-03-02T16:23:18+00:00"
+      "dateUtc": "2026-03-02T16:23:18+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "SHK Stellenausschreibung bei der DGAP e .V.",
@@ -2750,7 +2935,8 @@
         "eu"
       ],
       "id": "d7fb03fce071671a",
-      "dateUtc": "2026-03-02T15:32:24+00:00"
+      "dateUtc": "2026-03-02T15:32:24+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Das IPP München sucht ab sofort Unterstützung",
@@ -2775,7 +2961,8 @@
         "sozialwissenschaft"
       ],
       "id": "f7dcf0c3c70c877d",
-      "dateUtc": "2026-03-02T13:40:18+00:00"
+      "dateUtc": "2026-03-02T13:40:18+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Das IPP München sucht ab sofort Unterstützung durch studentische Mitarbeit",
@@ -2801,7 +2988,8 @@
         "gis",
         "sozialwissenschaft"
       ],
-      "id": "ea9c83b1d220d624"
+      "id": "ea9c83b1d220d624",
+      "isLinkedInJob": false
     },
     {
       "subject": "Werkstudent*in bei Humanity in Action Deutschland",
@@ -2827,7 +3015,8 @@
         "eu"
       ],
       "id": "13540e90ba0f3cf0",
-      "dateUtc": "2026-03-02T12:43:50+00:00"
+      "dateUtc": "2026-03-02T12:43:50+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Werkstudent*in bei Humanity in Action Deutschland e.V. gesucht",
@@ -2854,7 +3043,8 @@
         "gis",
         "eu"
       ],
-      "id": "06afa35335939171"
+      "id": "06afa35335939171",
+      "isLinkedInJob": false
     },
     {
       "subject": "Student Assistant - Franco-German Dialogue at",
@@ -2876,7 +3066,8 @@
         "eu"
       ],
       "id": "61147e75fef5f450",
-      "dateUtc": "2026-03-02T12:15:20+00:00"
+      "dateUtc": "2026-03-02T12:15:20+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Student Assistant - Franco-German Dialogue at Jacques Delors Centre",
@@ -2899,7 +3090,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "c48e77d4f553becc"
+      "id": "c48e77d4f553becc",
+      "isLinkedInJob": false
     },
     {
       "subject": "TODAY! 39th PoSoCoMeS seminar, 2nd March 4:30 PM",
@@ -2926,7 +3118,8 @@
         "political science"
       ],
       "id": "b200c4449fde23b0",
-      "dateUtc": "2026-03-02T10:56:29+00:00"
+      "dateUtc": "2026-03-02T10:56:29+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung: Werkstudent:in für Policy &",
@@ -2952,7 +3145,8 @@
       ],
       "id": "94e3b306506d95c5",
       "dateUtc": "2026-03-02T10:40:13+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Ausschreibung: Werkstudent:in für Policy & Advocacy im Bereich humanitäre Hilfe und Entwicklungspolitik bei Help - Hilfe zur Selbsthilfe e.V.",
@@ -2979,7 +3173,8 @@
         "entwicklungspolitik",
         "monitoring"
       ],
-      "id": "9ca3c37b5adc0198"
+      "id": "9ca3c37b5adc0198",
+      "isLinkedInJob": false
     },
     {
       "subject": "Seminar im April 2026: Neutralität, Haltung und",
@@ -3004,7 +3199,8 @@
         "eu"
       ],
       "id": "af8ded5cee0d77c5",
-      "dateUtc": "2026-03-02T09:42:06+00:00"
+      "dateUtc": "2026-03-02T09:42:06+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Seminar im April 2026: Neutralität, Haltung und Partizipation in der historisch-politischen Bildung",
@@ -3030,7 +3226,8 @@
         "gis",
         "eu"
       ],
-      "id": "b768ceef4922a963"
+      "id": "b768ceef4922a963",
+      "isLinkedInJob": false
     },
     {
       "subject": "InIIS InSIGHTS Podcast, Neue Folge \"Kurdistan,",
@@ -3057,7 +3254,8 @@
         "sozialpolitik"
       ],
       "id": "9643ec9413e83030",
-      "dateUtc": "2026-03-02T08:48:22+00:00"
+      "dateUtc": "2026-03-02T08:48:22+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "InIIS InSIGHTS Podcast, Neue Folge \"Kurdistan, Syrien, Türkei: Wohin führen Eingliederung und Friedensprozesse?\"",
@@ -3085,7 +3283,8 @@
         "eu",
         "sozialpolitik"
       ],
-      "id": "87ef7993032586f7"
+      "id": "87ef7993032586f7",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications for the Arqus Joint Master's",
@@ -3112,7 +3311,8 @@
         "eu"
       ],
       "id": "b09d550df060e7a7",
-      "dateUtc": "2026-03-02T07:18:33+00:00"
+      "dateUtc": "2026-03-02T07:18:33+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications for the Arqus Joint Master's Programme in European Studies | 31.03.2026",
@@ -3140,7 +3340,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "c07aac6d45967957"
+      "id": "c07aac6d45967957",
+      "isLinkedInJob": false
     },
     {
       "subject": "freie Plätze: online-Workshop Einstieg in die",
@@ -3163,7 +3364,8 @@
         "eu"
       ],
       "id": "53af03fd450a0196",
-      "dateUtc": "2026-03-01T14:36:41+00:00"
+      "dateUtc": "2026-03-01T14:36:41+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "freie Plätze: online-Workshop Einstieg in die Restorativen Praktiken | Montag 02.03.2026",
@@ -3187,7 +3389,8 @@
         "gis",
         "eu"
       ],
-      "id": "7eecfd9ecd53724d"
+      "id": "7eecfd9ecd53724d",
+      "isLinkedInJob": false
     },
     {
       "subject": "39th PoSoCoMeS seminar, 2nd March 4:30 PM CET:",
@@ -3214,7 +3417,8 @@
         "political science"
       ],
       "id": "409e0e4e040fc9f5",
-      "dateUtc": "2026-02-27T17:22:53+00:00"
+      "dateUtc": "2026-02-27T17:22:53+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung Impulstag \"Pflicht zur Sicherheit?\"",
@@ -3244,7 +3448,8 @@
         "eu"
       ],
       "id": "5363b894ee4f2da3",
-      "dateUtc": "2026-02-27T14:06:13+00:00"
+      "dateUtc": "2026-02-27T14:06:13+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "IT-Unterstützung für Menschenrechts-NGO in Berlin",
@@ -3267,7 +3472,8 @@
         "eu"
       ],
       "id": "710cc43bfdce6b30",
-      "dateUtc": "2026-02-27T13:31:01+00:00"
+      "dateUtc": "2026-02-27T13:31:01+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "IT-Unterstützung für Menschenrechts-NGO in Berlin",
@@ -3291,7 +3497,8 @@
         "politik",
         "eu"
       ],
-      "id": "246b070068aef87f"
+      "id": "246b070068aef87f",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung Impulstag \"Pflicht zur Sicherheit?\"",
@@ -3328,7 +3535,8 @@
         "eu"
       ],
       "id": "6129a2ee9d1fad9f",
-      "dateUtc": "2026-02-27T13:11:20+00:00"
+      "dateUtc": "2026-02-27T13:11:20+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "W3_ | Veranstaltungstipps | 5. und 6. März 2026 |",
@@ -3359,7 +3567,8 @@
         "eu"
       ],
       "id": "47ec2ab21d36fdcb",
-      "dateUtc": "2026-02-27T11:28:28+00:00"
+      "dateUtc": "2026-02-27T11:28:28+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "W3_ | Veranstaltungstipps | 5. und 6. März 2026 | Communityevent und Kurzfilmwanderung | Hamburg",
@@ -3391,7 +3600,8 @@
         "politik",
         "eu"
       ],
-      "id": "a19840e04215d13e"
+      "id": "a19840e04215d13e",
+      "isLinkedInJob": false
     },
     {
       "subject": "MONTAG: 02.03.2026 | online Lunch & Learn | 12:30",
@@ -3427,7 +3637,8 @@
         "stiftung"
       ],
       "id": "c8a6e18c58de5468",
-      "dateUtc": "2026-02-27T10:19:04+00:00"
+      "dateUtc": "2026-02-27T10:19:04+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "MONTAG: 02.03.2026 | online Lunch & Learn | 12:30 ? 13:15 Uhr | Wie können demokratische Innovationen politische Teilhabe verbessern? | Jetzt anmelden!",
@@ -3464,7 +3675,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "c07cb72d3fe7cdb5"
+      "id": "c07cb72d3fe7cdb5",
+      "isLinkedInJob": false
     },
     {
       "subject": "9.3.2026 -Einführung in die konstruktive",
@@ -3488,7 +3700,8 @@
         "eu"
       ],
       "id": "e45728185bad9b8d",
-      "dateUtc": "2026-02-27T09:07:19+00:00"
+      "dateUtc": "2026-02-27T09:07:19+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "9.3.2026 -Einführung in die konstruktive Konfliktbearbeitung",
@@ -3513,7 +3726,8 @@
       "dsPolicyMatchedKeywords": [
         "eu"
       ],
-      "id": "13cdcb39872859a1"
+      "id": "13cdcb39872859a1",
+      "isLinkedInJob": false
     },
     {
       "subject": "Join the Discussion: European Regions and the",
@@ -3542,7 +3756,8 @@
         "european union"
       ],
       "id": "b0b26518d385d44f",
-      "dateUtc": "2026-02-27T07:48:57+00:00"
+      "dateUtc": "2026-02-27T07:48:57+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Join the Discussion: European Regions and the Future of Europe?s Soft Power | Brussels Workshop",
@@ -3572,7 +3787,8 @@
         "governance",
         "european union"
       ],
-      "id": "660cfa30322d7020"
+      "id": "660cfa30322d7020",
+      "isLinkedInJob": false
     },
     {
       "subject": "TODAY: ECPR Energy-PPG Seminar Series: Caroline",
@@ -3603,7 +3819,8 @@
         "governance"
       ],
       "id": "6ada907d0f237fe9",
-      "dateUtc": "2026-02-26T15:18:00+00:00"
+      "dateUtc": "2026-02-26T15:18:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "TODAY: ECPR Energy-PPG Seminar Series: Caroline Kuzemko, Climate Politics: Can't Live With It, Can't Mitigate Without It (Book Presentation), 27.2.2026@12.00 (GMT) / 13.00 (CET)",
@@ -3635,7 +3852,8 @@
         "eu",
         "governance"
       ],
-      "id": "6d8e724157ab4eab"
+      "id": "6d8e724157ab4eab",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zum Online-Workshop: Starke Kampagnen &",
@@ -3653,7 +3871,8 @@
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
       "id": "58921b0553b8d9f3",
-      "dateUtc": "2026-02-26T14:05:57+00:00"
+      "dateUtc": "2026-02-26T14:05:57+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Einladung zum Online-Workshop: Starke Kampagnen & Medienauftritte",
@@ -3672,7 +3891,8 @@
       "isDsPolicyFit": false,
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
-      "id": "abf9ac157434f62d"
+      "id": "abf9ac157434f62d",
+      "isLinkedInJob": false
     },
     {
       "subject": "Join the W3_Team!",
@@ -3696,7 +3916,8 @@
         "eu"
       ],
       "id": "40df2561108534a2",
-      "dateUtc": "2026-02-26T12:23:00+00:00"
+      "dateUtc": "2026-02-26T12:23:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Applications for the 2026 Humanity in Action",
@@ -3719,7 +3940,8 @@
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
       "id": "54b74d67350d892c",
-      "dateUtc": "2026-02-26T12:12:41+00:00"
+      "dateUtc": "2026-02-26T12:12:41+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "SWING School on Internet Governance | Application",
@@ -3748,7 +3970,8 @@
         "united nations"
       ],
       "id": "2ff7205ae2e90776",
-      "dateUtc": "2026-02-25T20:20:54+00:00"
+      "dateUtc": "2026-02-25T20:20:54+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation Lecture Series \"Global Perspectives on",
@@ -3773,7 +3996,8 @@
         "climate policy"
       ],
       "id": "f4ed8d866def92ba",
-      "dateUtc": "2026-02-25T19:39:46+00:00"
+      "dateUtc": "2026-02-25T19:39:46+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation Lecture Series \"Global Perspectives on Climate Justice\"",
@@ -3799,7 +4023,8 @@
         "development",
         "climate policy"
       ],
-      "id": "49142bc057edffb7"
+      "id": "49142bc057edffb7",
+      "isLinkedInJob": false
     },
     {
       "subject": "Kostenloser Info-Abend: Klimafreundliche Reisen",
@@ -3821,7 +4046,8 @@
         "eu"
       ],
       "id": "0ee9c1e1f689849f",
-      "dateUtc": "2026-02-25T18:10:34+00:00"
+      "dateUtc": "2026-02-25T18:10:34+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Grassroots-Perspektiven auf Sicherheit -",
@@ -3845,7 +4071,8 @@
         "sicherheitspolitik"
       ],
       "id": "23a3c831f2db6579",
-      "dateUtc": "2026-02-25T11:10:00+00:00"
+      "dateUtc": "2026-02-25T11:10:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Grassroots-Perspektiven auf Sicherheit - Online-Austauschraum am 18.3. ab 20 Uhr",
@@ -3870,7 +4097,8 @@
         "eu",
         "sicherheitspolitik"
       ],
-      "id": "c51c2faab8bf53fd"
+      "id": "c51c2faab8bf53fd",
+      "isLinkedInJob": false
     },
     {
       "subject": "Würzburg ruft! Seid dabei ? Ein Wochende zu Mode,",
@@ -3901,7 +4129,8 @@
         "eu"
       ],
       "id": "9d7ec5e54df176a7",
-      "dateUtc": "2026-02-25T10:16:09+00:00"
+      "dateUtc": "2026-02-25T10:16:09+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Würzburg ruft! Seid dabei ? Ein Wochende zu Mode, Müll & Menschenrechten",
@@ -3933,7 +4162,8 @@
         "länder",
         "eu"
       ],
-      "id": "c75e0e5d8a85803c"
+      "id": "c75e0e5d8a85803c",
+      "isLinkedInJob": false
     },
     {
       "subject": "Jobangebot Gesellschaft fu?r Informatik e.V.-",
@@ -3958,7 +4188,8 @@
       ],
       "id": "74f53a23f44c57bc",
       "dateUtc": "2026-02-25T10:04:37+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Jobangebot Gesellschaft fu?r Informatik e.V.- Studentische Hilfskraft (SHK) (m/w/d) Redaktion/Öffentlichkeitsarbeit",
@@ -3983,7 +4214,8 @@
         "eu",
         "sozialwissenschaft"
       ],
-      "id": "0dc418819fa1f44a"
+      "id": "0dc418819fa1f44a",
+      "isLinkedInJob": false
     },
     {
       "subject": "Die Deutsche Atlantische Gesellschaft stellt ein",
@@ -4007,7 +4239,8 @@
         "eu"
       ],
       "id": "133c7a38e4cc689b",
-      "dateUtc": "2026-02-25T08:44:58+00:00"
+      "dateUtc": "2026-02-25T08:44:58+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Jobangebot Gesellschaft fu?r Informatik e.V.-",
@@ -4030,7 +4263,8 @@
       ],
       "id": "164c558cb220f2c8",
       "dateUtc": "2026-02-25T07:32:15+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Jobangebot Gesellschaft fu?r Informatik e.V.- Studentische Hilfskraft (SHK) (m/w/d) Ausstellungsmanagement und Wissenschaftskommunikation",
@@ -4053,7 +4287,8 @@
         "r ",
         "eu"
       ],
-      "id": "018e624d240f0613"
+      "id": "018e624d240f0613",
+      "isLinkedInJob": false
     },
     {
       "subject": "CONF INVITATION: Europe's Defence in Debate (23-25",
@@ -4078,7 +4313,8 @@
         "think tank"
       ],
       "id": "d78fe472d3d0816a",
-      "dateUtc": "2026-02-24T19:03:20+00:00"
+      "dateUtc": "2026-02-24T19:03:20+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "CONF INVITATION: Europe's Defence in Debate (23-25 March LOCCUM)",
@@ -4104,7 +4340,8 @@
         "eu",
         "think tank"
       ],
-      "id": "a9954714ed0dc932"
+      "id": "a9954714ed0dc932",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung: Politische Bildung in und mit",
@@ -4140,7 +4377,8 @@
         "eu"
       ],
       "id": "29847810d576395a",
-      "dateUtc": "2026-02-24T16:07:58+00:00"
+      "dateUtc": "2026-02-24T16:07:58+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Veranstaltung: Politische Bildung in und mit Berufsschulen, 27.2. 12.00-13.00 Uhr online",
@@ -4177,7 +4415,8 @@
         "gis",
         "eu"
       ],
-      "id": "144da540479cf06c"
+      "id": "144da540479cf06c",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation: E-Book Launch ?25 Years of Women,",
@@ -4208,7 +4447,8 @@
         "peace"
       ],
       "id": "5d505073e52fa3ed",
-      "dateUtc": "2026-02-24T14:46:10+00:00"
+      "dateUtc": "2026-02-24T14:46:10+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Invitation: E-Book Launch ?25 Years of Women, Peace and Security: Between Promises, Backlash, and Feminist Reimagining\" (Webinar)",
@@ -4240,7 +4480,8 @@
         "eu",
         "peace"
       ],
-      "id": "9cab98bbef9d6c5a"
+      "id": "9cab98bbef9d6c5a",
+      "isLinkedInJob": false
     },
     {
       "subject": "MORGEN 25.02.2026 Online-Vortrag ?Rechte Gefühle -",
@@ -4277,7 +4518,8 @@
         "stiftung"
       ],
       "id": "76431a843ec1eb36",
-      "dateUtc": "2026-02-24T10:57:38+00:00"
+      "dateUtc": "2026-02-24T10:57:38+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "MORGEN 25.02.2026 Online-Vortrag ?Rechte Gefühle - Affekte und Strategien des digitalen Faschismus? | Dr. Simon Strick | Möglichkeit zur kostenlosen Teilnahme",
@@ -4315,7 +4557,8 @@
         "eu",
         "stiftung"
       ],
-      "id": "34b9c659068252b9"
+      "id": "34b9c659068252b9",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Applications: Spinelli Forum 2026",
@@ -4340,7 +4583,8 @@
         "eu"
       ],
       "id": "4a690ee5c0a08b62",
-      "dateUtc": "2026-02-24T09:47:30+00:00"
+      "dateUtc": "2026-02-24T09:47:30+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Lehrauftrag Sciences Po Paris - Campus Nancy",
@@ -4360,7 +4604,8 @@
         "eu"
       ],
       "id": "7524437099f5f79d",
-      "dateUtc": "2026-02-24T08:35:17+00:00"
+      "dateUtc": "2026-02-24T08:35:17+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Käte Hamburger Kolleg \"Rohstoffwelten\" | Call for",
@@ -4387,7 +4632,8 @@
         "social science"
       ],
       "id": "125809307c1f1184",
-      "dateUtc": "2026-02-24T08:24:11+00:00"
+      "dateUtc": "2026-02-24T08:24:11+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Käte Hamburger Kolleg \"Rohstoffwelten\" | Call for Fellows",
@@ -4414,7 +4660,8 @@
         "development",
         "social science"
       ],
-      "id": "3ef513f8bffec1b2"
+      "id": "3ef513f8bffec1b2",
+      "isLinkedInJob": false
     },
     {
       "subject": "Postdoc-Stelle im Bereich Computational Social",
@@ -4445,7 +4692,8 @@
       ],
       "id": "ad4b9ba973ad13fe",
       "dateUtc": "2026-02-24T08:16:20+00:00",
-      "deadlineDate": null
+      "deadlineDate": null,
+      "isLinkedInJob": false
     },
     {
       "subject": "Postdoc-Stelle im Bereich Computational Social Sciences",
@@ -4476,7 +4724,8 @@
         "sozialwissenschaft",
         "social science"
       ],
-      "id": "ba0990a7cf3c8b3d"
+      "id": "ba0990a7cf3c8b3d",
+      "isLinkedInJob": false
     },
     {
       "subject": "Bitte abmelden",
@@ -4494,7 +4743,8 @@
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
       "id": "f7546c66713ef204",
-      "dateUtc": "2026-02-24T05:58:50+00:00"
+      "dateUtc": "2026-02-24T05:58:50+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Club Alpbach Deutschland ? Stipendienprogramm 2026",
@@ -4517,7 +4767,8 @@
         "eu"
       ],
       "id": "1f134b41574243e9",
-      "dateUtc": "2026-02-23T21:10:57+00:00"
+      "dateUtc": "2026-02-23T21:10:57+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung Geschäftsführung nefia e.V.",
@@ -4537,7 +4788,8 @@
         "stiftung"
       ],
       "id": "d48ba876beac9844",
-      "dateUtc": "2026-02-23T19:57:41+00:00"
+      "dateUtc": "2026-02-23T19:57:41+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Vacancy: Two doctoral researchers for \"Unmasking",
@@ -4565,7 +4817,8 @@
         "political science"
       ],
       "id": "6f2c10cfa6044fe6",
-      "dateUtc": "2026-02-23T14:54:10+00:00"
+      "dateUtc": "2026-02-23T14:54:10+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Vacancy: Two doctoral researchers for \"Unmasking Supply Chains\" Project at FAU Erlangen-Nuremberg (4 years, part-time, TVL-13)",
@@ -4594,7 +4847,8 @@
         "eu",
         "political science"
       ],
-      "id": "7280d1c3aa23baed"
+      "id": "7280d1c3aa23baed",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Abstracts ? Reimagining Afghan Futures",
@@ -4614,7 +4868,8 @@
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
       "id": "6bc3c8260a021ec0",
-      "dateUtc": "2026-02-23T14:01:00+00:00"
+      "dateUtc": "2026-02-23T14:01:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Call for Abstracts ? Reimagining Afghan Futures Workshop (7 May 2026, Berlin)",
@@ -4635,7 +4890,8 @@
       "isDsPolicyFit": false,
       "dsPolicyScore": 0,
       "dsPolicyMatchedKeywords": [],
-      "id": "2aef1a1a196d354e"
+      "id": "2aef1a1a196d354e",
+      "isLinkedInJob": false
     },
     {
       "subject": "online-Workshop Einstieg in die Restorativen",
@@ -4658,7 +4914,8 @@
         "eu"
       ],
       "id": "241fe7224c32f0b9",
-      "dateUtc": "2026-02-23T13:21:41+00:00"
+      "dateUtc": "2026-02-23T13:21:41+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "online-Workshop Einstieg in die Restorativen Praktiken | Montag 02.03.2026",
@@ -4682,7 +4939,8 @@
         "gis",
         "eu"
       ],
-      "id": "0a812794d2e8c152"
+      "id": "0a812794d2e8c152",
+      "isLinkedInJob": false
     },
     {
       "subject": "Event Invitation | How to Demystify AI | 17 March",
@@ -4707,7 +4965,8 @@
         "public sector"
       ],
       "id": "1ee3051614d3beb1",
-      "dateUtc": "2026-02-23T12:31:12+00:00"
+      "dateUtc": "2026-02-23T12:31:12+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Event Invitation | How to Demystify AI | 17 March 2026",
@@ -4733,7 +4992,8 @@
         "governance",
         "public sector"
       ],
-      "id": "0847cbd294adcbe3"
+      "id": "0847cbd294adcbe3",
+      "isLinkedInJob": false
     },
     {
       "subject": "HEUTE 23.02.2026 | Online-Vortrag ?Demokratische",
@@ -4772,7 +5032,8 @@
         "stiftung"
       ],
       "id": "5a6420a9c668bc5e",
-      "dateUtc": "2026-02-23T09:34:27+00:00"
+      "dateUtc": "2026-02-23T09:34:27+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "HEUTE 23.02.2026 | Online-Vortrag ?Demokratische Polizeikritik zwischen Reform und Überwindung? | Prof. Dr. Daniel Loick & Marie-Theres Piening | Möglichkeit zur kostenlosen Teilnahme",
@@ -4812,7 +5073,8 @@
         "sozialwissenschaft",
         "stiftung"
       ],
-      "id": "8b9e7d595aa96184"
+      "id": "8b9e7d595aa96184",
+      "isLinkedInJob": false
     },
     {
       "subject": "TODAY! 38th PoSoCoMeS seminar, 23rd February 5:30",
@@ -4838,7 +5100,8 @@
         "political science"
       ],
       "id": "5a2bddd844b2f6b3",
-      "dateUtc": "2026-02-23T08:27:51+00:00"
+      "dateUtc": "2026-02-23T08:27:51+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "TODAY! 38th PoSoCoMeS seminar, 23rd February 5:30 PM CET: The Anatomy of Right-Wing Populism: Dealing with transformational fatigue in Central and Eastern Europe, by Jan Kubik (Editor), Richard C. M. Mole (Editor)",
@@ -4865,7 +5128,8 @@
         "international relations",
         "political science"
       ],
-      "id": "285d34ad9d58430c"
+      "id": "285d34ad9d58430c",
+      "isLinkedInJob": false
     },
     {
       "subject": "38th PoSoCoMeS seminar, 23rd February 5:30 PM CET:",
@@ -4891,7 +5155,8 @@
         "political science"
       ],
       "id": "5ea3a33934dca937",
-      "dateUtc": "2026-02-22T12:07:10+00:00"
+      "dateUtc": "2026-02-22T12:07:10+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "38th PoSoCoMeS seminar, 23rd February 5:30 PM CET: The Anatomy of Right-Wing Populism: Dealing with transformational fatigue in Central and Eastern Europe, by Jan Kubik (Editor), Richard C. M. Mole (Editor)",
@@ -4918,7 +5183,8 @@
         "international relations",
         "political science"
       ],
-      "id": "3803c1bbb8b8029e"
+      "id": "3803c1bbb8b8029e",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Projektmanager*in Polis",
@@ -4939,7 +5205,8 @@
         "eu"
       ],
       "id": "fb261bbb0d8664e8",
-      "dateUtc": "2026-02-22T11:20:00+00:00"
+      "dateUtc": "2026-02-22T11:20:00+00:00",
+      "isLinkedInJob": false
     },
     {
       "subject": "Stellenausschreibung: Projektmanager*in Polis kocht! - ab 1.4.",
@@ -4961,13 +5228,14 @@
         "politik",
         "eu"
       ],
-      "id": "409d55692d9ae6a0"
+      "id": "409d55692d9ae6a0",
+      "isLinkedInJob": false
     }
   ],
   "stats": {
-    "new_items": 85,
-    "total_items": 185,
-    "processed_messages": 16,
+    "new_items": 4,
+    "total_items": 188,
+    "processed_messages": 19,
     "removed_old_items": 0,
     "removed_past_deadline_items": 1
   }
