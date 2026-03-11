@@ -448,12 +448,16 @@ function renderItems(items) {
     });
 
     if (Array.isArray(item.links) && item.links.length) {
-      item.links.slice(0, 4).forEach((url) => {
+      item.links.slice(0, 4).forEach((url, idx) => {
         const a = document.createElement("a");
         a.href = url;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
-        a.textContent = item.isLinkedInJob ? "Apply on LinkedIn" : "Open link";
+        if (item.isLinkedInJob) {
+          a.textContent = "Apply on LinkedIn";
+        } else {
+          a.textContent = buildLinkLabel(item, url, idx);
+        }
         linksEl.appendChild(a);
       });
     }
@@ -535,6 +539,66 @@ function detectLinkedInItem(item = {}) {
   if (from.includes("jobalerts-noreply@linkedin.com")) return true;
   if (subject.includes("job alert") || subject.includes("jobbenachrichtigung")) return true;
   return snippet.includes("linkedin") && (snippet.includes("job alert") || snippet.includes("jobbenachrichtigung"));
+}
+
+function buildLinkLabel(item, url, index = 0) {
+  const fromSnippet = extractLabelFromSnippet(item?.snippet || "", url);
+  if (fromSnippet) return fromSnippet;
+  const host = hostLabel(url);
+  return host || `Open link ${index + 1}`;
+}
+
+function extractLabelFromSnippet(snippet, url) {
+  if (!snippet || !url) return "";
+  const text = String(snippet);
+  const variants = uniqueUrlVariants(url);
+  let pos = -1;
+
+  for (const candidate of variants) {
+    pos = text.indexOf(candidate);
+    if (pos !== -1) break;
+  }
+  if (pos === -1) return "";
+
+  let before = text.slice(Math.max(0, pos - 140), pos).replace(/\s+/g, " ").trim();
+  const angleIdx = before.lastIndexOf("<");
+  if (angleIdx !== -1) before = before.slice(0, angleIdx).trim();
+  before = before.replace(/[\s([{"'`-]+$/g, "").trim();
+  if (!before) return "";
+
+  let tail = before.split(/[.;!?]\s+/).pop()?.trim() || before;
+  if (tail.length > 48) {
+    const projectLike = tail.match(/\b(?:im|in|for)\s+([A-Za-z0-9ÄÖÜäöüß+&/ -]{3,})$/i);
+    if (projectLike?.[1]) {
+      tail = projectLike[1].trim();
+    } else {
+      tail = tail.split(/\s+/).slice(-4).join(" ").trim();
+    }
+  }
+
+  tail = tail.replace(/^[-:|]\s*/, "").replace(/\s+[-:|]\s*$/, "").trim();
+  if (!tail) return "";
+  if (/^(open link|link|mehr infos?|hier|klicken)$/i.test(tail)) return "";
+  return tail;
+}
+
+function uniqueUrlVariants(url) {
+  const set = new Set();
+  const raw = String(url);
+  set.add(raw);
+  set.add(raw.replace(/&amp;/g, "&"));
+  set.add(raw.replace(/&/g, "&amp;"));
+  set.add(raw.replace(/[)\].,;:!?]+$/, ""));
+  return Array.from(set).filter(Boolean);
+}
+
+function hostLabel(url) {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./i, "");
+    return host || "";
+  } catch (_err) {
+    return "";
+  }
 }
 
 function classifyDsPolicyFit(text) {
