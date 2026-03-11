@@ -18,6 +18,10 @@ DATA_FILE = ROOT / "data" / "jobs.json"
 MAX_ITEM_AGE_DAYS = int(os.environ.get("MAX_ITEM_AGE_DAYS", "28"))
 DEADLINE_GRACE_DAYS = int(os.environ.get("DEADLINE_GRACE_DAYS", "5"))
 DEFAULT_LINKEDIN_FOLDER = "Jobalerts_Linkedin"
+NOISE_LINK_SUBSTRINGS = [
+    "lists.fu-berlin.de/listinfo/ib-liste",
+    "ib-liste@lists.fu-berlin.de",
+]
 
 JOB_REGEX_PATTERNS = [
     re.compile(r"\bjob\b", re.IGNORECASE),
@@ -535,6 +539,29 @@ def normalize_linkedin_job_url(url: str) -> str:
     return clean
 
 
+def should_exclude_link(url: str) -> bool:
+    if not url:
+        return True
+    u = unescape(url).strip().lower()
+    return any(noise in u for noise in NOISE_LINK_SUBSTRINGS)
+
+
+def clean_links(links):
+    cleaned = []
+    seen = set()
+    for raw in links or []:
+        if not isinstance(raw, str):
+            continue
+        url = unescape(raw).strip()
+        if not url or should_exclude_link(url):
+            continue
+        if url in seen:
+            continue
+        seen.add(url)
+        cleaned.append(url)
+    return cleaned
+
+
 def extract_linkedin_jobs(raw_html: str):
     parser = LinkExtractor()
     try:
@@ -694,7 +721,7 @@ def parse_digest_text(
         date = extract_header(block, "Date") or (fallback_date if idx == 1 and fallback_date else "Unknown")
         body = extract_body(block)
         text = f"{subject}\n{body}"
-        links = list(dict.fromkeys(re.findall(r"https?://[^\s)>]+", body)))
+        links = clean_links(re.findall(r"https?://[^\s)>]+", body))
         fit = classify_ds_policy_fit(text)
         linkedin_item = is_linkedin_item(subject, sender, body, source_tag=source_tag, source_folder=source_folder)
         is_job_post = is_job(text) or linkedin_item
@@ -945,6 +972,7 @@ def main():
                 fallback_year=(parsed_mail_dt.year if parsed_mail_dt else None),
             )
             item["deadlineDate"] = deadline_date.isoformat() if deadline_date else None
+        item["links"] = clean_links(item.get("links", []))
 
     # Remove legacy "combined alert" LinkedIn entries.
     cleaned = []

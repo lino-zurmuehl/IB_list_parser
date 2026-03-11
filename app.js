@@ -166,6 +166,10 @@ const PROFILE_POLICY_KEYWORDS = [
 ];
 
 const ISOLATED_ABBREVIATIONS = new Set(["ml", "ai", "ki", "r"]);
+const NOISE_LINK_SUBSTRINGS = [
+  "lists.fu-berlin.de/listinfo/ib-liste",
+  "ib-liste@lists.fu-berlin.de",
+];
 
 let activeItems = [];
 
@@ -261,7 +265,7 @@ function parseMessage(chunk, index) {
   const date = extractHeader(chunk, "Date") || "Unknown";
   const body = extractBody(chunk);
 
-  const links = Array.from(new Set(body.match(/https?:\/\/[^\s)>]+/g) || []));
+  const links = cleanLinks(body.match(/https?:\/\/[^\s)>]+/g) || []);
   const text = `${subject}\n${body}`;
 
   const isJob = isJobRelated(text);
@@ -507,6 +511,7 @@ function normalizeItems(items) {
     const inferredJob = isJobRelated(text) || isLinkedInJob;
     return {
       ...item,
+      links: cleanLinks(item.links),
       isJob: inferredJob,
       isLinkedInJob,
       sourceTag: item.sourceTag || "imap",
@@ -599,6 +604,25 @@ function hostLabel(url) {
   } catch (_err) {
     return "";
   }
+}
+
+function cleanLinks(links) {
+  const out = [];
+  const seen = new Set();
+  for (const raw of Array.isArray(links) ? links : []) {
+    if (typeof raw !== "string") continue;
+    const url = raw.replace(/&amp;/g, "&").trim();
+    if (!url || shouldExcludeLink(url)) continue;
+    if (seen.has(url)) continue;
+    seen.add(url);
+    out.push(url);
+  }
+  return out;
+}
+
+function shouldExcludeLink(url) {
+  const u = String(url || "").toLowerCase();
+  return NOISE_LINK_SUBSTRINGS.some((noise) => u.includes(noise));
 }
 
 function classifyDsPolicyFit(text) {
