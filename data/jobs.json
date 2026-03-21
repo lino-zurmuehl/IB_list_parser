@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-03-20T11:34:44.853326+00:00",
+  "generated_at": "2026-03-21T11:26:27.915578+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Stellenangebot_ Zero-Waste-Beauftragte im Bezirksamt Neukölln (Elternzeitvertretung)",
+      "from": "Eva <eva.hnie@gmail.com>",
+      "date": "Fri, 20 Mar 2026 12:06:53 +0100",
+      "dateUtc": "2026-03-20T11:06:53+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "ete Stelle handelt, ist eine Ausschreibung nicht notwendig",
+      "deadlineDate": null,
+      "links": [
+        "https://www.berlin.de/null-muell-neukoelln/"
+      ],
+      "snippet": "Das Bezirksamt Neukölln sucht eine Elternzeitvertretung ab 1. August 2026\nfür unsere Zero-Waste-Beauftragte, angesiedelt in der Koordinierungsstelle\nKlimaschutz und Nachhaltigkeit, voraussichtlich bis 22. Februar 2027 (ggf.\nlänger).\n\n*Zentrale Aufgaben:*\n?    Projektleitung von Null Müll Neukölln: monatliche Steuerungsrunden;\ninhaltliche und kreative Begleitung von laufenden Öffentlichkeitsprojekten\n(Kampagnenplanung zu Biomüll; Runder Tisch Reparatur); generell\nAnsprechpartnerin für Agentur und Kiezhausmeister*innen.\n?    Unterstützung bei öffentlichen Ausschreibungen im Themenfeld\n?    Übersicht der Sauberen Stadt Mittel koordinieren (ggf. Rechnungen\nanordnen, Vermerke schreiben - es gibt Vorlagen).\n?    Politische Anfragen beantworten.\n?    Koordinierungsgespräche im KNK-Bereich und Unterstützung der\nKlimaschutzbeauftragten\n?    Ansprechpartner für andere Ämter und Bürger*innen\n\nHier der Link zur Webseite von Null Müll Neukölln:\n\nhttps://www.berlin.de/null-muell-neukoelln/\n\nIm Anhang findet Ihr das Anforderungsprofil zur Stelle. Da es sich um eine\nbefristete Stelle handelt, ist eine Ausschreibung nicht notwendig. Das\nEinreichen der üblichen Bewerbungsunterlagen (Anschreiben, Lebenslauf,\nrelevante Abschlusszeugnisse und aktuelle Arbeitszeugnisse) reicht.\n\nInhaltliche Fragen zur Stelle bitte direkt an\nisabel.kronauer@bezirksamt-neukoelln.de.\n\n*Wir freuen uns auf eine Rückmeldung bis spätestens 31. März.*\n\nMit besten Grüßen\nEva Hein\n\nKlimaschutzbeauftragte (komm.)\nBzBm KNK2  ( sie / ihr )\nKoordinierungsstelle für Klimaschutz und Nachhaltigkeit\n\nBezirksamt Neukölln von Berlin\nKarl-Marx-Str. 83\n12040 Berlin\n\n030 - 90239 2734\neva.hein@bezirksamt-neukoelln.de\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/f5654bf6/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 230712_AP_KNK 1.pdf\nDateityp    : application/pdf\nDateigröße  : 174129 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/f5654bf6/attachment.pdf>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 19\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "796fd30bb9ff3c27"
+    },
     {
       "subject": "Register now: Berlin Forum on Global Cooperation 2026 - Energy cooperation vs. energy dominance - Partnerships for a joint transition",
       "from": "Christina Rode <christina.rode@fu-berlin.de>",
@@ -7298,10 +7322,10 @@
     }
   ],
   "stats": {
-    "new_items": 7,
-    "total_items": 283,
-    "processed_messages": 28,
-    "processed_messages_imap": 23,
+    "new_items": 4,
+    "total_items": 284,
+    "processed_messages": 29,
+    "processed_messages_imap": 24,
     "processed_messages_linkedin": 5,
     "removed_old_items": 0,
     "removed_past_deadline_items": 3,
