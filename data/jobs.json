@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T10:56:35.505121+00:00",
+  "generated_at": "2026-03-31T11:54:09.942987+00:00",
   "source": "imap",
   "items": [
     {
@@ -5907,71 +5907,15 @@
       "id": "dc362f65d4d5c17a",
       "dateUtc": "2026-03-03T13:11:01+00:00",
       "isLinkedInJob": false
-    },
-    {
-      "subject": "Stelle: Koordination kommunaler",
-      "from": "Bösl, Regina (F36)  <Regina.Boesl@engagement-global.de>",
-      "date": "Tue, 3 Mar 2026 11:01:40 +0000",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "ist am 22",
-      "links": [
-        "https://www.mein-check-in.de/aschaffenburg/position-511269",
-        "https://cdn1.engagement-global.de/250918_eg_Email-Abbinder_Schulwettbewerb.jpg]<https://www.eineweltfueralle.de/",
-        "https://www.engagement-global.de/de/datenverarbeitung",
-        "https://www.engagement-global.de/privacy-policy.html"
-      ],
-      "snippet": "Liebe Liste,\n\ndie Stadt Aschaffenburg sucht eine Person für die Koordination kommunaler Entwicklungspolitik. Schwerpunkte der Tätigkeit sind die Partnerschaftsarbeit mit einer Kommune im Globalen Süden sowie die Entwicklung und Umsetzung einer globalen Nachhaltigkeitsstrategie. Bewerbungsfrist ist am 22.03.2026.\nWeitere Informationen gibt es hier: https://www.mein-check-in.de/aschaffenburg/position-511269\n\nViele Grüße\nRegina Bösl\n[https://cdn1.engagement-global.de/250918_eg_Email-Abbinder_Schulwettbewerb.jpg]<https://www.eineweltfueralle.de/>\n\n________________________________\nENGAGEMENT GLOBAL gGmbH\nSitz der Gesellschaft Bonn/Registered Office Bonn, Germany\nRegistergericht/Registered at Amtsgericht Bonn, Germany, Eintragungs-Nr./Registration no. HRB 19021\nUSt-IdNr/VAT ID DE280482195\nGeschäftsführung/Management: Ingrid Arenz\nVorsitzender des Aufsichtsrats/Chairperson of Supervisory Board: Hans-Peter Baur\nInformationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie hier.<https://www.engagement-global.de/de/datenverarbeitung>/Information on the processing of your personal data can be found here.<https://www.engagement-global.de/privacy-policy.html>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260303/6491bf5b/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "politik",
-        "entwicklungspolitik"
-      ],
-      "id": "6f09e323e2d7bf0c",
-      "dateUtc": "2026-03-03T11:01:40+00:00",
-      "deadlineDate": null,
-      "isLinkedInJob": false
-    },
-    {
-      "subject": "Stelle: Koordination kommunaler Entwicklungspolitik",
-      "from": "Bösl, Regina (F36) <Regina.Boesl@engagement-global.de>",
-      "date": "Tue, 3 Mar 2026 11:01:40 +0000",
-      "dateUtc": "2026-03-03T11:01:40+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "ist am 22",
-      "deadlineDate": null,
-      "links": [
-        "https://www.mein-check-in.de/aschaffenburg/position-511269",
-        "https://cdn1.engagement-global.de/250918_eg_Email-Abbinder_Schulwettbewerb.jpg]<https://www.eineweltfueralle.de/",
-        "https://www.engagement-global.de/de/datenverarbeitung",
-        "https://www.engagement-global.de/privacy-policy.html"
-      ],
-      "snippet": "Liebe Liste,\n\ndie Stadt Aschaffenburg sucht eine Person für die Koordination kommunaler Entwicklungspolitik. Schwerpunkte der Tätigkeit sind die Partnerschaftsarbeit mit einer Kommune im Globalen Süden sowie die Entwicklung und Umsetzung einer globalen Nachhaltigkeitsstrategie. Bewerbungsfrist ist am 22.03.2026.\nWeitere Informationen gibt es hier: https://www.mein-check-in.de/aschaffenburg/position-511269\n\nViele Grüße\nRegina Bösl\n[https://cdn1.engagement-global.de/250918_eg_Email-Abbinder_Schulwettbewerb.jpg]<https://www.eineweltfueralle.de/>\n\n________________________________\nENGAGEMENT GLOBAL gGmbH\nSitz der Gesellschaft Bonn/Registered Office Bonn, Germany\nRegistergericht/Registered at Amtsgericht Bonn, Germany, Eintragungs-Nr./Registration no. HRB 19021\nUSt-IdNr/VAT ID DE280482195\nGeschäftsführung/Management: Ingrid Arenz\nVorsitzender des Aufsichtsrats/Chairperson of Supervisory Board: Hans-Peter Baur\nInformationen zur Verarbeitung Ihrer personenbezogenen Daten finden Sie hier.<https://www.engagement-global.de/de/datenverarbeitung>/Information on the processing of your personal data can be found here.<https://www.engagement-global.de/privacy-policy.html>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260303/6491bf5b/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "politik",
-        "entwicklungspolitik"
-      ],
-      "id": "2f76973e20ec3a17",
-      "isLinkedInJob": false
     }
   ],
   "stats": {
-    "new_items": 18,
-    "total_items": 225,
+    "new_items": 19,
+    "total_items": 223,
     "processed_messages": 32,
     "processed_messages_imap": 27,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 25,
+    "removed_old_items": 18,
     "removed_past_deadline_items": 3,
     "removed_legacy_linkedin_alerts": 0
   }
