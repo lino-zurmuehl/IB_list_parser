@@ -1,7 +1,797 @@
 {
-  "generated_at": "2026-04-14T11:06:17.407476+00:00",
+  "generated_at": "2026-04-18T11:36:53.930752+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Event Announcement: How New Is the New Alliance Maritime Strategy?",
+      "from": "Anne Runhaar <a.runhaar@mein.gmx>",
+      "date": "Fri, 17 Apr 2026 18:34:48 +0000",
+      "dateUtc": "2026-04-17T18:34:48+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/7a68ffbe/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 67, Eintrag 15\n******************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "c7186698a0c18492"
+    },
+    {
+      "subject": "Studentische Hilfskraft im Leitungsbereich gesucht, cyberintelligence.institute Berlin",
+      "from": "Ole Spillner <ole.spillner@cyberintelligence.institute>",
+      "date": "Fri, 17 Apr 2026 14:13:00 +0000",
+      "dateUtc": "2026-04-17T14:13:00+00:00",
+      "organization": "institute Berlin",
+      "positionType": "Student Assistant",
+      "deadline": "ist der 27",
+      "deadlineDate": null,
+      "links": [
+        "https://cyberintelligence.institute/jobs-und-karriere",
+        "http://www.cyberintelligence.institute/"
+      ],
+      "snippet": "Hallo zusammen,\n\nDas CII ist ein unabhängiger Think Tank zu Cybersicherheit, digitaler Resilienz und digitaler Transformation, irgendwo zwischen NGO, Forschungseinrichtung und Start-up. Das Institut ist noch im Aufbau, was bedeutet: kurze Wege, viel Einblick, viel Verantwortung und wer eigene Ideen mitbringt kann die hier auch wirklich einbringen und umsetzen, nicht irgendwann, sondern von Anfang an.\n\nGesucht wird eine studentische Hilfskraft direkt im Leitungsbüro, 14 bis 20 Stunden die Woche, 18 Euro (brutto) die Stunde (also bis zu 1440 Euro im Monat (brutto)). Die formalen Aufgaben sind Terminmanagement, Korrespondenz, Social Media und Öffentlichkeitsarbeit sowie die Vorbereitung von Veranstaltungen. Aber gerade weil das Institut noch wächst, gibt es daneben echten Spielraum: wer Lust hat, an Themen, Formaten oder Projekten mitzudenken und mitzugestalten, findet hier den Platz dafür.\n\nPasst gut, wenn ihr IB, PoWi, Sozialwissenschaften, BWL, Kommunikation, oder etwas anderes passendes studiert. Bewerbungsschluss ist der 27. April, Unterlagen an personal@cyberintelligence.institute. Die vollständige Ausschreibung hängt unten dran.\n\nBei Fragen einfach melden.\n\nLiebe Grüße\n\nOle\n\nP.S. Wir suchen auch eine/n Jurist*in Legal Tech, eine/n Digital Content Creator für einen Podcast zur digitalen Transformation und (ab übernächster Woche) eine/n Project Manager*in. Mehr Informationen zu diesen Stellen findet ihr auch auf unserer Website: https://cyberintelligence.institute/jobs-und-karriere\n\nOle Spillner\nExecutive Assistant\n\nOle.Spillner@cyberintelligence.institute<mailto:Michael.Littger@cyberintelligence.institute>\n\nM: +49 1<tel:+4915158435718>60 682 7193\n\n\ncyberintelligence.institute\n\nAm Kupfergraben 6\n10117 Berlin // Germany\nwww.cyberintelligence.institute<http://www.cyberintelligence.institute/>\n\nFrankfurt a. M. // Berlin // München // New York City\n\n\n[signature_913601352]\n\n\n\n--\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b92b7172/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : img-9d96054b-3e3f-4a54-ba09-1b8c280330fa\nDateityp    : application/octet-stream\nDateigröße  : 867628 bytes\nBeschreibung: img-9d96054b-3e3f-4a54-ba09-1b8c280330fa\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b92b7172/attachment.obj>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : CII-Student Assistant_FIN2603.pdf\nDateityp    : application/pdf\nDateigröße  : 125893 bytes\nBeschreibung: CII-Student Assistant_FIN2603.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b92b7172/attachment.pdf>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "eu",
+        "sozialwissenschaft",
+        "think tank"
+      ],
+      "id": "04f12e16e31d28c3"
+    },
+    {
+      "subject": "Apply Now: Summer School 2026 on \"Normative Arguments and Practical Implications\" (30.08. - 03.09.2026)",
+      "from": "Manon Filler <manon.filler@ethicsinbusiness.eu>",
+      "date": "Fri, 17 Apr 2026 14:38:14 +0200 (CEST)",
+      "dateUtc": "2026-04-17T12:38:14+00:00",
+      "organization": "Unknown",
+      "positionType": "PhD",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://survey.ethicalcloud.de/index.php/734648?lang=en",
+        "https://doctoral-academy.de/"
+      ],
+      "snippet": "Dear friends and colleagues,\n \nWe are very pleased to announce that the Summer School ?Normative Arguments and Practical Implications? (6 ECTS) of the Doctoral Academy will take place in Wittenberg, Germany, from 30 August to 3 September 2026.\n \nThe program is designed for max. 20 PhD candidates in philosophy, management, economics, political science, and related fields who are interested in strengthening the normative foundations of their research in business ethics and adjacent areas. The Summer School guides participants from the fundamentals of normative argumentation to their application in contemporary debates such as AI ethics, leadership ethics, and political corporate responsibility.\n \nParticipants will engage in lectures, interactive workshops, and discussions on topics such as:\n \n--- The structure of normative arguments and the role of empirical insights in ethical reasoning (Prof. Lisa Schmalzried & Prof. Matthew Caulfield)\n--- Ordonomic reasoning and institutional perspectives in business ethics (Prof. Ingo Pies)\n--- Publishing Normative Work in Business Ethics Journals (Prof. Patrick Haack, Prof. Lauren Wang Kaufmann, Prof. Ulrich Gilbert)\n--- As well as sessions on concrete applications in urgent debates such as Leadership ethics (Prof. Marco Meyer) or Political corporate responsibility (Prof. Markus Scholz), including a company visit to TESVOLT Headquarter for \"Insight into lived holacracy\"\n \nIn addition, participants have the opportunity to present their own research projects and receive constructive feedback from peers and faculty in a supportive interdisciplinary environment.\n \nParticipants may earn 6 ECTS credits, and an Early-Bird rate (€100) is available for applications submitted by June 26, 2026 (standard fee: €150 afterward). We will send out acceptance letters on a rolling basis so our spots may fill out soon!\n \nApply here: https://survey.ethicalcloud.de/index.php/734648?lang=en\n \nMore information on the program is available here: https://doctoral-academy.de/\n \nIf you have colleagues or doctoral researchers in your network who may be interested, please feel free to forward this invitation. If you have any questions, don?t hesitate to reach out. We would be very happy to welcome you again (or meet you for the first time) in Wittenberg.\n \nYour team of the Doctoral Academy,\nProf. Philipp Schreck, Manon Filler & Tatjana Arnold\n \n..................................................................................\n \nWittenberg-Zentrum für Globale Ethik e.V.\nSchlossstraße 10\n06886 Lutherstadt Wittenberg\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/7c6ffc6f/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "ai",
+        "political science"
+      ],
+      "id": "d244a8978f98e207"
+    },
+    {
+      "subject": "Service Civil International - Ausschreibung Praktikant*in als Unterstützung für unseren LTV-Bereich",
+      "from": "tamara.puerto@sci-d.de",
+      "date": "Fri, 17 Apr 2026 13:45:28 +0200 (CEST)",
+      "dateUtc": "2026-04-17T11:45:28+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/3a6d2d7c/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "30ac04a2a5f0f7c4"
+    },
+    {
+      "subject": "Veranstaltung, Crisis in the Middle East, 21. April",
+      "from": "Frances Eden <eden@aspeninstitute.de>",
+      "date": "Fri, 17 Apr 2026 11:34:34 +0000",
+      "dateUtc": "2026-04-17T11:34:34+00:00",
+      "organization": "Institute Deutschland lädt Sie herzlich ein zu einer Deep Dive Discussion: \"Crisis in the Middle East: Iran",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zs9aaV6Cik6rdU-FokWJAFQOrX0uTeBDjlog8dLR_mJUNjM1SlVNNkNXSUtORjFLQjlDN0NLVDg3SS4u"
+      ],
+      "snippet": "Das Aspen Institute Deutschland lädt Sie herzlich ein zu einer Deep Dive Discussion: \"Crisis in the Middle East: Iran, Israel, and the Risk of Regional Collapse?. Die Veranstaltung findet am 21. April 2026 von 8:30 bis 10:00 Uhr im Aspen Institute Germany statt.\n\n\nZusammen wollen wir diskutieren: Was sind die tatsächlichen strategischen Ziele der USA und Israels in diesem Krieg ? Abschreckung, Eindämmung oder Regimewechsel? Wie wahrscheinlich ist eine weitere Eskalation oder Ausweitung des Konflikts? Welche Rolle spielen regionale Akteure ? insbesondere in der Golfregion und im östlichen Mittelmeer? Wie beeinflussen externe Mächte militärische Kalkulationen und mögliche diplomatische Optionen? Und welche Auswirkungen ergeben sich daraus für Europa?\n\n\nAuf dem Panel begrüßen wir: Dr. Cornelius Adebahr, Prof. Dr. Reza Asghari, Prof. Dr. Naika Foroutan, Dr. Hans-Jakob Schindler und Simon Vaut.\n\n\nDie Veranstaltung findet auf Englisch und unter der Chatham House Rule statt:\n\nRegistrieren Sie sich hier:Deep Dive: Crisis in the Middle East: Iran, Israel and the Risk of Regional Collapse ? Formular ausfüllen<https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Zs9aaV6Cik6rdU-FokWJAFQOrX0uTeBDjlog8dLR_mJUNjM1SlVNNkNXSUtORjFLQjlDN0NLVDg3SS4u>\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b4e0210b/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "eu"
+      ],
+      "id": "f4d8205180c1396a"
+    },
+    {
+      "subject": "Veranstaltung Frauenrechte El Salvador",
+      "from": "info@amnesty-maf-berlin.de",
+      "date": "Fri, 17 Apr 2026 11:51:59 +0200",
+      "dateUtc": "2026-04-17T09:51:59+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Hallo,\n\nAm 18.5. berichtet die Aktivistin Teodora Vasquez aus El Salvador in \nBerlin über ihre eigene Geschichte und ihre Arbeit zur Kriminalisierung \nvon ungewollten Schwangerschaftsabbrüchen in El Salvador. In \nZusammenarbeit mit der Heinrich-Böll-Stiftung und Ulle Schauws von den \nGrünen diskutieren wir die wichtige Arbeit Teodoras und den weltweiten \nTrend in Richtung der Unterdrückung reproduktiver Rechte und Bildung \nsowie die zunehmende systematische Gewalt gegen Frauen im \ninternationalen Kontext.\n\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Flyer Teodora.pdf\nDateityp    : application/pdf\nDateigröße  : 1138546 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/dec1efea/attachment.pdf>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "stiftung"
+      ],
+      "id": "5cf2980724cf69cf"
+    },
+    {
+      "subject": "Briefing Conference on Transitioning Away from Fossil Fuels",
+      "from": "Wolfgang Obergassel <wolfgang.obergassel@wupperinst.org>",
+      "date": "Fri, 17 Apr 2026 10:59:01 +0200",
+      "dateUtc": "2026-04-17T08:59:01+00:00",
+      "organization": "Institut hatte die Ehre",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/786412/ECTI_BRI(2026"
+      ],
+      "snippet": "Liebe Kolleg*innen,\n\nvielleicht von Interesse, das Wuppertal Institut hatte die Ehre, für das ENVI-Kommittee des Europäischen Parlaments ein Briefing zur First International Conference on Transitioning Away from Fossil Fuels zu schreiben.\n\nhttps://www.europarl.europa.eu/RegData/etudes/BRIE/2026/786412/ECTI_BRI(2026)786412_EN.pdf\n\nThe briefing  outlines: \n-TAFF in the context of the UNFCCC.\n- drivers and barriers of the transition. \n- parallel initiatives and EU action for the phase-out of fossil fuels.\n- the key topics and set-up of the conference.\n\nKey insights:\n- Despite falling renewable energy costs, the transition away from fossil fuels is impeded by systemic macroeconomic and institutional ?lock-ins?.\n- The conference is an example of two-tier multilateralism, aiming to complement the consensus-based process of the climate COPs through a more ambitious 'coalition of the willing'.\n- Potential outcomes could include a second wave of signatories to the Belém Declaration on TAFF, a shift to implementation, transparency tools, legal reforms, and input into the Global TAFF Roadmap.\n\nViele Grüße,\n\nWolfgang Obergassel\n\n--\nWolfgang Obergassel, geb. Sterk\nCo-Leiter Forschungsbereich Internationale Klimapolitik - Abteilung Energie-, Verkehrs- und Klimapolitik\nWuppertal Institut für Klima, Umwelt, Energie - Döppersberg 19 - 42103 Wuppertal\nTel. 0202 2492 149\n@obergassel\n\n\n-- \nWuppertal Institut fuer Klima, Umwelt, Energie gGmbH l Sitz der \nGesellschaft/Registered Office: Wuppertal, Germany;\nRegistergericht/Registered at: Amtsgericht Wuppertal, Germany l \nEintragungs-Nr./Registration no.: HRB 7619; \nUSt.-ID Nr./VAT ID No.: DE 121 \n091 633\nPraesident und wissenschaftlicher Geschaeftsfuehrer/ President and \nScientific Managing Director: Prof. Dr. Manfred Fischedick\nKaufmaennischer \nGeschaeftsfuehrer/ Administrative Managing Director: Michael Dedek\nAufsichtsratsvorsitzende/Chairwoman of the Supervisory Board: \nStaatssekretaerin/State Secretary Silke Krebs\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/8c3a58e0/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 67, Eintrag 14\n******************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 4,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "politik",
+        "eu",
+        "klimapolitik"
+      ],
+      "id": "ffa04f286ec108be"
+    },
+    {
+      "subject": "INVITATION: Nuke-Conference (1-3 June, LOCCUM)",
+      "from": "\"Mueller-Faerber, Thomas\" <Thomas.Mueller-Faerber@evlka.de>",
+      "date": "Fri, 17 Apr 2026 07:59:46 +0000",
+      "dateUtc": "2026-04-17T07:59:46+00:00",
+      "organization": "LOCCUM)",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.loccum.de/tagungen/2624/",
+        "https://www.loccum.de/tagungsanmeldung/?nummer=2624"
+      ],
+      "snippet": "+++ INVITATION +++\n\nAT THE EDGE?\nHow Europe Should Respond to Nuclear Threats\n1 - 3 June 2026, Protestant Academy Loccum\n\nEurope is confronted with a newly emerging nuclear order. With Russia's ongoing nuclear saber-rattling, growing arsenals in China, and modernization of atomic weapons programs underway among larger and smaller nuclear powers, the danger of nuclear threats is once again at the forefront of everyone's minds. This comes at a time when the transatlantic relationship is cooling rapidly, which is also affecting the traditional US extended deterrence for Europe. Therefore, calls for credible deterrence in Europe are growing louder, as are demands for increased efforts to reduce nuclear risk. At the same time, initiatives continue to work towards complete nuclear disarmament. So, what is the best way to address the growing nuclear threat in Europe?\n\nIn early June, we are organizing an international conference on this topic at the Protestant Academy Loccum, bringing together renowned experts, practitioners, decision-makers and activists from all over Europe.\n\nWe would be delighted to welcome you to the conference here in Loccum in early June!\n\nThe draft program is available via this link:  https://www.loccum.de/tagungen/2624/\n\nIf you would like to secure one of the rare places, you can access the registration form via this link: https://www.loccum.de/tagungsanmeldung/?nummer=2624\n\nWith best regards from Loccum,\nThomas Müller-Färber\n\n_____________________________\nDr. Thomas Müller-Färber\nProgram Director\nInternational Affairs\nProtestant Academy Loccum\nMünchehäger Str. 6\n31547 Loccum (Germany)\nT:   + 49 (0) 5766 81 109\nM: + 49 (0) 162 75 12 570\nThomas.Mueller-Faerber@evlka.de<mailto:Thomas.Mueller-Faerber@evlka.de>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/68291ad7/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "eu"
+      ],
+      "id": "0f3d6e960d14fc28"
+    },
+    {
+      "subject": "Global Politics in Flames: Is the End of Fossil Fuels Near?",
+      "from": "Christina Rode <christina.rode@fu-berlin.de>",
+      "date": "Fri, 17 Apr 2026 08:57:43 +0200",
+      "dateUtc": "2026-04-17T06:57:43+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://calendar.boell.de/en/event/global-politics-flames-end-fossil-fuels-near",
+        "https://www.medico.de/"
+      ],
+      "snippet": "Dear List,\n\nis the end of fossil fuels near? Register here for the panel discussion \non 21 April: \nhttps://calendar.boell.de/en/event/global-politics-flames-end-fossil-fuels-near\n\nThe U.S. and Israeli attacks on Iran are a stark reminder that \ndependence on fossil fuels does not create security: it fuels conflicts, \ndestabilizes markets, and drives up energy prices worldwide. The \nconsequences include severe supply shortages, particularly in the Global \nSouth, but their effects have long been felt here as well.\n\nAt the same time, an international movement is gaining momentum. At the \nend of April, Colombia will host the first conference dedicated to \nphasing out fossil fuels, bringing together an /\"Alliance of the \nWilling\"/ to agree on concrete steps toward a post-fossil era.\n\nEurope faces a dual challenge: escalating climate disasters on one hand, \nand a fragile energy supply amid compounding geopolitical crises ? from \nUkraine to the Middle East ? on the other. Yet political responses in \nGermany and across Europe continue to lean on fossil fuels and high-risk \ntechnologies such as fracking and nuclear power.\n\nThe alternative is clear: renewable energy is both climate-friendly and \ncrisis-resilient. The sun and wind cannot be sanctioned, blockaded, or \nweaponized.\n\nSo how do we achieve an energy transition that is not only ecologically \nsound, but also socially just ? one that responds to geopolitical \nupheaval without fueling the political shift to the right?\n\nWe want to discuss these questions and bring together voices from \npolitics and grassroots movements as well as develop concrete approaches \nfor a sustainable energy future.\n\nPanelists:\n\n  * *Luis Alvaro Pardo* - Colombian economist specializing in mining and\n    energy law, and constitutional law in the Petro administration\n  * *Susanne Götze* -  Journalist and author on climate issues for media\n    outlets incl. Deutschlandfunk, Spiegel, and ZEIT\n  * *Tonny Noshwin* - Activist for Degrowth and Climate Justice, The\n    Sunrise Project\n  * *Karin Zennig* - Policy analyst for climate justice and South Asia\n    at medico international\n\nFacilitation: *Linda Schneider* - Senior Programme Officer International \nClimate and Energy Policy, Heinrich-Böll-Stiftung\n\nThere will be interpretation to German, English and Spanish.\n\nThe event is a cooperation of medico international \n<https://www.medico.de/> and Heinrich-Böll-Stiftung. Participation is \nfree of charge, registration is not necessary.\n\n*Contact:* Kristin Funke - funke@boell.de\n\n*Location:* *Spore Haus*, Hermannstraße 86, 12051 Berlin-Neukölln\nPublic transport: U8 (U-Bahnhof Leinestraße) and the Ringbahn (S-Bahnhof \nHermannstraße, accessible by elevator).\n\n\n\n-- \nDiese E-Mail wurde von Avast-Antivirussoftware auf Viren geprüft.\nwww.avast.com\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b057f1ac/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 4,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "policy",
+        "eu",
+        "stiftung"
+      ],
+      "id": "60c525cc5d44f777"
+    },
+    {
+      "subject": "Event: Pockets of Restraint in Violent Security Forces",
+      "from": "Press | American Academy in Berlin <press@americanacademy.de>",
+      "date": "Thu, 16 Apr 2026 12:18:53 +0000",
+      "dateUtc": "2026-04-16T12:18:53+00:00",
+      "organization": "University\nWhen?",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.americanacademy.de/event/pockets-of-restraint-in-violent-security-forces/",
+        "https://www.americanacademy.de/",
+        "https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?",
+        "https://www.americanacademy.de/data-processing-information/"
+      ],
+      "snippet": "The American Academy in Berlin cordially invites you to the event: \"Pockets of Restraint in Violent Security Forces\"\nDescription:\nIn democracies and autocracies across the world, security forces respond to protests in varying ways?some obey repressive orders, some are amenable to democratic reforms, some show restraint, and some use excessive force. Why is this? Whereas most contemporary studies focus on these differences within individual countries, Sabrina Karim looks more globally at the underlying causes for such differentiation across nations by considering sociological categories such as sex, military rank, social networks, leadership experience, gender equality, training, UN peacekeeping experience, exposure to combat, and participation in different units. In so doing, Karim outlines a broader understanding of when and why resistance to following orders occurs and illuminates its causes at the individual, unit, and institutional level.\nSpeaker:\nSabrina Karim, Associate Professor in Government, Cornell University\nWhen?\nThursday, April 23, 2026\n7:30-9 PM\n\nWhere?\nAmerican Academy in Berlin\nAm Sandwerder 17-19\n14109 Berlin-Wannsee\n\nFree entry. Details & registration: https://www.americanacademy.de/event/pockets-of-restraint-in-violent-security-forces/\n\nVisit our website: https://www.americanacademy.de/\nSubscribe to our newsletter: https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?\n\n\n\nAmerican Academy in Berlin GmbH\nAm Sandwerder 17-19 | D-14109 Berlin\n\nAmerican Academy in Berlin GmbH | Handelsregister Charlottenburg HRB 64272 | Geschäftsführer: Daniel S. Benjamin, Christian U. Diehl, Sandra E. Peterson\n\nData Processing Information: https://www.americanacademy.de/data-processing-information/\n\nThis e-mail, and any attachment thereto, contains privileged and confidential information intended only for the use of the individual or entity named on the e-mail. It may further contain information protected by intellectual property rights for the exclusive attention of the intended addressees named above. If the reader of this e-mail is not the intended recipient, or the employee or agent responsible for delivering it to the intended recipient, you are hereby notified that reading, disseminating, partial copying or disclosure of any of the information contained herein is strictly prohibited and may be unlawful. If you have received this e-mail in error, please immediately return it to the sender and delete it from your system. Thank you.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/1f28f556/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "government",
+        "peace"
+      ],
+      "id": "8258081cadb484d9"
+    },
+    {
+      "subject": "Spannende Vakanz für die ib-Liste: Grants Manager (m/w/d) bei CORRECTIV",
+      "from": "Antoine Otter <antoine.otter@correctiv.org>",
+      "date": "Thu, 16 Apr 2026 13:33:06 +0200",
+      "dateUtc": "2026-04-16T11:33:06+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://correctiv.jobs.personio.de/job/2599514",
+        "https://correctiv.org",
+        "https://correctiv.org/spotlight",
+        "https://correctiv.org/unterstuetzen"
+      ],
+      "snippet": "Liebes Team der ib-Liste,\n\ndurch einen persönlichen Kontakt wurde ich darauf aufmerksam gemacht, \ndass folgende Ausschreibung von uns für die Abonnenten der ib-Liste \nspanned sein könnt. Bei CORRECTIV**suchen wir eine*n Grants Manager*in \nFinanzen & Administration mit Schwerpunkt EU-Mittel.\n\nCORRECTIV ist ein gemeinwohlorientiertes Medienhaus, das Demokratie \nstärkt. Als vielfach ausgezeichnete Redaktion stehen wir für \ninvestigativen Journalismus. Wir lösen öffentliche Debatten aus, \narbeiten mit Bürgerinnen und Bürgern an unseren Recherchen und fördern \ndie Gesellschaft mit unseren Bildungsprogrammen.\n\nDa die Stelle perfekt zur Expertise Ihrer Zielgruppe passt, wäre es \ngroßartig, wenn Sie die Ausschreibung in der ib-Liste erwähnen \nkönnten. Die Ausschreibung finden Sie hier \n<https://correctiv.jobs.personio.de/job/2599514>.\n\nFalls Sie für die Aufnahme in die Liste noch Infos von meiner Seite \nbenötigen oder dies über ein festes Format läuft, lassen Sie es mich \ngerne wissen. Ich freue mich, wenn wir so qualifizierte Talente und \nsinnstiftende Arbeit zusammenbringen.\n\nMit freundlichen Grüßen\n\nAntoine Otter\n\n-- \n\nAntoine Otter (he/him)\nHead Of Human Resources\n\nCORRECTIV ? Recherchen für die Gesellschaft\n\nantoine.otter@correctiv.org\n+49 160 938 20 667\n\nhttps:// correctiv.org <https://correctiv.org>\nLicht an. Für unsere Demokratie. Spotlight ? die Tageszeitung von \nCORRECTIV als kostenloser Newsletter. Hier abonnieren:\nhttps:// correctiv.org/spotlight <https://correctiv.org/spotlight>\n\n\n\nErmöglichen Sie unsere Arbeit mit einer Spende: \nhttps://correctiv.org/unterstuetzen <https://correctiv.org/unterstuetzen>\n\nBüro Essen: Akazienallee 10, 45127 Essen\nBüro Berlin: Hermannstraße 90, 12051 Berlin\n------------------------------------------------------------------------\n\nCORRECTIV - Recherchen für die Gesellschaft gemeinnützige GmbH\nSitz: Huyssenallee 11 | 45128 Essen | Handelsregister Essen | HRB 25135\nGeschäftsführung: David Schraven (Publisher)\nProkura: Florence Wild (CDO, ppa.), Saadet Andirinli (COO, ppa.), \nChristina Averkamp (ppa.)\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : CORRECTIV-Spotlight_Signatur.png\nDateityp    : image/png\nDateigröße  : 7956 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : OpenPGP_0x606420B0FBD1634A.asc\nDateityp    : application/pgp-keys\nDateigröße  : 660 bytes\nBeschreibung: OpenPGP public key\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.asc>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : OpenPGP_signature.asc\nDateityp    : application/pgp-signature\nDateigröße  : 236 bytes\nBeschreibung: OpenPGP digital signature\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.sig>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "eu"
+      ],
+      "id": "fcdcf61bad8b1945"
+    },
+    {
+      "subject": "Re: [ib-liste] Internship at IPPNW Germany ? Department of Social Responsibility | Berlin | Summer 2026",
+      "from": "Kayra Hohmann Akbulak <hohmann@ippnw.de>",
+      "date": "Thu, 16 Apr 2026 11:57:23 +0200",
+      "dateUtc": "2026-04-16T09:57:23+00:00",
+      "organization": "Unknown",
+      "positionType": "Internship",
+      "deadline": "*May 30, 2026",
+      "deadlineDate": "2026-05-30",
+      "links": [
+        "http://www.ippnw.de/",
+        "https://www.health-and-globalisation.org/summer-school",
+        "https://www.ippnw.de",
+        "https://secure.spendenbank.de/form/2454/?langid=1&verwendungszweck=33071"
+      ],
+      "snippet": "Dear all,\n\nIPPNW Germany <http://www.ippnw.de/>offers a minimum eight-week, ideally \n12-week,*internship in the Department of Social Responsibility* in \nBerlin. The start date is flexible between July 13 and August 10, 2026, \nwith the internship ending on October 5, 2026.\n\n*Your responsibilities include:*\n\n  * Supporting the planning and implementation of the *Global Health\n    Summer School* /?//From Health to Conflict in Medical Peace Work/\n    <https://www.health-and-globalisation.org/summer-school>/?/ from\n    September 13 ? 19, 2026\n  * Supporting the planning and implementation of a one-day conference\n    on /?Attacks on Health?/, co-organized with medico international on\n    September 12, 2026\n  * Communicating with participants and invited guest speakers\n  * Creating preparatory materials for participants (e.g. a handbook)\n  * Supporting the wrap-up and evaluation of the program\n\n*Your profile:*\n\n  * Interest in global health and/or medical peace work\n  * Strong English skills; basic knowledge of German\n  * Organizational talent, communication skills, and reliability\n  * Experience in event organization and social media is an advantage\n\n*Internship conditions:*\n\n  * Duration: minimum of 8 weeks\n  * Compensation: €450/month for mandatory internships; up to €840 as a\n    one-time allowance for voluntary internships\n  * Application deadline:*May 30, 2026. *\n    Please note that we are reviewing applications and conducting\n    interviews on a rolling basis. The internship position may be filled\n    before the stated deadline.\n\n\nWe particularly encourage applications from individuals who experience \nsystemic discrimination, including but not limited to: people with \ndisabilities, BIPoC, migrants, refugees, LGBTQI+ individuals, and women.\n\nIf you are interested in the internship position, we look forward to \nreceiving your *application latest by May 30, 2026* (short letter of \nmotivation, CV, and, if applicable, proof of a mandatory internship as \npart of your studies).\n\nPlease send all documents*in one pdf to Kayra *at hohmann@ippnw.de and \nfeel free to contact us if you have further questions.\n\nWarm regards,\n\n-- \nKayra Hohmann Akbulak (sie/ihr) Mitarbeiter*in für den Bereich Soziale \nVerantwortung IPPNW e. V. <https://www.ippnw.de> Frankfurter Allee 3, \n10247 Berlin +49-(0)30-698074-11 Gemeinsam arbeiten wir für Frieden und \neine Welt ohne atomare Bedrohungen. Jetzt spenden \n<https://secure.spendenbank.de/form/2454/?langid=1&verwendungszweck=33071>. \nSpendenkonto: IPPNW e.V. ? GLS Gemeinschaftsbank, IBAN: DE 23 4306 0967 \n1159 3251 01\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/0b8e35d9/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : IPPNW_Internship_Global Health 2026.pdf\nDateityp    : application/pdf\nDateigröße  : 523212 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/0b8e35d9/attachment.pdf>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 67, Eintrag 13\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "evaluation",
+        "peace"
+      ],
+      "id": "0ee77fdfa51a06f3"
+    },
+    {
+      "subject": "Projektwoche: Gemeinsam einstehen für Demokratie und globale Solidarität in NRW, Thüringen und weltweit",
+      "from": "Svenja Bloom <svenjabloom@gmail.com>",
+      "date": "Thu, 16 Apr 2026 09:14:20 +0200",
+      "dateUtc": "2026-04-16T07:14:20+00:00",
+      "organization": "Thüringen und weltweit",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.eine-welt-netz-nrw.de/jugendprojekt-gemeinsam-einstehen-fuer-demokratie-und-globale-solidaritaet-in-nrw-thueringen-und-weltweit/",
+        "https://eine-welt-netz-nrw.de/mitglied_werden/",
+        "http://www.instagram.com/eineweltnetznrw_ev"
+      ],
+      "snippet": "Die Eine-Welt-Landesnetzwerke in Thüringen und NRW laden junge Menschen\nzwischen 18 und 30 ein zu einer Seminarwoche zum Thema Demokratie und\nglobale Gerechtigkeit. Vom 31.05.-06.06.2026 werden wir uns in Düsseldorf\nund Erfurt treffen, um über globale Krisen, die die Demokratien weltweit\nbedrohen, zu sprechen und Strategien für zivilgesellschaftliches Engagement\ndiskutieren. Gemeinsam entwickeln wir kleine und große Aktionen, mit denen\nwir uns für eine weltoffene und solidarische Gesellschaft einsetzen.\n\nProgramm (vorläufig):\n\n   - Treffen und Austausch mit Politiker*innen im Landtag\n   - Austauschrunden zur politischen Lage in NRW und Thüringen\n   - Workshop zu globalen Demokratiekrisen mit Austausch mit jungen\n   Aktivist*innen aus voraussichtlich Ungarn, Georgien und Serbien\n   - Workshop zu kreativem Aktivismus und Social Media\n   - Workshop Betzavta-Methode\n   - außerdem viel informelles Kennenlernen, Spiele, Natur?\n\nAlle Infos und den Link zur Anmeldung findet ihr hier:\nhttps://www.eine-welt-netz-nrw.de/jugendprojekt-gemeinsam-einstehen-fuer-demokratie-und-globale-solidaritaet-in-nrw-thueringen-und-weltweit/\n\nViele Grüße!\n\n*Svenja Bloom (sie/ihr) *\n\n\n\n*Fachpromotorin für Junges Engagement | Projektreferentin Demokratie\nweltweit gestalten | Projektleiterin Feminist Transnational Caravan |\nProjektentwicklung Eine Welt Netz NRW*\n\n\n\n[image: RB24 Mail-Signatur]\n\nEine Welt Netz NRW e.V. | Achtermannstr. 10-12 | 48143 Münster\n\nTel: 0251-284669-27\n\nMail: svenja.bloom@eine-welt-netz-nrw.de\n\nwww.eine-welt-netz-nrw.de\n\n*Jetzt Mitglied werden* <https://eine-welt-netz-nrw.de/mitglied_werden/>*\nund ?Gemeinsam mehr bewegen?! Folg uns auf Instagram\n<http://www.instagram.com/eineweltnetznrw_ev>!*\n\n*gerne per du*\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/6a0ec498/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image.png\nDateityp    : image/png\nDateigröße  : 12424 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/6a0ec498/attachment.png>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "politik"
+      ],
+      "id": "696cf0dfcc96b0db"
+    },
+    {
+      "subject": "Braucht die Zukunft überhaupt noch Bildung?",
+      "from": "Kaiya Reisch <kaiya.reisch@gmail.com>",
+      "date": "Thu, 16 Apr 2026 08:26:38 +0200",
+      "dateUtc": "2026-04-16T06:26:38+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "[image: :datum:]  *Einladung ? Berliner Stiftungswoche x Lern-Fair*\n\n[image: :sprechblase:] Wie gestalten wir eine Bildungslandschaft, die für\nalle funktioniert?\nAm 21. April (18:00?19:00 Uhr) sprechen wir genau darüber:\n[image: :nach_rechts_zeigen:] *?Warum die Zukunft Bildungsgerechtigkeit\nbraucht?*\n\nGemeinsam mit Katharina Bach werfen wir einen Blick auf zentrale Fragen:\n\n   - Was kostet uns Bildungsungleichheit in zehn Jahren?\n   - Ist Bildung unsere wichtigste Zukunftsinfrastruktur?\n   - Und welche Rolle können digitale, gemeinnützige Lösungen spielen?\n\n\n\n[image: :glühbirne:] *Im Anschluss wird?s interaktiv:*\nIn einer offenen Q&A-Session geht es um eure Perspektiven, Erfahrungen und\nIdeen. Ich habe die Ehre die Veranstaltung zu moderieren und freue mich auf\nzahlreiche Gesichter von euch!\n\n[image: :nach_rechts_zeigen:] Seid dabei und bringt eure Perspektive ein.\n[image: :umschlag_mit_pfeil:] Zoom-Link folgt nach Anmeldung mit Mail\nan: *socialmedia@lern-fair.de\n<socialmedia@lern-fair.de>*\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/5a2641d4/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "eu",
+        "stiftung"
+      ],
+      "id": "4e448e0d29587801"
+    },
+    {
+      "subject": "EU NATO Summit Berlin 2026 for students and young professionals",
+      "from": "\"Alisa Grunert\" <alisa.grunert@europeanforum.de>",
+      "date": "Wed, 15 Apr 2026 20:04:26 +0200 (CEST)",
+      "dateUtc": "2026-04-15T18:04:26+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/1263850e/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "f67b3d63aa2f9c7a"
+    },
+    {
+      "subject": "Aktuelle Lage Libanon: Bericht live aus Beirut ? Freitag, 17.4. um 18 Uhr",
+      "from": "Alsharq Reise <info@alsharq-reise.de>",
+      "date": "Wed, 15 Apr 2026 17:25:53 +0000",
+      "dateUtc": "2026-04-15T17:25:53+00:00",
+      "organization": "17.4. um 18 Uhr",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.alsharq-reise.de/de/tour/ferngesprach-all-eyes-lebanon",
+        "http://www.alsharq-reise.de/"
+      ],
+      "snippet": "Im Rahmen des Angriffskriegs gegen den Iran begann Israel am 16. März eine Bodenoffensive im südlichen Libanon, begleitet von landesweiten Luftschlägen. Die Eskalation führte innerhalb kürzester Zeit zu über 2.000 Toten und mehr als 7.000 Verletzten (trotz Waffenstillstand). Fast eine Million Menschen mussten ihre Häuser verlassen und in andere Landesteile flüchten.\n\nDiesen Freitag berichtet unsere Kollegin Julia Neumann, freie Journalistin und Korrespondentin für taz die tageszeitung, live aus Beirut in einer kostenlosen Veranstaltung über die aktuelle Lage.\n\nTeilnahme ist kostenlos über Zoom. Mehr infos und Anmeldung: https://www.alsharq-reise.de/de/tour/ferngesprach-all-eyes-lebanon\n\nAlsharq Reise GmbH\nc/o Tuesday Coworking\nPflügerstrasse 18\nDE 12047 Berlin\n\nTel 004930403637210\nwww.alsharq-reise.de<http://www.alsharq-reise.de/>\ninfo@alsharq-reise.de<mailto:info@alsharq-reise.de>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/d1fe53f6/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "ead91964431a4945"
+    },
+    {
+      "subject": "Praktikumsstelle - Bitte um Veröffentlichung der Ausschreibung",
+      "from": "\"Simon, Verena GIZ\" <verena.simon@giz.de>",
+      "date": "Wed, 15 Apr 2026 13:48:45 +0000",
+      "dateUtc": "2026-04-15T13:48:45+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://jobs.giz.de/index.php?ac=jobad&id=78120",
+        "http://www.giz.de/"
+      ],
+      "snippet": "Sehr geehrte Damen und Herren,\n\nanbei finden Sie die Ausschreibung für unsere neue Praktikumsstelle im Vorhaben \"Bilaterale Energiepartnerschaften\":\nStellenanzeige: Praktikant (m/w/d) im Vorhaben \"Bilaterale Energiepartnerschaften\" | Karriereportal | Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH<https://jobs.giz.de/index.php?ac=jobad&id=78120>.\n\nWir würden uns sehr freuen, wenn Sie die Ausschreibung über Ihre Kanäle publizieren und uns so bei der Ansprache qualifizierter Kandidat*innen unterstützen könnten.\n\nFür Ihre Mithilfe bedanken wir uns herzlich.\n\nMit freundlichen Grüßen\nVerena Simon\n\nVerena Simon\nBilateral Energy Partnerships\n\nDeutsche Gesellschaft für\nInternationale Zusammenarbeit (GIZ) GmbH\nKöthener Str. 2\n10963 Berlin\nGermany\n\nE  verena.simon@giz.de\nI   www.giz.de<http://www.giz.de/>\n\n________________________________\nDeutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH;\nSitz der Gesellschaft Bonn und Eschborn/Registered offices Bonn and Eschborn, Germany;\nRegistergericht/Registered at Amtsgericht Bonn, Germany; Eintragungs-Nr./Registration no. HRB 18384 und/and Amtsgericht Frankfurt am Main, Germany; Eintragungs-Nr./Registration no. HRB 12394;\nUSt-IdNr./VAT ID no. DE 113891176;\nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Niels Annen;\nVorstand/Management Board: Thorsten Schaefer-Guembel (Vorstandssprecher/Chair), Ingrid-Gabriela Hoven (Stellvertretende Vorstandssprecherin/Vice-Chair), Anna Sophie Herken\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/f23b8104/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "eu"
+      ],
+      "id": "cc08537ebab29c4b"
+    },
+    {
+      "subject": "Event: How Tech Firms Shape Geopolitics",
+      "from": "Press | American Academy in Berlin <press@americanacademy.de>",
+      "date": "Wed, 15 Apr 2026 13:28:02 +0000",
+      "dateUtc": "2026-04-15T13:28:02+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.americanacademy.de/event/how-tech-firms-shape-geopolitics/",
+        "https://www.americanacademy.de/",
+        "https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?",
+        "https://www.americanacademy.de/data-processing-information/"
+      ],
+      "snippet": "The American Academy in Berlin cordially invites you to the event: \"How Tech Firms Shape Geopolitics\"\nDescription:\nThe United States has increasingly depended on privately owned technology companies to spur innovation and advance foreign-policy interests. During the 1990s, technology companies commercialized the internet, created the smartphone, built global social-media platforms, and promoted both an open, global internet and American power. During the AI age, the importance of the private sector and its centrality to innovation and defense modernization has only increased. In this talk, Adam Segal discusses how the tech industry has evolved from a relatively detached economic actor into one that wields significant political influence, shaping policy debates and national priorities. This shift, he argues, together with changes wrought by geopolitical competition ? above all with China ? has meant that the relationship between Silicon Valley and Washington has been dramatically remade. What does this mean for US national security and foreign policy interests in the near and the long term?\nSpeaker:\nAdam Segal, Ira A. Lipman Chair in Emerging Technologies and Director, Digital and Cyberspace Policy Program, Council on Foreign Relations\n\nWhen?\nWednesday, April 22, 2026\n6:30-8 PM\n\nWhere?\nUrania Berlin (Kleistsaal)\nAn der Urania 17\n10787 Berlin\n\nDetails & registration: https://www.americanacademy.de/event/how-tech-firms-shape-geopolitics/\n\nVisit our website: https://www.americanacademy.de/\nSubscribe to our newsletter: https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?\n\n\nAmerican Academy in Berlin GmbH\nAm Sandwerder 17-19 | D-14109 Berlin\n\n\nAmerican Academy in Berlin GmbH | Handelsregister Charlottenburg HRB 64272 | Geschäftsführer: Daniel S. Benjamin, Christian U. Diehl, Sandra E. Peterson\n\nData Processing Information: https://www.americanacademy.de/data-processing-information/\n\nThis e-mail, and any attachment thereto, contains privileged and confidential information intended only for the use of the individual or entity named on the e-mail. It may further contain information protected by intellectual property rights for the exclusive attention of the intended addressees named above. If the reader of this e-mail is not the intended recipient, or the employee or agent responsible for delivering it to the intended recipient, you are hereby notified that reading, disseminating, partial copying or disclosure of any of the information contained herein is strictly prohibited and may be unlawful. If you have received this e-mail in error, please immediately return it to the sender and delete it from your system. Thank you.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/3ebd04a6/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "ai",
+        "gis",
+        "policy"
+      ],
+      "id": "c89fcbdca56049d3"
+    },
+    {
+      "subject": "Event: How Tech Firms Shape Geopolitics",
+      "from": "Carolin Frederking <cf@americanacademy.de>",
+      "date": "Wed, 15 Apr 2026 13:25:49 +0000",
+      "dateUtc": "2026-04-15T13:25:49+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.americanacademy.de/event/how-tech-firms-shape-geopolitics/",
+        "https://www.americanacademy.de/",
+        "https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?",
+        "https://www.americanacademy.de/data-processing-information/"
+      ],
+      "snippet": "The American Academy in Berlin cordially invites you to the event: \"How Tech Firms Shape Geopolitics\"\n\nDescription:\n\nThe United States has increasingly depended on privately owned technology companies to spur innovation and advance foreign-policy interests. During the 1990s, technology companies commercialized the internet, created the smartphone, built global social-media platforms, and promoted both an open, global internet and American power. During the AI age, the importance of the private sector and its centrality to innovation and defense modernization has only increased. In this talk, Adam Segal discusses how the tech industry has evolved from a relatively detached economic actor into one that wields significant political influence, shaping policy debates and national priorities. This shift, he argues, together with changes wrought by geopolitical competition ? above all with China ? has meant that the relationship between Silicon Valley and Washington has been dramatically remade. What does this mean for US national security and foreign policy interests in the near and the long term?\n\nSpeaker:\n\nAdam Segal, Ira A. Lipman Chair in Emerging Technologies and Director, Digital and Cyberspace Policy Program, Council on Foreign Relations\n\nWhen?\nWednesday, April 22, 2026\n6:30-8 PM\n\nWhere?\nUrania Berlin (Kleistsaal)\nAn der Urania 17\n10787 Berlin\n\nDetails & registration: https://www.americanacademy.de/event/how-tech-firms-shape-geopolitics/\n\nVisit our website: https://www.americanacademy.de/\nSubscribe to our newsletter: https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?\n\n\n\nAmerican Academy in Berlin GmbH\nAm Sandwerder 17-19 | D-14109 Berlin\n\nAmerican Academy in Berlin GmbH | Handelsregister Charlottenburg HRB 64272 | Geschäftsführer: Daniel S. Benjamin, Christian U. Diehl, Sandra E. Peterson\n\nData Processing Information: https://www.americanacademy.de/data-processing-information/\n\nThis e-mail, and any attachment thereto, contains privileged and confidential information intended only for the use of the individual or entity named on the e-mail. It may further contain information protected by intellectual property rights for the exclusive attention of the intended addressees named above. If the reader of this e-mail is not the intended recipient, or the employee or agent responsible for delivering it to the intended recipient, you are hereby notified that reading, disseminating, partial copying or disclosure of any of the information contained herein is strictly prohibited and may be unlawful. If you have received this e-mail in error, please immediately return it to the sender and delete it from your system. Thank you.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/88c387ce/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "ai",
+        "gis",
+        "policy"
+      ],
+      "id": "ec79bad704dc4b81"
+    },
+    {
+      "subject": "Jobangebot Gesellschaft fu?r Informatik e.V.- Studentische Hilfskraft (SHK) (m/w/d) Proj. DeMasKI Öffentlichkeitsarbeit und Communitybetreuung",
+      "from": "\"Minke, Carolin\" <carolin.minke@gi.de>",
+      "date": "Wed, 15 Apr 2026 13:02:38 +0000",
+      "dateUtc": "2026-04-15T13:02:38+00:00",
+      "organization": "Universität Bamberg",
+      "positionType": "Student Assistant",
+      "deadline": "endet am 30",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Liebe Studierende,\ndie Berliner Geschäftsstelle der Gesellschaft für Informatik e.V. (GI), Sitz am Rosa-Luxemburg-Platz, sucht eine*n Studentische Hilfskraft (SHK) (m/w/d) für das Projekt DeMasKI Öffentlichkeitsarbeit.\nZum Projekt\nGemeinsam mit der TU Nürnberg, der Universität Bamberg, iRights und eduversum untersuchen wir, wie emotionalisierende Sprache rationale Argumentation untergräbt und demokratische Diskurse gefährdet. \n \nDafür analysieren wir Quellen aus verschiedenen Epochen und Formaten ? von antiken Texten über manipulative Rede bis zu heutigen Wahlkampfreden, Podcasts und Social-Media-Beiträgen. KI-gestützte Methoden sollen anschließend helfen, Muster anti-diskursiver Emotionalisierung zu erkennen und zu erklären, um Desinformation künftig früher identifizieren zu können. Die gewonnenen Erkenntnisse werden als Open Educational Resources und Demokratiedidaktik-Materialien in einer Open-Source-Toolbox aufbereitet ? und die Informatik-Community wird aktiv über Hackathons in den Prozess eingebunden.\nZur Stelle\nDie Arbeitszeit beträgt 16h/Woche. Die Tätigkeit wird mit 16,50 €/Std. für BA-Studierende und 17,50€/Std. bei bereits abgeschlossener Hochschulausbildung (Bachelor) oder äquivalenter Berufserfahrung vergütet. \nDie Bewerbungsfrist endet am 30. April 2026. \nDie Stelle soll zum 1. Juni 2026 besetzt werden. Gespräche werden ggf. schon früher geführt (rolling principle). \nDeine Aufgaben\nDu wirkst aktiv an der Planung, Organisation und Durchführung von zwei Hackathons mit ? an der Schnittstelle von Informatik und Desinformationsforschung\nDu entwickelst gemeinsam mit dem Team ein Interaktionskonzept, das die Fachcommunity vernetzt und zum Aufbau einer aktiven Community beiträgt \nDu pflegst die Projektwebseite, verfasst Meldungen und erstellst Beiträge für Social Media \n·         Du unterstützt die Entwicklung einer Open-Source-Toolbox, in der die Projektergebnisse und -materialien gebündelt zugänglich gemacht werden \nDein Profil\nDu bist an einer deutschen Hochschule eingeschrieben.\nDu hast erste Erfahrungen in der Veranstaltungsorganisation gesammelt (eventuell für Hackathons oder ähnliche Formate).\nDu interessierst dich für Themen rund um Desinformation.\nDu hast Lust, dich in neue Tools und Themen einzuarbeiten, und bringst eventuell bereits Erfahrungen mit Typo3 und/oder figma.\nDu arbeitest selbstständig, strukturiert, zuverlässig und sorgfältig.\nDu packst gern mit an und bringst auch gern eigene Ideen ein.\nDu verfügst über sehr gute Deutsch- und gute Englischkenntnisse. \nWir möchten dich auch dann zu einer Bewerbung ermutigen, wenn du das Gefühl hast nicht alle genannten Anforderungen zu erfüllen! \nWas wir Dir bieten \nWir glauben, dass eine erfüllende, fair bezahlte und zukunftsfähige Beschäftigung die Grundlage für unsere erfolgreiche Arbeit ist. \nDie grundlegenden Prinzipien findest du in unserem Code of Conduct festgeschrieben. Darüber hinaus erhalten alle in unserem Team folgende Leistungen: \nArbeitsplatz in unserem zentralen Büro in Berlin-Mitte mit kostenfreien Getränken und Obst\nArbeiten im Homeoffice nach Rücksprache\n30 Urlaubstage (bei Vollzeit)\n1 Menstruationstag im Monat für alle menstruierenden Menschen\nDeine Bewerbung\nBitte reiche folgende Unterlagen ausschließlich über unser Bewerbungsportal ein:\nTabellarischer Lebenslauf (ohne Foto, ohne Angabe des Geburtsdatums und des Familienstands)\nkurzes Motivationsschreiben (max. 1 Seite)\nAlle Bewerbungen werden unabhängig von kultureller und sozialer Herkunft, Geschlecht, Hautfarbe, Alter, Religion, Weltanschauung oder sexueller Orientierung nur auf die fachliche Qualifikation hin ausgewertet. Bewerbungen von Menschen mit Migrationshintergrund sind ausdrücklich erwünscht.\n\nFür inhaltliche Fragen wende dich bitte an Maja Denisova (maja.denisova@gi.de) #gernperDu \n\n \n\nWir freuen uns auf eure Bewerbungen!\n\n \n\nviele Grüße\n\n_____\n\nCarolin Minke\n\nPersonalmanagement \n\nGesellschaft für Informatik e.V. (GI)\n\n \n\nMail |Rechnungen | GI.DE\n\n+49 (0) 176 73 22 62 92\n\n \n\nGesellschaft für Informatik e.V.\n\nGeschäftsstelle Berlin \n\nWeydingerstraße 14-16\n\n10178 Berlin\n\n \n\n \n\n \n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/1583a998/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : smime.p7s\nDateityp    : application/pkcs7-signature\nDateigröße  : 4289 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/1583a998/attachment.p7s>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "r ",
+        "eu"
+      ],
+      "id": "0e7c1d762ddcf81c"
+    },
+    {
+      "subject": "[VACANCY] Teamleitung Datenentwicklungspool SOUNDS (m/w/d)",
+      "from": "Martin Ulrich <martin.ulrich@uni-saarland.de>",
+      "date": "Wed, 15 Apr 2026 11:30:52 +0000",
+      "dateUtc": "2026-04-15T11:30:52+00:00",
+      "organization": "Universität des Saarlandes (UdS)",
+      "positionType": "Position",
+      "deadline": "2",
+      "deadlineDate": null,
+      "links": [
+        "https://www.uni-saarland.de/en/researchers/sounds.html"
+      ],
+      "snippet": "Liebe alle,\n\nDas Societal Observatory Using Novel Data Sources (SOUNDS) ist ein interdisziplinäres Forschungsprojekt an der Universität des Saarlandes (UdS), gefördert durch den Transformationsfonds des Landes. Wir untersuchen gesellschaftliche Transformationsprozesse mithilfe innovativer Datenquellen wie Satellitenbildern, sozialen Medien und Barcode-Scannern ? mit dem Ziel, Computer- und Sozialwissenschaften zu vernetzen und den Einsatz datenintensiver Methoden in der Forschung zu stärken. Langfristig soll ein Institut entstehen, das auf den aufgebauten Strukturen basiert.\n\nWir bieten zum nächstmöglichen Zeitpunkt für das Societal Observatory Using Novel Data Sources (SOUNDS) folgende Stelle an:\nTeamleitung Datenentwicklungspool SOUNDS (m/w/d)\nKennziffer N2302, Vergütung nach TV-L, Entgeltgruppe E 14, Beschäftigungsdauer: bis 15.07.2032 mit Option auf Verlängerung, Beschäftigungsumfang: 100 % der tariflichen Arbeitszeit\n\nBewerbungsfrist: 2.5.2026\n\nWeitere Details finden Sie in der Stellenausschreibung im Anhang (sowohl auf Deutsch, als auch auf Englisch).\n\nMit besten Grüßen\nMartin Ulrich\n\n?\n\nDear all,\n\nThe Societal Observatory Using Novel Data Sources (SOUNDS) is an interdisciplinary research program at Saarland University (Germany), funded by the state?s Transformation Fund. We investigate societal transformation processes using innovative data sources such as satellite imagery, social media, and barcode scanners ? with the aim of bridging computer science and the social sciences and strengthening the use of data-intensive methods in research. In the long term, an institute will be established based on the structures developed.\n\nThe Societal Observatory Using Novel Data Sources (SOUNDS) is inviting applications for the following position commencing at the earliest opportunity:\nTeam Lead Data Development Pool (m/f/x)\nReference number N2302, salary in accordance with the German TV-L salary scale, pay grade: E 14 TV- L, duration of employment: until 15 July 2032 with an option for extension, volume of employment: 100 % of standard working time.\n\nDeadline for application: May 2nd, 2026\n\nYou can find further details in the attached vacancy description.\n\nBest regards,\nMartin Ulrich\n\n-----------------------------\n\nDr. Martin Ulrich\nProgram Management Graduate School / Certificate SOUNDS\n[cid:E9E8861F-7525-4440-B3EC-6410F6DD331E]\nBuilding E1.1 | Room 4.06.3\n66123 Saarbrücken\nhttps://www.uni-saarland.de/en/researchers/sounds.html\n\nSupported by \"Transformationsprogramm Forschung und Wissenstransfer Saar\"\n[cid:BFF341FE-6F69-44BC-82A2-23C24E9902E0]\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : img-94fd1521-5b89-41ab-8bec-f4fc2ef79ea0.png\nDateityp    : image/png\nDateigröße  : 117820 bytes\nBeschreibung: img-94fd1521-5b89-41ab-8bec-f4fc2ef79ea0.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : img-6379a214-e314-4061-8a4a-9470288b178f.png\nDateityp    : image/png\nDateigröße  : 45197 bytes\nBeschreibung: img-6379a214-e314-4061-8a4a-9470288b178f.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : N2302_deutsch.pdf\nDateityp    : application/pdf\nDateigröße  : 306504 bytes\nBeschreibung: N2302_deutsch.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : N2302_eng.pdf\nDateityp    : application/pdf\nDateigröße  : 340050 bytes\nBeschreibung: N2302_eng.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment-0001.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : smime.p7s\nDateityp    : application/pkcs7-signature\nDateigröße  : 6179 bytes\nBeschreibung: S/MIME Cryptographic Signature\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/5a3f0c12/attachment.p7s>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 4,
+      "dsPolicyMatchedKeywords": [
+        "eu",
+        "sozialwissenschaft",
+        "development",
+        "social science"
+      ],
+      "id": "5d94b024438fbd50"
+    },
+    {
+      "subject": "Event invitation: Towards EU Accession: Ukraine?s Transformation Story | 30.04.2026 European Relations Association",
+      "from": "Marketing Team <publicrelations@europeanrelations.org>",
+      "date": "Wed, 15 Apr 2026 10:52:58 +0000",
+      "dateUtc": "2026-04-15T10:52:58+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://europeanrelations.com/event/towards-eu-accession-ukraines-transformation-story/",
+        "https://europeanrelations.com/",
+        "https://www.linkedin.com/company/european-relations/",
+        "https://www.instagram.com/european.relations/",
+        "https://www.facebook.com/European.Relations.Association/"
+      ],
+      "snippet": "Towards EU Accession: Ukraine?s Transformation Story\n\nWill Ukraine be able to join the European Union by 2027 ? and what would it take to get there?\nOn 30 April, 17:00?18:00 (CET), the European Relations Association is pleased to welcome Dmytro Naumenko from the Ukrainian Center for European Policy for a discussion on Ukraine?s path toward EU membership.\nAs Co-Founder of the Center and an expert in energy policy and legal harmonisation, Dmytro brings first-hand insight into the reforms shaping Ukraine?s European future.\n\nAt a time of profound political and economic transformation, Ukraine?s accession process raises critical questions about reform, resilience, and the future of EU enlargement. This discussion will explore:\n\n  *\nthe current state of accession negotiations\n  *\nthe economic impact of the war\n  *\nthe role of EU member states in shaping the process\n\nThis event offers a timely opportunity to engage with one of the most pressing debates in European policy today.\n\nAs a European digital publication platform, we are excited to bring together students, young professionals, and experts to exchange ideas and perspectives.\nDo not miss out this opportunity and register for free here: https://europeanrelations.com/event/towards-eu-accession-ukraines-transformation-story/\nWe look forward to a lively discussion.\n\nMette Schacht\nHead of Marketing & Vice-Chair\n\npublicrelations@europeanrelations.org<mailto:publicrelations@europeanrelations.org>\n\nEuropeanrelations.com<https://europeanrelations.com/> | LinkedIn<https://www.linkedin.com/company/european-relations/> <https://www.linkedin.com/company/european-relations/> | Instagram<https://www.instagram.com/european.relations/> | Facebook<https://www.facebook.com/European.Relations.Association/>\n\nEuropean Relations e.V.i.G.\n\nKeplerstraße 19 | 22763 Hamburg | Germany\n\nLegal representative: David Bernhardt\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/6f7fa4a7/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 4,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "policy",
+        "eu",
+        "european union"
+      ],
+      "id": "183bfcec3b4da0f1"
+    },
+    {
+      "subject": "Reminder: Policy Lab \"Gesellschaft (inklusiv) and Sicherheit beteiligen\"",
+      "from": "Nila Sarabi <nila.sarabi@polis180.org>",
+      "date": "Wed, 15 Apr 2026 11:55:40 +0200",
+      "dateUtc": "2026-04-15T09:55:40+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.eventbrite.com/e/policy-lab-gesamtgesellschaftliche-verteidigung-und-sicherheit-tickets-1985275746199?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+        "http://www.polis180.org/",
+        "https://www.facebook.com/Polis180.DE/",
+        "https://twitter.com/polis180",
+        "https://www.instagram.com/polis180/",
+        "https://de.linkedin.com/company/polis180-e-v-"
+      ],
+      "snippet": "Liebe Liste,\n\nfür eine zukunftsorientierte und generationengerechte Sicherheitspolitik\nbraucht es junge Ideen und Impulse. Deutschland formuliert zwar den\nAnspruch einer gesamtgesellschaftlichen Verteidigung. Wenn es um die\nBeteiligung der Gesellschaft an der Herstellung von Sicherheit geht, drehen\nsich aktuelle Diskurse aber meis fast ausschließlich um die Wehrpflicht\njunger Männer. Dabei kann eine zeitgemäße Sicherheitspolitik nur gelingen,\nwenn verschiedene soziale Gruppen inklusiv beteiligt, vorhandene Potenziale\ngenutzt und anerkennt und der Blick auf ziviles Engagement geweitet wird.\n\nFür unser Policy Lab am 25. & 26. April suchen wir noch junge Teilnehmende\n(max. 35 Jahre), die Lust haben, ihr Wissen zum Thema Gesamtverteidigung zu\nvertiefen, sich mit anderen interessierten jungen Menschen auszutauschen\nund gemeinsam Handlungsempfehlungen für die deutsche Außen- und\nSicherheitspolitik zu entwickeln. Teil des 1,5-tägigen Workshops ist ein\nInput von Helena Quis, Expertin für Gesamtverteidigung und zivile Vorsorge\nbeim Think Tank EDINA. Zudem arbeiten wir mit qualitativen\nForschungsegerbnissen einer noch unveröffentlichten Studie zu den\nEinstellungen junger Menschen zur deutschen Außen- und Sicherheitspolitik.\n\nTickets und weitere Infos findet Ihr hier:\nhttps://www.eventbrite.com/e/policy-lab-gesamtgesellschaftliche-verteidigung-und-sicherheit-tickets-1985275746199?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl\n<https://www.eventbrite.com/e/policy-lab-gesamtgesellschaftliche-verteidigung-und-sicherheit-tickets-1985275746199?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl>\n\nWir freuen uns auf Eure Anmeldung\nEuer Team Generation Z(eitenwende)\n\n\n\n\n*Nila Sarabi*\n\nProjektmanagement - Generation Z(eitenwende)\n\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\n\nAm Krögel 2 | 10179 Berlin\n\nEmail: nila.sarabi@polis180.org\n\npolis180.org <http://www.polis180.org/> | Facebook\n<https://www.facebook.com/Polis180.DE/> | Twitter\n<https://twitter.com/polis180> | Instagram\n<https://www.instagram.com/polis180/> | LinkedIn\n<https://de.linkedin.com/company/polis180-e-v-> |\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/740af57d/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Outlook-qrfj3yrx.png\nDateityp    : image/png\nDateigröße  : 12300 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/740af57d/attachment.png>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 6,
+      "dsPolicyMatchedKeywords": [
+        "policy",
+        "politik",
+        "eu",
+        "sicherheitspolitik",
+        "thinktank",
+        "think tank"
+      ],
+      "id": "46f939d8ca320848"
+    },
+    {
+      "subject": "CfP: Current Empirical Research on Peace and Conflict | Heidelberg 05-06 October 2026",
+      "from": "\"Wiessmann, Julia Marie Brigitte\" <julia.wiessmann@ipw.uni-heidelberg.de>",
+      "date": "Wed, 15 Apr 2026 09:51:26 +0000",
+      "dateUtc": "2026-04-15T09:51:26+00:00",
+      "organization": "University on 05-06 October 2026",
+      "positionType": "Professorship",
+      "deadline": "for abstracts: 31 May 2026",
+      "deadlineDate": "2026-05-31",
+      "links": [
+        "https://forms.gle/bWzbw6qXQ7QvuAke6",
+        "https://www.ipw.uni-heidelberg.de/de/forschung-lehre/professuren/prof-dr-aurel-croissant/mitarbeiterinnen/julia-wiessmann-ma"
+      ],
+      "snippet": "Dear all,\nWe are pleased to announce that this year's workshop of our working group \"Empirical Peace and Conflict Research\" will take place at Heidelberg University on 05-06 October 2026.\nAs in previous years, we invite papers that are based on theory guided, empirical research in the field of peace and conflict studies. The workshop's aim is to promote exchange and networking among researchers in the field. We explicitly invite contributions that apply diverse methods ranging from qualitative to quantitative methodologies and are looking forward to a fruitful exchange.\nParticipants can look forward to engaging discussions and high-quality feedback. Presentations can be held in English or German.\nSubmission deadline for abstracts: 31 May 2026.\nPlease submit your paper title and abstract (max. 250 words) via: https://forms.gle/bWzbw6qXQ7QvuAke6\nOrganizer: Julia Wießmann (julia.wiessmann@ipw.uni-heidelberg.de<mailto:julia.wiessmann@ipw.uni-heidelberg.de>)\nFormat and Logistics:\nThe workshop will be held as an in-person event. Attendance is free of charge. Lunch and dinner are self-paid events. We are unable to provide travel funding.\nWe are very much looking forward to your proposals!\nJulia Wießmann\n_______________________\nJulia Wießmann\nAkademische Mitarbeiterin\nUniversität Heidelberg\nInstitut für Politische Wissenschaft\nBergheimer Straße 58\n69115 Heidelberg\n\nhttps://www.ipw.uni-heidelberg.de/de/forschung-lehre/professuren/prof-dr-aurel-croissant/mitarbeiterinnen/julia-wiessmann-ma\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/9dcc9f4d/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : CfP_EmpiricalMethods_2026.pdf\nDateityp    : application/pdf\nDateigröße  : 100103 bytes\nBeschreibung: CfP_EmpiricalMethods_2026.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/9dcc9f4d/attachment.pdf>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 67, Eintrag 12\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "quantitative",
+        "gis",
+        "peace"
+      ],
+      "id": "0288062a24477907"
+    },
+    {
+      "subject": "Digitaler Kennenlernabend Polis180 e.V. am Mi., 22.04., 19 Uhr via Zoom",
+      "from": "Mara Dankbar <mara.dankbar@polis180.org>",
+      "date": "Wed, 15 Apr 2026 08:34:46 +0200",
+      "dateUtc": "2026-04-15T06:34:46+00:00",
+      "organization": "19 Uhr via Zoom",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://polis180.org/events/digitaler-kennenlernabend-21/",
+        "http://www.polis180.org/",
+        "https://www.facebook.com/Polis180.DE/",
+        "https://twitter.com/polis180",
+        "https://www.instagram.com/polis180/",
+        "https://de.linkedin.com/company/polis180-e-v-",
+        "https://www.youtube.com/channel/UCmRSruO-hvZ9GPX7YcqjKPQ"
+      ],
+      "snippet": "Liebe Liste!\n\nPolis 180 e. V. lädt zum digitalen Kennenlernabend ein:\n\nDu bist politisch interessiert und möchtest gerne einen Verein\nkennenlernen, in dem du dich engagieren kannst? Du möchtest gerne\nNetzwerken und neue Menschen treffen? Oder warst du schon bei unseren\nVeranstaltungen und möchtest nun mehr über unsere Programmarbeit erfahren\nund wie du aktiv werden kannst?\n\nMelde dich jetzt hier\n<https://polis180.org/events/digitaler-kennenlernabend-21/> zum digitalen\nKennenlernabend am Mittwoch (22.04.2026) um 19 Uhr via Zoom an.\n\nIn rund einer Stunde stellen wir dir die Arbeitsstruktur von Polis vor,\nbeantworten deine Fragen, zeigen dir Wege, wie du dich mit den Programmen\nin Verbindung setzen und dich mit deinen Ideen einbringen kannst.\n\n*Über Polis180 e. V. *\n\nWir sind dein Grassroots-Thinktank für Außen- und Europapolitik. Unser Ziel\nist es, junge Stimmen in der Außen- und Europapolitik hörbar zu machen.\nDazu bieten wir Interessierten die Möglichkeit, sich zu vernetzen und ihre\nThemen und Ideen umzusetzen: Als Mitglied kannst du zusammen mit\nGleichgesinnten Veranstaltungen organisieren, Podcasts oder Blog-Posts\nveröffentlichen, internationale Kooperationsprojekte umsetzen und vieles\nmehr...\n\nKlingt interessant? Dann komm vorbei - wir freuen uns auf dich!\n\nViele Grüße\n\nMara\n\nfür den Vorstand - Ressort Community\n\n\n\n\n-- \n\n*Mara Dankbar*\n\n\nMitglied im Vorstand\n\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\n\nAm Krögel 2 | 10179 Berlin\n\nEmail: mara.dankbar@polis180.org <vorname.nachname@polis180.org>\n\npolis180.org <http://www.polis180.org/> | Facebook\n<https://www.facebook.com/Polis180.DE/> | Twitter\n<https://twitter.com/polis180> | Instagram\n<https://www.instagram.com/polis180/> | LinkedIn\n<https://de.linkedin.com/company/polis180-e-v-> | YouTube\n<https://www.youtube.com/channel/UCmRSruO-hvZ9GPX7YcqjKPQ>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260415/305ef925/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "eu",
+        "thinktank"
+      ],
+      "id": "8f789f29236d9f44"
+    },
+    {
+      "subject": "Einladung: Polis180 Gender Programmplenum 20.04",
+      "from": "Lara Brett <lara.brett@polis180.org>",
+      "date": "Tue, 14 Apr 2026 17:25:00 +0200",
+      "dateUtc": "2026-04-14T15:25:00+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://polis180.org/events/programmplenum-gender-internationale-politik/",
+        "https://www.facebook.com/Polis180.DE/",
+        "https://www.instagram.com/polis180/",
+        "https://www.linkedin.com/company/polis180-e-v-/posts/?feedView=all"
+      ],
+      "snippet": "Liebe ib-liste,\n\nwir laden herzlich zu unserem Programm-Plenum am 20. April um 20:15 Uhr ein!\n\nWas haben wir vor?\n\nWir tauschen uns über die aktuellen Ereignisse im Bereich Gender und\nInternationale Politik und besprechen unsere derzeitigen und anstehenden\nProjekte und Publikationen.\n\nGerne könntet ihr eure eigenen Vorschläge und feministische Empfehlungen\nmitbringen, wir freuen uns auf jede Teilnahme, sei es von Bekannten oder\nvon neuen Gesichtern.\n\nHier könntet ihr euch anmelden:\n\nhttps://polis180.org/events/programmplenum-gender-internationale-politik/\n\nUnd wenn ihr Fragen oder schon vorab Ideen oder Agenda Wünsche habt, dann\nmeldet euch gerne schon vorab bei uns!\n\nLiebe Grüße von uns drei\n\nFabia van Melis, Melissa Amann und Lara Brett\n-- \n[image: Logo-Polis-blp-klein.png]\n*Lara Brett (she/her)*\n\n*Programmleitung **Gender und Internationale Politik*\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\nAm Krögel 2 | 10179 Berlin\nEmail: *Lara*.brett@polis180.org\npolis180.org | Facebook <https://www.facebook.com/Polis180.DE/> | Instagram\n<https://www.instagram.com/polis180/> | LinkedIn\n<https://www.linkedin.com/company/polis180-e-v-/posts/?feedView=all>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/19dd64fa/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "eu",
+        "thinktank"
+      ],
+      "id": "a865ca2d974f6842"
+    },
+    {
+      "subject": "X Tutorial Grief & Society- First meeting tomorrow",
+      "from": "Anna-Marie Lehmann <fu2001ls@zedat.fu-berlin.de>",
+      "date": "Tue, 14 Apr 2026 16:53:21 +0200",
+      "dateUtc": "2026-04-14T14:53:21+00:00",
+      "organization": "University Alliance (FU",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.fu-berlin.de/vv/de/lv/1072524?m=430427&pc=705990&sm=965826"
+      ],
+      "snippet": "Dear Students,\n\nWe are Anna and Lea, and next semester we will offer the X-Tutorial ?Grief and Society\" at the Freie Universität. It is open to students from all universities that are part of the Berlin University Alliance (FU, HU, TU, Charité). \n\nIf you ever wanted to be more creative in academia, this is your chance!\n\nThe X-Tutorial explores the relationship between grief and society while aiming to inquire the (transformative) potential of grief. The project spans two semesters, but participation in only one of them is also possible! The first semester critically situates grief within a neoliberal system: How do neoliberal structures shape the lived experience of grief? What role do processes of individualizing, psychologization and pathologization play? We want to encourage experimentation with creative research methods, including (audio)visual methods. We seek to make space for subjectivity and dehierarchizing research. \n\nThe research follows an interdisciplinary approach. Participation in only one semester is possible. Results will be presented in an exhibition.\n\nThe tutorial is eligible for 6 ECTS credits. It will be held in block format. The dates are: 15 April and 29 April (12 to 2 pm); 6 May (10am to 3pm); 10 June (10am to 4pm); 1 July (10am to 4pm); 15 July (10 am to 4pm). We will meet in the Glaskasten (UG), Habelschwerdter Allee 30 at the FU.\n\nIf you have any questions, please don't hesitate to contact us via griefandsociety@proton.me <mailto:griefandsociety@proton.me>. If you're interested, feel free to join us for the first meeting on the 15th of April.\n\nFor more info, look here: https://www.fu-berlin.de/vv/de/lv/1072524?m=430427&pc=705990&sm=965826\n\nLooking forward to meeting you! :-)\n\nBest,\nAnna and Lea\n\n?\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/61b549d9/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : X-Tutorial Grief and Society.png\nDateityp    : image/png\nDateigröße  : 1986537 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/61b549d9/attachment.png>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 0,
+      "dsPolicyMatchedKeywords": [],
+      "id": "9ba533721a5ebefe"
+    },
+    {
+      "subject": "Einladung zur Fotoausstellung ?Still here? ? 10 Jahre zivile Seenotrettung",
+      "from": "Amelie Philipsenburg <a.philipsenburg@sosmediterranee.org>",
+      "date": "Tue, 14 Apr 2026 12:25:49 +0000",
+      "dateUtc": "2026-04-14T12:25:49+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.sosmediterranee.de/event/still-here-bilder-aus-10-jahren-ziviler-seenotrettung",
+        "https://tally.so/r/44vvxo"
+      ],
+      "snippet": "Liebe IB-Liste,\nwir möchten euch herzlich zu unserer Fotoausstellung <https://www.sosmediterranee.de/event/still-here-bilder-aus-10-jahren-ziviler-seenotrettung>  ?Still here ? Bilder aus 10 Jahren ziviler Seenotrettung??einladen.\nWann: 23.?26. April 2026\nWo: StudioTrouble, Manteuffelstr. 73, Berlin\nIn 25 eindrucksvollen Fotografien zeigen wir nicht nur die Rettungseinsätze, sondern vor allem die Menschen hinter den Zahlen: Augenblicke der Verzweiflung und Erleichterung, Miteinander und Zusammenarbeit sowie Hoffnung auf ein Leben in Frieden und Sicherheit.\nSeit zehn Jahren engagiert sich SOS MEDITERRANEE auf einer der gefährlichsten Fluchtrouten weltweit: dem zentralen Mittelmeer. In dieser Zeit konnten 42.741 Menschen aus Seenot gerettet und in sichere Häfen begleitet werden, während staatliche Akteure ihrer Verantwortung nicht nachgekommen sind.\nDie Ausstellung lädt dazu ein, hinzusehen und zivile Seenotrettung als das zu verstehen, was sie ist: ein grundlegender Ausdruck von Menschlichkeit und Solidarität.\nEröffnungsevent am 23. April 2026\nZum Auftakt am 23. April freuen wir uns auf ein Gespräch mit Dominika Wanczyk (Head of Post Rescue bei SOS MEDITERRANEE), die Einblicke in ihre Arbeit gibt und mit dem Publikum in Austausch tritt (auf Englisch) ? anschließend zeigen wir einen Kurzfilm.\nFür das Eröffnungsevent bitten wir um Anmeldung per Link <https://tally.so/r/44vvxo> oder E-Mail an freiwillige@sosmediterranee.org<mailto:freiwillige@sosmediterranee.org>.\nKommt gerne vorbei, bringt Freund*innen mit und nehmt euch Zeit für die Ausstellung ? wir freuen uns sehr über euer Interesse!\n\nHerzliche Grüße\nEuer SOS MEDITERRANEE Team\n\n\nAmelie Philipsenburg\n\nWerkstudentin Community Engagement\n\nSOS MEDITERRANEE Deutschland gGmbH\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/0d9ad432/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "r ",
+        "eu"
+      ],
+      "id": "cba30a61092a0af4"
+    },
+    {
+      "subject": "FSJ Politik bei Reporter ohne Grenzen! Jetzt bewerben!",
+      "from": "Jeanne Olivares <Jeanne.Olivares@reporter-ohne-grenzen.de>",
+      "date": "Tue, 14 Apr 2026 11:52:36 +0000",
+      "dateUtc": "2026-04-14T11:52:36+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.linkedin.com/feed/update/urn:li:activity:7448292957843185665",
+        "https://www.instagram.com/p/DWoAFSeil5w/",
+        "https://reporter-ohne-grenzen.jobs.personio.de/"
+      ],
+      "snippet": "Reporter ohne Grenzen sucht nach 2 engagierten jungen Menschen für ein FSJ ab September im Bereich Kommunikation.\n\nDas Referat Kommunikation recherchiert gemeinsam mit dem internationalen Sekretariat in Paris Verstöße gegen die Medienfreiheit weltweit, wertet diese aus, dokumentiert sie und macht diese öffentlich. Dies geschieht in Form von Pressemitteilungen, Berichten, Newslettern, Posts in den sozialen Medien und öffentlichkeitswirksamen Kampagnen. Die Veröffentlichungen orientieren sich dabei eng am tagesaktuellen Geschehen. Das Referat Kommunikation agiert in enger Abstimmung mit den Bereichen Advocacy, Nothilfe und Stipendien sowie Fundraising.\n\nWie sieht aber der Alltag von FSJler*innen bei Reporter ohne Grenzen?\n\nDas entdeckt ihr:\nÜber LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7448292957843185665\nund Instagram: https://www.instagram.com/p/DWoAFSeil5w/\n\nDie Stellenausschreibungen findet ihr über: https://reporter-ohne-grenzen.jobs.personio.de/\n\nHaben wir euer Interesse geweckt? Kennt ihr Menschen, die ein FSJ Politik in Berlin suchen? Wir freuen uns auf alle Bewerbungen!\nBei Fragen könnt ihr euch jederzeit an personal@reporter-ohne-grenzen.de<mailto:personal@reporter-ohne-grenzen.de> wenden.\n\nHerzliche Grüße\n_____________\nJeanne Olivares (sie/ihr | she/her)\nAssistenz Personal | Assistant Human Resources\n\nReporter ohne Grenzen | Reporters Without Borders Germany (RSF)\nTel.: +49 151 53676316 | Fax: +49 30 609895339\nPGP ID: D50A 9746 | PGP Fingerprint: B5DC 1790 A5CD 7D80 3341 3E01 803E 7B4A D50A 9746\njeanne.olivares@reporter-ohne-grenzen.de<mailto:jeanne.olivares@reporter-ohne-grenzen.de>\n\n--------------\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/b4e6a940/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "eu"
+      ],
+      "id": "7baa6bfca9cbea86"
+    },
+    {
+      "subject": "Event: Clément Beaune: Can Europe Compete? Geoeconomics in an Age of Rivalry Thursday, 23.04.2026 | 5:00 pm - 6:00 pm",
+      "from": "Linda Hewitt <hewitt@delorscentre.eu>",
+      "date": "Tue, 14 Apr 2026 10:17:58 +0000",
+      "dateUtc": "2026-04-14T10:17:58+00:00",
+      "organization": "23.04.2026 | 5:00 pm - 6:00 pm",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.delorscentre.eu/en/events-at-the-jacques-delors-centre/detail/event/spotlight-on-clement-beaune"
+      ],
+      "snippet": "Spotlight on Clément Beaune: Can Europe Compete? Geoeconomics in an Age of Rivalry Thursday, 23.04.2026 | 5:00 pm - 6:00 pm\n\nJoin us for a timely discussion on Europe?s geoeconomic future with Clément Beaune, drawing on his experience at the highest levels of French and European policymaking. Register here: Spotlight on Clément Beaune: Can Europe Compete? Geoeconomics in an Age of Rivalry | Jacques Delors Centre<https://www.delorscentre.eu/en/events-at-the-jacques-delors-centre/detail/event/spotlight-on-clement-beaune>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/c109fb33/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "policy",
+        "eu"
+      ],
+      "id": "337001d5e1b2e6ad"
+    },
     {
       "subject": "Hertie School - current job postings",
       "from": "\"Jobs @ Hertie School\" <jobs@hertie-school.org>",
@@ -41,6 +831,32 @@
         "governance"
       ],
       "id": "5322980c08cff102"
+    },
+    {
+      "subject": "SHK Stellenausschreibung bei der DGAP e .V.",
+      "from": "Christelle Wolff <christelle.wolff@dgap.org>",
+      "date": "Tue, 14 Apr 2026 07:27:23 +0000",
+      "dateUtc": "2026-04-14T07:27:23+00:00",
+      "organization": "Unknown",
+      "positionType": "Student Assistant",
+      "deadline": "27",
+      "deadlineDate": null,
+      "links": [
+        "https://dgap.org/de/dgap/jobs/studentische-hilfskraft-kommunikation-m-w-d",
+        "http://www.dgap.org/"
+      ],
+      "snippet": "Sehr geehrte Damen und Herren,\n\nwir haben eine Stellenausschreibung, die wir gern mit Ihnen teilen möchten:\n\n\n  *   07-2026: Studentische Hilfskraft Kommunikation (m/w/d); Deadline 27.04.2026.\n\nDie Ausschreibung findet man auf unserer Webseite:\nhttps://dgap.org/de/dgap/jobs/studentische-hilfskraft-kommunikation-m-w-d\n\nWir freuen uns auf Bewerbungen der Student:innen.\n\nMit freundlichen Grüßen\n\nChristelle Wolff\n\nPersonalreferentin | Human Resources Manager\nDeutsche Gesellschaft für Auswärtige Politik e.V. | German Council on Foreign Relations\n\nRauchstraße 17/18 | 10787 Berlin | Germany\nT: + 49 (0)30 25 42 31-162 | E: christelle.wolff@dgap.org<mailto:christelle.wolff@dgap.org>\n@dgapev | www.dgap.org<http://www.dgap.org/>\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260414/1b056d43/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "eu"
+      ],
+      "id": "cbe4a00f2ccbe8db"
     },
     {
       "subject": "Pflichtpraktikum im Bereich Kommunikation bei SOS MEDITERRANEE",
@@ -2759,31 +3575,6 @@
       "id": "9f9c0a5e4fe98420"
     },
     {
-      "subject": "Online-Training \"Beratung im Kontext gewaltfreier Konflikttransformation und sozialer Bewegungen\" // Jetzt bewerben",
-      "from": "Mona Leirich <mleirich@kurvewustrow.org>",
-      "date": "Thu, 26 Mar 2026 10:55:04 +0100",
-      "dateUtc": "2026-03-26T09:55:04+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "09.04.2026",
-      "deadlineDate": "2026-04-09",
-      "links": [
-        "https://www.kurvewustrow.org/practitioner-trainings-online",
-        "https://www.kurvewustrow.org/form/online-trainings"
-      ],
-      "snippet": "*Liebe interesssierte Menschen, liebe Multiplikator*innen im Bereich der \ngewaltfreien Konflikttransformation,*\n\nin einer Zeit, in der gesellschaftliche Spannungen und Polarisierung \nweltweit zunehmen, braucht es Menschen, die Konfliktbearbeitung auf \ngesellschaftlicher Ebene prozessorientiert, konstruktiv und gewaltfrei \ngestalten können.\n\nNimm an unserem *Online-Training \"Beratung im Kontext gewaltfreier \nKonflikttransformation und sozialer Bewegungen\"* im April 2026 teil & \nbewird Dich jetzt noch bis zum 09.04.2026.\n\n*\n*** ** Was Dich in diesem 6-tägigen Online-Training erwartet** ***\n**\n*In diesem Training setzt Du Dich mit der Vielfalt & Bedeutung von \n/Beratung /auseinander und reflektierst Deine Haltung, die für eine \nBeratungsrolle relevant ist, insbesondere in den sozialen Bewegungen und \nkultursensiblen Kontexten. Du erlernst und übst Methoden und Instrumente \nfür Deine Beratungstätigkeit.\n\nWeitere Infos zum Training, Inhalt & Ablauf findest Du auf unserer \nHomepage unter: https://www.kurvewustrow.org/practitioner-trainings-online\n\n*Termine: *  16. - 17. + 23. - 24. + 29. - 30.04.2026\n*Anmeldeformular*: https://www.kurvewustrow.org/form/online-trainings\n\nHerzliche Grüße\n\nMona für das Bildungsreferat KURVE Wustrow e. V.\n\n\n-- \n***\nMona Leirich\nInternationales Bildungsreferat\nInternational Training Coordination\n\nPronomen: sie/ihr   she/her\n\nKURVE Wustrow\nBildungs- und Begegnungsstätte für gewaltfreie Aktion e.V.\nCentre for Training and Networking in Nonviolent Action,\nKirchstr. 14, 29462 Wustrow, Germany,www.kurvewustrow.org\n\nTel.\t0049 ? (0) 5843 9871-31\nFax\t0049 ? (0) 5843 9871-11\n\n\nErreichbarkeit: Mo-Do  09.00 - 15.00 Uhr\nAvailability:   Mo-Thu 09.00 - 15.00h\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260326/2e21784b/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : OpenPGP_signature.asc\nDateityp    : application/pgp-signature\nDateigröße  : 840 bytes\nBeschreibung: OpenPGP digital signature\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260326/2e21784b/attachment.sig>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 24\n******************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "1c65cafe72609844"
-    },
-    {
       "subject": "New Humanity in Action Program RE-CONNECT (Hybrid)",
       "from": "Franka Stauber <f.stauber@humanityinaction.org>",
       "date": "Thu, 26 Mar 2026 10:18:31 +0100",
@@ -3461,503 +4252,15 @@
         "european union"
       ],
       "id": "da99b7f3ab3f4163"
-    },
-    {
-      "subject": "Stellenangebot_ Zero-Waste-Beauftragte im Bezirksamt Neukölln (Elternzeitvertretung)",
-      "from": "Eva <eva.hnie@gmail.com>",
-      "date": "Fri, 20 Mar 2026 12:06:53 +0100",
-      "dateUtc": "2026-03-20T11:06:53+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "ete Stelle handelt, ist eine Ausschreibung nicht notwendig",
-      "deadlineDate": null,
-      "links": [
-        "https://www.berlin.de/null-muell-neukoelln/"
-      ],
-      "snippet": "Das Bezirksamt Neukölln sucht eine Elternzeitvertretung ab 1. August 2026\nfür unsere Zero-Waste-Beauftragte, angesiedelt in der Koordinierungsstelle\nKlimaschutz und Nachhaltigkeit, voraussichtlich bis 22. Februar 2027 (ggf.\nlänger).\n\n*Zentrale Aufgaben:*\n?    Projektleitung von Null Müll Neukölln: monatliche Steuerungsrunden;\ninhaltliche und kreative Begleitung von laufenden Öffentlichkeitsprojekten\n(Kampagnenplanung zu Biomüll; Runder Tisch Reparatur); generell\nAnsprechpartnerin für Agentur und Kiezhausmeister*innen.\n?    Unterstützung bei öffentlichen Ausschreibungen im Themenfeld\n?    Übersicht der Sauberen Stadt Mittel koordinieren (ggf. Rechnungen\nanordnen, Vermerke schreiben - es gibt Vorlagen).\n?    Politische Anfragen beantworten.\n?    Koordinierungsgespräche im KNK-Bereich und Unterstützung der\nKlimaschutzbeauftragten\n?    Ansprechpartner für andere Ämter und Bürger*innen\n\nHier der Link zur Webseite von Null Müll Neukölln:\n\nhttps://www.berlin.de/null-muell-neukoelln/\n\nIm Anhang findet Ihr das Anforderungsprofil zur Stelle. Da es sich um eine\nbefristete Stelle handelt, ist eine Ausschreibung nicht notwendig. Das\nEinreichen der üblichen Bewerbungsunterlagen (Anschreiben, Lebenslauf,\nrelevante Abschlusszeugnisse und aktuelle Arbeitszeugnisse) reicht.\n\nInhaltliche Fragen zur Stelle bitte direkt an\nisabel.kronauer@bezirksamt-neukoelln.de.\n\n*Wir freuen uns auf eine Rückmeldung bis spätestens 31. März.*\n\nMit besten Grüßen\nEva Hein\n\nKlimaschutzbeauftragte (komm.)\nBzBm KNK2  ( sie / ihr )\nKoordinierungsstelle für Klimaschutz und Nachhaltigkeit\n\nBezirksamt Neukölln von Berlin\nKarl-Marx-Str. 83\n12040 Berlin\n\n030 - 90239 2734\neva.hein@bezirksamt-neukoelln.de\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/f5654bf6/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 230712_AP_KNK 1.pdf\nDateityp    : application/pdf\nDateigröße  : 174129 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/f5654bf6/attachment.pdf>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 19\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "796fd30bb9ff3c27"
-    },
-    {
-      "subject": "Register now: Berlin Forum on Global Cooperation 2026 - Energy cooperation vs. energy dominance - Partnerships for a joint transition",
-      "from": "Christina Rode <christina.rode@fu-berlin.de>",
-      "date": "Fri, 20 Mar 2026 11:41:21 +0100",
-      "dateUtc": "2026-03-20T10:41:21+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://calendar.boell.de/en/event/berlin-forum-global-cooperation-2026",
-        "https://calendar.boell.de/de/event/berlin-forum-global-cooperation-2026-energy-dominance-vs-energy-cooperation"
-      ],
-      "snippet": "Dear List,\nWe would like to invite you to the Berlin Forum on Global Cooperation \n2026 under the theme of Energy cooperation vs. energy dominance \n- Partnerships for a joint transition. The Forum is jointly organized by \nthe Heinrich Böll Foundation and the Centre for Rural Development (SLE) \nat Humboldt University, Berlin.\nThe keynote will be given by Gabriel Boric, former President of Chile. \nOther high-level speakers include Bärbel Kofler, Parliamentarian State \nSecretary in the Ministry of Economic Cooperation and Development, \nJürgen Trittin, former Minister of the Environment, Jennifer Morgan, \nformer State Secretary in the Ministry of Foreign Affairs, and Sven \nGiegold, Vice Chair of the German Green Party, and Adriana Abdenur, \nCo-President of the Global Fund for a New Economy and former Special \nAdvisor to the Brazilian Presidency, among others.\nAt a moment of a deep crisis of global energy relations and rapidly \nshifting geopolitics, the forum provides a space for dialogue across \ndifferent sectors to think how Germany and Europe can shape a more \nsustainable and equitable future. We kindly invite you to join us on \nthis occasion.\nPlease check out the full programme and \nregister<https://calendar.boell.de/en/event/berlin-forum-global-cooperation-2026>here: \nhttps://calendar.boell.de/de/event/berlin-forum-global-cooperation-2026-energy-dominance-vs-energy-cooperation\nMonday, May 18, 2026, 17:30 - 19:00Tuesday, May 19, 2026, 9:00 - \n17:45Heinrich Böll Foundation, Schumannstr. 8, 10117 Berlin & via livestream\nYours sincerely,\nChristina Rode\n\n\n-- \nDiese E-Mail wurde von Avast-Antivirussoftware auf Viren geprüft.\nwww.avast.com\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/05a46b2b/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 18\n******************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu",
-        "ministry",
-        "parliament",
-        "development"
-      ],
-      "id": "27cab028b4e6b452"
-    },
-    {
-      "subject": "SHK am PIK gesucht",
-      "from": "Sophia Bachmann <sophia.bachmann@hotmail.de>",
-      "date": "Fri, 20 Mar 2026 09:31:49 +0000",
-      "dateUtc": "2026-03-20T09:31:49+00:00",
-      "organization": "Unknown",
-      "positionType": "Student Assistant",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Liebe Liste,\n\nGerne möchte ich Sie auf eine Stellenausschreibung am PIK e.V. Aufmerksam machen. Wir suchen eine studentische Hilfskraft für den wissenschaftlichen Klimabeirat Brandenburg.\n\nSie finden die Stellenausschreibung hier:\nPotsdam.pi-asp.de/bewerber-web/?xsrf=5490A9C9941A5FE59482FF29C45EDF28&company=PIK-FIRMA-ID&tenant=&lang=E&jobdesign=#position,id=c60dd5d3-47e8-492c-9f5e-ae19a4d4e7bf,popup=y\n\nBeste Grüße\nSophia Bachmann\n\n\n\n________________________________\nVon: ib-liste-request@lists.fu-berlin.de <ib-liste-request@lists.fu-berlin.de>\nGesendet: Donnerstag, 19. März 2026 12:00\nAn: ib-liste@lists.fu-berlin.de <ib-liste@lists.fu-berlin.de>\nBetreff: ib-liste Nachrichtensammlung, Band 66, Eintrag 17\n\nUm E-Mails an die Liste ib-liste zu schicken, nutzen Sie bitte die\nAdresse\n\n    ib-liste@lists.fu-berlin.de\n\nUm sich via Web von der Liste zu entfernen oder einzutragen:\n\n    https://lists.fu-berlin.de/listinfo/ib-liste\n\nSie können den Listenverwalter dieser Liste unter der Adresse\n\n    ib-liste-owner@lists.fu-berlin.de\n\nerreichen.\n\nWenn Sie antworten editieren bitte Sie die Betreffzeile auf einen\nsinnvollen Inhalt der spezifischer ist als \"Re: Contents of ib-liste\ndigest...\"\n\n\nMeldungen des Tages:\n\n   1. EU to go. Migration: Abschotten oder Anwerben? Dienstag,\n      24.03.2026 (Linda Hewitt)\n   2. SHK-Stelle beim Verfassungsblog zur Untersützung der\n      Redaktion (Sonja Kaufmann)\n   3. Politische Studienreisen nach Brüssel für Studis: Lobbyismus\n      in der EU und EU-USA-Beziehungen\n      (News Verein zur Förderung politischen Handelns e.V.)\n   4. Block Course: Mainstreaming Crosscutting Themes in\n      Peacebuilding (Vanessa Kirsch | Pro Peace)\n\n\n----------------------------------------------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "peace"
-      ],
-      "id": "d4bab328589d1190"
-    },
-    {
-      "subject": "Sciences Po | Environnement et reltions internationales | Présentation du Dictionnaire d’écologie politique",
-      "from": "Matthew Winkler <matthew.winkler@sciencespo.fr>",
-      "date": "Fri, 20 Mar 2026 09:00:00 +0100",
-      "dateUtc": "2026-03-20T08:00:00+00:00",
-      "organization": "Unknown",
-      "positionType": "Assistant Professor",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Vous êtes invité(e) à:\n\nPrésentation du Dictionnaire d?écologie politique\nUn séminaire à Sciences Po\nCette séance s?inscrit dans le cadre du séminaire Environnement et relations internationales\n\nDate: March 26, 2026\nHeure: 17:00 - 18:30 CET\nLieu: K011 Sciences Po 1, Saint-Thomas Paris, et en ligne via Zoom\nIntervenants: Adrien Estève, Mathilde Allain, Charlotte Demasures, Charlotte Halpern, Carola Klöck\nSite web: Lien\n\nCette séance est consacrée à la présentation du Dictionnaire d'écologie politique, publié en octobre 2026 aux Presses de Sciences Po, des directeurs d'ouvrage et de certains auteurs. Fruit des travaux du Groupe de recherche sur l'écologie politique (GREP) de l'Association Française de Science Politique (AFSP), il témoigne de la richesse des travaux sur l?écologie politique en sciences sociales et de leur valeur heuristique pour décrypter les transformations contemporaines de nos sociétés. Il s'agira de se pencher plus particulièrement sur les entrées consacrées aux relations internationales et à l'action publique internationale.\n\nInscrivez-vous ici\n\nAvec le soutien de : GRAM\nResponsables scientifiques:\nCarola Klöck, Assistant Professor, Sciences Po CERI\nSarah Tegas, Doctoral Student, Sciences Po CERI\nMatthew Winkler, Doctoral Student, Sciences Po CERI\n\nLe séminaire se tiendra en présentiel et en ligne via Zoom.\n\nKind regards,\n\nMatthew Winkler\n\n\n\nCentre de Recherches Internationales\nDoctoral Candidate\nPolitical Science - International Relations\n\nM: +33 7 68 95 66 87\nE: matthew.winkler@sciencespo.fr\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/afa94546/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 3A5A535BE47B46C4B035DD50DCAA7282.png\nDateityp    : image/png\nDateigröße  : 3671 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260320/afa94546/attachment.png>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 20\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "international relations",
-        "political science"
-      ],
-      "id": "50018e3d097bf47c"
-    },
-    {
-      "subject": "Online-Schulung Europaparlaments-Rollenspiel",
-      "from": "Europäisches Parlament Berlin <europaeischesparlamentberlin@gmail.com>",
-      "date": "Thu, 19 Mar 2026 15:10:41 +0100",
-      "dateUtc": "2026-03-19T14:10:41+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://link.europa.eu/jWcvCH",
-        "https://together.europarl.europa.eu/de/event/online-schulung-lerne-das-fertig-vorbereitete-rollenspiel-des-eu-parlaments-zu-leiten-45673/register",
-        "http://vrpg.europarl.europa.eu/"
-      ],
-      "snippet": "Liebe ib-Liste,\n\n\ndas* Europäische Parlament* in Deutschland lädt zu kostenlosen\n*Online-Schulungen\nzum Europaparlaments-Rollenspiel *ein. ??\n\nIn den Schulungen zeigen wir, wie sich europäische Themen und Prozesse\nlebendig und interaktiv vermitteln lassen, ganz* ohne großen\nVorbereitungsaufwand.*\n\n\n\n*Das erwartet euch in der Schulung:*\nVorgestellt wird ein Format, in dem Teilnehmende als Abgeordnete des\nEuropäischen Parlaments einen fiktiven Gesetzesvorschlag zum Klimaschutz\nverhandeln, Änderungsanträge einbringen und darüber abstimmen. Ihr erhaltet\neine kompakte Einführung in Ablauf, Materialien und Umsetzung des\nRollenspiels.\n\nDas 90-minütige Rollenspiel kann im Anschluss direkt mit Gruppen eingesetzt\nwerden ? im Klassenzimmer oder online.\n\n\n\n?? *Termine:*\n\n*? 25. März 2026, 15:30?17:30 Uhr, Anmeldung hier\n<https://link.europa.eu/jWcvCH>*\n\n\n*oder ? 15. April 2026, 15:30?17:30 Uhr, Anmeldung hier\n<https://together.europarl.europa.eu/de/event/online-schulung-lerne-das-fertig-vorbereitete-rollenspiel-des-eu-parlaments-zu-leiten-45673/register>*\n\n\n\n*Zielgruppe:*\nFür alle, die europäische Themen vermitteln oder jungen Menschen die EU\nnäherbringen möchten ? insbesondere Lehrkräfte, Multiplikator:innen sowie\nPersonen in der außerschulischen Bildungsarbeit.\nTeilnahme ab 16 Jahren, Vorkenntnisse sind nicht erforderlich.\n\n\n\n*Für die spätere Durchführung benötigt ihr:*\n8?40 Teilnehmende, Smartphones sowie einen Computer mit Bildschirm/Beamer\nund Internet.??\n\n\n\nDie Teilnehmenden greifen per QR-Code auf alle Materialien zu (Rollen,\nProgramme, Änderungsanträge und Anweisungen).\n\n\n\n\n*Rollenspiel und Leitfaden sind kostenlos in 24 Sprachen verfügbar: *\nVRPG.EuroParl.europa.eu <http://vrpg.europarl.europa.eu/>\n\n\n\nWir freuen uns über eure Anmeldungen und auf eure Teilnahme!\n\n\n[image: DiCaprio 2.png]\n\n[image: DiCaprio 1 (003).png]\n\nHerzliche Grüße\n\nDas Verbindungsbüro des Europäischen Parlaments in Deutschland\n\nUnter den Linden 78\n\n10117 Berlin\n\nwww.europarl.de\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260319/b6d5789f/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : DiCaprio 2.png\nDateityp    : image/png\nDateigröße  : 1477344 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260319/b6d5789f/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : DiCaprio 1 (003).png\nDateityp    : image/png\nDateigröße  : 1397911 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260319/b6d5789f/attachment-0001.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu"
-      ],
-      "id": "35525208dc36aac7"
-    },
-    {
-      "subject": "EINLADUNG | Masterstudiengänge mit Südosteuropa-Bezug, 24.03.2026 online",
-      "from": "Südosteuropa Gesellschaft <info@sogde.org>",
-      "date": "Thu, 19 Mar 2026 12:24:24 +0000",
-      "dateUtc": "2026-03-19T12:24:24+00:00",
-      "organization": "Universität Prag",
-      "positionType": "N/A",
-      "deadline": "en",
-      "deadlineDate": null,
-      "links": [
-        "https://sogde.org/de/events/2026_jsog_masterstudiengange/",
-        "https://sogde.org/de/formulare/masterstudiengange-2026/",
-        "http://www.sogde.org/",
-        "https://x.com/sudosteuropa",
-        "https://www.youtube.com/channel/UCcKCuVqDb_dLwMDgAKeirIQ?view_as=subscriber",
-        "https://www.facebook.com/suedosteuropagesellschaft",
-        "https://www.instagram.com/suedosteuropagesellschaft/",
-        "https://bsky.app/profile/sudosteuropa.bsky.social"
-      ],
-      "snippet": "Liebe Abonnent:innen der IB-Liste,\n\nwir möchten Sie hiermit auf unsere jährliche Infoveranstaltung über Masterstudiengänge mit Südosteuropa-Bezug aufmerksam machen. Diese findet am Dienstag, den 24. März 2026 um 16:00 Uhr online via Zoom statt.\n\nZur Veranstaltung<https://sogde.org/de/events/2026_jsog_masterstudiengange/>\n\nVorgestellte Masterstudiengänge\n\n  *\nBalkan, Eurasian and Central European Studies (ENG), Karls-Universität Prag, Dr. Petra Baštová\n  *\nEuropean Studies (ENG), Universität Regensburg, Gabriela Dafinger M.A. (tbc)\n  *\nJoint Master?s Programme in Southeast European Studies (ENG), Universität Graz, Prof. Dr Heike Karge & Prof. Dr. Florian Bieber\n  *\nOsteuropastudien (DE), LMU München/Universität Regensburg, Dr. Felix Jeschke\n  *\nOst-West Studien: Europa im Diskurs (DE), Universität Regensburg, Kerstin Schicker, M.A. (tbc)\n  *\nSüdosteuropastudien (DE), Universität Jena, Jun.-Prof. Dr. Valeska Bopp-Filimonov & Dr. Gergana Börger\n\n\nModeration\n\n  *\nGresa Morina, Leiterin der AG Berufsorientierung der JSOG\n\n\nZum Thema\nDu bist fast fertig mit dem Bachelorstudium und überlegst, wie es danach weitergehen könnte? Du würdest gerne einen Master beginnen, in dem du Dein Interesse für Südosteuropa nicht nur einbringen kannst, sondern in dem diese Region sogar im Mittelpunkt steht? Dieses Fachgespräch beschäftigt sich mit Masterstudiengängen, die einen Schwerpunkt auf Südosteuropa setzen, und gibt Dir einen Überblick über die verschiedenen Studienangebote und ihre Profile. Hier erhältst Du Antworten auf alle wesentlichen Fragen:\n\n\n  *\nWann sind die Bewerbungsfristen?\n  *\nWelche Voraussetzungen gibt es?\n  *\nWann kann das Studium begonnen werden?\n  *\nWelche Sprachen, Länder und Disziplinen stehen im Fokus?\n  *\nWelche Schwerpunkte bieten die Unis an?\n  *\nWelche Möglichkeiten gibt es für einen Aufenthalt in Südosteuropa?\n  *\nWelche Besonderheiten haben die einzelnen Standorte?\n\nDiese und weitere Fragen beantworten Studiengangsvertreter:innen verschiedener Universitätsstandorte. Nach einer Kurzvorstellung aller Studiengänge haben die Teilnehmer:innen die Möglichkeit, Nachfragen an die Vertreter:innen zu stellen. Zudem werden kurze Steckbriefe zu allen Studiengänge erstellt, die im Nachgang mit den Teilnehmer:innen geteilt werden.\n\nDie Veranstaltung richtet sich an alle Bachelorstudierenden, die sich fachlich für den südosteuropäischen Raum interessieren und auf der Suche nach einem Masterstudiengang mit diesem regionalen Schwerpunkt sind. Es besteht die Möglichkeit, bereits im Anmeldeformular<https://sogde.org/de/formulare/masterstudiengange-2026/> <https://sogde.org/de/formulare/masterstudiengange-2026/> Fragen an die Verantwortlichen der jeweiligen Studiengänge zu formulieren.\n\nMit freundlichen Grüßen\nDie Südosteuropa-Gesellschaft\n\n\n\nGeschäftsstelle\n\nSüdosteuropa-Gesellschaft | Southeast Europe Association\n\nWidenmayerstr. 49\n\n80538 München\n\n\n\nE-Mail: info@sogde.org<mailto:info@sogde.org>\nPhone: +49 (89) 21.21.54-0\nFax: +49 (89) 212.154.99\n\nwww.sogde.org<http://www.sogde.org/>\n\n\n\nX<https://x.com/sudosteuropa>|Youtube<https://www.youtube.com/channel/UCcKCuVqDb_dLwMDgAKeirIQ?view_as=subscriber>|Facebook<https://www.facebook.com/suedosteuropagesellschaft>|Instagram<https://www.instagram.com/suedosteuropagesellschaft/>|Bluesky<https://bsky.app/profile/sudosteuropa.bsky.social>\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260319/de301ac0/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "länder",
-        "eu"
-      ],
-      "id": "4c47701386caae6d"
-    },
-    {
-      "subject": "Politische Studienreisen nach Brüssel für Studis: Lobbyismus in der EU und EU-USA-Beziehungen",
-      "from": "News Verein zur Förderung politischen Handelns e.V. <news@vfh-online.de>",
-      "date": "Wed, 18 Mar 2026 13:59:08 +0000",
-      "dateUtc": "2026-03-18T13:59:08+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://vfh-online.de/seminare/lobbying_in_der_eu/",
-        "https://vfh-online.de/seminare/zeitenwende_transatlantik_eu_usa/",
-        "http://vfh-online.de/.",
-        "http://www.vfh-online.de/",
-        "http://www.facebook.com/vfh.jump",
-        "http://www.instagram.com/vfh_denken_hilft/"
-      ],
-      "snippet": "Liebe Liste,\n\nwir möchten Euch heute auf zwei Veranstaltungen für Studierende hinweisen und freuen uns, wenn Ihr die Nachricht an potenziell Interessierte weiterleitet oder Euch selbst anmeldet.\n\nHinter verschlossenen Türen? Lobbying in der EU\nPolitische Studienreise nach Brüssel\n10.05.26 - 13.05.26 in Brüssel\nSeminargebühr: 145,00 Euro\n\nLobbyismus - für viele klingt das nach geheimen Absprachen, mächtigen Konzernen und undurchsichtigen Netzwerken. Doch wie funktioniert Interessenvertretung in der EU tatsächlich? Vor dem Hintergrund jüngster Skandale wie \"Qatargate\", bei dem EU-Abgeordnete mutmaßlich bestochen wurden, und angesichts massiver Lobbybudgets steht Lobbying in der EU zunehmend auf dem Prüfstand. Gleichzeitig ist es ein zentraler Bestandteil demokratischer Willensbildung. Zwischen legitimer Interessenvertretung und problematischer Einflussnahme verläuft jedoch oft ein schmaler Grat.\nDiskutiere mit Vertreter:innen von EU-Institutionen und wirtschaftlichen und zivilgesellschaftlichen Interessenvertretungen: Welche Rolle spielen Lobbyist:innen im EU-Gesetzgebungsprozess? Wie lässt sich Interessenvertretung in der EU transparent und demokratisch gestalten? Weitere Informationen und das Anmeldeformular finden sich hier<https://vfh-online.de/seminare/lobbying_in_der_eu/>.\n\nZeitenwende Transatlantik: EU-USA-Beziehungen im Wandel\nPolitische Studienreise nach Brüssel\n31.05.26 - 03.06.26 in Brüssel\nSeminargebühr: 145,00 Euro\n\nLange galten die Beziehungen zwischen der Europäischen Union und den Vereinigten Staaten als zentrale Säule der internationalen Politik. Doch in den letzten Jahren hat sich das Umfeld nachhaltig verändert: geopolitische Umbrüche und sich wandelnde strategische Interessen haben die transatlantische Partnerschaft auf die Probe gestellt. Der russische Angriffskrieg gegen die Ukraine, die wachsende Bedeutung Chinas und globale Herausforderungen wie Klimawandel und Digitalisierung verlangen neue Antworten - auch im Verhältnis zwischen Brüssel und Washington. Zugleich stellen sich grundlegende Fragen zur Zukunft der transatlantischen Ordnung: Wie steht es um Demokratie, Rechtsstaatlichkeit und Multilateralismus auf beiden Seiten des Atlantiks? Im Rahmen unseres politischen Studienseminars in Brüssel wollen wir diesen Fragen nachgehen. Wir treffen Vertreter:innen von EU-Institutionen und Think-Tanks, diskutieren aktuelle Herausforderungen und entwerfen gemeinsam Szenarien für die Zukunft der EU-USA-Beziehungen. Weitere Informationen und der Link zur Anmeldung finden sich hier<https://vfh-online.de/seminare/zeitenwende_transatlantik_eu_usa/>.\n\nNoch kurz zu uns: Der v.f.h. ist ein gemeinnütziges und überparteiliches Bildungswerk. In dieser Funktion führen wir bundesweit und im europäischen Ausland Seminare, Trainings und Workshops für junge Menschen durch. Ziel des v.f.h. ist es, diese durch politische Bildung zu politischem Handeln zu motivieren und zu befähigen. Hier geht's zu unserer Website: http://vfh-online.de/.\nFür Rückfragen stehe ich gerne zur Verfügung.\n\nHerzliche Grüße\n\nMarie Kemter [sie/ihr]\n\n________________________________________________________\nv.f.h. Verein zur Förderung politischen Handelns e.V.\nAssociation for the Advancement of Political Action\nin Nordrhein-Westfalen vertreten durch das Politische Bildungswerk:\nJunge Erwachsene machen Politik (JumP)\n\nRathausgasse 22-24\n53111 Bonn\nfon: 0228 - 96 38 551\nfax: 0228 - 96 38 553\nemail: mail@vfh-online.de<mailto:mail@vfh-online.de>\nwww.vfh-online.de<http://www.vfh-online.de/>\nwww.facebook.com/vfh.jump<http://www.facebook.com/vfh.jump>\nwww.instagram.com/vfh_denken_hilft/<http://www.instagram.com/vfh_denken_hilft/>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/39ff75f5/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu",
-        "gesetzgebung"
-      ],
-      "id": "81fe138df9f556e6"
-    },
-    {
-      "subject": "SHK-Stelle beim Verfassungsblog zur Untersützung der Redaktion",
-      "from": "Sonja Kaufmann <sonja.kaufmann@gmx.com>",
-      "date": "Wed, 18 Mar 2026 14:42:52 +0100",
-      "dateUtc": "2026-03-18T13:42:52+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/22e31b2f/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 0,
-      "dsPolicyMatchedKeywords": [],
-      "id": "d505362d2c034e0a"
-    },
-    {
-      "subject": "EU to go. Migration: Abschotten oder Anwerben? Dienstag, 24.03.2026",
-      "from": "Linda Hewitt <hewitt@delorscentre.eu>",
-      "date": "Wed, 18 Mar 2026 13:00:42 +0000",
-      "dateUtc": "2026-03-18T13:00:42+00:00",
-      "organization": "24.03.2026",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.delorscentre.eu/de/veranstaltungen/detail/event/eu-to-go-migration-abschotten-oder-anwerben"
-      ],
-      "snippet": "EU to go. Migration: Abschotten oder Anwerben? am Dienstag, 24.03.2026 | Bevor der Arbeitstag beginnt, gibt es wieder einen komprimierten Input zu einem aktuellen EU-Thema. Europas Migrationspolitik steckt im Zielkonflikt: härtere Grenzen auf der einen, akuter Fachkräftemangel auf der anderen Seite. Abschottung und Talentgewinnung zugleich ? das wird zunehmend zum strategischen Widerspruch. Welcher Kurs ist realistisch? Was zeigt der Blick auf unterschiedliche Modelle ? etwa Spaniens arbeitsmarktorientierten Ansatz im Vergleich zu restriktiveren Strategien? Und wofür entscheidet sich die EU: Festung Europa oder Fachkräfteoffensive? Darüber spricht beim nächsten EU to go-Frühstück Judith Kohlenberger, Migrationsforscherin an der WU Wien und Affiliate Policy Fellow am Jacques Delors Centre mit Marcus Engler, wissenschaftlicher Mitarbeiter am DeZIM-Institut. Jetzt anmelden: EU to go. Migration: Isolate or recruit? | Jacques Delors Centre<https://www.delorscentre.eu/de/veranstaltungen/detail/event/eu-to-go-migration-abschotten-oder-anwerben>\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/f7db1ca4/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "politik",
-        "eu",
-        "migrationspolitik"
-      ],
-      "id": "4d6fb9ff9764e2d9"
-    },
-    {
-      "subject": "[Invitation] 13 April 2026 // Reclaim the Cloud! Contesting, Resisting and Reimagining Data Centers // Paris Marx, Julian Bothe, La Nuage était sous nos pieds & the Community Data Centers Project",
-      "from": "Friederike Hildebrandt <friederike.hildebrandt@bits-und-baeume.org>",
-      "date": "Wed, 18 Mar 2026 11:43:35 +0100",
-      "dateUtc": "2026-03-18T10:43:35+00:00",
-      "organization": "institut am 13",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://tickets.weizenbaum-institut.de/byjxl/",
-        "https://bits-und-baeume.org/termine",
-        "https://keys.openpgp.org/vks/v1/by-fingerprint/789A02A0EC32CD39C82A65178A7683F7A230CD22",
-        "https://www.bits-und-baeume.org",
-        "https://bits-und-baeume.org/newsletter/",
-        "https://mastodon.bits-und-baeume.org/@bits_und_baeume",
-        "https://bits-und-baeume.org/communityliste"
-      ],
-      "snippet": "/Liebe Community,\n/\n\n/wir freuen uns sehr, euch zu unserem nächsten Policy Lab in Kooperation \nmit dem Weizenbauminstitut am 13.04.2026 zum Thema Rechenzentren und \nNachhaltigkeit einzuladen./\n\n/Wir freuen uns auf die Diskussion mit Paris Marx, Julian Bothe, La \nNuage était sous nos pieds und dem Community Data Center Project des \nWeizenbauminstituts. /\n\n/Die Veranstaltung findet ausnahmsweise komplett auf Englisch ohne \nÜbersetzung statt.\n\nBitte meldet euch vorher an \n<https://tickets.weizenbaum-institut.de/byjxl/>. Wir freuen uns, euch \ndort zu sehen!\n\nHerzliche Grüße\n\nRike von Bits & Bäume/\n\n/***/\n\n/Dearest Community,\n/\n\n/In cooperation with the Weizenbaum Institute, we are pleased to invite \nyou to our next Policy Lab on Data Centres and Sustainability on 13 \nApril 2026./\n\n/We are looking forward to the discussion with Paris Marx, Julian Bothe, \nLa Nuage Était Sous Nos Pieds and the Community Data Center Project of \nthe Weizenbaum Institute./\n\n/Please register in advance \n<https://tickets.weizenbaum-institut.de/byjxl/>. We look forward to \nseeing you there!\n\nWarm greetings,\n\nRike (Bits & Bäume)/\n\n/***/\n\n*Invitation 13 April 2026:*\n\n\n  Reclaim the Cloud! Contesting, Resisting and Reimagining Data Centers\n\n/Bits & Bäume and the research group ?Digitalization, Sustainability, \nand Participation? (Weizenbaum Institute) jointly present: Reclaim the \nCloud! Contesting, Resisting and Reimagining Data Centers./\n\n?? *Datum:* 13.04.2026, 17:00 Uhr <https://bits-und-baeume.org/termine>\n?? *Ort:* Weizenbaum-Institut, Hardenbergstraße 32, 10623 Berlin& via \nLivestream\n/The Event will be in english./\n\nData centres are the backbone of the internet and the foundation for \narchitecture of our digital lives. Around the world, large tech \ncompanies, such as Microsoft, Meta, Amazon and Google are investing \nbillions in hyper-scaler data centres designed to provide computation \nand data capacity for generative AI and other digital products. These \ndata centres are no abstract entities. They are built with tons of \nconcrete, take up vast space and need lots of energy, water and \nresources to operate. Hence data centres influence, change and clash \nwith local politics, ecologies and ideas about good digital futures. \nTheir closed ownership structures also raise urgent questions of \nupstream power concentration, and undermines democratic oversight and \naccountability of technological development.\n\nRecently, lines of conflict around data centre development have erupted \naround the globe. From Mexico and the US to France and Germany, protest \nmovements against data centres led by local activists contest promises \nof technical innovation and regional development, and defend ecological \nand local interests. These protests are opening up a a space for an \nalternative vision of data centre infrastructure ? and thus an \nalternative vision for the foundations of our digital life.\n\nAt this event, we want to discuss the challenges data centres bring, \nlearn from data centre resistance movements and explore new ideas for \nthe future of data centres.\n\nWe will combine political analysis from Paris Marx and Algorithm Watch \nwith practical experience by the activists of La Nuage était sous nos \npieds and discuss alternative visions of digital futures with the the \nCommunity Data Centers research project from the Weizenbaum Institute.\n\n\n        Parcitipants\n\n  *\n\n    Paris Marx ? Author (Road to Nowhere), Journalist (Time, Wired,\n    disconnect.blog etc.), Host (Tech Won't Save Us)\n\n  *\n\n    Julian Bothe ? Algorithm Watch\n\n  *\n\n    La Nuage était sous nos pieds ? French Data Center Resistance Group\n\n  *\n\n    Weizenbaum Institute's ?Community Data Centers? research project\n\n\n        Registration\n\nPlease register here: https://tickets.weizenbaum-institut.de/byjxl/\n\n\n        Agenda\n\n*4.30 pm* doors open\n*5.00 pm* Inputs:\n\n  * Welcome at the Weizenbaum Institute\n  * Paris Marx on the growing negative implications of data centres\n  * La Nuage était sous nos pieds on Data Center Resistance in France\n  * Julian Bothe, Algorithm Watch on the Situation of Data Centers in\n    Germany\n  * Community Data Centers Project with focus on democratisaton\n\n*6:30 pm* short break\n*6:45 pm* Panel: Future of Data Centers with our guests\n*8:00 pm* Wine & Snacks - following the programme, we invite our guests \nand audience to continue the conversation with drinks and snacks.\n\n\n        The Organizers\n\nThe event is jointly organised by:\n\n  * the Weizenbaum Institute?s research group ?Digitalization,\n    Sustainability, and Participation?, as well as the research project\n    ?Community Data Centers?,\n  * and the Bits & Bäume movement for digitalization and sustainability.\n\n\n-- \nFriederike Hildebrandt\nKoordinatorin Bits & Bäume\n\nBits & Bäume Koordinationsstelle\nStresemannstr. 72\n10963 Berlin\n\nE-Mail:friederike.hildebrandt@bits-und-baeume.org\nTel: +49 1575 3320250\nPGP:https://keys.openpgp.org/vks/v1/by-fingerprint/789A02A0EC32CD39C82A65178A7683F7A230CD22\nErreichbarkeit: Montag - Donnerstag, 9 - 17 Uhr\n\n?? Web:https://www.bits-und-baeume.org\n?? Newsletter:https://bits-und-baeume.org/newsletter/\n?? Social:https://mastodon.bits-und-baeume.org/@bits_und_baeume\n?? Community-Liste:https://bits-und-baeume.org/communityliste\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/2c9dd820/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 66, Eintrag 16\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "ai",
-        "gis",
-        "policy",
-        "eu",
-        "development"
-      ],
-      "id": "8cd009f023fd7244"
-    },
-    {
-      "subject": "Erinnerung: Splitter aus Licht - Filmvorführung und Gespräch mit Regisseur in Leipzig",
-      "from": "katharina Dalko <katharina.Dalko@kas.de>",
-      "date": "Wed, 18 Mar 2026 10:36:49 +0000",
-      "dateUtc": "2026-03-18T10:36:49+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.kas.de/de/web/sachsen/veranstaltungen/detail/-/content/splitter-aus-licht-2",
-        "https://www.kas.de/de/web/sachsen"
-      ],
-      "snippet": "Liebe Liste,\n\ndas Politische Bildungsforum der Konrad-Adenauer-Stiftung in Sachsen lädt Sie herzlich zu einer öffentlichen Filmvorführungen des Dokumentarfilms Splitter aus Licht ein.\nDer Film wird in Anwesenheit des Regisseurs Marcus Lenz gezeigt und thematisiert die Folgen von Krieg, Besatzung und Wiederaufbau in der Ukraine.\nIm Anschluss an die Vorführungen wird es ein moderiertes Gespräch mit Regisseur Lenz zu Hintergründen des Films und der Situation vor Ort geben. Eintritt ist kostenlos, um Anmeldung wird gebeten.\n\n26. März (Do), Filmstart um 18:30 Uhr\nim Zeitgeschichtlichen Forum Leipzig\nWeitere Informationen & Anmeldung: \"Splitter aus Licht\" - Politisches Bildungsforum Sachsen - Konrad-Adenauer-Stiftung<https://www.kas.de/de/web/sachsen/veranstaltungen/detail/-/content/splitter-aus-licht-2>\n\nWir freuen uns über Ihre Teilnahme!\n\nMit freundlichen Grüßen\n\nKatharina Dalko\n\n\nKatharina Dalko\nReferentin Politische Bildung\n____________________________________\n\nKonrad-Adenauer-Stiftung e. V.\nPolitisches Bildungsforum Sachsen\n\nKönigstraße 23 | 01097 Dresden\n\nT +49 351 563446-16\nMobil +49 170 5944523\nkatharina.dalko@kas.de<mailto:katharina.dalko@kas.de>\nhttps://www.kas.de/de/web/sachsen\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/f02a0128/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu",
-        "stiftung"
-      ],
-      "id": "c3a9f96d77a8af08"
-    },
-    {
-      "subject": "Workshops: Gender-und Medienkompetenz, Gendersensible Sprache und Fake News",
-      "from": "Julia Aertken <Julia.Aertken@ib.de>",
-      "date": "Wed, 18 Mar 2026 10:19:21 +0000",
-      "dateUtc": "2026-03-18T10:19:21+00:00",
-      "organization": "Gendersensible Sprache und Fake News",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gender-und-medienkompetenz",
-        "https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-alternative-fakten",
-        "https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gendersensible-sprache-in-zeiten-von-genderverboten",
-        "http://www.internationaler-bund.de/"
-      ],
-      "snippet": "Liebe Mitglieder der ib-Liste,\n\ngerne möchten wir euch auf drei neue kostenlose Fortbildungen aus dem Bereich der Politischen Bildung aufmerksam machen:\n\n\n  *   Zwischen Empowerment und Radikalisierung - Gender- und Medienkompetenz in digitalen Jugendwelten<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gender-und-medienkompetenz> | 20.-21. April 2026 (online)\n\nDiese Fortbildung beschäftigt sich am ersten Tag mit den Hard Facts aus einer genderpädagogischen Perspektive: welche spannenden Netzphänomene gibt es gerade, wer nutzt wie viel das Netz und Soziale Medien, was haben Trends mit Radikalisierung und Instrumentalisierung zu tun, woher kommen diese tradierten Genderstereotypen (plötzlich?) und welche Herausforderungen lassen sich daraus für pädagogische Fachkräfte ableiten? Am zweiten Tag geht es um das Thema Gender- und Medienkompetenz: wie können Dinge thematisiert werden, wenn Fachkräfte sich selbst inkompetent im Netz fühlen und was bedeutet hier genau Medienkompetenz für das eigene Handeln? Welche moralischen Bedenken haben Fachkräfte und was ist die Grundhaltung zu Mediennutzung und Genderinszenierung? Wie können Jugendliche von Fachkräften profitieren ohne sich moralisch bewertet zu fühlen?\n\nAnmeldungen nehmen wir gerne ab sofort über das Anmeldeformular<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gender-und-medienkompetenz> entgegen.\n\n  *   Alternative? Fakten! - Fake News verstehen lernen<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-alternative-fakten> | 07. Mai 2026 (online)\n\nFake News sind längst Teil unseres digitalen Alltags. Doch wie erkennt man sie eigentlich und was kann man dagegen tun? In diesem Workshop setzen sich die Teilnehmenden mit dem Phänomen Fake News auseinander und entwickeln ein besseres Verständnis für verschiedene Formen von falschen oder irreführenden Informationen und ihren Gefahren.\n\nAnmeldungen nehmen wir gerne ab sofort über das Anmeldeformular<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-alternative-fakten> entgegen.\n\n  *   Gendersensible Sprache in Zeiten von Genderverboten<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gendersensible-sprache-in-zeiten-von-genderverboten> | 28. Mai 2026 (online)\n\nGendersensible Sprache steht aktuell stark unter Druck: In mehreren Bundesländern wurden sogenannte \"Genderverbote\" erlassen, die inklusive Ausdrucksweisen einschränken sollen. Diese Entwicklungen sind Teil eines breiteren antifeministischen Backlashs, der Gleichstellung, geschlechtliche Vielfalt und Sichtbarkeit infrage stellt oder angreift. Der Online-Workshop lädt dazu ein, sich fundiert und praxisnah mit der Bedeutung und Wirkung gendersensibler Sprache auseinanderzusetzen, insbesondere im Kontext aktueller Debatten und rechtlicher Einschränkungen.\n\nAnmeldungen nehmen wir gerne ab sofort über das Anmeldeformular<https://www.internationaler-bund.de/ueber-uns/angebote-und-dienstleistungen/politische-bildung/workshop-gendersensible-sprache-in-zeiten-von-genderverboten> entgegen.\n\nWir würden uns freuen, wenn ihr die Angebote an eure Kanäle/Verteiler weiterleitet.\n\nHerzlichen Dank!\n\nViele Grüße\nJulia Aertken\nReferentin für Politische Bildung\n------------------------------------------\nInternationaler Bund (IB)\nRepräsentanz der Zentralen Geschäftsführung\nHannoversche Str. 19 A\n10115 Berlin\nE-Mail: julia.aertken@ib.de<mailto:julia.aertken@ib.de>\n-------------------------------------------\nInternationaler Bund (IB)\nZentrale Geschäftsführung · Ressort Produktstrategie und Entwicklung\nValentin-Senger-Str. 5\n60389 Frankfurt a.M.\n\nwww.internationaler-bund.de<http://www.internationaler-bund.de/>\nMenschSein Stärken · Seit 1949\n\nInternationaler Bund (IB)\nFrankfurt, Deutschland, VR 5259\nVorstand: Thiemo Fojkar (Vorsitzender), Karola Becker, Janine Krohe\nPräsidentin: Petra Merkel\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/bdbb4f7a/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "länder",
-        "eu"
-      ],
-      "id": "f85a2eff13ebbdb3"
-    },
-    {
-      "subject": "Fw: Reminder I CALL FOR PAPERS I DeZIM Konferenz 07. - 09. Oktober 2026",
-      "from": "Julia Heinle <julia-heinle@gmx.de>",
-      "date": "Wed, 18 Mar 2026 08:41:44 +0000",
-      "dateUtc": "2026-03-18T08:41:44+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/1333972a/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 0,
-      "dsPolicyMatchedKeywords": [],
-      "id": "702ef884ac8dd802"
-    },
-    {
-      "subject": "WG: Workshop-Reihe ?Diversität gewaltfrei leben?",
-      "from": "Jochen Mangold <mangold@gewaltfreihandeln.org>",
-      "date": "Wed, 18 Mar 2026 08:10:17 +0000",
-      "dateUtc": "2026-03-18T08:10:17+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=134",
-        "https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=135",
-        "https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=136",
-        "https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=137",
-        "https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=139",
-        "http://www.gewaltfreihandeln.org"
-      ],
-      "snippet": "Guten Tag,\nin diesem Jahr veranstalten wir bei gewaltfrei handeln e.V. eine Workshop-Reihe zum Thema ?Diversität gewaltfrei leben?.\nIn vier Online-Workshops und einem Präsenzseminar beschäftigen wir uns mit verschiedenen Aspekten von Diversität, Diskriminierung und solidarischem Handeln ? von einer Einführung in Diversität über unser koloniales Erbe und die Wirkung von Sprache bis hin zu Fragen von Verbündetsein und Handlungsmöglichkeiten im Alltag.\nDie Reihe richtet sich an Menschen, die ihre eigene Position in einer vielfältigen Gesellschaft reflektieren und Handlungsmöglichkeiten für einen respektvollen und gewaltfreien Umgang mit Vielfalt entwickeln möchten.\nWir würden uns sehr freuen, wenn Sie die Veranstaltungsreihe über ihre Netzwerke weiter bekannt machen.\nIm Anhang finden Sie dafür:\n\n  *   einen Flyer zur Reihe\n\n  *   SharePics der einzelnen Veranstaltungen\nWeitere Informationen und die Anmeldung finden Sie hier:\n\n  1.  Online- Workshop: \"Diversitätsreihe 1: Diversität, Diskriminierung und mein Umgang damit ? eine Einführung<https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=134>\"\n\n  1.  Online-Workshop: \"Diversitätsreihe 2: Wie unser koloniales Erbe diskriminierende Strukturen prägt<https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=135>\"\n\n  1.  Online-Workshop: \"Diversitätsreihe 3: Sind das wirklich nur Worte?<https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=136>\"\n\n  1.  Online-Workshop: \"Diversitätsreihe 4: Solidarisch im Angesicht von Diskriminierung<https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=137>\"\n\n  1.  Präsenzseminar: Diversitätsreihe 5: Den eigenen Platz in Gesellschaft und Diskurs bewusst reflektieren<https://gewaltfreihandeln.org/civicrm/event/info?reset=1&id=139>\"\n\nVielen Dank fürs Unterstützen!\nHerzliche Grüße\nPia Loïc\n--\n\nPia Loïc Stamer\n[they/them]\nKoordinator*in\n\ngewaltfrei handeln e.V.\nMittelstraße 4\n34474 Diemelstadt-Wethen\nTel. 05694 8033\n\n[www.gewaltfreihandeln.org]www.gewaltfreihandeln.org<http://www.gewaltfreihandeln.org>\n[facebook.com/gewaltfreihandeln]instagram.com/gewaltfreihandeln\n\n\n\nIch freue mich über genderneutrale Anreden, wie zum Beispiel ?Sehr geehrte*r Pia Stamer? oder ?Guten Tag Pia Stamer?.\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 1. WS Reihe Diversität.png\nDateityp    : image/png\nDateigröße  : 119152 bytes\nBeschreibung: 2026 1. WS Reihe Diversität.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 2. WS Reihe Diversität.png\nDateityp    : image/png\nDateigröße  : 131067 bytes\nBeschreibung: 2026 2. WS Reihe Diversität.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 3. WS Reihe Diversität.png\nDateityp    : image/png\nDateigröße  : 123040 bytes\nBeschreibung: 2026 3. WS Reihe Diversität.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment-0002.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 4. WS Reihe Diversität.png\nDateityp    : image/png\nDateigröße  : 114690 bytes\nBeschreibung: 2026 4. WS Reihe Diversität.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment-0003.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 5. SE Reihe Diversität.png\nDateityp    : image/png\nDateigröße  : 114804 bytes\nBeschreibung: 2026 5. SE Reihe Diversität.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment-0004.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 Seminarprogramm.pdf\nDateityp    : application/pdf\nDateigröße  : 950693 bytes\nBeschreibung: 2026 Seminarprogramm.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260318/ae429ba8/attachment.pdf>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "r ",
-        "eu"
-      ],
-      "id": "b9e09e219b8ff41f"
-    },
-    {
-      "subject": "Bewerbungen für trinationalen Europamaster willkommen",
-      "from": "\"Unger, Doris\" <unger@politik.uni-mainz.de>",
-      "date": "Tue, 17 Mar 2026 15:11:07 +0000",
-      "dateUtc": "2026-03-17T15:11:07+00:00",
-      "organization": "Universität Mainz (Deutschland)",
-      "positionType": "N/A",
-      "deadline": "May 15th, 2026, and experience Europe while you complete your Master's degree",
-      "deadlineDate": "2026-05-15",
-      "links": [
-        "https://politik.uni-mainz.de/startseite-institut-fuer-politikwissenschaft/studierende/m-a-european-studies/",
-        "https://ema-dom.eu/."
-      ],
-      "snippet": "****** English version below ******\n\nLiebe Interessierte,\n\nam 1. April 2026 startet die Bewerbungsphase für unseren trinationalen MA in ?European Studies?!\nDer Master bietet die einmalige Gelegenheit, ein interdisziplinäres Masterprogramm zu studieren, in drei europäischen Ländern zu leben und das alles als Teil einer multinationalen Studierendengruppe zu erleben.\n\nWarum European Studies Master? ?Study Europe ? Live Europe?\n\n  *   Frankreich, Deutschland, Polen: Ganz besonders macht diesen vier-semestrigen Studiengang, dass die Studierenden in drei Ländern studieren und nach erfolgreichem Abschluss drei Zeugnisse erhalten. Denn dieser Masterstudiengang stellt eine Kooperation der Johannes Gutenberg-Universität Mainz (Deutschland), der Université de Bourgogne Europe (Dijon, Frankreich) und der Uniwersytet Opolski (Opole, Polen) dar.\n  *   Politikwissenschaft und Rechtswissenschaften: In Opole (1. Semester) konzentrieren sich die Kurse auf die politischen und kulturellen Aspekte der EU-Integration und -Erweiterung. In Mainz (2. Semester) studieren die Studierenden das politische System und die Entscheidungsfindung innerhalb der EU und diskutieren zentrale Herausforderungen für die EU. Das dritte Semester in Dijon konzentriert sich auf die rechtliche Dimension europäischer Integration, die zentralen Grundsätze des EU-Rechts und Menschenrechte.\n  *   Sprachausbildung: Ein wichtiger Bestandteil des Studiums sind Sprachkompetenzen. Die Studierenden vertiefen ihre Französischkenntnisse und lernen Polnisch und Deutsch. Multilinguale Studierende können eine weitere europäische Sprache wählen.\n\nEs fallen keine Studiengebühren an und Du bekommst finanzielle Unterstützung (Mobilitätsstipendien in den ersten drei Semestern vom DAAD, von der DFH/UFA und über Erasmus +).\n\nBewerber*innen müssen Englisch (B2) und Französisch (B1) nachweisen. Polnisch und Deutsch wirst Du im Verlauf des Studiums lernen. Französisch wird weiter vertieft.\n\nDu bist interessiert?\nDann bewirb Dich bis zum 15. Mai 2026 und erlebe Europa ganz nah, während Du Deinen Master absolvierst!\n\nDetaillierte Informationen zum Studiengang und Bewerbungsverfahren findest Du unter:\nhttps://politik.uni-mainz.de/startseite-institut-fuer-politikwissenschaft/studierende/m-a-european-studies/\n\nFalls Du Fragen hast, kontaktiere uns bitte unter: europamaster@politik.uni-mainz.de<mailto:europamaster@politik.uni-mainz.de>\nFür Fragen an den Alumni-Verein des Masters ?EMA-DOM? siehe: https://ema-dom.eu/.\n\nWir freuen uns auf Deine Bewerbung!\n\n*****************************************************************************\n\nDear interested students,\n\nwe welcome applications for the trinational MA in ?European Studies? from April 1st, 2026!\nYou have the unique opportunity to study an interdisciplinary Master's program, live in three European countries and study as part of a multinational cohort of students.\n\nWhy M.A. in European Studies? ?Study Europe ? Live Europe?\n\n  *   France, Germany, Poland: You study in three countries and receive three national diplomas. The MA program is a collaboration between Johannes Gutenberg University Mainz (Germany), Université de Bourgogne Europe (Dijon, France) and Uniwersytet Opolski (Opole, Poland).\n  *   Political Science and Law: In Opole (1. semester), courses focus on the political and cultural aspects of EU integration and EU enlargement. In Mainz (2. Semester) seminars focus on the political system and decision-making within the EU and you discuss key challenges facing the EU. In Dijon (3. semester), the program focusses on the legal dimension of European integration, including central legal principles and human rights.\n  *   Language training: Language training is an important element of the program. You will learn German, French and Polish, but if you are already fluent in two of them, you can also choose another European language.\n\nThere are no tuition fees, and you receive financial support (DAAD, DFH, Erasmus+).\n\nAnd no, you don't have to speak German, French or Polish perfectly to apply!\nOnly English (B2) and French (B1) are required. You should learn German and Polish during your studies.French language skills will be improved.\n\nAre you interested?\nApply by May 15th, 2026, and experience Europe while you complete your Master's degree!\n\nYou can find detailed information about the program and application procedure here: https://politik.uni-mainz.de/startseite-institut-fuer-politikwissenschaft/studierende/m-a-european-studies/\nIf you have any questions, please, contact us: europamaster@politik.uni-mainz.de<mailto:europamaster@politik.uni-mainz.de>\nFeel also free to contact the alumni association of the Master ?EMA-DOM?: https://ema-dom.eu/.\n\nWe look forward to your application!\n\n\n-------------------\n\nDr. Doris Unger\n\n\n\nWissenschaftliche Mitarbeiterin\n\nInstitut für Politikwissenschaft, Internationale Politik\n\nJohannes Gutenberg-Universität Mainz\n\n\n\nGeorg Forster-Gebäude, Raum 04-415\n\nPost: Jakob-Welder-Weg 12, 55099 Mainz\n\nTel.: +49-6131-39-21052\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260317/3838fb32/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "länder",
-        "eu",
-        "politikwissenschaft",
-        "political science"
-      ],
-      "id": "5e94e93dab5bf124"
-    },
-    {
-      "subject": "Praktikumsstellen bei Porsche im Bereich Regulatorik & Nachhaltigkeit",
-      "from": "\"Thorwart, Emma (VAN1)\" <emma.thorwart@porsche.de>",
-      "date": "Tue, 17 Mar 2026 14:25:35 +0000",
-      "dateUtc": "2026-03-17T14:25:35+00:00",
-      "organization": "Unknown",
-      "positionType": "Internship",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://jobs.porsche.com/index.php?ac=jobad&id=19362"
-      ],
-      "snippet": "Liebe IB-Liste,\n\nPorsche bietet eine Praktikumsstelle für den Bereich Aftersales Regulatorik & Nachhaltigkeit ab April / Mai an.\n\nStellenanzeige: Praktikum Aftersales Nachhaltigkeit & Gesetze | Karriereportal | Dr. Ing. h.c. F. Porsche AG<https://jobs.porsche.com/index.php?ac=jobad&id=19362>\n\nWer Einblicke in strategische Nachhaltigkeits- und Compliance-Themen eines global agierenden Automobilunternehmens bekommen möchte, ist hier genau richtig! Das Team sorgt dafür, dass Porsche auch nach dem Fahrzeugverkauf nachhaltig und gesetzeskonform agiert.\n\nVoraussetzung ist die Immatrikulation. Gesucht werden Studierende der Politikwissenschaft, Rechtswissenschaft, Wirtschaftsrecht, Chemieingenieurwesen oder ähnliches. Standort ist Stuttgart-Zuffenhausen.\n\nGerne über das Jobportal bewerben oder Lebenslauf direkt an katharina.leihener@porsche.de senden.\n\n\n\n\n\n\n\n\nMit freundlichen Grüßen / Best regards\n\n\n\nEmma Thorwart\n\nVAN1 | Customer Care & Service | Sustainability & Regulations\n\nParts Regulations, Trade and Packaging\n\nDr. Ing. h.c. F. Porsche AG\n\nPorscheplatz 1\n70435 Stuttgart\n\nDeutschland\n\n\n\nMobil: +49 711 91120339\n\nE-Mail: emma.thorwart@porsche.de\n\n\n\nDr. Ing. h.c. F. Porsche Aktiengesellschaft\nSitz der Gesellschaft: Stuttgart\nRegistergericht: Amtsgericht Stuttgart HRB-Nr. 730623\nVorsitzender des Aufsichtsrats: Dr. Wolfgang Porsche\nVorstand: Dr. Michael Leiters, Vorsitzender\nDr. Michael Steiner, stellvertretender Vorsitzender\nMatthias Becker, Dr. Jochen Breckner, Sajjad Khan, \nAlbrecht Reimold, Vera Schalwig, Joachim Scharnagl\nInformationen zum Umgang mit Ihren Daten finden Sie in unseren Datenschutzhinweisen.\nDie vorgenannten Angaben werden jeder E-Mail automatisch hinzugefügt. Dies ist kein Anerkenntnis, dass es sich beim Inhalt dieser E-Mail um eine rechtsverbindliche Erklärung der Porsche AG handelt. Erklärungen, die die Porsche AG verpflichten, bedürfen jeweils der Unterschrift durch zwei zeichnungsberechtigte Personen der AG.\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260317/5b36c524/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu",
-        "politikwissenschaft",
-        "regulation"
-      ],
-      "id": "8e4f4cb2cfcc79b8"
-    },
-    {
-      "subject": "Kurdistan Briefing ? Politik und Konflikt im Nahen Osten",
-      "from": "Mohammad Miro Hasinyani <mohammad.hasinyani@gmail.com>",
-      "date": "Tue, 17 Mar 2026 15:20:47 +0100",
-      "dateUtc": "2026-03-17T14:20:47+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Sehr geehrte Damen und Herren,\n\nim Rahmen unserer Vortragsreihe *Between the Mountains ? Perspectives on\nKurdistan* laden wir Sie herzlich zu einem kompakten Online-Briefing ein:\n\n?? 22. März 2026\n?? 20:00?20:45 Uhr\n?? Online (Zoom)\n?? Referent: Konstantin Flemig, Journalist\n\nDie Teilnahme ist kostenlos.\n\nAnmeldung per E-Mail an: info@middleeastexcursion.com\n\nWir freuen uns auf Ihre Teilnahme.\n\nMit freundlichen Grüßen\nMohammad Miro Hasinyani\n\nMIDDLE EAST EXCURSION\nwww.middleeastexcursion.com/\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260317/1d3592cc/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Kurdistan Briefing.jpg\nDateityp    : image/jpeg\nDateigröße  : 173070 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260317/1d3592cc/attachment.jpg>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "eu"
-      ],
-      "id": "62288b205fae9221"
-    },
-    {
-      "subject": "Veranstaltungseinladung: \"Zurück in die Zukunft: Macht der Wehrdienst uns sicherer?\"",
-      "from": "Vanessa Kirsch | Pro Peace <vanessa.kirsch@propeace.de>",
-      "date": "Tue, 17 Mar 2026 15:18:57 +0100",
-      "dateUtc": "2026-03-17T14:18:57+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.propeace.de/de/veranstaltung/zurueck-in-die-zukunft",
-        "https://www.propeace.de"
-      ],
-      "snippet": "Einladung zur Online-Veranstaltung:\nZurück in die Zukunft: Macht der Wehrdienst uns sicherer?\n\nDonnerstag, 19.03.2026, 18:30 - 20:00 Uhr\n\nMitte Januar flatterte allen Jugendlichen des Jahrgangs 2008 eine \nEinladung zur Musterung in den Briefkasten ? für Jungen ist sie \nverpflichtend, für Mädchen freiwillig. Die nachfolgenden Jahrgänge \nkönnten sogar wieder zu einem verpflichtenden Wehrdienst eingezogen \nwerden. Schon jetzt steigen die Zahlen derjenigen, die den Kriegsdienst \nverweigern, rasant, entsprechende Beratungsstellen können die Flut der \nAnfragen kaum bewältigen.\n\nDie junge Generation ist jetzt gezwungen sich wieder ernsthaft und \npersönlich mit Krieg und Frieden auseinanderzusetzen. Doch dieses Thema \nsollte alle Menschen beschäftigen. Wehrhaftigkeit und \nVerteidigungsfähigkeit dringen längst in alle Bereiche von Gesellschaft \nein: wehrhafte Demokratie, resiliente Infrastrukturen. Höchste Zeit also \nder Frage nachzugehen: Was macht unsere Gesellschaft wehrhaft, und wie \nkönnen wir unsere Friedensfähigkeit erhalten?\n\nDarüber diskutieren wir mit:\n\n  * Sandra Klaft, Projektleiterin Peace for Future\n  * Winni Nachtwei, ehemaliger Abgeordneter im Deutschen Bundestag,\n    Leutnant der Reserve und Mitglied im Beirat Zivile Krisenprävention\n    und Friedensförderung der Bundesregierung\n  * Jeannine Melssen, Landesschülervertretung Nordrhein-Westfalen\n\nZur kostenlosen Anmeldung: \nhttps://www.propeace.de/de/veranstaltung/zurueck-in-die-zukunft\n\n-- \nVanessa Kirsch(sie/ihr | she/her)\nReferentin für Öffentlichkeitsarbeit | Public Relations Manager\n\nPro Peace\nEntschieden für Frieden | Committed to Peace\n\nTel. 0221 91273235\nhttps://www.propeace.de\n\nRechnungsanschrift | Billing adress: Forum Ziviler Friedensdienst e. V.\nAm Kölner Brett 8 | 50825 Köln | Germany\n\nVorstand nach § 26 BGB, einzelvertretungsberechtigt | Executive Board:\nCaroline Wiegand\nVR 17651 Amtsgericht Köln\n\nSpenden | Donations: IBAN DE90 4306 0967 4103 7264 00 | BIC GENODEM1GLS\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260317/7a5dbe20/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "regierung",
-        "bundestag",
-        "bundesregierung",
-        "eu",
-        "peace"
-      ],
-      "id": "639a9076a1e7c3de"
     }
   ],
   "stats": {
-    "new_items": 42,
-    "total_items": 141,
-    "processed_messages": 30,
-    "processed_messages_imap": 25,
+    "new_items": 59,
+    "total_items": 153,
+    "processed_messages": 32,
+    "processed_messages_imap": 27,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 42,
+    "removed_old_items": 45,
     "removed_past_deadline_items": 2,
     "removed_legacy_linkedin_alerts": 0
   }
