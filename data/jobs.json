@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:36:53.930752+00:00",
+  "generated_at": "2026-04-19T10:47:37.321012+00:00",
   "source": "imap",
   "items": [
     {
@@ -1909,33 +1909,6 @@
         "eu"
       ],
       "id": "78001531813ce1ad"
-    },
-    {
-      "subject": "Online training: Social Media and AI in Peace and Conflict",
-      "from": "Vanessa Kirsch | Pro Peace <vanessa.kirsch@propeace.de>",
-      "date": "Wed, 8 Apr 2026 13:40:22 +0200",
-      "dateUtc": "2026-04-08T11:40:22+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "13 April 2026",
-      "deadlineDate": "2026-04-13",
-      "links": [
-        "https://akademie.propeace.de/en/course/social-media-and-ai-peace-and-conflict",
-        "https://www.propeace.de"
-      ],
-      "snippet": "Social Media and AI in Peace and Conflict\nOnline training of the Academy for Conflict Transformation\n\nThis training introduces how social media and AI shape both conflict \ndynamics and peacebuilding opportunities. Through real-world case \nstudies and practical exercises, participants will examine how digital \ntechnologies can fuel violence but also help prevent and mitigate it. \nUsing innovative digital peacebuilding approaches, participants will \nincrease their capacity to understand and leverage technology within \ncomplex conflict contexts.\n\n20 April to 1 June 2026, every Monday from 14:00 to 16:00\n\nRegistration Deadline: 13 April 2026\n\nInfo & Registration: \nhttps://akademie.propeace.de/en/course/social-media-and-ai-peace-and-conflict\n\n-- \nVanessa Kirsch(sie/ihr | she/her)\nReferentin für Öffentlichkeitsarbeit | Public Relations Manager\n\nPro Peace\nEntschieden für Frieden | Committed to Peace\n\nTel. 0221 91273235\nhttps://www.propeace.de\n\nRechnungsanschrift | Billing adress: Forum Ziviler Friedensdienst e. V.\nAm Kölner Brett 8 | 50825 Köln | Germany\n\nVorstand nach § 26 BGB, einzelvertretungsberechtigt | Executive Board:\nCaroline Wiegand\nVR 17651 Amtsgericht Köln\n\nSpenden | Donations: IBAN DE90 4306 0967 4103 7264 00 | BIC GENODEM1GLS\n\n\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "ai",
-        "gis",
-        "peace"
-      ],
-      "id": "a8fe363e6066f8db"
     },
     {
       "subject": "Polis180 - Next gender book club pick",
@@ -4255,13 +4228,13 @@
     }
   ],
   "stats": {
-    "new_items": 59,
-    "total_items": 153,
-    "processed_messages": 32,
-    "processed_messages_imap": 27,
+    "new_items": 38,
+    "total_items": 152,
+    "processed_messages": 31,
+    "processed_messages_imap": 26,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 45,
-    "removed_past_deadline_items": 2,
+    "removed_old_items": 36,
+    "removed_past_deadline_items": 3,
     "removed_legacy_linkedin_alerts": 0
   }
 }
