@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-09T10:59:22.274462+00:00",
+  "generated_at": "2026-05-10T11:54:23.723487+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Keynote Prof. Heikki Patomäki & Working Group Critical Realism & Peace Studies",
+      "from": "Mühlbauer, Josef (josef.muehlbauer@uni-graz.at) <josef.muehlbauer@uni-graz.at>",
+      "date": "Sat, 9 May 2026 10:26:42 +0000",
+      "dateUtc": "2026-05-09T10:26:42+00:00",
+      "organization": "University Assistent",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://us06web.zoom.us/launch/jc/81346562187",
+        "https://josefmuehlbauer.com/critical-realism-peace-studies/",
+        "https://chat.whatsapp.com/KvbnZcr2aPM9iecquwZRkt",
+        "https://docs.google.com/document/d/1H-VMozIQx1Jo_QuUxcbMJgluGnp1IEWmCC-PUqkqcsE/edit?usp=sharing",
+        "https://criticalrealismnetwork.org/community/",
+        "https://www.youtube.com/watch?v=WBsje0J7sJo"
+      ],
+      "snippet": "Dear all,\n\nI would like to remind you that our first gathering will take place on 12 May, 2026 at 5:00 PM (CET). Here the zoom link: https://us06web.zoom.us/launch/jc/81346562187\nAt the beginning of the meeting, Prof. Werner Wintersteiner, Dr. Wilfried Graf (Kelman Institute), and I will present the main goals and ideas behind the creation of this group.\n\nAfterwards, Prof. Heikki Patomäki will deliver a keynote lecture on the question:\nHow Can Critical Realism Enrich Peace Studies?\n\nFollowing the keynote, we will open the discussion for networking, getting to know one another, and exploring possibilities for future meetings and collaboration.\nHere some further informations: https://josefmuehlbauer.com/critical-realism-peace-studies/\nWhatsApp Group: https://chat.whatsapp.com/KvbnZcr2aPM9iecquwZRkt\nLecture Series (Suggestions): https://docs.google.com/document/d/1H-VMozIQx1Jo_QuUxcbMJgluGnp1IEWmCC-PUqkqcsE/edit?usp=sharing\nWe are part of the CR Network: https://criticalrealismnetwork.org/community/\nIn case you miss our session, here you can watch the keynote speech: https://www.youtube.com/watch?v=WBsje0J7sJo\n\nBest regards,\nJosef\n\nUniv.-Ass. Josef Mühlbauer BA BA MA\nUniversitätsassistent | University Assistent\nInstitut für Rechtswissenschaftliche Grundlagen| Global Governance\nUniversität Graz | University of Graz\nUniversitätsplatz 3, 8010 Graz\nTel.: +43/(0)316/380-0000\nWeb: uni-graz.at\n\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 68, Eintrag 9\n*****************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "governance",
+        "peace"
+      ],
+      "id": "80b5db55900f74c7"
+    },
     {
       "subject": "Online Event 12.5. 11h *Europe?s DeepSeek Moment: A Regenerative Path to Global Leadership?*",
       "from": "katharina.sigwald@oefz.at",
@@ -5059,12 +5089,12 @@
     }
   ],
   "stats": {
-    "new_items": 61,
-    "total_items": 179,
+    "new_items": 47,
+    "total_items": 180,
     "processed_messages": 32,
     "processed_messages_imap": 27,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 61,
+    "removed_old_items": 42,
     "removed_past_deadline_items": 4,
     "removed_legacy_linkedin_alerts": 0
   }
