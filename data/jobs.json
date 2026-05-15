@@ -1,7 +1,69 @@
 {
-  "generated_at": "2026-05-14T10:21:30.529876+00:00",
+  "generated_at": "2026-05-15T10:27:07.782889+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Stellenausschreibung - Public Policy Analyst/Consultant (w/m/d) Umwelt-, Energie- und Klimapolitik",
+      "from": "Susann Reinsch <susann.reinsch@technopolis-group.com>",
+      "date": "Fri, 15 May 2026 09:48:59 +0000",
+      "dateUtc": "2026-05-15T09:48:59+00:00",
+      "organization": "Energie- und Klimapolitik",
+      "positionType": "Position",
+      "deadline": "ete Anstellung in Voll- oder Teilzeit in einem wachsenden Unternehmen",
+      "deadlineDate": null,
+      "links": [
+        "https://technopolis-group.jobs.personio.com/job/2632159?_pc=1447813#apply",
+        "https://www.linkedin.com/company/technopolis-group",
+        "https://twitter.com/TechnopolisGrp",
+        "http://www.technopolis-group.com/",
+        "http://technopolis-group.us3.list-manage1.com/subscribe/post?u=67c4f3dd9b6ccbc1186a61f41&id=2612de8908"
+      ],
+      "snippet": "Hallo an alle Listen Empfänger*innen,\n\nwir haben folgende Stelle an einem unserer Standorte in Berlin, Frankfurt/M. oder Wien zu besetzen:\n\nSenior Policy Data Scientist (w/m/d) für die evidenzbasierte Politikberatung\n\nDie Technopolis Group ist ein internationales Forschungs- und Beratungsunternehmen für den öffentlichen Sektor mit über 300 Kolleg*innen an zwölf Standorten in Europa, Afrika und Lateinamerika ? knapp 50 davon in Deutschland und Österreich. Wir begleiten ? oft als externe Evaluator*innen ? Politikinstrumente wie z.B. Förderprogramme in verschiedenen Themenfeldern. Unser Team analysiert und gestaltet Politikprogramme für regionale, nationale und internationale öffentliche Auftraggeber*innen in den folgenden Themengebieten:\n\n\n  *\nForschungs- & Innovationspolitik\n  *\nGreen Economy & Klimapolitik\n  *\nDigitale Transformation\n  *\nEducation, Skills & Emplyoment\n  *\nInternationale Kooperation und Entwicklungszusammenarbeit\n  *\nRegionalentwicklung & Kohäsionspolitik\n  *\nEntrepreneurship & Innovationsfinanzierung\n\n\nZur Verstärkung unserer Data Science Unit (DSU) suchen wir eine*n erfahrene*n enthusiastische*n Data Scientist für die evidenzbasierte Politikberatung mit datenwissenschaftlichen Methoden. Das zwanzigköpfige Team der DSU ist über mehrere internationale Technopolis-Standorte verteilt und vereint diverse akademische Hintergründe von Astrophysik bis Psychologie. Wir fördern Offenheit, Zusammenarbeit und Vielfalt und teilen die Leidenschaft, Data-Science-Anwendungen für eine evidenzbasierte Politikgestaltung zu entwickeln.\n\nUnsere Projekte umfassen unter anderem die Entwicklung eines Tools zur Technologiereifegradbestimmung für die Deutsche Cyberagentur, ein KI-basiertes Mapping der Forschungsverwertung für die österreichische Forschungsfördergesellschaft (FFG) sowie datenbasierte Modellierungen des Klimanettonutzens digitaler Technologien inklusive Dashboardintegration für die Deutsche Energieagentur (dena). Neben der Politikberatung betreibt die DSU auch eigene Forschung und Entwicklung im Bereich innovativer Datenanwendungen ? oft in Zusammenarbeit mit internen und externen Partner*innen. Unser Fokus liegt auf Datenkonsolidierung (z. B. via API), automatisierter Analyse strukturierter und unstrukturierter Daten sowie der Entwicklung datengetriebener Modelle und Visualisierungslösungen. Dabei setzen wir auf Verfahren wie Entity Resolution, Machine-Learning- und NLP (Natural Language Processing)-Modelle, Web Scraping, Feature Engineering und interaktive Visualisierungen. Aktuelle Schwerpunkte sind Echtzeitindikatoren, kausale Inferenz sowie generative KI. Erfahrung oder Lernbereitschaft in diesen Bereichen ist daher besonders wünschenswert.\n\nIhre Aufgaben\n\n  *\nImplementierung geeigneter Data-Science-Methoden in wissenschaftsbasierten Beratungsprojekten zur Analyse und Evaluation von Politikprogrammen und -trends\n  *\nProjektmanagement/-leitung in agilen Kontexten sowie adressatengerechte Aufbereitung von Ergebnissen auf Basis eigenständiger konzeptioneller und empirischer Arbeit\n  *\nProjektakquise (Konzeption und Erstellung von Angeboten) sowie Vernetzung mit Kooperationspartner*innen und relevanten Akteur*innen\n  *\nDurchführung datengetriebener Analysen unter Einsatz moderner KI- und Data-Science-Methoden in Python-basierten, skalierbaren Analyseumgebungen\n  *\nEntwicklung und Umsetzung robuster Datenpipelines zur Extraktion, Transformation und Integration heterogener Datenquellen sowie Sicherstellung von Datenqualität und -validierung\n  *\nKonzeption und Entwicklung interaktiver Dashboards zur adressatengerechten Visualisierung und Kommunikation datengetriebener Erkenntnisse\n\nIhr Profil\n\n  *   Abgeschlossenes Studium in einem relevanten Fachgebiet, belastbare empirische Methodenkenntnisse, idealerweise im Kontext Politikberatung. Zusatzstudium oder gleichwertige Berufserfahrung in modernen Data-Science- und Computer-Science-Methoden\n  *   Mindestens drei Jahre einschlägige Berufserfahrung in der Anwendung fortgeschrittener datenwissenschaftlicher Methoden (über grundlegende Statistik/Ökonometrie hinausgehend) im Public Policy Kontext\n  *   Fundierte Kenntnisse in Python sind erforderlich, Kenntnisse in SQL und R von Vorteil\n  *   Sehr gute Sprachkenntnisse in Deutsch und Englisch, weitere Sprachen von Vorteil\n  *   Erfahrung mit offenen Datenquellen, GitHub, der Konsolidierung von Datenbanken, Datenverarbeitung und Web Scraping\n  *   Gute Kommunikationsfähigkeiten und die Fähigkeit, in einem internationalen und multikulturellen Umfeld zu arbeiten\n  *   Wünschenswerte Erfahrungen und Kompetenzen:\n     *   Erfahrung mit NLP  und Wissensextraktion besonders wünschenswert\n     *   Kenntnisse und Interesse an Machine-Learning-Methoden zur Klassifikation sind ein Plus\n     *   Erfahrung mit Microsoft Azure im Aufbau von Data-Science-Workflows sowie in Governance- und MLOps-Kontexten\n     *   Allgemeines Verständnis des Bereichs Wissenschaft, Technologie und Innovation sowie Erfahrung in der Zusammenarbeit mit politischen Entscheidungsträgern und Kenntnisse im Umgang mit wirtschaftlichen und innovationsbezogenen Daten sind von Vorteil\n\nUnser Angebot\n\n  *\nWir bieten durch die enge Projektzusammenarbeit mit öffentlichen Institutionen ein sinnstiftendes und gesellschaftlich wirkungsvolles Arbeitsumfeld.\n  *\nWir bieten eine unbefristete Anstellung in Voll- oder Teilzeit in einem wachsenden Unternehmen. Zuschüsse zur Nutzung umweltfreundlicher Mobilitätsarten (ÖPNV oder Jobrad), für eine Urban Sports Club-Mitgliedschaft sowie standortabhängig die betriebliche Altersversorgung runden das Angebot ab.\n  *\nWir ermöglichen eine flexible Arbeitsweise mit attraktiven Arbeitsplätzen sowie Home-Office-Möglichkeiten durch mobilfähige Ausstattung (MacBook & iPhone).\n  *\nAls innovatives Unternehmen fördern wir die Weiterentwicklung unserer Mitarbeitenden über interne und externe Fortbildungsangebote. Wir fördern Selbstständigkeit und Eigeninitiative für den Ausbau und die Weiterentwicklung unserer Aktivitäten durch flache Hierarchien und eine offene Unternehmenskultur.\n  *\nWir legen Wert auf eine angenehme Arbeitsatmosphäre und leben dies z.B. durch ein kollegiales, vertrauensvolles Miteinander, aber auch z.B. regelmäßige Teamevents, inkl. Events aller Kolleg*innen der Technopolis-Büros weltweit. Wir pflegen den Austausch mit unseren Schwesterbüros in Europa, Afrika und Lateinamerika.\n  *\nTechnopolis ist ausschließlich in Besitz der Mitarbeitenden, externe Investore*innen gibt es bei uns nicht. Perspektivisch können alle Mitarbeitenden Anteilseigner*innen der Technopolis Group werden. Unabhängig hiervon partizipiert unser gesamtes Team regelmäßig am Unternehmenserfolg.\n  *\nAuch wenn Sie nicht alle Anforderungen erfüllen, bewerben Sie sich gerne. Vielleicht sind genau Sie die richtige Person für diese Stelle. Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen ? unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.\n\nWir freuen uns darauf, Sie kennenzulernen! Bitte laden Sie Ihre deutschsprachige Bewerbung (Anschreiben, Lebenslauf ohne Foto, Arbeitszeugnisse sowie in einer PDF unter \"Andere\" zusammengefasst relevante Hochschulzeugnisse und jeweils eine deutsche und englische Textprobe) auf unserer Webseite<https://technopolis-group.jobs.personio.com/job/2632159?_pc=1447813#apply> unter Angabe Ihrer Standortpräferenz (Location), Gehaltsvorstellung sowie Wunscharbeitszeit und frühestmögliches Einstiegsdatum hoch.\n\n\nFür Fragen wenden Sie sich bitte an unsere Recruiting Assistentin Susann Reinsch (susann.reinsch_AT_technopolis-group.com).\n\nBewerbungsschluss ist der 10. Juni 2026. Bewerbungsgespräche können bereits vor Bewerbungsschluss geführt werden.\n\nViele Grüße\n\nSusann Reinsch\nRecruiting Assistant\n[/var/folders/1_/c53bvk0514xgbnvjd82mm3c40000gn/T/com.microsoft.Word/Content.MSO/142C1C9F.tmp]\n\n\nTechnopolis Deutschland GmbH\nScharnweberstr. 30\n10247 Berlin\nT +49 (0)30 577091449<tel:+4930577091449>\n[/var/folders/1_/c53bvk0514xgbnvjd82mm3c40000gn/T/com.microsoft.Word/Content.MSO/B7496F05.tmp]<https://www.linkedin.com/company/technopolis-group> [/var/folders/1_/c53bvk0514xgbnvjd82mm3c40000gn/T/com.microsoft.Word/Content.MSO/1F917C5B.tmp] <https://twitter.com/TechnopolisGrp>  [/var/folders/1_/c53bvk0514xgbnvjd82mm3c40000gn/T/com.microsoft.Word/Content.MSO/80BD3221.tmp] <http://www.technopolis-group.com/>  [/var/folders/1_/c53bvk0514xgbnvjd82mm3c40000gn/T/com.microsoft.Word/Content.MSO/E93B59D7.tmp] <http://technopolis-group.us3.list-manage1.com/subscribe/post?u=67c4f3dd9b6ccbc1186a61f41&id=2612de8908>\nTechnopolis Group\nAbidjan · Amsterdam · Berlin · Bogotá · Brighton · Brussels · Frankfurt/Main · Lisbon · London · Paris · Stockholm · Vienna\n\nTechnopolis Deutschland GmbH\nGeschäftsführer: Dr. Florian Berger, Jérôme Treperman / Handelsregister: Amtsgericht Frankfurt am Main / Handelsregistern.: HRB 86738 / Umsatzsteuernr.: DE 267876500\n\nDisclaimer\n\nThe information contained in this communication from the sender is confidential. It is intended solely for use by the recipient and others authorized to receive it. If you are not the recipient, you are hereby notified that any disclosure, copying, distribution or taking action in relation of the contents of this information is strictly prohibited and may be unlawful.\n\nThis email has been scanned for viruses and malware, and may have been automatically archived.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image006.png\nDateityp    : image/png\nDateigröße  : 7699 bytes\nBeschreibung: image006.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image007.png\nDateityp    : image/png\nDateigröße  : 1451 bytes\nBeschreibung: image007.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image008.png\nDateityp    : image/png\nDateigröße  : 1581 bytes\nBeschreibung: image008.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment-0002.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image009.png\nDateityp    : image/png\nDateigröße  : 1733 bytes\nBeschreibung: image009.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment-0003.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image010.png\nDateityp    : image/png\nDateigröße  : 1605 bytes\nBeschreibung: image010.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260515/6347dd20/attachment-0004.png>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 68, Eintrag 14\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 23,
+      "dsPolicyMatchedKeywords": [
+        "data science",
+        "data scientist",
+        "datenwissenschaft",
+        "datengetrieben",
+        "datenbasiert",
+        "datenbank",
+        "statistik",
+        "nlp",
+        "natural language processing",
+        "python"
+      ],
+      "id": "9f9f5d357e8b9660"
+    },
+    {
+      "subject": "Mittelmeer-Monologe + Iran am 26.5. im Heimathafen Neukölln",
+      "from": "Michael Ruf <micha.ruf@gmail.com>",
+      "date": "Thu, 14 May 2026 14:36:45 +0200",
+      "dateUtc": "2026-05-14T12:36:45+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://heimathafen-neukoelln.de/events/die-mittelmeer-monologe/",
+        "https://www.youtube.com/watch?v=GnzOsZ-w1jg&feature=youtu.be"
+      ],
+      "snippet": "*Wort und Herzschlag präsentiert*\n\n\nMITTELMEER-MONOLOGE\n\nim Heimathafen Neukölln\n\nKarl-Marx-Straße 141\n\n12043 Berlin\n\nMittelmeer-Monologe am Dienstag, 26. Mai 2026, 19:00 Uhr\n\n\n*DIE MITTELMEER-MONOLOGE*\n\nhttps://heimathafen-neukoelln.de/events/die-mittelmeer-monologe/\n\nDie MITTELMEER-MONOLOGE erzählen von den politisch widerständigen Naomie\naus Kamerun und Yassin aus Libyen, die sich auf einem Boot nach Europa\nwiederfinden, von brutalen 'Küstenwachen' und zweifelhaften\nSeenotrettungsstellen, und von Aktivist*innen, die dem Sterben auf dem\nMittelmeer etwas entgegen setzen.\n\nDiese Aktivist*innen überzeugen beim Alarmphone die Küstenwachen, nach\nMenschen in Seenot zu suchen oder lernen auf der Sea-Watch, Menschen vor\ndem Ertrinken zu bewahren - kurzum, sie tun das eigentlich\nSelbstverständlichste, was im Jahr 2026\nalles andere als selbstverständlich ist: menschliches Leben zu retten!\n\nmit englischen, französischen und arabischen Übertiteln.\n\n\n*Die Monologe berühren, schaffen Nähe, machen wütend und benennen Wege,\num sich persönlich zu engagieren. (...) Sie widersetzen sich der\nEntmenschlichung der Tragödie. (...) Im Mittelpunkt stellen sie die\nGeschichten der Betroffenen.*\n\ndie tageszeitung, taz\n\n*(...) äußerst glaubwürdig. (...) Dieses Unrecht möchte man nach diesem\neindringlichen Abend sofort beenden.*\n\nRBB Inforadio\n\n*Das Theaterstück findet weit über den europäischen Kontext hinaus\nAnklang. Es rekonstruiert reale Fälle von Seenotrettung aus der\nPerspektive sowohl von Flüchtlingen als auch von Aktivisten.*\n\nThe Brooklyn Rail\n\n*So realitätsverändernd ist Theater selten.*\n\namnesty journal\n\nTrailer: https://www.youtube.com/watch?v=GnzOsZ-w1jg&feature=youtu.be\n\nDokumentarisches Theater - Buch/Regie: Michael Ruf\n\nIm Anschluss an die Mittelmeer-Monologe Q&A mit\n\nHamid Nowzari, Verein iranischer Flüchtlinge in Berlin e.V.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260514/8af872fd/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "0f09fa1c3d22ece8"
+    },
     {
       "subject": "online-Workshop \"Einstieg in die Restorativen Praktiken\" 19.05.2026",
       "from": "IRP Institut für Restorative Praktiken <kontakt@irp-berlin.de>",
@@ -114,6 +176,43 @@
         "eu"
       ],
       "id": "83f6a9134d74b2d2"
+    },
+    {
+      "subject": "Reminder: Online ECPR-Energy-PPG Seminar Series: James Kneebone on \"A new European energy policy paradigm\", May 15th@13:00 (CEST)",
+      "from": "Rainer Quitzow <rainer.quitzow@rifs-potsdam.de>",
+      "date": "Wed, 13 May 2026 16:25:47 +0200",
+      "dateUtc": "2026-05-13T14:25:47+00:00",
+      "organization": "University and a BSc in Liberal Arts and",
+      "positionType": "PhD",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://sustec.ethz.ch/people/phd-students/james-kneebone.html",
+        "https://ecpr.eu/Events/Event/PanelDetails/18005",
+        "https://www.linkedin.com/company/european-consortium-for-political-research/",
+        "https://ecpr.eu/Login.aspx",
+        "https://www.rifs-potsdam.de",
+        "https://www.linkedin.com/in/rainer-quitzow-20b1042/",
+        "https://www.rifs-potsdam.de/en/newsletter",
+        "https://www.rifs-potsdam.de/de/newsletter"
+      ],
+      "snippet": "Dear colleagues\n\nI am pleased to invite you to the next edition of the Online Seminar \nSeries of theECPR Energy Politics, Policy and Governance Standing Group!\n\nJames Kneebone \n<https://sustec.ethz.ch/people/phd-students/james-kneebone.html> (ETH \nZürich) will hold a presentation on \"A new European energy policy \nparadigm revealed by changes in hydrogen strategies\".\n\n?? Date & Time: Friday, 15.5.2026 @ 12:00 (GMT) / 13.00 (CEST)\n?? Details & Registration: https://ecpr.eu/Events/Event/PanelDetails/18005\n\n*_Abstract_*: As energy policy paradigms change, profound shifts in \npolicy goals and instrument logics follow. Therefore, understanding when \nthe energy policy paradigm might be changing is very important for \nresearchers assessing energy policies. Although changes in policy \nparadigms are infrequent, they are more likely to occur during crises \nsuch as the 2022 energy crisis. However, most research analyses these \nchanges through long-term, single-country studies that cannot reveal \nshifts in recent years, across countries, or in countries affected by \nsupranational policies. To overcome this limitation, this article \nexplores a new approach to identifying changes in the policy paradigm. \nIt compares changes in policy goals, instrument logics, and targeted \nsectors across twenty-one strategic policy documents for hydrogen \npublished by the European Commission and eight Member States between \n2020 and 2024. Our findings indicate that European hydrogen strategies \nhave undergone significant changes following the energy crisis. Across \nthe EU, there is a shift toward more security policy goals, coercive \ninstrument logics, and electricity system applications, while economic \ngoals and incentive-based logics remain the most common. Member States \nand the European Commission tend to align on high-level changes, but \ndiffer on more specific aspects, such as targeted sub-sectors and \ninternational policy aspects. Overall, these changes reveal a new \nEuropean energy policy paradigm that evolves from the prevailing \nparadigm rather than entirely rejecting it, with profound implications \nfor European hydrogen policies and beyond.\n\n*_Bio_*: James Kneebone is a Doctoral researcher in the Group for \nSustainability and Technology at ETH Zürich. His work focuses on \nEuropean hydrogen, energy, and industrial policy. Prior to this James \nwas a Research Associate at the Florence School of Regulation (FSR), \nwhere his work covered hydrogen financing mechanisms in the EU, the \nissue of justice in international renewable hydrogen value chains, and \nsecurity of energy supply. Before joining the FSR, James worked in DG \nENER of the European Commission. James holds an MSc in International \nDevelopment from Utrecht University and a BSc in Liberal Arts and \nSciences from University College Maastricht.\n\n*How to join the seminar* via theEuropean Consortium for Political \nResearch \n<https://www.linkedin.com/company/european-consortium-for-political-research/>(ECPR) \nplatform:\n- Registration is required, but you'll only need to register once for \nthe entire series.\n- You?ll need a My ECPR account to register:https://ecpr.eu/Login.aspx \n<https://ecpr.eu/Login.aspx>\n- All seminars in the series will be automatically added to your itinerary.\n- Your itinerary is available through \"My Events\" in \"My ECPR\"\n- A link to join the session will appear in your itinerary 15-minutes \nbefore the start of the session\n\nI look forward to the discussion!\nCheers Rainer\n\n*\n*\n\n*Prof. Dr. Rainer Quitzow*\n\nResearch Group Lead, Geopolitics of Energy and Industrial Transformation\nForschungsinstitut für Nachhaltigkeit (RIFS) am GFZ\nResearch Institute for Sustainability (RIFS) at GFZ\n\nProfessor for Sustainability and Innovation\nTechnische Universität Berlin\n\nTel: +49 (0) 331-6264 22374\nMobil: +49 (0) 176 2293 0741\nMail: rainer.quitzow@rifs-potsdam.de\nWeb: www.rifs-potsdam.de <https://www.rifs-potsdam.de>\n\nLN: Rainer Quitzow <https://www.linkedin.com/in/rainer-quitzow-20b1042/>\nUpdates from the RIFS?\nRegister here <https://www.rifs-potsdam.de/en/newsletter> for our \nmonthly newsletter (oder hier \n<https://www.rifs-potsdam.de/de/newsletter>für die deutsche Version)\n\nRIFS Logo\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260513/e03ea605/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 6qXW0KI8dJsLX3Fa.png\nDateityp    : image/png\nDateigröße  : 6273 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260513/e03ea605/attachment.png>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 7,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "policy",
+        "eu",
+        "governance",
+        "regulation",
+        "development",
+        "security policy"
+      ],
+      "id": "0a365e24c065af35"
     },
     {
       "subject": "Two event invites: \"Cheap, Clean, Secure: EU Energy Policy under the Irish Council Presidency\" and \"Building a European Security Architecture in Space - A Franco-German discussion\"",
@@ -5276,175 +5375,15 @@
         "eu"
       ],
       "id": "f4d8205180c1396a"
-    },
-    {
-      "subject": "Veranstaltung Frauenrechte El Salvador",
-      "from": "info@amnesty-maf-berlin.de",
-      "date": "Fri, 17 Apr 2026 11:51:59 +0200",
-      "dateUtc": "2026-04-17T09:51:59+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Hallo,\n\nAm 18.5. berichtet die Aktivistin Teodora Vasquez aus El Salvador in \nBerlin über ihre eigene Geschichte und ihre Arbeit zur Kriminalisierung \nvon ungewollten Schwangerschaftsabbrüchen in El Salvador. In \nZusammenarbeit mit der Heinrich-Böll-Stiftung und Ulle Schauws von den \nGrünen diskutieren wir die wichtige Arbeit Teodoras und den weltweiten \nTrend in Richtung der Unterdrückung reproduktiver Rechte und Bildung \nsowie die zunehmende systematische Gewalt gegen Frauen im \ninternationalen Kontext.\n\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Flyer Teodora.pdf\nDateityp    : application/pdf\nDateigröße  : 1138546 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/dec1efea/attachment.pdf>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "stiftung"
-      ],
-      "id": "5cf2980724cf69cf"
-    },
-    {
-      "subject": "Briefing Conference on Transitioning Away from Fossil Fuels",
-      "from": "Wolfgang Obergassel <wolfgang.obergassel@wupperinst.org>",
-      "date": "Fri, 17 Apr 2026 10:59:01 +0200",
-      "dateUtc": "2026-04-17T08:59:01+00:00",
-      "organization": "Institut hatte die Ehre",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.europarl.europa.eu/RegData/etudes/BRIE/2026/786412/ECTI_BRI(2026"
-      ],
-      "snippet": "Liebe Kolleg*innen,\n\nvielleicht von Interesse, das Wuppertal Institut hatte die Ehre, für das ENVI-Kommittee des Europäischen Parlaments ein Briefing zur First International Conference on Transitioning Away from Fossil Fuels zu schreiben.\n\nhttps://www.europarl.europa.eu/RegData/etudes/BRIE/2026/786412/ECTI_BRI(2026)786412_EN.pdf\n\nThe briefing  outlines: \n-TAFF in the context of the UNFCCC.\n- drivers and barriers of the transition. \n- parallel initiatives and EU action for the phase-out of fossil fuels.\n- the key topics and set-up of the conference.\n\nKey insights:\n- Despite falling renewable energy costs, the transition away from fossil fuels is impeded by systemic macroeconomic and institutional ?lock-ins?.\n- The conference is an example of two-tier multilateralism, aiming to complement the consensus-based process of the climate COPs through a more ambitious 'coalition of the willing'.\n- Potential outcomes could include a second wave of signatories to the Belém Declaration on TAFF, a shift to implementation, transparency tools, legal reforms, and input into the Global TAFF Roadmap.\n\nViele Grüße,\n\nWolfgang Obergassel\n\n--\nWolfgang Obergassel, geb. Sterk\nCo-Leiter Forschungsbereich Internationale Klimapolitik - Abteilung Energie-, Verkehrs- und Klimapolitik\nWuppertal Institut für Klima, Umwelt, Energie - Döppersberg 19 - 42103 Wuppertal\nTel. 0202 2492 149\n@obergassel\n\n\n-- \nWuppertal Institut fuer Klima, Umwelt, Energie gGmbH l Sitz der \nGesellschaft/Registered Office: Wuppertal, Germany;\nRegistergericht/Registered at: Amtsgericht Wuppertal, Germany l \nEintragungs-Nr./Registration no.: HRB 7619; \nUSt.-ID Nr./VAT ID No.: DE 121 \n091 633\nPraesident und wissenschaftlicher Geschaeftsfuehrer/ President and \nScientific Managing Director: Prof. Dr. Manfred Fischedick\nKaufmaennischer \nGeschaeftsfuehrer/ Administrative Managing Director: Michael Dedek\nAufsichtsratsvorsitzende/Chairwoman of the Supervisory Board: \nStaatssekretaerin/State Secretary Silke Krebs\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/8c3a58e0/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 67, Eintrag 14\n******************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu",
-        "klimapolitik"
-      ],
-      "id": "ffa04f286ec108be"
-    },
-    {
-      "subject": "INVITATION: Nuke-Conference (1-3 June, LOCCUM)",
-      "from": "\"Mueller-Faerber, Thomas\" <Thomas.Mueller-Faerber@evlka.de>",
-      "date": "Fri, 17 Apr 2026 07:59:46 +0000",
-      "dateUtc": "2026-04-17T07:59:46+00:00",
-      "organization": "LOCCUM)",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.loccum.de/tagungen/2624/",
-        "https://www.loccum.de/tagungsanmeldung/?nummer=2624"
-      ],
-      "snippet": "+++ INVITATION +++\n\nAT THE EDGE?\nHow Europe Should Respond to Nuclear Threats\n1 - 3 June 2026, Protestant Academy Loccum\n\nEurope is confronted with a newly emerging nuclear order. With Russia's ongoing nuclear saber-rattling, growing arsenals in China, and modernization of atomic weapons programs underway among larger and smaller nuclear powers, the danger of nuclear threats is once again at the forefront of everyone's minds. This comes at a time when the transatlantic relationship is cooling rapidly, which is also affecting the traditional US extended deterrence for Europe. Therefore, calls for credible deterrence in Europe are growing louder, as are demands for increased efforts to reduce nuclear risk. At the same time, initiatives continue to work towards complete nuclear disarmament. So, what is the best way to address the growing nuclear threat in Europe?\n\nIn early June, we are organizing an international conference on this topic at the Protestant Academy Loccum, bringing together renowned experts, practitioners, decision-makers and activists from all over Europe.\n\nWe would be delighted to welcome you to the conference here in Loccum in early June!\n\nThe draft program is available via this link:  https://www.loccum.de/tagungen/2624/\n\nIf you would like to secure one of the rare places, you can access the registration form via this link: https://www.loccum.de/tagungsanmeldung/?nummer=2624\n\nWith best regards from Loccum,\nThomas Müller-Färber\n\n_____________________________\nDr. Thomas Müller-Färber\nProgram Director\nInternational Affairs\nProtestant Academy Loccum\nMünchehäger Str. 6\n31547 Loccum (Germany)\nT:   + 49 (0) 5766 81 109\nM: + 49 (0) 162 75 12 570\nThomas.Mueller-Faerber@evlka.de<mailto:Thomas.Mueller-Faerber@evlka.de>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/68291ad7/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu"
-      ],
-      "id": "0f3d6e960d14fc28"
-    },
-    {
-      "subject": "Global Politics in Flames: Is the End of Fossil Fuels Near?",
-      "from": "Christina Rode <christina.rode@fu-berlin.de>",
-      "date": "Fri, 17 Apr 2026 08:57:43 +0200",
-      "dateUtc": "2026-04-17T06:57:43+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://calendar.boell.de/en/event/global-politics-flames-end-fossil-fuels-near",
-        "https://www.medico.de/"
-      ],
-      "snippet": "Dear List,\n\nis the end of fossil fuels near? Register here for the panel discussion \non 21 April: \nhttps://calendar.boell.de/en/event/global-politics-flames-end-fossil-fuels-near\n\nThe U.S. and Israeli attacks on Iran are a stark reminder that \ndependence on fossil fuels does not create security: it fuels conflicts, \ndestabilizes markets, and drives up energy prices worldwide. The \nconsequences include severe supply shortages, particularly in the Global \nSouth, but their effects have long been felt here as well.\n\nAt the same time, an international movement is gaining momentum. At the \nend of April, Colombia will host the first conference dedicated to \nphasing out fossil fuels, bringing together an /\"Alliance of the \nWilling\"/ to agree on concrete steps toward a post-fossil era.\n\nEurope faces a dual challenge: escalating climate disasters on one hand, \nand a fragile energy supply amid compounding geopolitical crises ? from \nUkraine to the Middle East ? on the other. Yet political responses in \nGermany and across Europe continue to lean on fossil fuels and high-risk \ntechnologies such as fracking and nuclear power.\n\nThe alternative is clear: renewable energy is both climate-friendly and \ncrisis-resilient. The sun and wind cannot be sanctioned, blockaded, or \nweaponized.\n\nSo how do we achieve an energy transition that is not only ecologically \nsound, but also socially just ? one that responds to geopolitical \nupheaval without fueling the political shift to the right?\n\nWe want to discuss these questions and bring together voices from \npolitics and grassroots movements as well as develop concrete approaches \nfor a sustainable energy future.\n\nPanelists:\n\n  * *Luis Alvaro Pardo* - Colombian economist specializing in mining and\n    energy law, and constitutional law in the Petro administration\n  * *Susanne Götze* -  Journalist and author on climate issues for media\n    outlets incl. Deutschlandfunk, Spiegel, and ZEIT\n  * *Tonny Noshwin* - Activist for Degrowth and Climate Justice, The\n    Sunrise Project\n  * *Karin Zennig* - Policy analyst for climate justice and South Asia\n    at medico international\n\nFacilitation: *Linda Schneider* - Senior Programme Officer International \nClimate and Energy Policy, Heinrich-Böll-Stiftung\n\nThere will be interpretation to German, English and Spanish.\n\nThe event is a cooperation of medico international \n<https://www.medico.de/> and Heinrich-Böll-Stiftung. Participation is \nfree of charge, registration is not necessary.\n\n*Contact:* Kristin Funke - funke@boell.de\n\n*Location:* *Spore Haus*, Hermannstraße 86, 12051 Berlin-Neukölln\nPublic transport: U8 (U-Bahnhof Leinestraße) and the Ringbahn (S-Bahnhof \nHermannstraße, accessible by elevator).\n\n\n\n-- \nDiese E-Mail wurde von Avast-Antivirussoftware auf Viren geprüft.\nwww.avast.com\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260417/b057f1ac/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "eu",
-        "stiftung"
-      ],
-      "id": "60c525cc5d44f777"
-    },
-    {
-      "subject": "Event: Pockets of Restraint in Violent Security Forces",
-      "from": "Press | American Academy in Berlin <press@americanacademy.de>",
-      "date": "Thu, 16 Apr 2026 12:18:53 +0000",
-      "dateUtc": "2026-04-16T12:18:53+00:00",
-      "organization": "University\nWhen?",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.americanacademy.de/event/pockets-of-restraint-in-violent-security-forces/",
-        "https://www.americanacademy.de/",
-        "https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?",
-        "https://www.americanacademy.de/data-processing-information/"
-      ],
-      "snippet": "The American Academy in Berlin cordially invites you to the event: \"Pockets of Restraint in Violent Security Forces\"\nDescription:\nIn democracies and autocracies across the world, security forces respond to protests in varying ways?some obey repressive orders, some are amenable to democratic reforms, some show restraint, and some use excessive force. Why is this? Whereas most contemporary studies focus on these differences within individual countries, Sabrina Karim looks more globally at the underlying causes for such differentiation across nations by considering sociological categories such as sex, military rank, social networks, leadership experience, gender equality, training, UN peacekeeping experience, exposure to combat, and participation in different units. In so doing, Karim outlines a broader understanding of when and why resistance to following orders occurs and illuminates its causes at the individual, unit, and institutional level.\nSpeaker:\nSabrina Karim, Associate Professor in Government, Cornell University\nWhen?\nThursday, April 23, 2026\n7:30-9 PM\n\nWhere?\nAmerican Academy in Berlin\nAm Sandwerder 17-19\n14109 Berlin-Wannsee\n\nFree entry. Details & registration: https://www.americanacademy.de/event/pockets-of-restraint-in-violent-security-forces/\n\nVisit our website: https://www.americanacademy.de/\nSubscribe to our newsletter: https://www.americanacademy.de/american-academy-in-berlin-newsletter-signup/?\n\n\n\nAmerican Academy in Berlin GmbH\nAm Sandwerder 17-19 | D-14109 Berlin\n\nAmerican Academy in Berlin GmbH | Handelsregister Charlottenburg HRB 64272 | Geschäftsführer: Daniel S. Benjamin, Christian U. Diehl, Sandra E. Peterson\n\nData Processing Information: https://www.americanacademy.de/data-processing-information/\n\nThis e-mail, and any attachment thereto, contains privileged and confidential information intended only for the use of the individual or entity named on the e-mail. It may further contain information protected by intellectual property rights for the exclusive attention of the intended addressees named above. If the reader of this e-mail is not the intended recipient, or the employee or agent responsible for delivering it to the intended recipient, you are hereby notified that reading, disseminating, partial copying or disclosure of any of the information contained herein is strictly prohibited and may be unlawful. If you have received this e-mail in error, please immediately return it to the sender and delete it from your system. Thank you.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/1f28f556/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "government",
-        "peace"
-      ],
-      "id": "8258081cadb484d9"
-    },
-    {
-      "subject": "Spannende Vakanz für die ib-Liste: Grants Manager (m/w/d) bei CORRECTIV",
-      "from": "Antoine Otter <antoine.otter@correctiv.org>",
-      "date": "Thu, 16 Apr 2026 13:33:06 +0200",
-      "dateUtc": "2026-04-16T11:33:06+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://correctiv.jobs.personio.de/job/2599514",
-        "https://correctiv.org",
-        "https://correctiv.org/spotlight",
-        "https://correctiv.org/unterstuetzen"
-      ],
-      "snippet": "Liebes Team der ib-Liste,\n\ndurch einen persönlichen Kontakt wurde ich darauf aufmerksam gemacht, \ndass folgende Ausschreibung von uns für die Abonnenten der ib-Liste \nspanned sein könnt. Bei CORRECTIV**suchen wir eine*n Grants Manager*in \nFinanzen & Administration mit Schwerpunkt EU-Mittel.\n\nCORRECTIV ist ein gemeinwohlorientiertes Medienhaus, das Demokratie \nstärkt. Als vielfach ausgezeichnete Redaktion stehen wir für \ninvestigativen Journalismus. Wir lösen öffentliche Debatten aus, \narbeiten mit Bürgerinnen und Bürgern an unseren Recherchen und fördern \ndie Gesellschaft mit unseren Bildungsprogrammen.\n\nDa die Stelle perfekt zur Expertise Ihrer Zielgruppe passt, wäre es \ngroßartig, wenn Sie die Ausschreibung in der ib-Liste erwähnen \nkönnten. Die Ausschreibung finden Sie hier \n<https://correctiv.jobs.personio.de/job/2599514>.\n\nFalls Sie für die Aufnahme in die Liste noch Infos von meiner Seite \nbenötigen oder dies über ein festes Format läuft, lassen Sie es mich \ngerne wissen. Ich freue mich, wenn wir so qualifizierte Talente und \nsinnstiftende Arbeit zusammenbringen.\n\nMit freundlichen Grüßen\n\nAntoine Otter\n\n-- \n\nAntoine Otter (he/him)\nHead Of Human Resources\n\nCORRECTIV ? Recherchen für die Gesellschaft\n\nantoine.otter@correctiv.org\n+49 160 938 20 667\n\nhttps:// correctiv.org <https://correctiv.org>\nLicht an. Für unsere Demokratie. Spotlight ? die Tageszeitung von \nCORRECTIV als kostenloser Newsletter. Hier abonnieren:\nhttps:// correctiv.org/spotlight <https://correctiv.org/spotlight>\n\n\n\nErmöglichen Sie unsere Arbeit mit einer Spende: \nhttps://correctiv.org/unterstuetzen <https://correctiv.org/unterstuetzen>\n\nBüro Essen: Akazienallee 10, 45127 Essen\nBüro Berlin: Hermannstraße 90, 12051 Berlin\n------------------------------------------------------------------------\n\nCORRECTIV - Recherchen für die Gesellschaft gemeinnützige GmbH\nSitz: Huyssenallee 11 | 45128 Essen | Handelsregister Essen | HRB 25135\nGeschäftsführung: David Schraven (Publisher)\nProkura: Florence Wild (CDO, ppa.), Saadet Andirinli (COO, ppa.), \nChristina Averkamp (ppa.)\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : CORRECTIV-Spotlight_Signatur.png\nDateityp    : image/png\nDateigröße  : 7956 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : OpenPGP_0x606420B0FBD1634A.asc\nDateityp    : application/pgp-keys\nDateigröße  : 660 bytes\nBeschreibung: OpenPGP public key\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.asc>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : OpenPGP_signature.asc\nDateityp    : application/pgp-signature\nDateigröße  : 236 bytes\nBeschreibung: OpenPGP digital signature\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260416/ef230c1a/attachment.sig>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu"
-      ],
-      "id": "fcdcf61bad8b1945"
     }
   ],
   "stats": {
-    "new_items": 53,
-    "total_items": 191,
+    "new_items": 51,
+    "total_items": 188,
     "processed_messages": 33,
     "processed_messages_imap": 28,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 53,
+    "removed_old_items": 52,
     "removed_past_deadline_items": 2,
     "removed_legacy_linkedin_alerts": 0
   }
