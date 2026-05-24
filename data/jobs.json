@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-05-23T11:14:07.430308+00:00",
+  "generated_at": "2026-05-24T11:21:55.070675+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Lehrbeauftragte für ein Lehrprojekt und für den Bereich Politik/Politische Kommunikation im BA und MA Journalismus an der Hochschule Magdeburg-Stendal gesucht",
+      "from": "\"Sarah Delere\" <sarah.delere@fu-berlin.de>",
+      "date": "Sat, 23 May 2026 18:57:54 +0200",
+      "dateUtc": "2026-05-23T16:57:54+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Ich bin gebeten worden auf folgende offene Lehraufträge an der Hochschule\nMagdeburg-Stendal hinzuweisen.\nBei Fragen oder Interesse bitte direkt melden bei Prof. Dr. Claudia\nNothelle unter Claudia.nothelle@h2.de\nViele Grüße!\n\nWir suchen für unterschiedliche Kurse im Bereich Politik im BA und MA\nJournalismus Lehrbeauftragte für das Wintersemester 2026/27\n\nBA Journalismus: Lehrforschungsprojekt, 5. Semester: Ziel: Vermittlung\neiner Methode im Rahmen eines vorgegebenen oder von den Studierenden\nselbst zu entwickelnden Forschungsprojekts (bzw. Projekte in AGs), das\nSeminar kombiniert Input und Projektarbeit in der Veranstaltung, 4 SWS,\nwöchentlich; gern mit Schwerpunkt Politik, Internationale Politik, Peace\nand Conflict Studies, Politische Kommunikation\n\n\n1. BA Journalismus:\n\n- Einführung Politik, Vorlesung 2 SWS\n\n2. Vertiefung Politik: 2 Kurse, jeweils 2 SWS, mehrere Blocktermine\nmöglich, u.a. Politische Institutionen, Politische Kommunikation,\nPolitische Desinformation, gerne auch Themenvorschläge\n\n3. MA Journalismus: 3. Semester, 2 SWS, mehrere Blocktermine möglich,Modul\n5.5:  Themenschwerpunkte z.B. Rüstung(spolitik), internationale Abkommen\noder Medientechnologien im Krieg ( u.a.       Rüstungsindustrie und\nRüstungshandel, -politik, -kontrolle, internationale Abkommen,\nInstitutionen/Verteidigungsbündnisse, Sicherheitsregime,\nMedientechnologien im Krieg)\n\n\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 68, Eintrag 23\n******************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "peace"
+      ],
+      "id": "1b808de79dfecbc5"
+    },
     {
       "subject": "28. May I Amat Levin: Black History: The forgotten history of Africa",
       "from": "Clara Müller <clara.emueller@gmail.com>",
@@ -5740,12 +5763,12 @@
     }
   ],
   "stats": {
-    "new_items": 54,
-    "total_items": 200,
+    "new_items": 38,
+    "total_items": 201,
     "processed_messages": 34,
     "processed_messages_imap": 29,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 43,
+    "removed_old_items": 35,
     "removed_past_deadline_items": 2,
     "removed_legacy_linkedin_alerts": 0
   }
