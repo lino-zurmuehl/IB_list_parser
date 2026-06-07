@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-06-06T10:07:02.995426+00:00",
+  "generated_at": "2026-06-07T11:49:51.070064+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Abmelden",
+      "from": "Eden Ekila <info@eden-ekila.com>",
+      "date": "Fri, 5 Jun 2026 21:35:28 +0000",
+      "dateUtc": "2026-06-05T21:35:28+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Guten Tag,\n\nIch möchte mich bitte von allen Listen abmelden da diese Mail Adress ebald nicht mehr existieren wird.\n\nFreundliche Grüße\nEden Ekila\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260605/779b29a1/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 69, Eintrag 6\n*****************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "dcf57a03458659ec"
+    },
+    {
+      "subject": "Infoveranstaltung online-Weiterbildung GFK-Mediation Mi 17.06.2026",
+      "from": "IRP - Judith Kohler <jkohler@irp-berlin.de>",
+      "date": "Fri, 5 Jun 2026 15:39:48 +0200",
+      "dateUtc": "2026-06-05T13:39:48+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.irp-berlin.de/seminare/gfk-mediation-online/#Infoveranstaltung"
+      ],
+      "snippet": "/kostenlose Infoveranstaltung Mittwoch 17.06.2026 von 18:30 bis ca. \n19:30 Uhr via Zoom/\n\nKonflikte sind ein natürlicher Teil unseres Zusammenlebens. Wie können \nwir Konflikte zulassen und sie im positiven Sinne nutzen? Wie können wir \nso zuhören, dass wir verstehen, mit welcher 'Essenz' die anderen gehört \nwerden wollen? Und wie können wir einen Konflikt so begleiten, dass \nwieder Verbindung zwischen den Menschen entstehen kann?\n\nDas Besondere an dieser online-Weiterbildung ist, dass sie die \n_GFK-Mediation_ (GFK steht für Gewaltfreie Kommunikation) vermittelt, \nwie sie von Marshall B. Rosenberg begründet wurde. Der Fokus liegt \nhierbei nicht auf Themen, sondern _von Anfang an auf dem \nVerbindungsaufbau und den Bedürfnissen_ der Menschen.\n\n*Die Infoveranstaltung bietet folgende Möglichkeiten:*\n?    uns als Trainer*innen kennen zu lernen (Timo Gesterkamp & Judith \nKohler)\n?    zu erfahren, was die GFK-Mediation ausmacht, und was sie bewirken kann\n?    einen Überblick zur Struktur, Methodik und zu den Rahmenbedingungen \nder Weiterbildung zu bekommen\n?    und natürlich Fragen zur Weiterbildung zu stellen!\n\n*Für wen ist die Weiterbildung hilfreich? *\nBisherige Teilnehmende kommen aus den folgenden Bereichen: \nFührungskraft/Schulleitung, Teammitglied, Mediator*in, Lehrkraft, \nIT-Branche, GFK-Praktizierende, Trainer-/Coach-/Moderator*innen, \nFamilie, Justiz.\n\n*TERMIN: Mittwoch 17.06.2026 von 18:30 bis ca. 19:30 Uhr via Zoom*\n\nWir freuen uns auf deine Teilnahme! Das Anmeldeformular findet ihr \n*HIER* \n<https://www.irp-berlin.de/seminare/gfk-mediation-online/#Infoveranstaltung>. \n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260605/f580d24f/attachment.htm>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "a1345c693951fb4b"
+    },
     {
       "subject": "Call for Papers | MENA Region_IFAIR",
       "from": "maira.haroon@ifair.eu",
@@ -5549,36 +5595,6 @@
       "id": "b1f0656b17148b92"
     },
     {
-      "subject": "JOB OPPORTUNITY: Working Student (SHK), Transatlantic Program (10 hours/week)",
-      "from": "Ferdinand Eimler <eimler@aspeninstitute.de>",
-      "date": "Mon, 11 May 2026 12:32:04 +0000",
-      "dateUtc": "2026-05-11T12:32:04+00:00",
-      "organization": "Institute Germany",
-      "positionType": "Position",
-      "deadline": "is June 1, 2026",
-      "deadlineDate": "2026-06-01",
-      "links": [
-        "https://www.aspeninstitute.de/introducing-the-fourth-cohort-of-the-u-s-german-forum-future-agriculture-2/",
-        "http://www.aspeninstitute.de/",
-        "http://facebook.com/AspenGermany"
-      ],
-      "snippet": "Dear IB Community,\n\nWe are seeking a working student (m/f/d) for 10 hours per week to join the Transatlantic Program at the Aspen Institute Germany, starting July 1, 2026. The position is initially a fixed-term contract through September 30, 2027 (with the possibility of extension). In this role, you will support the project ?U.S.-German Forum Future Agriculture<https://www.aspeninstitute.de/introducing-the-fourth-cohort-of-the-u-s-german-forum-future-agriculture-2/>,? an exchange initiative for farmers and other key agricultural stakeholders, as well as our broader transatlantic initiatives.\n\nThe Aspen Institute Germany was founded in Berlin in 1974. The Institute is committed to the ideal of an open society. It promotes values-based leadership, constructive dialogue, and Euro-Atlantic cooperation. As an independent, non-profit organization, Aspen Germany is part of the global Aspen network, with partners in the United States, Central Europe (Czech Republic, Hungary, Poland, Slovakia), France, the United Kingdom, India, Italy, Japan, Kenya, Colombia, Mexico, New Zealand, Romania, Spain, and Ukraine. Together, these institutes aim to address the challenges of the 21st century.\n\nYour Responsibilities\n\n  *   Research potential participants, speakers, experts, and contacts, and support outreach efforts\n  *   Conduct content research and support program development for the U.S.-German Forum Future Agriculture\n  *   Assist in the logistical and organizational preparation, implementation, and follow-up of all virtual, hybrid, and in-person events within the project\n  *   Compile materials such as program booklets, participant/speaker biographies, and reading materials\n  *   Provide technical support for virtual and hybrid events\n  *   Support PR activities, including drafting content for social media and websites\n  *   Perform additional tasks as needed\n\nRequirements\n\n  *   Enrollment in a relevant degree program (e.g., political science, international relations, North American studies, agriculture, environmental sciences, etc.)\n  *   Interest in transatlantic relations\n  *   Experience in event organization\n  *   Experience with social media communication\n  *   Strong commitment, attention to detail, and reliability\n  *   Flexible, self-motivated, and team-oriented working style\n  *   Fluent (professional-level) German and English\n\nWhat We Offer\n\n  *   An exciting role at the heart of political Berlin with insights into transatlantic dialogue\n  *   Valuable exposure to a transatlantic exchange project\n  *   Opportunities to build and expand your professional network\n  *   Flexible working hours (remote work possible)\n  *   Competitive compensation\n  *   Collaboration within an international, dedicated, and supportive team\n\nPlease submit your complete application documents (cover letter, CV, transcripts) exclusively by email in a single PDF file, with the subject line ?Application Working Student Transatlantic,? to bewerbung@aspeninstitute.de. The application deadline is June 1, 2026. As we aim to fill the position by July 1, 2026, applications will be reviewed on a rolling basis, and we reserve the right to fill the position before the deadline.\n\nWe kindly ask you to refrain from phone inquiries and look forward to receiving your application!\n\nThank you!\n\n--\n\nFerdinand Eimler ? Program Officer ? Transatlantic Program\n\nAspen Institute Germany | Friedrichstr. 60, 10117 Berlin\n\nT  +49 (0) 30 804 890 16 | F  +49 (0) 30 804 890 33<tel:+493080489033>\n\neimler@aspeninstitute.de<mailto:eimler@aspeninstitute.de> | www.aspeninstitute.de<http://www.aspeninstitute.de/>\n\n@AspenGermany | facebook.com/AspenGermany<http://facebook.com/AspenGermany>\n\n\n\n[signature_560466333]\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260511/b7f4e03e/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.jpg\nDateityp    : image/jpeg\nDateigröße  : 3631 bytes\nBeschreibung: image001.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260511/b7f4e03e/attachment.jpg>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu",
-        "international relations",
-        "development",
-        "political science"
-      ],
-      "id": "1802a77d774593a8"
-    },
-    {
       "subject": "Today 7pm (Berlin time) Panel Discussion \"Climate Justice Now! Global Voices, Shared Futures\"",
       "from": "\"wsd@zoenu.org\" <wsd@zoenu.org>",
       "date": "Mon, 11 May 2026 14:23:03 +0200",
@@ -5824,46 +5840,16 @@
         "monitoring"
       ],
       "id": "d60e3bcbebbadf99"
-    },
-    {
-      "subject": "Keynote Prof. Heikki Patomäki & Working Group Critical Realism & Peace Studies",
-      "from": "Mühlbauer, Josef (josef.muehlbauer@uni-graz.at) <josef.muehlbauer@uni-graz.at>",
-      "date": "Sat, 9 May 2026 10:26:42 +0000",
-      "dateUtc": "2026-05-09T10:26:42+00:00",
-      "organization": "University Assistent",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://us06web.zoom.us/launch/jc/81346562187",
-        "https://josefmuehlbauer.com/critical-realism-peace-studies/",
-        "https://chat.whatsapp.com/KvbnZcr2aPM9iecquwZRkt",
-        "https://docs.google.com/document/d/1H-VMozIQx1Jo_QuUxcbMJgluGnp1IEWmCC-PUqkqcsE/edit?usp=sharing",
-        "https://criticalrealismnetwork.org/community/",
-        "https://www.youtube.com/watch?v=WBsje0J7sJo"
-      ],
-      "snippet": "Dear all,\n\nI would like to remind you that our first gathering will take place on 12 May, 2026 at 5:00 PM (CET). Here the zoom link: https://us06web.zoom.us/launch/jc/81346562187\nAt the beginning of the meeting, Prof. Werner Wintersteiner, Dr. Wilfried Graf (Kelman Institute), and I will present the main goals and ideas behind the creation of this group.\n\nAfterwards, Prof. Heikki Patomäki will deliver a keynote lecture on the question:\nHow Can Critical Realism Enrich Peace Studies?\n\nFollowing the keynote, we will open the discussion for networking, getting to know one another, and exploring possibilities for future meetings and collaboration.\nHere some further informations: https://josefmuehlbauer.com/critical-realism-peace-studies/\nWhatsApp Group: https://chat.whatsapp.com/KvbnZcr2aPM9iecquwZRkt\nLecture Series (Suggestions): https://docs.google.com/document/d/1H-VMozIQx1Jo_QuUxcbMJgluGnp1IEWmCC-PUqkqcsE/edit?usp=sharing\nWe are part of the CR Network: https://criticalrealismnetwork.org/community/\nIn case you miss our session, here you can watch the keynote speech: https://www.youtube.com/watch?v=WBsje0J7sJo\n\nBest regards,\nJosef\n\nUniv.-Ass. Josef Mühlbauer BA BA MA\nUniversitätsassistent | University Assistent\nInstitut für Rechtswissenschaftliche Grundlagen| Global Governance\nUniversität Graz | University of Graz\nUniversitätsplatz 3, 8010 Graz\nTel.: +43/(0)316/380-0000\nWeb: uni-graz.at\n\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 68, Eintrag 9\n*****************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "governance",
-        "peace"
-      ],
-      "id": "80b5db55900f74c7"
     }
   ],
   "stats": {
-    "new_items": 49,
+    "new_items": 48,
     "total_items": 206,
     "processed_messages": 35,
     "processed_messages_imap": 30,
     "processed_messages_linkedin": 5,
-    "removed_old_items": 50,
-    "removed_past_deadline_items": 5,
+    "removed_old_items": 42,
+    "removed_past_deadline_items": 6,
     "removed_legacy_linkedin_alerts": 0
   }
 }
