@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-27T11:36:36.266424+00:00",
+  "generated_at": "2026-06-28T11:09:34.871526+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Generation Z(eitenwende) kocht: Visionen für eine zukunftssichere Außen- und Sicherheitspolitik: 16. Juli 2026, 19 Uhr, Berlin Global Village",
+      "from": "Polis kocht Projektleitung <polis.kocht@polis180.org>",
+      "date": "Sat, 27 Jun 2026 11:59:48 +0200",
+      "dateUtc": "2026-06-27T09:59:48+00:00",
+      "organization": "Berlin Global Village",
+      "positionType": "N/A",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://polis180.org/events/polis-kocht-generation-zeitenwende-visionen-fuer-eine-zukunftssichere-aussen-und-sicherheitspolitik/",
+        "https://polis180.org/"
+      ],
+      "snippet": "*Liebe IB-Liste,*\n\n*Polis180* lädt euch zu einer Veranstaltung ein. Seid dabei, wenn es wieder\nheißt: schnippeln, kochen und angeregt diskutieren. Es gibt nur noch wenige\nPlätze ? schnell sein lohnt sich!\nGeneration Z(eitenwende) kocht: Visionen für eine zukunftssichere Außen-\nund Sicherheitspolitik\n*16. Juli 2026 | 19:00 Uhr | Berlin Global Village | Am Sudhaus 2, 12053\nBerlin*\n\nDie Welt verändert sich rasant, und junge Menschen spüren diesen Umbruch\ndeutlich. Doch während die alten Gewissheiten bröckeln, fehlt ein klares\nZukunftsbild ? was Unsicherheit und Überforderung nur verstärkt. Gerade in\nKrisenzeiten droht das Visionäre zu verschwinden: Der Blick verengt sich\nauf das Akute, alles andere rückt in den Hintergrund. Gemeinsam mit\nExpert*innen diskutieren wir zukunftssichere Visionen für eine Außen- und\nSicherheitspolitik.\n\nWir freuen uns besonders, dabei folgende Gäste begrüßen zu dürfen:\n\n   - *Etienne Höra* ist Co-Präsident von Polis180. Er arbeitet als Experte\n   für Handelspolitik und Geopolitik im Europaprogramm der Bertelsmann\n   Stiftung.\n   - *Lena Wittenfeld* ist Co-Präsidentin von Polis180. Seit September 2023\n   ist sie wissenschaftliche Mitarbeiterin an der Uni Bielefeld und promoviert\n   in der kritischen politischen Theorie zu feministischer Außenpolitik.\n\n*Hier geht's zur Anmeldung.\n<https://polis180.org/events/polis-kocht-generation-zeitenwende-visionen-fuer-eine-zukunftssichere-aussen-und-sicherheitspolitik/>*\n\n*Wir freuen uns auf euch!*\n------------------------------\n\n*Leonie Gruber*\nProjektkoordinatorin *Polis kocht!*\n\n*Polis180 ? Grassroots-Thinktank für Außen- und Europapolitik*\n\n-- \n\nLeonie Gruber\n\nProjektkoordinatorin Polis Kocht!\n\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\n<https://polis180.org/>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260627/edb6085d/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 69, Eintrag 26\n******************************************************",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 5,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "eu",
+        "sicherheitspolitik",
+        "thinktank",
+        "stiftung"
+      ],
+      "id": "3bfd6c672673ce77"
+    },
     {
       "subject": "New Issue Journal for Deradicalization",
       "from": "\"Daniel Koehler\" <daniel_koehler@freenet.de>",
@@ -6048,35 +6077,15 @@
         "european union"
       ],
       "id": "780cf30e38f9cb8e"
-    },
-    {
-      "subject": "Online-Themenmonat: Geopolitische Herausforderungen im Pazifik - ein Wettkampf zwischen China, Indien, Indonesien, den USA und Australien?",
-      "from": "Oliver Hasenkamp <hasenkamp.oliver@googlemail.com>",
-      "date": "Sat, 30 May 2026 16:47:18 +0200",
-      "dateUtc": "2026-05-30T14:47:18+00:00",
-      "organization": "den USA und Australien?",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "Ein Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260530/d9edacd5/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 68, Eintrag 30\n******************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 0,
-      "dsPolicyMatchedKeywords": [],
-      "id": "11d28d7989d54e80"
     }
   ],
   "stats": {
-    "new_items": 23,
+    "new_items": 11,
     "total_items": 215,
     "processed_messages": 29,
     "processed_messages_imap": 29,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 17,
+    "removed_old_items": 8,
     "removed_past_deadline_items": 3,
     "removed_legacy_linkedin_alerts": 0
   }
