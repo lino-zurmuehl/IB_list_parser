@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-07-11T11:54:23.277151+00:00",
+  "generated_at": "2026-07-12T11:13:59.930272+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Reminder, Bewerbungsschluss 13. Juli: DGVN Summer Academy \"UN and the sea: Ocean Governance and Maritime Affairs?",
+      "from": "DGVN-Hochschulgruppe Hamburg <jungedgvn@dgvn-nord.de>",
+      "date": "Sat, 11 Jul 2026 09:53:32 +0200 (CEST)",
+      "dateUtc": "2026-07-11T07:53:32+00:00",
+      "organization": "Bewerbungsschluss 13. Juli: DGVN Summer Academy \"UN and the sea: Ocean Governance and Maritime Affairs?",
+      "positionType": "N/A",
+      "deadline": "13",
+      "deadlineDate": null,
+      "links": [
+        "https://docs.google.com/forms/d/e/1FAIpQLSdm1oDA3lUzyRgtVCDrbvXu18ocVppsU8QSEsaQkuv7SwXyfA/viewform"
+      ],
+      "snippet": "Die Junge DGVN Nord lädt herzlich zur Summer Academy 2026 zum Thema ?UN and the sea: Ocean Governance and Maritime Affairs? ein.\n \n \nDie wichtigsten Informationen auf einen Blick:\n    * Zeitraum: 03. bis 08. August 2026\n    * Ort: Hamburg\n    * Plätze: Begrenztes Kontingent von 20 Teilnehmenden (für Studierende & Young Professionals)\n    * Teilnahmebeitrag: ca. 50 € (inkl. Snacks & Materialien)\n    * Bewerbungsschluss: 13.07.2026 \n    * Bewerbung hier https://docs.google.com/forms/d/e/1FAIpQLSdm1oDA3lUzyRgtVCDrbvXu18ocVppsU8QSEsaQkuv7SwXyfA/viewform\nDu interessierst dich für das internationale Seerecht und möchtest mehr über die rechtlichen, politischen und ökologischen Herausforderungen auf den Weltmeeren erfahren?\nTauche ein in das Seevölkerrecht: Vom 03. bis 08. August 2026 bietet die Junge DGVN Nord Studierenden und Young Professionals die Gelegenheit, zentrale Fragen des Seevölkerrechts aus wissenschaftlicher und praktischer Perspektive kennenzulernen.\n \n \nWas dich erwartet:\n    * Expert*innenwissen: Fachvorträge renommierter Referent*innen u. a. zu BBNJ und maritimer Sicherheit.\n    * Praxis hautnah: Ein Besuch des Internationalen Seegerichtshofs (ITLOS) und interaktive Gerichtssimulation.\n    * Networking & Austausch: Ein abwechslungsreiches maritimes Rahmenprogramm in Hamburg, um Kontakte zu knüpfen und die erarbeiteten Inhalte in unserem Blog zu veröffentlichen.\n \nTeilnahme und Kosten\n    * Die Teilnahmekosten betragen 50 Euro. Die Anmeldung zur Summer Academy ist verbindlich.\n    * Wir freuen uns auf Eure Bewerbungen und spannende Tage im Zeichen des Seevölkerrechts!\n \nAnmeldungen bis zum 13. Juli hier https://docs.google.com/forms/d/e/1FAIpQLSdm1oDA3lUzyRgtVCDrbvXu18ocVppsU8QSEsaQkuv7SwXyfA/viewform\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260711/e0324a03/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 12\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "eu",
+        "governance"
+      ],
+      "id": "d6cbe378b2c0a968"
+    },
     {
       "subject": "Interviewer:innen für das Weizenbaum Panel gesucht",
       "from": "Panel WI <panel@weizenbaum-institut.de>",
@@ -5202,95 +5228,15 @@
         "eu"
       ],
       "id": "7e39b3b5d8fb37f9"
-    },
-    {
-      "subject": "Jetzt anmelden: Mi 24.06.2026 | Online Vortrag ?Error 404: Democracy not found: Ein digitaler Fallschirm für die Demokratie? | 19.00 ? 20.30 Uhr |mit: Jutta Horstmann | kostenlose Teilnahme möglich",
-      "from": "Bundschuh Mira <MBundschuh@domberg-akademie.de>",
-      "date": "Sun, 14 Jun 2026 11:19:51 +0200 (CEST)",
-      "dateUtc": "2026-06-14T09:19:51+00:00",
-      "organization": "Unknown",
-      "positionType": "Student Assistant",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://domberg-akademie.de/veranstaltungen-signup/ein-digitaler-fallschirm-fuer-die-demokratie",
-        "https://domberg-akademie.de/veranstaltungen-signup/weltraummissionen",
-        "https://domberg-akademie.de/veranstaltungen-signup/willkommen-in-der-digitalokratie",
-        "http://www.kdm-bayern.de/",
-        "http://www.domberg-akademie.de/",
-        "https://www.facebook.com/kdmbayern",
-        "https://bsky.app/profile/kdm-bayern.bsky.social",
-        "https://www.youtube.com/c/DombergAkademie"
-      ],
-      "snippet": "Liebe Mitglieder der IB-Liste,\n\nwas passiert, wenn zentrale digitale Dienste plötzlich nicht mehr verfügbar sind? Wie abhängig sind Demokratie, Verwaltung und Zivilgesellschaft von großen Technologiekonzernen und welche Risiken entstehen daraus? In ihrem Vortrag wirft Jutta Horstmann einen Blick auf die oft unsichtbaren digitalen Infrastrukturen unserer Gesellschaft und zeigt, warum digitale Souveränität zu einer der zentralen demokratischen Herausforderungen unserer Zeit geworden ist.\n\n?Error 404: Ein digitaler Fallschirm für die Demokratie?\nMittwoch, 24.06.2026, 19.00 ? 20.30 Uhr | Kursgebühr: 9 EUR empfohlen, kostenlose Teilnahme möglich (Solidarmodell) | Online über Zoom\n\nUnter dem folgenden Link können Sie sich direkt anmelden: https://domberg-akademie.de/veranstaltungen-signup/ein-digitaler-fallschirm-fuer-die-demokratie\n\nDie Veranstaltungsreihe \"Error 404: Democracy not found\" untersucht die vielschichtigen Spannungsfelder zwischen Demokratie und Digitalisierung.\n\nDer zweite Vortrag der Reihe von Jutta Horstmann beleuchtet die Gefahren der digitalen Abhängigkeit von innen und außen und erläutert, wie wir uns besser schützen können.\nUnsere Demokratie, ihre Institutionen und Akteur:innen stehen unter Beschuss - von innen wie von außen. Die Digitalisierung von Gesellschaft, Organisationen und Verwaltung bietet dabei vielfältige Angriffsziele für Anti-Demokraten: Europäische Demokratien sind abhängig von amerikanischen und chinesischen Technologiekonzernen. Die Szenarien sind real: US-Sanktionen gegen die Richter:innen des Internationalen Strafgerichtshofs führen zur Sperrung ihrer Zugänge zu Gmail, MS 365 oder PayPal und auch NGO-Vertreter:innen sind bereits von Sanktionen betroffen. Diese Dienste spielen nicht nur im Alltag von Privatpersonen eine zentrale Rolle. Viele Organisationen sind von diesen Tools substanziell abhängig und haben ihre gesamte Infrastruktur darauf aufgebaut - auch die deutsche Verwaltung. Gleichzeitig setzen immer mehr Bundesländer auf umfassende Überwachung und KI-gestützte Polizeiarbeit - während rechtsextreme Parteien Regierungsbeteiligungen anstreben. Was passiert, wenn solche digitalen Infrastrukturen und Instrumente in autoritäre Hände geraten? Wie kann verhindert werden, dass vulnerable Gruppen mit einem Knopfdruck identifiziert und bedroht werden können?\n\nJutta Horstmann analysiert diese doppelte Bedrohungslage und zeigt Wege zu mehr digitaler Souveränität, die sie nicht als technokratisches Projekt, sondern als Ausdruck demokratischer Gestaltungsmacht und politischer Handlungsfähigkeit versteht. Alternativen zur Abhängigkeit von intransparenten Tech-Konzernen sind möglich, wenn demokratische Mehrheiten sie durchsetzen. Es braucht digitale Fallschirme und eine wehrhafte Digitalisierung.\n\nMit: Jutta Horstmann\nSie ist seit September 2025 Co-CEO der Heinlein Gruppe, wo sie den Fokus auf technologische Resilienz sowie offene und sichere Kommunikationsinfrastrukturen legt. Sie beschäftigt sich bereits seit Jahrzehnten mit Open Source Konzepten und digitaler Souveränität. So war sie zuletzt Geschäftsführerin des Zentrums für digitale Souveränität und COO/CTO von eyeo.\n_______________________________________________________________________\n\nWeitere Veranstaltungen der Reihe \"Error 404: Democracy not found\"\n\n\n  *   \"Moon first!\" - Weltraumkolonisierung und Technofaschismus | Mi 08.07.2026 | 19.00 - 21.15 Uhr |\nHier geht?s zur Anmeldung: https://domberg-akademie.de/veranstaltungen-signup/weltraummissionen\n\n\n  *   ?Game Over, Democracy? Willkommen in der \"Digitalokratie\"!? Mi, 25.11.2026, 19.00 - 20.30 Uhr|\nHier geht?s zur Anmeldung: https://domberg-akademie.de/veranstaltungen-signup/willkommen-in-der-digitalokratie\n______________________________________________________________________\n\nLeiten Sie unsere Einladung gerne auch an Kolleg*innen, Studierende und weitere Interessierte weiter!\n\nWir freuen uns auf Ihre Teilnahme!\n\nMit freundlichen Grüßen\n\nMira Bundschuh (sie/ihr)\nProjektverantwortliche ?Unbubble? ? Raus aus der Blase, rein ins Gespräch!\nStudentische Hilfskraft Kompetenzzentrum Demokratie und Menschenwürde\nIch arbeite in Teilzeit, in der Regel dienstags und donnerstags.\n\nMit Bildungsarbeit Menschen befähigen sich gegen Menschenfeindlichkeit\nund für die demokratische Gesellschaft und ihre Pluralität einzusetzen!\n\nDas KDM ist am Standort Süd bei der Domberg-Akademie für Sie da!\n\n\n[cid:image002.png@01DCFBEF.AEE15230]\n\n[cid:image004.jpg@01DCFBEF.AEE15230]\n\nDomberg-Akademie\nStiftung Erwachsenenbildung der\nErzdiözese München und Freising\nUntere Domberggasse 2\n85354 Freising\n\nT: 08161 181-2187\nmbundschuh@domberg-akademie.de  <mailto:mbundschuh@domberg-akademie.de %20>\nwww.kdm-bayern.de<http://www.kdm-bayern.de/>\nwww.domberg-akademie.de<http://www.domberg-akademie.de/>\n\n\nBesuchen Sie uns auf Facebook [cid:image005.png@01DCFBEF.AEE15230] <https://www.facebook.com/kdmbayern>\n\n\n\nAbonnieren Sie jetzt unseren\n[cid:image007.png@01DCFBEF.AEE15230]<https://bsky.app/profile/kdm-bayern.bsky.social>YouTube-Kanal [cid:image008.png@01DCFBEF.AEE15230] <https://www.youtube.com/c/DombergAkademie>\n\n\n\nFolgen Sie uns auf Bluesky\n\n\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.png\nDateityp    : image/png\nDateigröße  : 178 bytes\nBeschreibung: image001.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 5962 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image003.jpg\nDateityp    : image/jpeg\nDateigröße  : 14685 bytes\nBeschreibung: image003.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment.jpg>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image004.jpg\nDateityp    : image/jpeg\nDateigröße  : 3255 bytes\nBeschreibung: image004.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0001.jpg>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image005.png\nDateityp    : image/png\nDateigröße  : 611 bytes\nBeschreibung: image005.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0002.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image006.png\nDateityp    : image/png\nDateigröße  : 381 bytes\nBeschreibung: image006.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0003.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image007.png\nDateityp    : image/png\nDateigröße  : 490 bytes\nBeschreibung: image007.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0004.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image008.png\nDateityp    : image/png\nDateigröße  : 605 bytes\nBeschreibung: image008.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260614/2841ed46/attachment-0005.png>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 69, Eintrag 13\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 6,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "verwaltung",
-        "regierung",
-        "länder",
-        "eu",
-        "stiftung"
-      ],
-      "id": "5cf58c85615584f3"
-    },
-    {
-      "subject": "Einladung zur Preisverleihung \"Speaking Across Differences\" am 19.6. des McCloy-Alumni-Vereins der Harvard Kennedy School",
-      "from": "\"Henriette Sonja Marie Freiin von Schnurbein\" <henries04@zedat.fu-berlin.de>",
-      "date": "Sat, 13 Jun 2026 18:35:23 +0200",
-      "dateUtc": "2026-06-13T16:35:23+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "An der Live-Veranstaltung in Berlin Mitte nehmen 90 ehemalige und 8\naktuelle McCloy-Stipendiaten der Harvard Kennedy School teil, 15 der\nInitiativen sowie politisch interessierte Studenten. Neben der\nOnline-Teilnahme gibt es 10 Freiplätze an der Veranstaltung vor Ort für\nAbonnenten der IB-Liste. Voranmeldung und Bestätigung unter\nspeakingacross@mccloys.org. First come, first serves.\n\nDer Preis \"Speaking Across Differences\" in Höhe von 1x 10.000 Euro und 2x\n2.000 Euro ehrt Initiativen zur Überwindung der emotionalen Spaltung a.k.a\naffektiven Polarisierung, die zum Zusammenbruch der demokratischen\nEinigungsfähigkeit führt.\n\nDie McCloys wünschen euch allen Erfolg bei eurem Einsatz für die\ninternationalen Beziehungen, die einer der Kernbereiche des\nMcCloy-Stipendiums sind!\n\nOliver Beste, stellv. Vorsitzender des McCloy-Alumnivereins\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : grafik.png\nDateityp    : image/png\nDateigröße  : 950379 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260613/7e4d1c7a/attachment.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "b510c16873a5e1a8"
-    },
-    {
-      "subject": "Einladung zur Preisverleihung \"Speaking Across Differences\" am 19.6. des McCloy-Alumni-Vereins der Harvard Kennedy School",
-      "from": "Oliver Beste <oliver.beste100@gmail.com>",
-      "date": "Sat, 13 Jun 2026 15:14:49 +0200",
-      "dateUtc": "2026-06-13T13:14:49+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [],
-      "snippet": "[image: grafik.png]\nAn der Live-Veranstaltung in Berlin Mitte nehmen 90 ehemalige und 8\naktuelle McCloy-Stipendiaten der Harvard Kennedy School teil, 15 der\nInitiativen sowie politisch interessierte Studenten. Neben der\nOnline-Teilnahme gibt es 10 Freiplätze an der Veranstaltung vor Ort für\nAbonnenten der IB-Liste. Voranmeldung und Bestätigung unter\nspeakingacross@mccloys.org. First come, first serves.\n\nDer Preis \"Speaking Across Differences\" in Höhe von 1x 10.000 Euro und 2x\n2.000 Euro ehrt Initiativen zur Überwindung der emotionalen Spaltung a.k.a\naffektiven Polarisierung, die zum Zusammenbruch der demokratischen\nEinigungsfähigkeit führt.\n\nDie McCloys wünschen euch allen Erfolg bei eurem Einsatz für die\ninternationalen Beziehungen, die einer der Kernbereiche des\nMcCloy-Stipendiums sind!\n\nOliver Beste, stellv. Vorsitzender des McCloy-Alumnivereins\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260613/183df5f2/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : grafik.png\nDateityp    : image/png\nDateigröße  : 950379 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260613/183df5f2/attachment.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "27f552498f7fff97"
     }
   ],
   "stats": {
-    "new_items": 37,
-    "total_items": 184,
+    "new_items": 21,
+    "total_items": 182,
     "processed_messages": 30,
     "processed_messages_imap": 30,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 24,
+    "removed_old_items": 16,
     "removed_past_deadline_items": 7,
     "removed_legacy_linkedin_alerts": 0
   }
