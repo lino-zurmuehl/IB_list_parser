@@ -1,7 +1,175 @@
 {
-  "generated_at": "2026-07-22T10:27:17.807699+00:00",
+  "generated_at": "2026-07-23T11:51:27.628370+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Internship / Praktikum bei der GIZ Handelspolitik",
+      "from": "\"Berndt, Sascha GIZ\" <sascha.berndt@giz.de>",
+      "date": "Thu, 23 Jul 2026 09:38:25 +0000",
+      "dateUtc": "2026-07-23T09:38:25+00:00",
+      "organization": "Unknown",
+      "positionType": "Internship",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://jobs.giz.de/index.php?ac=jobad&id=78844"
+      ],
+      "snippet": "Dear all,\n\nspannende Praktikumsmöglichkeit bei der GIZ in Berlin im Bereich Handelspolitik: https://jobs.giz.de/index.php?ac=jobad&id=78844\n\nViele Grüße\n\n\nSascha Berndt\nAdvisor\nSector Project Trade and Investment for Sustainable Development\n\nDeutsche Gesellschaft für\nInternationale Zusammenarbeit (GIZ) GmbH\nKöthener Straße 2/3\n10963 / Berlin\nGermany\n\nT  + 49 30 72614 482\nE  sascha.berndt@giz.de\nI  www.giz.de\n\n________________________________\nDeutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH;\nSitz der Gesellschaft Bonn und Eschborn/Registered offices Bonn and Eschborn, Germany;\nRegistergericht/Registered at Amtsgericht Bonn, Germany; Eintragungs-Nr./Registration no. HRB 18384 und/and Amtsgericht Frankfurt am Main, Germany; Eintragungs-Nr./Registration no. HRB 12394;\nUSt-IdNr./VAT ID no. DE 113891176;\nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Niels Annen;\nVorstand/Management Board: Thorsten Schaefer-Guembel (Vorstandssprecher/Chair), Ingrid-Gabriela Hoven (Stellvertretende Vorstandssprecherin/Vice-Chair), Anna Sophie Herken\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/70346704/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 22\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 4,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "politik",
+        "eu",
+        "development"
+      ],
+      "id": "ff5d2f8331e7a055"
+    },
+    {
+      "subject": "Stellenausschreibung: Studentische:r",
+      "from": "Laura Worsch <Laura.Worsch@iep-berlin.de>",
+      "date": "Thu, 23 Jul 2026 08:47:53 +0000",
+      "dateUtc": "2026-07-23T08:47:53+00:00",
+      "organization": "Institut für Europäische Politik (IEP) sucht zum 15",
+      "positionType": "Position",
+      "deadline": "ist der 16",
+      "deadlineDate": null,
+      "links": [
+        "https://iep-berlin.de/de/ueber/karriere/shk-eu-erweiterung/",
+        "http://www.iep-berlin.de/"
+      ],
+      "snippet": "Liebe Studierende,\n\ndas Institut für Europäische Politik (IEP) sucht zum 15. September 2026 eine:n Studentische:n Mitarbeiter:in im Forschungsbereich EU-Erweiterung.\n\nDie Stelle bietet die Möglichkeit, an aktuellen Forschungs- und Praxisprojekten zur EU-Erweiterung mitzuwirken. Zu den Aufgaben gehören unter anderem wissenschaftliche Recherchen, die Unterstützung bei Veranstaltungen sowie die Mitarbeit an Publikationen und Projekten im Bereich der EU-Erweiterung.\n\nFalls die Ausschreibung für Euch oder Personen in Eurem Netzwerk interessant sein könnte, freuen wir uns sehr über eine Weiterleitung.\n\nDie vollständige Stellenausschreibung mit allen Informationen zu Aufgaben, Voraussetzungen und Bewerbung findet Ihr hier:\nhttps://iep-berlin.de/de/ueber/karriere/shk-eu-erweiterung/\n\nBewerbungsschluss ist der 16. August 2026.\n\nFür Rückfragen stehe ich jederzeit zur Verfügung.\n\nBeste Grüße\n\nLaura Worsch\n_________________________\nLaura Worsch\nWissenschaftliche Mitarbeiterin / research associate\nInstitut für Europäische Politik\nBundesallee 23\n10717 Berlin\nwww.­­­­iep-berlin.de<http://www.iep-berlin.de/>\nE  laura.worsch@iep-berlin.de<mailto:laura.worsch@iep-berlin.de>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/06e7b4b3/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "r ",
+        "politik",
+        "eu"
+      ],
+      "id": "cdc3c38fa55a8ead"
+    },
+    {
+      "subject": "Stellenausschreibungen als Werkstudent*in bei der Deutschen Umwelthilfe",
+      "from": "DUH Bewerbung <bewerbung@duh.de>",
+      "date": "Thu, 23 Jul 2026 08:00:00 +0000",
+      "dateUtc": "2026-07-23T08:00:00+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "Not found",
+      "deadlineDate": null,
+      "links": [
+        "https://www.duh-jobs.de/",
+        "https://bsky.app/profile/umwelthilfe.bsky.social",
+        "https://www.duh.de/datenverarbeitung/"
+      ],
+      "snippet": "Hallo,\n\nIm Anhang findet ihr 2 Ausschreibungen als Werkstudent*in bei der Deutschen Umwelthilfe. Wir freuen uns über zahlreiche Bewerbungen ??\nWeitere Infos findet ihr auch auf unserer Karriereseite<https://www.duh-jobs.de/>. Bei Fragen wendet euch gerne an bewerbung@duh.de<mailto:bewerbung@duh.de>.\n\nSchöne Woche und liebe Grüße\nVera\n\nVera Böck | Referentin Personalmanagement und Recruiting\n\n[cid:image001.jpg@01DD1A8A.0574C290]\n\nDeutsche Umwelthilfe e.V. | Bundesgeschäftsstelle Berlin | Hackescher Markt 4 | 10178 Berlin\nTelefon: +49 30 2400867-646 | Telefax: +49 30 2400867-19 | Mobil: +49 151 51103417\nE-Mail: boeck@duh.de | www.duh.de | facebook.com/umwelthilfe<www.facebook.com/umwelthilfe> | x.com/umwelthilfe<www.x.com/umwelthilfe> | instagram.com/umwelthilfe<www.instagram.com/umwelthilfe> |\ntiktok.com/@umwelthilfe<www.tiktok.com/@umwelthilfe> | umwelthilfe.bsky.social <https://bsky.app/profile/umwelthilfe.bsky.social>\nDUH e.V. | BGF: J. Resch, S. Müller-Kraenner, B. Metz | Vorstand: Prof. Dr. M. Mönnecke, M. Rothkegel, C.-W. Bodenstein-Dresler | AG Hannover VR 202112\nGeschäftskonto: Volksbank Bodensee-Oberschwaben eG | Deutsche Umwelthilfe e. V.| IBAN DE59651915000452725003 | BIC GENODES1TET\nSpendenkonto: SozialBank | Deutsche Umwelthilfe | IBAN DE45 3702 0500 0008 1900 02| BIC BFSWDE33XXX\n\nInformationen zur Verarbeitung personenbezogener Daten durch die Deutsche Umwelthilfe e.V.\nnach der EU-Datenschutz-Grundverordnung (DSGVO) finden Sie hier<https://www.duh.de/datenverarbeitung/>.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/4ffa9b2a/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.jpg\nDateityp    : image/jpeg\nDateigröße  : 22480 bytes\nBeschreibung: image001.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/4ffa9b2a/attachment.jpg>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : i_26037__Stellenausschreibung_WerkstudentIn_Newsroom_Link.pdf\nDateityp    : application/pdf\nDateigröße  : 231273 bytes\nBeschreibung: i_26037__Stellenausschreibung_WerkstudentIn_Newsroom_Link.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/4ffa9b2a/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : i_26038_Stellenausschreibung_WerstudentIn_Officemanagement_Link.pdf\nDateityp    : application/pdf\nDateigröße  : 228779 bytes\nBeschreibung: i_26038_Stellenausschreibung_WerstudentIn_Officemanagement_Link.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/4ffa9b2a/attachment-0001.pdf>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 2,
+      "dsPolicyMatchedKeywords": [
+        "eu",
+        "verordnung"
+      ],
+      "id": "7f84eb63a2099d2d"
+    },
+    {
+      "subject": "Deadline Extended: Morawa Trilateral Summer School",
+      "from": "Shaheen Gaszewski <shaheen.gaszewski@gfps.pl>",
+      "date": "Wed, 22 Jul 2026 18:22:51 +0200",
+      "dateUtc": "2026-07-22T16:22:51+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "Extended: Morawa Trilateral Summer School",
+      "deadlineDate": null,
+      "links": [
+        "https://docs.google.com/forms/d/e/1FAIpQLSc9O8opG4YnVKR00iQUELgU89LWE0b3sxvdQonR9tUkuSGDeg/viewform",
+        "https://www.gfps.pl/"
+      ],
+      "snippet": "Dear IB-Liste,\n\nthe application deadline for the Morawa Trilateral Summer School, a summer\nacademy on German-Polish-Ukrainian relations, organized by GFPS, the St.\nHedwig Foundation, and the College of Eastern Europe (KEW), has been\nextended till 30. July. The summer academy will take place September 14?21,\n2026, in Morawa near Wroc?aw, Poland. All further information and the link\nto the application form are provided below.\nAbout the Summer School\n\nIn light of Russia?s ongoing aggression against Ukraine and Ukraine?s path\ntoward EU membership, strengthening Polish-German-Ukrainian cooperation has\nbecome more important than ever. Building on the legacy of the Weimar\nTriangle, the Summer School aims to foster dialogue, mutual understanding,\nand collaboration among students and young professionals from the three\ncountries.\n\nOver the course of seven days in Morawa, participants will take part in\nlectures, workshops, a study excursion, and creative sessions focusing on\nsecurity, politics, culture, and historical memory.\nLanguage\n\nThe working language of the program is English.\nWho can apply\n\nWe welcome applications from young people who:\n\n   -\n\n   are from 18 to 26 years old\n   -\n\n   currently reside in Poland, Germany, or Ukraine\n   -\n\n   are motivated to engage in international dialogue and interdisciplinary\n   cooperation\n   (academic background or status is not the primary selection criterion)\n\nWe plan to select 27 participants.\nCosts and conditions\n\nParticipation fee:\n\n   -\n\n   200 PLN (participants from Poland)\n   -\n\n   50 EUR (participants from Germany)\n   -\n\n   30 EUR (participants from Ukraine)\n\nThe fee includes full board and accommodation. Participants will be\naccommodated in 2?4 bed rooms. Travel is organized individually. The\nnearest railway stations are Strzegom and Jaworzyna ?l?ska. Travel costs\nwill be reimbursed for participants from Germany and Ukraine.\nApplication process\n\nTo apply, please complete the online application form:\nhttps://docs.google.com/forms/d/e/1FAIpQLSc9O8opG4YnVKR00iQUELgU89LWE0b3sxvdQonR9tUkuSGDeg/viewform\n\n?? Application deadline: 30 July 2026\n?? Results announced by: 5 August 2026\n\n-- \n\nShaheen Gaszewski\nshaheen.gaszewski@gfps.pl\nhttps://www.gfps.pl/\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260722/2af41473/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "d8e7d776fa942e20"
+    },
+    {
+      "subject": "Bewerbungsfrist verlängert: Masterstudiengänge an der Uni Osnabrück - Europäisches Regieren in der Transformation und Soziologische Zeitdiagnose",
+      "from": "\"Hannes Kohlhoff\" <hannes.kohlhoff@uni-osnabrueck.de>",
+      "date": "Wed, 22 Jul 2026 12:17:50 +0200",
+      "dateUtc": "2026-07-22T10:17:50+00:00",
+      "organization": "Institut für",
+      "positionType": "N/A",
+      "deadline": "verlängert: Masterstudiengänge an der Uni Osnabrück - Europäisches Regieren in der Transformation und Soziologische Zeitdiagnose",
+      "deadlineDate": null,
+      "links": [
+        "https://s.academiccloud.de/duHir8",
+        "https://s.academiccloud.de/V7AqLj",
+        "https://www.uni-osnabrueck.de/fb1/sozialwissenschaften",
+        "https://www.uni-osnabrueck.de/fb1/cecop"
+      ],
+      "snippet": "Liebe ib-Liste,\n\n \n\nbis zum 15. September 2026 sind die Bewerbungsportale für zwei neue\nMasterstudiengänge an der Uni Osnabrück offen:\n\n \n\n*\tMaster of Arts: Europäisches Regieren in der Transformation \nEU-Politik in krisenhaften Zeite verstehen, analysieren und evidenzbasiert\ngestalten\nMehr unter: https://s.academiccloud.de/duHir8 \n\n \n\n*\tMaster of Arts: Soziologische Zeitdiagnose  Gesellschaft und Trends\nverstehen & Wissenstransfer für Gegenwart und Zukunft schaffen\nMehr unter: https://s.academiccloud.de/V7AqLj \n\n \n\nWir freuen uns auf Bewerbungen und Bekanntmachung unserer Programme!\n\n \n\nHerzliche Grüße aus Osnabrück\n\nHannes Kohlhoff, M. A.\n(he/his)\n\nProgrammkoordination Masterstudiengänge\n <https://www.uni-osnabrueck.de/fb1/sozialwissenschaften> Institut für\nSozialwissenschaften\n <https://www.uni-osnabrueck.de/fb1/cecop> Center for the Study of Conflict\nand Peace\n\n..........................................................................\n\n\nUniversität Osnabrück\n\nSeminarstraße 20\n49074 Osnabrück\n\nTelefon: +49 541 969 4658\nE-Mail:  <mailto:hannes.kohlhoff@uni-osnabrueck.de>\nhannes.kohlhoff@uni-osnabrueck.de \n\n \n\n \n\n \n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260722/f69dcf1f/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 6,
+      "dsPolicyMatchedKeywords": [
+        "gis",
+        "politik",
+        "eu",
+        "sozialwissenschaft",
+        "evidenzbasiert",
+        "peace"
+      ],
+      "id": "d51dc9c3e6a9216a"
+    },
+    {
+      "subject": "WeltWeitWissen Kongress 2026 Lübeck: Stellenausschreibung Kongressteam",
+      "from": "Melanie Bernhard <melanie.bernhard@bei-sh.org>",
+      "date": "Wed, 22 Jul 2026 10:17:15 +0000",
+      "dateUtc": "2026-07-22T10:17:15+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "31.07.26",
+      "deadlineDate": "2026-07-31",
+      "links": [
+        "https://www.bei-sh.org/weltweitwissen-kongress-2026",
+        "https://www.bei-sh.org/files/Themen/Globales%20Lernen/WWWK26/WWWK26_Ausschreibung%20Kongressteam.pdf",
+        "http://www.bei-sh.org/",
+        "http://www.bei-sh.org/newsletter",
+        "https://outlook.office.com/bookwithme/user/9d0a822fb54e4b0392005874000bdec8@bei-sh.org?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature"
+      ],
+      "snippet": "Liebe IB-Liste,\n\ndu interessierst dich für globale politische Themen, möchtest spannende Akteur*innen der (entwicklungspolitischen) Bildungsarbeit kennenlernen und Einblicke in Deutschlands bedeutendste Fachkonferenz zu Globalem Lernen und Bildung für nachhaltige Entwicklung erhalten? Dann werde Teil des WeltWeitWissen-Kongressteams in Lübeck vom 14.-16.09.2026 und unterstütze uns bei der Koordination & Logistik, der Gästebetreuung, der Social Media Präsenz oder als flexible*r Allrounder*in.\nSchicke uns ein kurzes Motivationsschreiben (eine halbe bis eine Seite mit Angabe deines gewünschten Einsatzbereiches) bis zum 31.07.26 per E-Mail mit dem Betreff ?Bewerbung WWWK Kongressteam_Nachname_Vorname? an vanessa.schaefer@bei-sh.org<mailto:vanessa.schaefer@bei-sh.org>.\nWichtig: Bitte beachte, dass die Teilnahme an den zwei Vorbereitungstreffen am 18.08.26 (vor Ort in Kiel) und am 01.09.26 (vor Ort in Lübeck) verpflichtend ist.\nWeitere Infos und das Programm zum WeltWeitWissen Kongress 2026: https://www.bei-sh.org/weltweitwissen-kongress-2026\nWeitere Infos zur Stellenausschreibung zum Kongressteam: https://www.bei-sh.org/files/Themen/Globales%20Lernen/WWWK26/WWWK26_Ausschreibung%20Kongressteam.pdf\n\nWir freuen uns auf deine Bewerbung! Für Fragen stehen wir gerne zur Verfügung.\n\nViele Grüße\nMelanie\n\n\n\n____________________________________________________________\n\nMelanie Bernhard\n\n(sie/ihr | she/her)\n\nProjektleitung | Project Manager WeltWeitWissen Kongress 2026\nBündnis Eine Welt Schleswig-Holstein e.V.\n[cid:3cbcb161-5f58-4c17-89a7-1802543c1856]\nBündnis Eine Welt Schleswig-Holstein e.V. (BEI)\n\nDachverband entwicklungspolitischer Organisationen\n\nSophienblatt 100\n\n24114 Kiel\n\nTel.: 0431-679399-04\n\nmelanie.bernhard@bei-sh.org<mailto:melanie.bernhard@bei-sh.org>\n\n\n\nVereinsregister: AG Kiel, VR 3739KI\n\nVorstand: Andrea Bastian, Robin Hetfeldt, Dr. Hassan Humeida, Martina Kriwy, Lazarus Tomdio\n\n\n\nwww.bei-sh.org<http://www.bei-sh.org/>\n\nfollow us on facebook\n\nfollow us on Instagram\n\n\n\nEntwicklungspolitischer Newsletter für Schleswig-Holstein\n\nwww.bei-sh.org/newsletter<http://www.bei-sh.org/newsletter>\n\n[cid:73abdb59-b9a0-4709-a95a-ded6a1e1ec93]<https://outlook.office.com/bookwithme/user/9d0a822fb54e4b0392005874000bdec8@bei-sh.org?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\nBuchen Sie einen Termin, um mich zu treffen<https://outlook.office.com/bookwithme/user/9d0a822fb54e4b0392005874000bdec8@bei-sh.org?anonymous&ismsaljsauthenabled&ep=bwmEmailSignature>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260722/1b051e5f/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image.png\nDateityp    : image/jpeg\nDateigröße  : 743001 bytes\nBeschreibung: image.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260722/1b051e5f/attachment.jpe>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image.png\nDateityp    : image/png\nDateigröße  : 528 bytes\nBeschreibung: image.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260722/1b051e5f/attachment.png>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": true,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "r ",
+        "gis",
+        "eu"
+      ],
+      "id": "a13c5876208651eb"
+    },
     {
       "subject": "Honorarkraft (w/m/d) im Bereich Internationale Politik",
       "from": "\"Lehrer, Jonathan\" <lehrer@koerber-stiftung.de>",
@@ -4025,405 +4193,15 @@
         "eu"
       ],
       "id": "f44c1591b5d7d324"
-    },
-    {
-      "subject": "Polis180 | Einladung zum Publikationslaunch",
-      "from": "Nila Sarabi <nila.sarabi@polis180.org>",
-      "date": "Thu, 25 Jun 2026 12:05:00 +0200",
-      "dateUtc": "2026-06-25T10:05:00+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://polis180.org/events/generation-z-eitenwende-launch-event/",
-        "http://www.polis180.org/",
-        "https://www.facebook.com/Polis180.DE/",
-        "https://bsky.app/profile/polis180.bsky.social",
-        "https://www.instagram.com/polis180/",
-        "https://de.linkedin.com/company/polis180-e-v-"
-      ],
-      "snippet": "Liebe Liste,\n\nwir laden euch herzlich zum Launch unserer Publikation \"Visionen als\nSchlüssel zu einer neuen Außenpolitik: Perspektiven aus der Generation\nZ(eitenwende\" am 9. Juli 2026 um 17.00 Uhr ins Berlin Global Village in\nBerlin-Neukölln ein.\n\nAnmeldung: https://polis180.org/events/generation-z-eitenwende-launch-event/\n\n\nZum Hintergrund der Publikation: Die Welt verändert sich rasant ? und junge\nMenschen spüren diesen Umbruch besonders deutlich. Doch während alte\nGewissheiten bröckeln, fehlt ein klares Zukunftsbild. Das verstärkt\nUnsicherheit und Überforderung. Gerade in Krisenzeiten droht das Visionäre\nzu verschwinden: Der Blick verengt sich auf das Akute, alles andere rückt\nin den Hintergrund.\n\nDabei zeigen die Erfahrungen aus unseren Generation Z(eitenwende)-Policy\nLabs: Wer Visionen entwickelt, gewinnt neue Handlungshorizonte ? und ein\nBewusstsein für Lösungen, die heute noch undenkbar scheinen.\n\nDie neue Abschlusspublikation baut auf den empirischen Ergebnissen des\nersten Papers im Projekt auf, für das wir in mehreren\nFokusgruppengesprächen verschiedene junge Menschen nach ihren Wahrnehmungen\nund Perspektiven auf die deutsche Außen- und Sicherheitspolititk gefragt\nhaben. Und sie entwickelt die Erkenntnisse weiter: In fünf Policy Labs\nhaben wir gemeinsam mit 29 jungen Menschen aufbauend auf der ersten Studie\nko-kreativ Visionen und Policy Recommendations für eine zukunftssichere\nAußen- und Sicherheitspolitik erarbeitet. Sie bilden den Kern der\nAbschlusspublikation.\n\nEtienne Höra und Lena Wittenfeld stellen am 9. Juli die Publikation vor und\ndiskutieren gemeinsammit Vertreterinnen der Zivilgesellschaft, jungen\nMenschen und Entscheidungsträger*innen.\n\nWir freuen uns auf euch!\n\nFreundliche Grüße\n\nNila Sarabi\n\n\n\n\n*Nila Sarabi*\n\nProjektmanagement - Generation Z(eitenwende)\n\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\n\nAm Sudhaus 2 | 12053 Berlin\n\nEmail: nila.sarabi@polis180.org\n\npolis180.org <http://www.polis180.org/> | Facebook\n<https://www.facebook.com/Polis180.DE/> | Bluesky\n<https://bsky.app/profile/polis180.bsky.social> | Instagram\n<https://www.instagram.com/polis180/> | LinkedIn\n<https://de.linkedin.com/company/polis180-e-v-> |\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260625/f00fefde/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Outlook-qrfj3yrx.png\nDateityp    : image/png\nDateigröße  : 12300 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260625/f00fefde/attachment.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "policy",
-        "politik",
-        "eu",
-        "sicherheitspolitik",
-        "thinktank"
-      ],
-      "id": "07d07104654f1dd8"
-    },
-    {
-      "subject": "Leitung Berliner Büro / Transfer und Politikdialog (m/w/d)",
-      "from": "Holger Niemann <niemann@ifsh.de>",
-      "date": "Thu, 25 Jun 2026 09:31:12 +0000",
-      "dateUtc": "2026-06-25T09:31:12+00:00",
-      "organization": "Institute for Peace Research and Security Policy",
-      "positionType": "Position",
-      "deadline": "ete Stelle (EG14/100%) für die Leitung des Berliner Büros/Transfer und Politikdi",
-      "deadlineDate": null,
-      "links": [
-        "https://www.ifsh.de/karriere/details/job/leitung-berliner-buero-transfer-und-politikdialog-m-w-d-2662818"
-      ],
-      "snippet": "Liebe Liste,\n\nam IFSH ist aktuell eine unbefristete Stelle (EG14/100%) für die Leitung des Berliner Büros/Transfer und Politikdialog ab 1.1.2027 ausgeschrieben!\n\nDie vollständige Ausschreibung findet sich hier: https://www.ifsh.de/karriere/details/job/leitung-berliner-buero-transfer-und-politikdialog-m-w-d-2662818\n\nAnsprechpartner für die Ausschreibung ist Carsten Wode, Kaufmännischer Geschäftsführer des IFSH (wode@ifsh.de<mailto:wode@ifsh.de>).\n\nAlle weiteren Informationen am Ender der Email.\n\nViele Grüße\nHolger Niemann\n\n----\n\nDas IFSH sucht eine strategisch denkende, kommunikationsstarke und politisch erfahrene Persönlichkeit als Leitung Berliner Büro / Transfer und Politikdialog (m/w/d). Die Position ist als unbefristete Vollzeitstelle in Berlin zu besetzen, nach EG 14 TV-AVH bewertet und soll zum 01. Januar 2027 angetreten werden.\n\nSie verantworten die strategische Weiterentwicklung und operative Steuerung des Berliner Büros und stärken damit die Präsenz des IFSH im politischen Berlin. Unser Ziel ist es, die wissenschaftliche Expertise des Instituts in bundespolitischen, fachöffentlichen und gesellschaftlichen Kontexten sichtbar, anschlussfähig und wirksam zu machen. Dafür entwickeln Sie geeignete Dialog- und Transferformate, pflegen belastbare Netzwerke und unterstützen Institutsleitung und Forschungsbereiche dabei, Forschungsperspektiven des IFSH adressatengerecht in politische Debatten einzubringen.\n\nAls Leitung des Berliner Büros bewegen Sie sich sicher an der Schnittstelle von Wissenschaft, Politik, Behörden und breiter Öffentlichkeit. Sie analysieren politische Entwicklungen, identifizieren relevante Gesprächsanlässe und strategische Anschlussmöglichkeiten und repräsentieren das IFSH gegenüber Ministerien, Parlament, politischen Stiftungen, Think Tanks, Medien, Wissenschaftseinrichtungen und zivilgesellschaftlichen Organisationen. Zugleich führen Sie das Team des Berliner Büros und stellen die enge organisatorische und inhaltliche Anbindung an den Hauptsitz in Hamburg sicher.\n\nIhre Aufgaben\n\n  *   Strategische Weiterentwicklung und operative Steuerung des Berliner Büros, einschließlich fachlicher und disziplinarischer Führung des Teams\n  *   Stärkung der Präsenz des IFSH im politischen Berlin sowie Sicherstellung der engen Anbindung an den Hauptsitz in Hamburg\n  *   Konzeption, Umsetzung und Weiterentwicklung von Dialog-, Austausch- und Transferformaten für politische und fachöffentliche Zielgruppen\n  *   Analyse politischer und parlamentarischer Entwicklungen sowie Ableitung von Handlungsempfehlungen für Institutsleitung und Forschungsbereiche\n  *   Aufbau, Pflege und strategische Weiterentwicklung belastbarer Netzwerke mit Ministerien, Parlament, Behörden, politischen Stiftungen, Think Tanks, Wissenschaft, Medien und Zivilgesellschaft\n  *   Repräsentation des IFSH in Berlin sowie strategische Platzierung zentraler Themen und Forschungsperspektiven in politischen, medialen und fachöffentlichen Kontexten\n  *   Eigenständige Einwerbung sowie Mitwirkung bei der Einwerbung von Drittmitteln für Transfer- und Policy-Projekte\n  *   Mitarbeit an Policy Briefs und anderen transferorientierten Formaten\n\nIhr Profil\n\n  *   Abgeschlossenes wissenschaftliches Hochschulstudium in einem für die Aufgaben einschlägigen Fachgebiet; eine Promotion in einem relevanten Bereich ist erwünscht, bei einem überzeugenden Profil und entsprechend langjähriger Erfahrung kann die Funktion auch ohne Promotion ausgefüllt werden.\n  *   Mehrjährige einschlägige Berufserfahrung an der Schnittstelle von Wissenschaft, Politik, Behörden, Think Tanks, Stiftungen, Medien oder vergleichbaren Institutionen\n  *   Vertiefte Kenntnisse in der Friedens- und Sicherheitspolitik sowie angrenzender politikrelevanter Themenfelder\n  *   Sehr gutes Verständnis politischer Prozesse, parlamentarischer Abläufe und institutioneller Logiken auf Bundesebene\n  *   Erfahrung in der Entwicklung und Umsetzung von Dialog-, Transfer-, Policy- oder Veranstaltungsformaten\n  *   Belastbare Netzwerke im politischen Berlin oder die nachweisbare Fähigkeit, solche Netzwerke strategisch aufzubauen und zu pflegen\n  *   Fähigkeit, wissenschaftliche Expertise adressatengerecht, rollensicher und strategisch in politische Debatten einzubringen\n  *   Hohe Kommunikationsfähigkeit, Eigeninitiative, strategisches Urteilsvermögen und sicheres Auftreten\n  *   Organisations- und Koordinationsstärke sowie Freude an bereichsübergreifender Zusammenarbeit\n  *   Führungskompetenz, Teamorientierung sowie sehr gute deutsche und englische Sprachkenntnisse\n\nDie vollständige Ausschreibung findet sich hier: https://www.ifsh.de/karriere/details/job/leitung-berliner-buero-transfer-und-politikdialog-m-w-d-2662818\n\n\n--\nDr. Holger Niemann\nInstitute for Peace Research and Security Policy\nat the University of Hamburg (IFSH)\nBeim Schlump 83\n20144 Hamburg\nGermany\n+49 40 866 07717\nniemann@ifsh.de<mailto:niemann@ifsh.de>\n\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260625/4792609c/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 69, Eintrag 23\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 9,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "politik",
-        "eu",
-        "sicherheitspolitik",
-        "stiftung",
-        "think tank",
-        "peace",
-        "security policy"
-      ],
-      "id": "6e69f14470435272"
-    },
-    {
-      "subject": "Aktuelle Ausschreibung im China-Stipendien-Programm der Studienstiftung",
-      "from": "Postfach | China <China@studienstiftung.de>",
-      "date": "Thu, 25 Jun 2026 07:40:00 +0000",
-      "dateUtc": "2026-06-25T07:40:00+00:00",
-      "organization": "Universität Trier",
-      "positionType": "N/A",
-      "deadline": "1",
-      "deadlineDate": null,
-      "links": [
-        "https://www.studienstiftung.de/china",
-        "http://www.studienstiftung.de/"
-      ],
-      "snippet": "Sehr geehrte China-Interessierte,\n\ndas China-Stipendien-Programm der Studienstiftung geht in eine neue Runde, und wir möchten Sie heute auf die aktuelle Ausschreibung aufmerksam machen. Im Rahmen des Programms werden 15 Stipendien für einen einjährigen Studien- und Sprachaufenthalt in der Volksrepublik China im akademischen Jahr 2027/28 vergeben.\n\nDas Programm ermöglicht interessierten Studierenden aller Fächer (außer Kunst, Musik und Design), sich das Land während eines einjährigen Aufenthalts entsprechend der eigenen fachlichen und persönlichen Interessen zu erschließen, fundierte Sprachkenntnisse zu erwerben, persönliche Kontakt aufzubauen, die chinesische Universitäts- und Wissenschaftslandschaft kennenzulernen und Einblicke in aktuelle politische und gesellschaftliche Entwicklungen vor Ort zu erhalten.\n\nWir würden uns sehr freuen, wenn Sie uns bei der Bekanntmachung des Programms unterstützen und interessierte Studierende auf die aktuelle Ausschreibung hinweisen könnten. Mit der Aufnahme in das Programm ist auch die Zusage verbunden, über den Chinaaufenthalt hinaus von der Studienstiftung gefördert zu werden.\n\nDas Stipendium umfasst folgende Leistungen:\n\n\n-        Studienkostenpauschale der Studienstiftung in Höhe von 300 €\n\n-        nach BaföG-Richtlinien berechnetes Lebenshaltungsstipendium von bis zu 855 € pro Monat\n\n-        ggf. Zuschüsse zu Kranken- und Pflegeversicherung\n\n-        Auslandspauschale\n\n-        ggf. Auslandszuschlag gemäß BaföG für Empfänger:innen des Lebenshaltungsstipendiums\n\n-        Reisekostenzuschuss\n\n-        Übernahme der Studiengebühren in China durch den China Scholarship Council\n\n-        vorbereitender Sprachkurs, durchgeführt durch die Sinologie der Universität Trier\n\nEine Bewerbung ist bis zum 1. Oktober 2026 möglich. Weitere Informationen zum Programmablauf und den Bewerbungsvoraussetzungen sind auf unserer Homepage unter https://www.studienstiftung.de/china abrufbar.\n\nBei Rückfragen stehe ich Ihnen gerne zur Verfügung.\n\nMit besten Grüßen\nJulia Schütze\n_______________________________________\nDr. Julia Schütze\nBerliner Büro\n\n+49 30 20370 448\nschuetze@studienstiftung.de<mailto:schuetze@studienstiftung.de>\nwww.studienstiftung.de<http://www.studienstiftung.de/>\n\nStudienstiftung des deutschen Volkes | Jägerstr. 22/23 | 10117 Berlin\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260625/2126797b/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "stiftung"
-      ],
-      "id": "bd25b9941ad6da4f"
-    },
-    {
-      "subject": "Noch freie Plätze: Europäische Sommerakademie 05.09. ? 09.09.2026 in Bonn und Brüssel",
-      "from": "Julia Schmelcher <Schmelcher@eanrw.eu>",
-      "date": "Thu, 25 Jun 2026 07:38:42 +0000",
-      "dateUtc": "2026-06-25T07:38:42+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://eanrw.eu/europaeische-sommerakademie-05-09-09-09-2026-bonn-bruessel/",
-        "http://www.eanrw.eu/"
-      ],
-      "snippet": "Liebe Listenabonnent*innen,\n\ndie Europäische Akademie Nordrhein-Westfalen, eine bundesweit anerkannte und öffentlich geförderte Bildungseinrichtung mit Sitz in Bonn, veranstaltet auch in diesem Jahr vom 05.09. - 09.09.2026 eine Europäische Sommerakademie.\nUnsere fünftägige Sommerakademie in Bonn und Brüssel richtet sich an fortgeschrittene Studierende und junge Berufstätige, die sich umfassend mit der Europäischen Union beschäftigen möchten.\nIn einer interaktiven Lernumgebung vermitteln wir dir vertieftes Wissen über die politischen und historischen Grundlagen der Europäischen Union, schaffen einen Überblick über aktuelle Entwicklungen und geben Einblicke in die tägliche Arbeit der EU-Institutionen.\n\nWas erwartet dich?\n\n  *   Grundlagen-Workshops in Bonn: Zunächst wollen wir uns intensiv mit den historischen und politischen Grundlagen der Europäischen Union auseinandersetzen, bevor wir uns aktuellen Herausforderungen widmen.\n  *   Informations- und Diskussionstermine in Brüssel: Durch Gespräche mit Expert*innen und Entscheidungsträger*innen in den verschiedenen EU-Institutionen wollen wir aktuelle Entwicklungen und Zukunftsthemen der EU genauer betrachten und einen Einblick in die tägliche Arbeit der Institutionen geben.\n  *   Austausch mit anderen Europa-Interessierten: Neben der Informations- und Wissensvermittlung im Rahmen der Seminareinheiten und Informationstermine, werden auch der soziale Aspekt, der Spaßfaktor und der persönliche Austausch nicht zu kurz kommen.\n\nWir möchten mit unserer Sommerakademie junge Erwachsene aus verschiedenen Fachrichtungen und Berufsfeldern erreichen. Daher setzen wir kein Vorwissen voraus und freuen uns umso mehr über einen interdisziplinären Austausch.\n\nDer Tagungsbeitrag beläuft sich dank einer Förderung durch die öffentliche Hand auf insgesamt lediglich 225€ pro Person. Die An- und Abfahrt nach/von Bonn ist in Eigenregie zu organisieren. Der Transfer zwischen Bonn und Brüssel ist im Tagungsbeitrag enthalten. Die Unterbringung erfolgt jeweils in Doppelzimmern im GSI in Bonn (Vollpension) und im B&B HOTEL Brussels Centre Gare du Midi in Brüssel (Halbpension).\n\nWeitere Informationen findest du auch auf unserer Homepage: https://eanrw.eu/europaeische-sommerakademie-05-09-09-09-2026-bonn-bruessel/\nDie Anmeldung erfolgt per Mail an: schmelcher@eanrw.eu\n\nWir freuen uns auf eure Anmeldungen!\n\nLiebe Grüße\nJulia Schmelcher\n\nJulia Schmelcher\nStudienleiterin\nEuropäische Akademie Nordrhein-Westfalen e.V.\nWeberstraße 118\nD-53113 Bonn (Germany)\nTelefon: 0228-949301-23\nwww.eanrw.eu<http://www.eanrw.eu/>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260625/2c45c4b6/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "a828fb5e21c4ce46"
-    },
-    {
-      "subject": "Polis kocht! Event: 8. Juli 2026: The German?Indonesian Partnership: Youth perspectives on shaping middle-power cooperation",
-      "from": "Polis kocht Projektleitung <polis.kocht@polis180.org>",
-      "date": "Wed, 24 Jun 2026 18:49:49 +0200",
-      "dateUtc": "2026-06-24T16:49:49+00:00",
-      "organization": "Institute for",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.eventbrite.com/e/polis-kocht-youth-perspectives-on-shaping-middle-power-cooperation-tickets-1992305078120?aff=oddtdtcreator"
-      ],
-      "snippet": "Liebe Ib-Liste,\n\n\n\nPolis kocht! lädt euch zu der ersten Veranstaltung für die Saison ein. Seid\ndabei, wenn es wieder heißt: schnibbeln, kochen und heiß diskutieren. Es\ngibt nur noch wenige Plätze, also schnell sein lohnt sich!\n\nThe German?Indonesian Partnership: Youth perspectives on shaping\nmiddle-power cooperation | *08. Juli 2026 | 19.00 Uhr | *Berlin Global\nVillage | Am Sudhaus 2, 12053 Berlin. Hier geht's zur Anmeldung\n<https://www.eventbrite.com/e/polis-kocht-youth-perspectives-on-shaping-middle-power-cooperation-tickets-1992305078120?aff=oddtdtcreator>\n.\n\nTo better understand the evolving German-Indonesian partnership and the\nrole of youth in shaping middle-power cooperation, Polis180 warmly invites\nyou to this edition of Polis kocht!\n\nWe are particularly pleased to welcome the following speakers:\nDr. Abdil Mughis Mudhoffir is a Visiting Fellow at the GIGA Institute for\nAsian Studies and a political scientist specialising in democratisation,\ncivil society, and political developments in Indonesia and Southeast Asia.\nDr. Felix Heiduk is Head of the Asia Research Division at the German\nInstitute for International and Security Affairs (SWP)\n\nWir freuen uns auf dich!\n\n\n\n-- \n\n\n\nLeonie Gruber\n\nProjektkoordinatorin Polis Kocht!\n\nPolis180 - Grassroots-Thinktank für Außen- und Europapolitik\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/7e2c385c/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "eu",
-        "thinktank",
-        "development"
-      ],
-      "id": "d3cf39d82b1a333b"
-    },
-    {
-      "subject": "Bitte um Weiterleitung: Ausschreibung ERP- / McCloy-Stipendienprogramm & Haniel-Stipendienprogramm",
-      "from": "Postfach | McCloy <mccloy@studienstiftung.de>",
-      "date": "Wed, 24 Jun 2026 15:09:51 +0000",
-      "dateUtc": "2026-06-24T15:09:51+00:00",
-      "organization": "Unknown",
-      "positionType": "PhD",
-      "deadline": "ist der 1",
-      "deadlineDate": null,
-      "links": [
-        "https://www.linkedin.com/company/studienstiftung/mycompany/",
-        "https://www.instagram.com/studienstiftung/?hl=de",
-        "https://www.studienstiftung.de/erp/.",
-        "https://www.studienstiftung.de/mccloy/",
-        "https://mccloys.org/.",
-        "https://www.studienstiftung.de/haniel/.",
-        "http://www.studienstiftung.de/haniel"
-      ],
-      "snippet": "Sehr geehrte Damen und Herren,\n\nmit dieser E-Mail und den beigefügten Informationen möchte wir Sie auf die Ausschreibung der folgenden Stipendienprogramme hinweisen:\n\n\n1.       ERP-Stipendienprogramm (Masterstudiengängen und Forschungsvorhaben USA-weit)\n\n2.       McCloy-Stipendienprogramm (Masterstudiengänge an der Harvard Kennedy School)\n\n3.       Haniel-Stipendienprogramm (Studiengänge mit Wirtschaftsbezug weltweit)\n\nWir würden uns sehr freuen, wenn Sie die Ausschreibungen an interessierte Personen weiterleiten. Gerne können Sie auf Social-Media auch Posts zu diesen Ausschreibungen unserer Kanäle (LinkedIn<https://www.linkedin.com/company/studienstiftung/mycompany/> und Instagram<https://www.instagram.com/studienstiftung/?hl=de>) teilen.\n\nDie Programme begreifen die Diversität ihrer Stipendiat:innen als Bereicherung und Chance und setzen sich dafür ein, dass die Vielfalt unserer Gesellschaft auch in den Stipendienprogrammen abgebildet ist. Daher freuen wir uns sehr über Bewerber:innen, die aufgrund unterschiedlichster Umstände andere Lebenserfahrungen mitbringen: Sei es durch chronische Erkrankungen, die Pflege von Familienangehörigen, Flucht- oder Migrationsgeschichte, Rassismuserfahrung, Diskriminierungserfahrung, weil ihr Umfeld nicht akademisch geprägt war oder kaum Geld zur Verfügung stand. Wir wissen, dass all diese und andere Faktoren den Lebensweg prägen können und möchten interessierte Personen zur Bewerbung auf das McCloy-Programm und das Haniel-Stipendienprogramm ermutigen.\n\nMit freundlichen Grüßen\n\nLars Peter          (Stipendienprogramme ERP und McCloy)\nMax Gropper     (Haniel- Stipendienprogramm)\n\n\nAusschreibung I:\nHochdotierte Stipendien für US-amerikanische Hochschulen\n\nSie möchten an einer amerikanischen Hochschule Ihren Masterabschluss, einen Forschungsaufenthalt oder die Kursphase für einen PhD absolvieren? Dann bewerben Sie sich auf ein Stipendium des ERP-Programms! Mit diesem Programm fördert die Studienstiftung des deutschen Volkes Studien- und Forschungsaufenthalte an US-amerikanischen Spitzenuniversitäten. Die Studienstiftung ermutigt alle Interessierten - auch und gerade in Zeiten, in denen der Austausch von Ideen, Meinungen und Wissenschaftspraktiken vermehrt auf den Prüfstand gestellt wird - die Chance zum Aufbau persönlicher transatlantischer Beziehungen und Netzwerke zu nutzen.\n\nZiel des Programmes ist es, die transatlantische Verständigung zu stärken und hochqualifizierte Nachwuchskräfte, die eine Tätigkeit im öffentlichen Sektor anstreben, zu fördern und miteinander zu vernetzen. Das Programm richtet sich an Absolvent:innen aller Fächer. Neben den Lebenshaltungs- und Reisekosten können in dem ERP-Stipendienprogramm Studiengebühren in Höhe von bis zu 50.000 USD übernommen werden.\n\nEine Bewerbung ist vom 1.Juli bis 20. September 2026 möglich. Mit der Aufnahme in das Programm geht auch eine Aufnahme in die Studienstiftung des deutschen Volkes einher. Sie haben Fragen zum ERP-Programm? Dann nutzen Sie die virtuellen Informationsveranstaltungen mit aktuellen ERP-Geförderten und der Programmleitung. Die Termine und weitere Programminformationen finden Sie hier: https://www.studienstiftung.de/erp/. Bei weiteren Fragen wenden Sie sich bitte an erp@studienstiftung.de<mailto:erp@studienstiftung.de>.\n\n\n\nAusschreibung II:\nMit einem Stipendium nach Harvard!\n\nSie träumen von einem Studium in Harvard? Dann bewerben Sie sich auf das McCloy-Stipendienprogramm! Im Rahmen des McCloy-Stipendienprogramms werden Stipendien für zweijährige Master-Studiengänge an der Harvard Kennedy School vergeben. Neben den Lebenshaltungs- und Reisekosten werden Studiengebühren von mehr als 100.000 USD übernommen.\n\nErfolgreiche Bewerber:innen verfügen über eine hohe kognitive Begabung und haben ihre überdurchschnittliche akademische Leistungsfähigkeit in der Vergangenheit bereits unter Beweis gestellt. Sie sollten erste Arbeitserfahrung vorweisen können und in Beruf und Ehrenamt gezeigt haben, dass sie Verantwortung übernehmen und dem öffentlichen Wohl verpflichtet sind. Eine vorherige Förderung durch die Studienstiftung ist nicht notwendig.\n\nBewerbungen können ab dem 1. August eingereicht werden; Bewerbungsschluss ist der 1. November 2026. Sie haben Fragen zum Stipendienprogramm und zur Bewerbung? Dann nutzen Sie die digitale Informationsveranstaltung: Am 5.August 2026 (von 18.00-19.30 Uhr) sowie am 7.September 2026 (von 18:00 - 19:30Uhr) bietet die Studienstiftung Informationsveranstaltungen mit einer Präsentation zum Stipendienprogramm sowie ausreichend Zeit für Fragen und Austausch mit aktuellen Geförderten und der Programmleitung für interessierte Bewerber:innen an. Die Zugangsdaten und weitere Programminformationen finden Sie hier auf https://www.studienstiftung.de/mccloy/ und auf der Seite der McCloy Alumni https://mccloys.org/. Bei weiteren Fragen wenden Sie sich bitten an mccloy@studienstiftung.de<mailto:mccloy@studienstiftung.de>.\n\n\nAusschreibung III:\nDie zukünftige Wirtschaft gestalten. Haniel-Stipendienprogramm für Nachwuchskräfte\n\nDie Studienstiftung des deutschen Volkes und die Haniel Stiftung vergeben jährlich hochdotierte Stipendien für wirtschaftsbezogene Aufbaustudien an Spitzen-Universitäten. Zum Wintersemester 2027/28 werden im Rahmen des Stipendienprogramms sieben bis acht vielversprechenden Nachwuchskräften ein Studienvorhaben realisieren.\n\nDas Programm richtet sich an Absolvent:innen aller Fachrichtungen, die ein wirtschaftsbezogenes Aufbaustudium im Ausland planen und ein nachgewiesenes Interesse an wirtschaftlichen Fragestellungen, Unternehmertum und der Übernahme von Verantwortung in Wirtschaft und Gesellschaft mitbringen. Entsprechende Erfahrungen können sich beispielsweise in Studienschwerpunkten, Berufserfahrung, Praktika, Gründungsvorhaben oder außeruniversitärem Engagement widerspiegeln. Gefördert werden Persönlichkeiten, die ihre fachliche Qualifikation durch internationale Erfahrung erweitern und sich auf anspruchsvolle Aufgaben in Wirtschaft, Unternehmertum und Führung vorbereiten möchten. Eine vorherige Förderung durch die Studienstiftung ist nicht notwendig.\n\nSie haben Fragen zum Stipendienprogramm und zur Bewerbung? Dann nutzen Sie die digitalen Informationsveranstaltungen: Am 05. August 2026 sowie am 07. September 2026 (jeweils 18.00 Uhr - 19:30 Uhr) bietet die Studienstiftung virtuelle Informationsveranstaltungen mit einer Präsentation zum Stipendienprogramm sowie ausreichend Zeit für Fragen und Austausch mit aktuellen Geförderten und der Programmleitung für interessierte Bewerber:innen an.\n\nDetaillierte Informationen zum Haniel-Stipendienprogramm und den Link zu den Informationsveranstaltungen finden Sie unter https://www.studienstiftung.de/haniel/. Bei weiteren Fragen wenden Sie sich bitte an gropper@studienstiftung.de<mailto:gropper@studienstiftung.de>.\n\nBewerbungen können bis zum 15. Oktober 2026 eingereicht werden. Bitte beachten Sie in der Vorbereitung Ihrer Bewerbung die unter www.studienstiftung.de/haniel<http://www.studienstiftung.de/haniel> zur Verfügung gestellten Informationen inkl. der FAQs.\n\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.png\nDateityp    : image/png\nDateigröße  : 446 bytes\nBeschreibung: image001.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 864 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image003.png\nDateityp    : image/png\nDateigröße  : 868 bytes\nBeschreibung: image003.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment-0002.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image004.png\nDateityp    : image/png\nDateigröße  : 869 bytes\nBeschreibung: image004.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment-0003.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 2026 Haniel Stipendienprogramm Ausschreibung.pdf\nDateityp    : application/pdf\nDateigröße  : 155689 bytes\nBeschreibung: 2026 Haniel Stipendienprogramm Ausschreibung.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : ERP_Flyer_SdV_2026.pdf\nDateityp    : application/pdf\nDateigröße  : 762728 bytes\nBeschreibung: ERP_Flyer_SdV_2026.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment-0001.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : McCloy_Flyer_SdV_2026.pdf\nDateityp    : application/pdf\nDateigröße  : 1164575 bytes\nBeschreibung: McCloy_Flyer_SdV_2026.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/c7e4fecc/attachment-0002.pdf>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "stiftung"
-      ],
-      "id": "abb71814a668dd11"
-    },
-    {
-      "subject": "[Tagung / Conference] Demokratie in der (Dauer-)Krise? / Democracy in Permanent Crisis? (24.?26. Juni 2026, Berlin)",
-      "from": "Haipeng Fu <shk-marketing@humanistische-hochschule-berlin.de>",
-      "date": "Wed, 24 Jun 2026 13:19:15 +0000",
-      "dateUtc": "2026-06-24T13:19:15+00:00",
-      "organization": "University of Athens",
-      "positionType": "Student Assistant",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://humanistische-hochschule-berlin.de/demokratie/",
-        "http://www.humanistische-hochschule-berlin.de/",
-        "https://de.linkedin.com/company/humanistische-hochschule-berlin?trk=public_profile_topcard-current-company",
-        "https://www.facebook.com/p/Humanistische-Hochschule-Berlin-61560080651935/",
-        "https://www.instagram.com/HumanistischeHochschule.Berlin/",
-        "http://www.youtube.com/@HumanistischeHochschuleBerlin"
-      ],
-      "snippet": "[Deutsche Version unten]\n\n\n\nDear colleagues,\n\n\n\nWe would like to invite you to the international and interdisciplinary conference \"Democracy in (Permanent) Crisis? Diagnostics ? Causes ? Perspectives\", taking place from June 24 to June 26, 2026, at the James-Simon-Galerie in Berlin.\n\nCo-organized by the Humanistische Hochschule Berlin, the Stiftung Preußischer Kulturbesitz, and the University of Athens, this event brings together leading voices from political science, philosophy, sociology, and law to discuss the challenges facing contemporary democracies.\n\n\n\nKey Information:\n\nDate: June 24 ? 26, 2026\n\nVenue: James-Simon-Galerie, Bodestraße, 10178 Berlin\n\nFormat: In-person (Bilingual: German & English)\n\nAdmission: Free of charge (Kostenfrei)\n\n\n\nThe conference features high-profile speakers, including Julian Nida-Rümelin, and is held under the patronage of Prof. Dr. Andreas Voßkuhle. It offers an excellent opportunity for students, researchers, and the public to engage in critical dialogue about political institutions, elites, and the normative foundations of democratic societies.\n\n\n\nFor the full program and registration details, please visit the official event page:\n\n?? https://humanistische-hochschule-berlin.de/demokratie/\n\n\n\nWe look forward to your participation and engaging discussions!\n\n\n\nLiebe Kolleginnen und Kollegen,\n\n\n\nwir möchten Sie herzlich zur internationalen und interdisziplinären Tagung ?Demokratie in der (Dauer-)Krise? Diagnosen ? Ursachen ? Perspektiven? einladen, die vom 24. bis 26. Juni 2026 in der James-Simon-Galerie in Berlin stattfindet.\n\nDie Konferenz wird gemeinsam von der Humanistischen Hochschule Berlin, der Stiftung Preußischer Kulturbesitz und der Universität Athen organisiert. Sie bringt führende Stimmen aus Politikwissenschaft, Philosophie, Soziologie und Rechtswissenschaft zusammen, um die drängenden Herausforderungen moderner Demokratien zu analysieren.\n\n\n\nEckdaten zur Veranstaltung:\n\nDatum: 24. ? 26. Juni 2026\n\nOrt: James-Simon-Galerie, Bodestraße, 10178 Berlin\n\nFormat: Präsenzveranstaltung (Zweisprachig: Deutsch & Englisch)\n\nTeilnahme: Kostenfrei\n\n\n\nMit hochkarätigen Referent*innen wie Julian Nida-Rümelin und unter der Schirmherrschaft von Prof. Dr. Andreas Voßkuhle bietet die Tagung eine Plattform für den wissenschaftlichen und öffentlichen Austausch über politische Institutionen, Eliten und die normativen Grundlagen unserer Gesellschaft. Die Teilnahme steht Studierenden, Lehrenden und der interessierten Öffentlichkeit offen.\n\n\n\nDas vollständige Programm sowie Hinweise zur Anmeldung finden Sie auf der Veranstaltungswebseite:\n\n?? https://humanistische-hochschule-berlin.de/demokratie/\n\n\n\nWir freuen uns auf Ihre Teilnahme und anregende Diskussionen!\n\nHaipeng Fu (er/ihm)\nStudentische Hilfskraft ? Hochschulmarketing\n\nSprechzeiten: Mittwoch, 09?14 Uhr\nE-Mail: shk-marketing@humanistische-hochschule-berlin.de<mailto:shk-marketing@humanistische-hochschule-berlin.de>\n\nAdresse: Grabbeallee 36?40, 13156 Berlin\nWebsite: www.humanistische-hochschule-berlin.de<http://www.humanistische-hochschule-berlin.de/>\nFolgen: LinkedIn<https://de.linkedin.com/company/humanistische-hochschule-berlin?trk=public_profile_topcard-current-company> | Facebook<https://www.facebook.com/p/Humanistische-Hochschule-Berlin-61560080651935/> | Instagram<https://www.instagram.com/HumanistischeHochschule.Berlin/> | YouTube<http://www.youtube.com/@HumanistischeHochschuleBerlin>\n--------------------------------------------\nHinweis zur Vertraulichkeit: Diese Nachricht sowie etwaige Anlagen sind vertraulich und ausschließlich für die adressierte Person bestimmt. Wenn Sie diese E-Mail irrtümlich erhalten haben, informieren Sie bitte sofort den Absender und löschen Sie die Nachricht.\n --------------------------------------------\n[Ein Bild, das Schrift, Screenshot, Grafiken, Text enthält.  KI-generierte Inhalte können fehlerhaft sein.]\n[cid:image002.png@01DD03EC.D08C3E40]\nVertreten durch Katrin Raczynski (Vorstandsvorsitzende) und David Driese (Vorstand)\nSpendenkonto | Humanistische Hochschule Berlin\nDE 83 1203 0000 1024 2696 54\nStichwort: Spende\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0f1adbf6/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.png\nDateityp    : image/png\nDateigröße  : 15549 bytes\nBeschreibung: image001.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0f1adbf6/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 22457 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0f1adbf6/attachment-0001.png>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 6,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu",
-        "politikwissenschaft",
-        "stiftung",
-        "political science"
-      ],
-      "id": "a29d7ceca89226d1"
-    },
-    {
-      "subject": "Workshops bei der BUNDjugend Berlin im Sommer und Herbst - jetzt anmelden!",
-      "from": "Anja Kattanek <anja@bundjugend-berlin.de>",
-      "date": "Wed, 24 Jun 2026 15:02:50 +0200",
-      "dateUtc": "2026-06-24T13:02:50+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.bundjugend-berlin.de/veranstaltungen/workshop-extreme-rechte/",
-        "https://www.bundjugend-berlin.de/veranstaltungen/entdecke-die-natur-vor-deiner-haustuer-naturpaedagogikworkshop/",
-        "https://www.bundjugend-berlin.de/veranstaltungen/im-geist-der-wildnis-quiet-mind-open-heart-wild-body/",
-        "https://www.bundjugend-berlin.de/",
-        "https://www.bundjugend-berlin.de/bildungsangebote/angebote-fuer-schulen-und-gruppen/"
-      ],
-      "snippet": "Hallo liebe Liste,\n\n_Die BUNDjugend Berlin bietet diesen Sommer und Herbst viele \nverschiedene Workshops, Seminare und Vorträge zu unterschiedlichen \nThemen an:_ von der extremen Rechten über Natur- und Wildnispädagogik \nhin zu der Dekolonisierung der Bildungsarbeit. Alle Workshops stehen \ninteressierten Menschen offen, manche sind auch für die Verlängerung der \nJugendleiter*innen-Card (JuLeiCa) geeignet. Viel Spaß beim Stöbern!\n\nAlle Workshops sind als Einsteiger*innen-Workshops gedacht, sodass keine \nVorkenntnisse nötig sind.\n\n  * Am *Sa., 11.07.* beschäftigen wir uns gemeinsam mit apabiz von *13\n    bis 16 Uhr mit der extremen Rechten, ihren Ideologien, Strategien\n    und Akteuren. *Der Workshop ist sehr handlungsorientiert, da der\n    Fokus auf dem Vorgehen der extremen Rechten liegt und wir gemeinsam\n    Handlungsmöglichkeiten dagegen erarbeiten ? sei es im privaten\n    Umfeld, der Gruppe oder dem Verein. _Der Workshop ist offen für alle\n    Menschen bis 27 Jahre und*komplett kostenlos*. Weitere Infos und die\n    Anmeldung gibt?s hier:_\n    https://www.bundjugend-berlin.de/veranstaltungen/workshop-extreme-rechte/\n  * Im Sommer geht?s raus: *am Wochenende vom 22.08?23.08.2026, jeweils\n    ab 10 Uhr, erkunden wir die Natur direkt vor unserer Haustür in\n    Berlin,* vertiefen unsere Naturverbindung und lernen Routinen,\n    Methoden und Spiele der Naturpädagogik kennen. Natürlich für uns\n    selbst, aber auch für unsere Kinder- und Jugendgruppen. _Der\n    Workshop ist offen für alle interessierten Menschen zwischen 16 und\n    26 Jahren_ und wird zur Verlängerung der JuLeiCa anerkannt (12\n    Stunden). Menschen, die ihre JuLeiCa verlängern möchten, können auch\n    älter als 26 Jahre alt sein. Die Kosten belaufen sich auf 30€. Einen\n    Tag geht?s raus in die Wuhlheide, der andere Tag findet bei uns im\n    Büro im Prenzlauer Berg statt. _Weitere Infos und die Anmeldung\n    findest Du hier:_\n    https://www.bundjugend-berlin.de/veranstaltungen/entdecke-die-natur-vor-deiner-haustuer-naturpaedagogikworkshop/\n  * Am *Sa., 12.09.2026 ab 10 Uhr geht?s auch nochmal raus, dieses Mal\n    in den Plänterwald.* Gemeinsam mit der Wildnisschule Wolf und\n    Waldkauz beschäftigen wir uns mit den Themen *Wildnispädagogik,\n    Bildung für nachhaltige Entwicklung und dem draußen zu Hause sein*.\n    In erster Linie für uns, aber auch für die Kinder und Jugendlichen\n    in unseren Gruppen. Der Workshop ist offen für alle interessierten\n    Menschen zwischen 16 und 36 Jahren und wird zur Verlängerung der\n    JuLeiCa anerkannt. Der Teilnahmebeitrag sind 15€. _Weitere Infos und\n    die Anmeldung findest Du hier:\n    _https://www.bundjugend-berlin.de/veranstaltungen/im-geist-der-wildnis-quiet-mind-open-heart-wild-body/\n\n\n  Bei allen Workshops gilt: wenn Du gerne teilnehmen möchtest, den \nBeitrag aber nicht aufbringen kannst, melde Dich gerne und wir finden \ngemeinsam eine Lösung.\n\n  Wenn Du Fragen hast, melde Dich gerne: anja@bundjugend-berlin.de oder \n030/39 28 28 0.\n\n  Wir freuen uns auf Dich!\n\n  Dein Team der BUNDjugend Berlin\n\n\n-- \nAnja Kattanek (Pronomen: sie/ihr, gerne per Du)\n\nBUNDjugend Berlin\nProjektkoordinatorin\n\nErich-Weinert-Str. 82\n10439 Berlin\n\nE-Mail:anja@bundjugend-berlin.de\nTel: 030 - 398 485 86\nWeb:https://www.bundjugend-berlin.de/\nUnsere Workshopangebote:https://www.bundjugend-berlin.de/bildungsangebote/angebote-fuer-schulen-und-gruppen/\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/d0b105b6/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "889518ed521fab3f"
-    },
-    {
-      "subject": "Jetzt mitmachen! - SOS MEDITERRANEE Freiwilligengruppe Hamburg",
-      "from": "Amelie Philipsenburg <a.philipsenburg@sosmediterranee.org>",
-      "date": "Wed, 24 Jun 2026 12:29:19 +0000",
-      "dateUtc": "2026-06-24T12:29:19+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.sosmediterranee.de/",
-        "http://www.sosmediterranee.de/",
-        "https://x.com/sosmedgermany?lang=de",
-        "https://de.linkedin.com/company/sos-mediterranee-germany",
-        "https://www.instagram.com/sosmediterraneegermany/",
-        "https://www.facebook.com/p/SOS-Mediterranee-Germany-61557141846538/",
-        "https://bsky.app/profile/sosmediterranee.de",
-        "https://www.sosmediterranee.de/spenden"
-      ],
-      "snippet": "Liebe IB-Liste,\n\n\nDu möchtest dem Sterben auf dem Mittelmeer an Land etwas entgegensetzen, dich in deiner Freizeit gemeinsam mit anderen engagieren und eigene Projekte mitgestalten?\nDann komm zum nächsten Treffen der neuen Hamburger Freiwilligengruppe von SOS MEDITERRANEE!\n\nWann: Mittwoch, 1. Juli 2026\nUm: 18:00 Uhr\nWo: Der Veranstaltungsort wird nach Anmeldung bekannt gegeben.\n\nDie Gruppe befindet sich gerade im Aufbau ? deshalb ist jetzt ein besonders guter Zeitpunkt, um einzusteigen, eigene Ideen einzubringen und gemeinsam Aktionen in Hamburg zu gestalten. Vorkenntnisse sind nicht erforderlich, alle Interessierten sind herzlich willkommen.\n\nSeit 2016 hat SOS MEDITERRANEE mehr als 43.000 Menschen aus Seenot gerettet. Gleichzeitig bleibt das zentrale Mittelmeer eine der tödlichsten Fluchtrouten der Welt. Gemeinsam möchten wir die Situation sichtbar machen, informieren und Solidarität praktisch werden lassen.\n\nNeugierig geworden?\nDann melde dich gerne unter: freiwillige@sosmediterranee.org\n\nWir freuen uns auf dich!\n\n\n\nAmelie Philipsenburg\n\nWerkstudentin Community Engagement\n\na.philipsenburg@sosmediterranee.org // +49 (0) 163 9732209\n\n\nSOS MEDITERRANEE Deutschland gGmbH\n\n\n[cid:4792ad7d-b639-4446-8772-690c9b2c44e5]<https://www.sosmediterranee.de/>\n\nWebsite<http://www.sosmediterranee.de/> <http://www.sosmediterranee.de/> | <https://x.com/sosmedgermany?lang=de> LinkedIn<https://de.linkedin.com/company/sos-mediterranee-germany> <https://de.linkedin.com/company/sos-mediterranee-germany> | Instagram<https://www.instagram.com/sosmediterraneegermany/> <https://www.instagram.com/sosmediterraneegermany/> | Facebook<https://www.facebook.com/p/SOS-Mediterranee-Germany-61557141846538/> <https://www.facebook.com/p/SOS-Mediterranee-Germany-61557141846538/> | X<https://x.com/sosmedgermany?lang=de> | Bluesky<https://bsky.app/profile/sosmediterranee.de>\nZivile Seenotrettung im zentralen Mittelmeer\nSpende jetzt!<https://www.sosmediterranee.de/spenden> <https://www.sosmediterranee.de/spenden> | IBAN: DE 64 3702 0500 0001 8510 01\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0f56f3f1/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image.png\nDateityp    : image/png\nDateigröße  : 232605 bytes\nBeschreibung: image.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0f56f3f1/attachment.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "3948fbc03bfd4522"
-    },
-    {
-      "subject": "Stellenausschreibung Studentische Aushilfe I Körber-Stiftung",
-      "from": "\"Laechner, Vera\" <laechner@koerber-stiftung.de>",
-      "date": "Wed, 24 Jun 2026 12:06:03 +0000",
-      "dateUtc": "2026-06-24T12:06:03+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://jobs.koerber-stiftung.de/de?id=9fabc9",
-        "https://koerber-stiftung.de/site/assets/files/50131/the_berlin_pulse_20252026.pdf",
-        "http://www.koerber-stiftung.de/",
-        "https://de.linkedin.com/company/k-rber-stiftunk-rber-stiftung-ipg-ip?trk=public_post_feed-actor-name&original_referer=https%3A%2F%2Fwww.linkedin.com%2F",
-        "https://bsky.app/profile/koerber-ip.bsky.social"
-      ],
-      "snippet": "Guten Tag,\n\nder Bereich Internationale Politik der Körber-Stiftung vergibt eine Stelle als Studentische Aushilfe zur Unterstützung des Projekts Körber Netzwerk Außenpolitik ab dem 15. August 2026 in Berlin.\n\nSie finden die Ausschreibung anbei sowie unter folgendem Link: Studentische Aushilfe / Werkstudent (w/m/d) - Job Berlin -<https://jobs.koerber-stiftung.de/de?id=9fabc9>.\n\nWir wären Ihnen dankbar, wenn Sie diese Stellenausschreibung auch an entsprechende Verteiler oder Studierenden weiterleiten könnten.\n\nMit freundlichen Grüßen\nVera Laechner\n\n\n***New edition of \"The Berlin Pulse\": International expectations of Berlin's foreign policy meet German public opinion***\nWith a representative survey and contributions by Volker Türk, Solomiia Bobrovska, Katarina Barley and Eckart von Hirschhausen, among others. Visit our website or download the new edition<https://koerber-stiftung.de/site/assets/files/50131/the_berlin_pulse_20252026.pdf>, including all infographics.\n ____\nVera LAECHNER\nStudentische Mitarbeiterin\nBereich Internationale Politik\nStudent Assistant International Affairs\n\nlaechner@koerber-stiftung.de<mailto:laechner@koerber-stiftung.de>\n+49 3020626789\n\nKörber-Stiftung\nPariser Platz 4a, 10117 Berlin\nwww.koerber-stiftung.de<http://www.koerber-stiftung.de/>\nLinkedIn<https://de.linkedin.com/company/k-rber-stiftunk-rber-stiftung-ipg-ip?trk=public_post_feed-actor-name&original_referer=https%3A%2F%2Fwww.linkedin.com%2F> | Bluesky<https://bsky.app/profile/koerber-ip.bsky.social>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/efb1c7b6/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : Ausschreibung_SMA KNA 2026.pdf\nDateityp    : application/pdf\nDateigröße  : 148462 bytes\nBeschreibung: Ausschreibung_SMA KNA 2026.pdf\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/efb1c7b6/attachment.pdf>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "policy",
-        "politik",
-        "eu",
-        "stiftung"
-      ],
-      "id": "2bfaf95e8412a9ab"
-    },
-    {
-      "subject": "Herzliche Einladung: Climate Justice and the Case for Reparations | 01.07.2026 | 19 Uhr bis 21 Uhr | Paneldiskussion in englischer Lautsprache | W3_ Saal",
-      "from": "Presse W3_ <Presse@w3-hamburg.de>",
-      "date": "Wed, 24 Jun 2026 12:01:27 +0000",
-      "dateUtc": "2026-06-24T12:01:27+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://eveeno.com/climate-justice-reparations",
-        "https://w3-hamburg.de/termin/climate-justice-and-the-case-for-reparations/",
-        "http://www.w3-hamburg.de/",
-        "http://www.facebook.de/w3.hamburg",
-        "https://www.instagram.com/w3_hamburg",
-        "https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276",
-        "https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N"
-      ],
-      "snippet": "Hallo liebe Menschen,\n\nwir haben wieder einen tollen Veranstaltungstipp für euch:\n\n  Climate Justice and the Case for Reparations\nWednesday | 01.07.2026 | 7 pm to 9 pm | Panel Discussion in spoken English | W3_Saal\nWith: Aaron Alexandre Cuyugan - Konzeptwerk Neue Ökonomie, Canê Ça?lar, Leonie Baumgarten-Egemole, Majula Jaiteh\n\nZur Anmeldung<https://eveeno.com/climate-justice-reparations>\n\nThe wealth and industrial growth of colonial powers were built on the exploitation of people, land, and resources, laying important foundations for today's climate crisis. While formerly colonized countries have contributed least to the crisis, they are among those most affected by its consequences.\nBuilding on the publication How Not to Apologize by Konzeptwerk Neue Ökonomie, this panel explores colonial continuities, climate justice, and the demand for reparations. It examines how colonial structures continue to shape the climate crisis, what political and economic changes are needed, and how social movements can advance the case for reparative justice.\n\nMehr Infos zur Veranstaltung unter:\nhttps://w3-hamburg.de/termin/climate-justice-and-the-case-for-reparations/\n\nWir freuen uns sehr über eure Teilnahme oder das Weiterleiten an interessierte Personen!\n\nHerzlichen Dank und solidarische Grüße\n\nEuer W3_ Team\n\n[cid:image002.png@01DD03E3.5A2B4E70]\n\n\nW3_Werkstatt für internationale Kultur und Politik e.V.\nNernstweg 32-34 | 22765 Hamburg\n+49 40 39 80 53-60\nwww.w3-hamburg.de<http://www.w3-hamburg.de/> | www.facebook.de/w3.hamburg<http://www.facebook.de/w3.hamburg> | www.instagram.com/w3_hamburg<https://www.instagram.com/w3_hamburg>\n\n[Ein Bild, das Text, Schrift, Design enthält.  Automatisch generierte Beschreibung][cid:image004.png@01DD03E3.5A2B4E70]\nNewsletter der W3_? Einfach hier<https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276> anmelden.\nWie kann ich die Arbeit der W3_ unterstützen? Wir freuen uns über Spenden<https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N>!\n\nNewsletter of the W3_? Simply register here<https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276>.\nHow can I support the work of W3_? We are happy to receive donations<https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N>!\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/5d8659b9/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.jpg\nDateityp    : image/jpeg\nDateigröße  : 637 bytes\nBeschreibung: image001.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/5d8659b9/attachment.jpg>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 1571649 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/5d8659b9/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image003.png\nDateityp    : image/png\nDateigröße  : 14912 bytes\nBeschreibung: image003.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/5d8659b9/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image004.png\nDateityp    : image/png\nDateigröße  : 209 bytes\nBeschreibung: image004.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/5d8659b9/attachment-0002.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu"
-      ],
-      "id": "9c77a40373bb622d"
-    },
-    {
-      "subject": "Herzliche Einladung: Climate Justice and the Case for Reparations | 01.07.2026 | 19 Uhr bis 21 Uhr | Paneldiskussion in englischer Lautsprache | W3_ Saal",
-      "from": "Samantha-Josephine Kiesel - W3 <Kiesel@w3-hamburg.de>",
-      "date": "Wed, 24 Jun 2026 12:00:57 +0000",
-      "dateUtc": "2026-06-24T12:00:57+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://eveeno.com/climate-justice-reparations",
-        "https://w3-hamburg.de/termin/climate-justice-and-the-case-for-reparations/",
-        "http://www.w3-hamburg.de/",
-        "http://www.facebook.de/w3.hamburg",
-        "https://www.instagram.com/w3_hamburg",
-        "https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276",
-        "https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N"
-      ],
-      "snippet": "Hallo liebe Menschen,\n\nwir haben wieder einen tollen Veranstaltungstipp für euch:\n\n  Climate Justice and the Case for Reparations\nWednesday | 01.07.2026 | 7 pm to 9 pm | Panel Discussion in spoken English | W3_Saal\nWith: Aaron Alexandre Cuyugan - Konzeptwerk Neue Ökonomie, Canê Ça?lar, Leonie Baumgarten-Egemole, Majula Jaiteh\n\nZur Anmeldung<https://eveeno.com/climate-justice-reparations>\n\nThe wealth and industrial growth of colonial powers were built on the exploitation of people, land, and resources, laying important foundations for today's climate crisis. While formerly colonized countries have contributed least to the crisis, they are among those most affected by its consequences.\nBuilding on the publication How Not to Apologize by Konzeptwerk Neue Ökonomie, this panel explores colonial continuities, climate justice, and the demand for reparations. It examines how colonial structures continue to shape the climate crisis, what political and economic changes are needed, and how social movements can advance the case for reparative justice.\n\nMehr Infos zur Veranstaltung unter:\nhttps://w3-hamburg.de/termin/climate-justice-and-the-case-for-reparations/\n\nWir freuen uns sehr über eure Teilnahme oder das Weiterleiten an interessierte Personen!\n\nHerzlichen Dank und solidarische Grüße\n\nEuer W3_ Team\n\n[cid:image002.png@01DD03E3.485B5EB0]\n\n\nW3_Werkstatt für internationale Kultur und Politik e.V.\nNernstweg 32-34 | 22765 Hamburg\n+49 40 39 80 53-60\nwww.w3-hamburg.de<http://www.w3-hamburg.de/> | www.facebook.de/w3.hamburg<http://www.facebook.de/w3.hamburg> | www.instagram.com/w3_hamburg<https://www.instagram.com/w3_hamburg>\n\n[Ein Bild, das Text, Schrift, Design enthält.  Automatisch generierte Beschreibung][cid:image004.png@01DD03E3.485B5EB0]\nNewsletter der W3_? Einfach hier<https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276> anmelden.\nWie kann ich die Arbeit der W3_ unterstützen? Wir freuen uns über Spenden<https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N>!\n\nNewsletter of the W3_? Simply register here<https://w3-hamburg.us9.list-manage.com/subscribe?u=674f16d2dd841fed8a8ef3070&id=51faaa9276>.\nHow can I support the work of W3_? We are happy to receive donations<https://www.paypal.com/donate?hosted_button_id=EAE5BQ9D7ME6N>!\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0b56f2b5/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.jpg\nDateityp    : image/jpeg\nDateigröße  : 637 bytes\nBeschreibung: image001.jpg\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0b56f2b5/attachment.jpg>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 1571649 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0b56f2b5/attachment.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image003.png\nDateityp    : image/png\nDateigröße  : 14912 bytes\nBeschreibung: image003.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0b56f2b5/attachment-0001.png>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image004.png\nDateityp    : image/png\nDateigröße  : 209 bytes\nBeschreibung: image004.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/0b56f2b5/attachment-0002.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu"
-      ],
-      "id": "d932da112ae30cb1"
-    },
-    {
-      "subject": "Postdoctoral Researcher ? European Union Law and Politics (gn)",
-      "from": "Linda Hewitt <hewitt@delorscentre.eu>",
-      "date": "Wed, 24 Jun 2026 11:15:23 +0000",
-      "dateUtc": "2026-06-24T11:15:23+00:00",
-      "organization": "Unknown",
-      "positionType": "Postdoc",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.reconf.eu/",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81042/postdoctoral-researcher-european-union-law-and-politics-gn-full-time-40-hoursweek"
-      ],
-      "snippet": "We are looking for a Postdoctoral Researcher ? European Union Law and Politics (gn).\n\nThe contract shall commence as of ca. 01 November 2026 or as soon as possible thereafter and will be limited until 28.02.2029. The successful candidate will work with Professor Mark Dawson at the Jacques Delors Centre at the Hertie School. The position is part of a Research Group on ?Reconfiguring Europe. Between Competence and Control<https://www.reconf.eu/>? which is funded by Deutsche Forschungsgemeinschaft and the Swiss National Science Foundation. The project aims to understand how the rise of populist movements affects EU law, both in terms of the extent to which populists engage with the EU legal order (both in opposition and in government) and the possible responses of the European Courts and legal system to populism. The position is a unique opportunity for an ambitious postdoc interested in the development of the EU?s legal and political order. The recruited researcher will be expected to produce independent research and publish high-level publications within the overall frame of the project and its work packages. More information: Postdoctoral Researcher ? European Union Law and Politics (gn) full-time (40 hours/week)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81042/postdoctoral-researcher-european-union-law-and-politics-gn-full-time-40-hoursweek>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260624/34b1b478/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "government",
-        "development",
-        "european union"
-      ],
-      "id": "119011e2d275011a"
     }
   ],
   "stats": {
-    "new_items": 28,
-    "total_items": 151,
+    "new_items": 27,
+    "total_items": 144,
     "processed_messages": 30,
     "processed_messages_imap": 30,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 26,
+    "removed_old_items": 32,
     "removed_past_deadline_items": 2,
     "removed_legacy_linkedin_alerts": 0
   }
