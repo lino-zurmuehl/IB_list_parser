@@ -1,7 +1,101 @@
 {
-  "generated_at": "2026-07-28T11:19:59.124679+00:00",
+  "generated_at": "2026-07-30T10:26:36.580005+00:00",
   "source": "imap",
   "items": [
+    {
+      "subject": "Stellenausschreibung: Studentische Mitarbeit",
+      "from": "\"Dagmara Wrobel\" <dagmara.wrobel@uni-potsdam.de>",
+      "date": "Wed, 29 Jul 2026 11:59:23 +0200",
+      "dateUtc": "2026-07-29T09:59:23+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "ist der 12",
+      "deadlineDate": null,
+      "links": [
+        "https://minor-kontor.de/stelle/studentische-mitarbeit-w-m-d-fachstelle-demokratie-in-der-beruflichen-bildung/"
+      ],
+      "snippet": "Liebe Listenmitglieder, liebe Studierende,\n\nGern mache ich euch auf eine spannende Stellenausschreibung aufmerksam und\nbitte um die Verbreitung in euren Netzwerken:\n\nStudentische Mitarbeit bei minor - Projektkontor für Bildung und\nForschung im Projekt: Fachstelle Demokratie in der beruflichen Bildung\nIm Umfang von 20h/Woche (Werkstudi - TVöD EG 3)\n\nDie Stellenausschreibung ist hier zu finden:\nhttps://minor-kontor.de/stelle/studentische-mitarbeit-w-m-d-fachstelle-demokratie-in-der-beruflichen-bildung/\n\nBewerbungsschluss ist der 12.08.2026. Für die Bewerbung sind nur \nAnschreiben, Lebenslauf und ggf. Zeugnisse nötig.\nVielen Dank und liebste Grüße\n\nDagmara Wrobel\n\n\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 27\n******************************************************",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "5c30ce5377a81e10"
+    },
+    {
+      "subject": "Stellenausschreibung Elternzeitvertretung wissenschaftliche Mitarbeiterin",
+      "from": "Lisa Paus MdB <lisa.paus@bundestag.de>",
+      "date": "Wed, 29 Jul 2026 08:20:24 +0000",
+      "dateUtc": "2026-07-29T08:20:24+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "1.9.2027",
+      "deadlineDate": "2027-09-01",
+      "links": [],
+      "snippet": "Liebe Studierende, liebe Absolvent*innen,\n\nwir möchten Sie auf unsere aktuelle Stellenausschreibung für das Bundestagsbüro der amtierenden Vorsitzenden des Haushaltsausschusses aufmerksam machen.\n\nWir suchen zum 1.11.2026 eine*n wissenschaftliche*n Mitarbeiter*in (Vollzeit) als Elternzeitvertretung, befristet bis zum 1.9.2027.\n\nZu den Aufgaben gehören die inhaltliche Begleitung des Haushaltsausschusses mit Schwerpunkt Bauen und Wohnen, die Vorbereitung von Texten, Reden und Terminen sowie die Zuarbeit für Presse- und Öffentlichkeitsarbeit und die Beantwortung von Bürger*innen-Anliegen.\n\nVorausgesetzt werden ein abgeschlossenes Hochschulstudium im Bereich VWL, BWL oder vergleichbare Qualifikation fundierte Kenntnisse in Wohnungs- und Haushaltspolitik sowie Nähe zu bündnisgrüner Politik.\n\nDie Bewerbungsgespräche finden vom 15. bis 17.9. in Berlin statt. Bewerbungen bitte per E-Mail schicken an lisa.paus@bundestag.de <mailto:lisa.paus@bundestag.de> .\n\nWeitere Informationen zu den Anforderungen, dem Umfang der Beschäftigung sowie zur Bewerbung finden Sie in der beigefügten Stellenausschreibung.\n\nWir freuen uns auf Ihre Bewerbung bis zum 31.8.2026 und stehen bei Fragen gerne zur Verfügung.\n\nMit den besten Grüßen\nTeam Lisa Paus\n------------------------------------\nLisa Paus MdB\nBundestagsfraktion Bündnis 90/Die Grünen\nAmtierende Vorsitzende des Haushaltsausschusses\nMitglied im Ausschuss für Arbeit und Soziales\nBundesministerin a. D.\n\nPlatz der Republik 1\n11011 Berlin \n+49 30 227 720 50\nlisa.paus@bundestag.de <mailto:lisa.paus@bundestag.de>   \n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260729/29cbe90d/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 260714_Stellenausschreibung_LisaPaus_EZV WiMi_HH_final.pdf\nDateityp    : application/pdf\nDateigröße  : 263876 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260729/29cbe90d/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : smime.p7s\nDateityp    : application/pkcs7-signature\nDateigröße  : 5795 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260729/29cbe90d/attachment.p7s>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 3,
+      "dsPolicyMatchedKeywords": [
+        "politik",
+        "bundestag",
+        "eu"
+      ],
+      "id": "1503f1a3a7d12208"
+    },
+    {
+      "subject": "Stelle als Fact-Checker bei DER SPIEGEL mit Frankreich-Schwerpunkt",
+      "from": "\"Huggins, Jonas\" <jonas.huggins@spiegel.de>",
+      "date": "Tue, 28 Jul 2026 16:20:25 +0000",
+      "dateUtc": "2026-07-28T16:20:25+00:00",
+      "organization": "Unknown",
+      "positionType": "Position",
+      "deadline": "et (darin fallen die französischen Präsidentschaftswahlen",
+      "deadlineDate": null,
+      "links": [
+        "https://www.karriere-spiegelgruppe.de/jobs/66348388/Fact-Checker-m-w-d-/"
+      ],
+      "snippet": "Liebe Listenmitglieder,\n\nder SPIEGEL sucht zum nächstmöglichen Zeitpunkt eine Elternzeitvertretung als Fact-Checker mit dem Schwerpunkt Frankreich. Die Stelle ist auf ein Jahr befristet (darin fallen die französischen Präsidentschaftswahlen!) und der Arbeitsort ist Hamburg.\n\nAlle weiteren Infos in der Ausschreibung: https://www.karriere-spiegelgruppe.de/jobs/66348388/Fact-Checker-m-w-d-/\n\nWir freuen uns auf Bewerbungen! Die Stelle verspricht eine spannende, abwechslungsreiche Arbeit und die Möglichkeit, einen Beitrag dazu zu leisten, dass Qualitätsjournalismus seinen Ansprüchen gerecht wird. Bei Fragen kann man sich an julia.lange@spiegel.de<mailto:julia.lange@spiegel.de> wenden.\n\n---\nJonas Huggins\nDokumentation Ausland\nSPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG\nEricusspitze 1, 20457 Hamburg\njonas.huggins@spiegel.de\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260728/cfa3e924/attachment.htm>\n\n------------------------------",
+      "isJob": true,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "f4549f9bdadcbd8a"
+    },
+    {
+      "subject": "CfP Zeitschrift für Menschenrechte 1/2027",
+      "from": "\"Heaphy, Janina\" <janina.heaphy@fau.de>",
+      "date": "Tue, 28 Jul 2026 10:08:53 +0000",
+      "dateUtc": "2026-07-28T10:08:53+00:00",
+      "organization": "Unknown",
+      "positionType": "N/A",
+      "deadline": "30",
+      "deadlineDate": null,
+      "links": [],
+      "snippet": "Call for Papers - Zeitschrift für Menschenrechte (english version see below)\n\nDie Anfechtung von Menschenrechten ist zu einem prägenden Merkmal unserer\nZeit geworden. Sie ist jedoch nicht nur Ausdruck politischer Konflikte,\nsondern prägt auch, wie Menschenrechte verstanden, weiterentwickelt und\ninstitutionell verankert werden. \n\nFür die Ausgabe 1/2027 lädt die Zeitschrift für Menschenrechte (zfmr) zur\nEinreichung von Beiträgen zum Schwerpunktthema \"Anfechtung der\nMenschenrechte\" ein. Gesucht werden innovative empirische oder\nkonzeptionelle Beiträge, die politische, rechtliche und gesellschaftliche\nDynamiken der Anfechtung sowie die Reaktion von Gerichten, Staaten,\ninternationalen Organisationen und der Zivilgesellschaft untersuchen.\n\nAbstracts (ca. 500 Wörter) können bis zum 30. September 2026 via\n<mailto:redaktion@zeitschriftfuermenschenrechte.de>\nredaktion@zeitschriftfuermenschenrechte.de eingereicht werden. \n\nWir freuen uns auf Ihre Beiträge!\n\nJanina Heaphy\n\n//\n\nContestation has become a defining feature of today's human rights\nlandscape. Yet challenges to human rights are not merely symptoms of\nconflict; they also shape how rights evolve, get interpreted and eventually\ninstitutionalized.\n\nFor its 1/2027 issue, the Journal for Human Rights (zfmr) invites\nsubmissions for the issue \"Contestation of Human Rights\". We welcome\nempirical and conceptual contributions that explore the political, legal,\nand societal dynamics of human rights contestation, as well as the responses\nof courts, states, international organizations, and civil society.\n\nAbstracts (approx. 500 words) can be submitted until 30 September 2026 via\n<mailto:redaktion@zeitschriftfuermenschenrechte.de>\nredaktion@zeitschriftfuermenschenrechte.de\n\nWe look forward to your submissions!\n\nJanina Heaphy\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260728/3ff625a2/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : cfp zfmr_1_2027_dt._engl.pdf\nDateityp    : application/pdf\nDateigröße  : 46332 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260728/3ff625a2/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : smime.p7s\nDateityp    : application/pkcs7-signature\nDateigröße  : 6073 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260728/3ff625a2/attachment.p7s>\n\n------------------------------",
+      "isJob": false,
+      "isLinkedInJob": false,
+      "sourceTag": "imap",
+      "sourceFolder": "IB-liste",
+      "isDsPolicyFit": false,
+      "dsPolicyScore": 1,
+      "dsPolicyMatchedKeywords": [
+        "eu"
+      ],
+      "id": "cd9bf0126d52f6a2"
+    },
     {
       "subject": "Jobangebot: Stud. Hilfskraft beim Öko-Institut - Umweltrecht & Governance",
       "from": "Lena Morgenstern <L.Morgenstern@oeko.de>",
@@ -1986,30 +2080,6 @@
       "id": "ee56869740331b99"
     },
     {
-      "subject": "We're hiring: Student Assistants - Hertie School Executive Education [deadline: 24 July 2026]",
-      "from": "Mai Hohwy <m.hohwy@hertie-school.org>",
-      "date": "Fri, 10 Jul 2026 08:51:59 +0000",
-      "dateUtc": "2026-07-10T08:51:59+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "24 July 2026]",
-      "deadlineDate": "2026-07-24",
-      "links": [
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81055/student-assistants-gn-executive-education-part-time-20-hoursweek"
-      ],
-      "snippet": "Are you a graduate student looking for a student job where you can gain hands-on experience while working on international projects? The Hertie School's Executive Education team is looking for two Student Assistants (20 hours/week) to support the planning and delivery of executive education programmes for high-profile international delegations.\n>From participant management and organising events, to supporting project proposals and researching topics such as public sector reform, digital transformation and leadership, you'll play an active role in projects with real-world impact. It's an excellent opportunity to build your project management skills, work with international partners and contribute to programmes that strengthen public institutions around the world.\nThe positions start from 15 August 2026 (or upon agreement). The deadline for full consideration is 24 July 2026.\nLearn more and apply here: https://hertie-school.dvinci-easy.com/en/p/en/jobs/81055/student-assistants-gn-executive-education-part-time-20-hoursweek\n\n\n\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260710/7daf6203/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 10\n******************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "public sector"
-      ],
-      "id": "90788ff5d1b2ec1b"
-    },
-    {
       "subject": "Einladung: Buchvorstellung ?Gefälschte Geschichte: Wie Faschisten die Vergangenheit umschreiben, um die Zukunft zu kontrollieren?",
       "from": "Lisa Koerber <lisa.koerber@posteo.de>",
       "date": "Fri, 10 Jul 2026 08:25:56 +0000",
@@ -3514,395 +3584,16 @@
         "eu"
       ],
       "id": "b9dd26e2e983e25b"
-    },
-    {
-      "subject": "Call for Participants: Pilot Certificate Programme, 2026?2027",
-      "from": "Christopher Brucker <Christopher.Brucker@uni-jena.de>",
-      "date": "Thu, 2 Jul 2026 11:43:50 +0200",
-      "dateUtc": "2026-07-02T09:43:50+00:00",
-      "organization": "Institute of Public Affairs",
-      "positionType": "PhD",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.opencorridors.de/app/download/16639340822/PIPS_Call_for_Participants+2.pdf?t=1782915397",
-        "https://www.opencorridors.de",
-        "https://gipa.ge/eng",
-        "https://www.ir.uni-jena.de",
-        "https://www.daad.de/en/"
-      ],
-      "snippet": "Applications are now open for the *Integrated Peace Studies Pilot \nCertificate Programme 2026-2027*.\n\nThis fully funded blended programme is designed for advanced students, \nrecent graduates, and early-career professionals from ???? Georgia, ???? \nGermany, and ???? Ukraine who are interested in peacebuilding, conflict \ntransformation, development, humanitarian action, civic engagement, or \nrelated fields.\n\nThe programme combines online learning with three intensive residential \ntrainings at Peace Camp Gremi, Georgia, and brings together an \ninternational cohort to explore conflict and peace through both \ntheoretical and practical lenses. The first in-person workshop will take \nplace from 31 August to 4 September 2026. Participants will develop \nknowledge and skills in conflict analysis, trauma-sensitive approaches, \ndialogue facilitation, community peacebuilding, and regional peace dynamics.\n\nTo apply, please send your CV and motivation letter in English to \nDarchiashvili@opencorridors.de by *19 July 2026*.\n\nFind the full call for participants and additional info about the \nprogramme attached and here \n<https://www.opencorridors.de/app/download/16639340822/PIPS_Call_for_Participants+2.pdf?t=1782915397>.\n\nCo-organized by Corridors - Dialogue Through Education \n<https://www.opencorridors.de>, Georgian Institute of Public Affairs \n(GIPA) <https://gipa.ge/eng>, and Friedrich Schiller University Jena - \nChair of International Relations <https://www.ir.uni-jena.de>. Funded by \nDAAD - German Academic Exchange Service <https://www.daad.de/en/>.\n\n-- \nChristopher Brucker\n\nPhD Candidate\nFriedrich Schiller University Jena\nChair of International Relations\n\n@BruckerC\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/199c7d45/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : PIPS_Call_for_Participants 2.pdf\nDateityp    : application/pdf\nDateigröße  : 547801 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/199c7d45/attachment.pdf>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 2\n*****************************************************",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "international relations",
-        "development",
-        "peace"
-      ],
-      "id": "9863fbd4584ef1da"
-    },
-    {
-      "subject": "Aktuelle Ausschreibung Stipendienprogramm der Studienstiftung \"Metropolen in Mittel-, Südost- und Osteuropa\"",
-      "from": "\"Bock, Jutta | Studienstiftung\" <Bock@studienstiftung.de>",
-      "date": "Thu, 2 Jul 2026 09:26:04 +0000",
-      "dateUtc": "2026-07-02T09:26:04+00:00",
-      "organization": "Südost- und Osteuropa\"",
-      "positionType": "Position",
-      "deadline": "1",
-      "deadlineDate": null,
-      "links": [
-        "https://www.studienstiftung.de/stipendienprogramme/metropolen-in-mittel-suedost-und-osteuropa",
-        "https://www.studienstiftung.de/pool/sdv/public/documents/STIPENDIUM/Osteuropa/studienstiftung_mimso_faq_2026.pdf",
-        "http://www.studienstiftung.de/"
-      ],
-      "snippet": "Sehr geehrte Damen und Herren,\n\nwir wären Ihnen sehr dankbar, wenn Sie die Ausschreibung für das Programm Metropolen in Mittel-, Südost und Osteuropa an interessierte Studierende weiterleiten könnten. Wir freuen uns ausdrücklich über Bewerbungen von Menschen mit den unterschiedlichsten Lebenserfahrungen und biographischen Hintergründen!\n\nLiebe Studierende,\n\nSie planen ein Studiensemester, einen Forschungsaufenthalt oder sogar ein ganzes Masterstudium in Mittel-, Südost oder Osteuropa ab dem akademischen Jahr 2027/28 Dann bewerben Sie sich jetzt auf das Metropolenprogramm. Die Stipendienleistung kann pro Jahr fast 33.000 EUR betragen: https://www.studienstiftung.de/stipendienprogramme/metropolen-in-mittel-suedost-und-osteuropa\n\nDas Stipendien-Programm richtet sich an Studierende aller Fächer. Es steht auch Bewerber:innen offen, die bisher nur wenige oder noch keine Berührungspunkte mit den Ländern Mittel-, Südost- und Osteuropas hatten.\n\nMit der Aufnahme in das Metropolen in Mittel-, Südost- und Osteuropa Stipendien-Programm geht eine Aufnahme in die Studienstiftung einher, und die Stipendiat:innen werden nach Ihrer Rückkehr weiter durch die Studienstiftung gefördert.\n\nEine Bewerbung ist bis zum 1. Oktober 2026 möglich.\n\nWeitere Informationen zum Programmablauf und den Bewerbungsvoraussetzungen finden Sie auf unserer Homepage<https://www.studienstiftung.de/stipendienprogramme/metropolen-in-mittel-suedost-und-osteuropa>.\n\nWir möchten Sie an dieser Stelle auch auf unsere https://www.studienstiftung.de/pool/sdv/public/documents/STIPENDIUM/Osteuropa/studienstiftung_mimso_faq_2026.pdf verweisen.\n\nBei Rückfragen stehe ich Ihnen gerne zur Verfügung.\n\nMit herzlichem Gruß\n\nLars Peters\n____________________________________\n\nDr. Lars Peters (er/he)\nBerliner Büro | Referent für Nordamerika\n\n+49 30 20370 442\nl.peters@studienstiftung.de<mailto:l.peters@studienstiftung.de>\nwww.studienstiftung.de<http://www.studienstiftung.de/>\n\nStudienstiftung des deutschen Volkes | Jägerstr. 22/23 | 10117 Berlin\n\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/10a73ce1/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "länder",
-        "eu",
-        "stiftung"
-      ],
-      "id": "9b01a11219474be4"
-    },
-    {
-      "subject": "Veranstaltung \"Demokratie unter Druck, Protest in Bewegung\", 9. Juli, Nachtasyl Thalia Theater Hamburg",
-      "from": "<johanna.wahl@posteo.de>",
-      "date": "Thu, 02 Jul 2026 07:42:34 +0000",
-      "dateUtc": "2026-07-02T07:42:34+00:00",
-      "organization": "University of South Florida",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://cloud.freiheitswolke.org/apps/forms/s/CYKmtQa48ANyYEkdpsFcJMHx",
-        "https://protestinstitut.eu/",
-        "https://uol.de/paedagogik/forschung/projekte/generationen-im-protest",
-        "https://doi.org/10.17879/sun-2026-9443"
-      ],
-      "snippet": "Liebe Mitglieder der Liste,\n\n  \n\nim Namen des Instituts für Protest- und Bewegungsforschung (ipb) möchte ich\neuch hiermit erneut zum zweiten Salon Bewegte Gespräche einladen.\n\n \n\nWir freuen uns sehr auf eine rege Teilnahme!\n\n \n\nAlle Informationen findet ihr unten. \n\n  \n\nHerzliche Grüße\n\nJohanna Raphaela (Wahl)\n\n  \n\n \n\nDemokratie unter Druck, Protest in Bewegung - Was wir von No Kings und\nAnti-ICE lernen können \n\n  \n\nAm 9. Juli 2026 I Nachtasyl, Thalia Theater Hamburg I Einlass: 18:30 Uhr,\nBeginn: 19 Uhr \n\n  \n\nMillionen von Menschen protestieren derzeit in den USA  gegen autoritäre\nEntwicklungen, gegen die Abschiebungspolitik und für demokratische\nMitbestimmung. Die No-Kings-Bewegung und die Proteste gegen die\nEinwanderungsbehörde ICE werfen Fragen auf, die auch uns betreffen: \n\n  \n\nWie gelingt Mobilisierung unter wachsendem politischem Druck? Wie kann gegen\nautoritäre Politik mit demokratischen Mitteln mobilisiert werden? Und wie\nbleibt Protest wirksam, wenn die Spielräume kleiner werden? \n\n  \n\nHinter diesen Protesten stehen grundlegende Fragen nach Demokratie, Macht,\nZeit und Freiheit. Mit Blick auf die Landtagswahlen in Sachsen-Anhalt und\nMecklenburg-Vorpommern sind diese Fragen aktueller denn je. \n\n  \n\nDie Salonreihe \"Bewegte Gespräche\" verbindet erneut Diskussion, Kunst und\nMusik: \n\n  \n\nMit Dr. Ella Müller (Campact), Elaine Thomas (US-Aktivistin, u.a. NoKings)\nund Assoc. Prof. Peter N. Funke (University of South Florida, ipb)\ndiskutieren wir über die Lehren aus politischen Engagement und Protest,\nwährend die Hamburger Comiczeichnerin Larissa Bertonasco die zentralen\nGedanken des Abends in einem Graphic Recording festhält und die Hamburger\nIllustratorin Chris Campe unser Bühnenbild mit ihren preisgekrönten\nDemoschildern bereichert. Die Hamburger FLINTA-DJ e_lane_ gestaltet den\nSalon mit einem Set, das nicht nur begleitet, sondern Begegnungen und\nGespräche in Bewegung bringt. Gastgeberin, Kuratorin und Moderatorin ist Dr.\nNina Wienkoop (Vorstand, Institut für Protest- und Bewegungsforschung). \n\n  \n\nEin Abend für alle, die spüren, dass dies ein entscheidender Moment für\nunsere Demokratie ist um von den Erfahrungen in den USA zu lernen - und aus\nder Ohnmacht in kollektive Handlungsmacht zu kommen. \n\n  \n\nHier geht es zur kostenlosen Anmeldung - Plätze sind begrenzt: \n\nhttps://cloud.freiheitswolke.org/apps/forms/s/CYKmtQa48ANyYEkdpsFcJMHx \n\n  \n\n \n\nGäste & Gastgeberin \n\n  \n\nDr. Ella Müller ist Leiterin des Thinktanks Rechtsextremismus (TTrex) von\nCampact e.V., davor leitete sie fünf Jahre lang das transatlantische\nDemokratie-Programm der Heinrich-Böll-Stiftung in Washington D.C.. Sie ist\nHistorikerin und promovierte an der Universität Freiburg über\nAnti-Umweltbewegungen und rechte Mobilisierung in den USA. Ihre Schwerpunkte\nliegen in der Radikalisierung reaktionärer Kräfte und der Analyse rechter\npolitischer Bewegungen von den 1960er Jahren bis heute. \n\n  \n\nElaine Thomas wurde in Washington, D.C. geboren, ist Mitbegründerin und\nLeiterin der AFROTOPIA BLACK ACADEMY in Hamburg sowie Dozentin an der\nVolkshochschule und Spoken-Word-Performerin. Sie ist außerdem Co-Lead für\nEvents beim Democrats Abroad Global Black Caucus, organisiert politische und\nkulturelle Veranstaltungen, beteiligt sich an Protesten und Rallies  unter\nanderem an den aktuellen NO KINGS-Protesten  und initiiert kleinere\nzivilgesellschaftliche Aktionen im Sinne von \"tiny acts of resistance\". \n\n  \n\nPeter N. Funke ist außerordentlicher Professor für Politikwissenschaft an\nder University of South Florida. Dort lehrt er zu sozialen Bewegungen,\nEuropa, Entwicklungspolitik, globale politische Ökonomie und Marxismus und\nleitet das Auslandsstudienprogramm Germany Beyond the Classroom. Seine\nForschungsschwerpunkte liegen auf sozialen Bewegungen und kontroverser\nPolitik, Kapitalismus und Klasse sowie Medien und Technologie. Er ist zudem\nMitglied am Institut für Protest- und Bewegungsforschung \n\n  \n\nDr. Nina Wienkoop ist Wissenschaftlerin an der Hochschule für Angewandte\nWissenschaften (HAW) in Hamburg und Vorstandsmitglied am ipb. Ihre Expertise\ndreht sich um kollektive Handlungsmacht, Zukünfte der Demokratie, Protest\nund Staatsreform. Zuletzt leitet sie zusammen mit Dr. Lisa Bogerts die\nStudie zu den Protesten gegen Rechtsextremismus. In Hamburg kuratiert und\nmoderiert sie die Salonreihe Bewegte Gespräche im Nachtasyl des Thalia\nTheaters. \n\n \n\n__________________________________\n\n \n\nJohanna Raphaela Wahl\n\n[sie/ihr; she/her]\n\n \n\nWissenschaftliche Mitarbeiterin und Vorstandsmitglied,\n<https://protestinstitut.eu/> Institut für Protest- und Bewegungsforschung\n(ipb)\n\nDFG-Projekt Generationen im Protest. Zivilgesellschaftliches Engagement in\nintergenerationaler und biographischer Perspektive\n\n \n\nCarl von Ossietzky Universität Oldenburg\n\nFakultät I Bildungs- und Sozialwissenschaften | Institut für Pädagogik\n\nGebäude A13, Raum 0018\n\nAmmerländer Heerstraße 114-118\n26129 Oldenburg\n\nPhone: +49 441 798  4891\n\nEmail:  <mailto:johanna.wahl@uol.de> johanna.wahl@uol.de \n\n <https://uol.de/paedagogik/forschung/projekte/generationen-im-protest>\nhttps://uol.de/paedagogik/forschung/projekte/generationen-im-protest\n\n \n\nAktuelle Veröffentlichungen:\n\nNachhaltigkeit im Bild: Affektive Inszenierungen und digital-materielle\nÄsthetiken im Diskurs um sozial-ökologische Transformation. Soziologie Und\nNachhaltigkeit, 12(1), 81102.  <https://doi.org/10.17879/sun-2026-9443>\nhttps://doi.org/10.17879/sun-2026-9443\n\n \n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/6af919e4/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.png\nDateityp    : image/png\nDateigröße  : 11796 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/6af919e4/attachment.png>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 9,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "länder",
-        "eu",
-        "entwicklungspolitik",
-        "politikwissenschaft",
-        "sozialwissenschaft",
-        "thinktank",
-        "stiftung"
-      ],
-      "id": "dd08fdcfcc557272"
-    },
-    {
-      "subject": "Friedensmentor*innen-Ausbildung in Bad Urach, 17.-20.9.2026",
-      "from": "<peace4future2040@gmail.com>",
-      "date": "Thu, 2 Jul 2026 09:09:23 +0200",
-      "dateUtc": "2026-07-02T07:09:23+00:00",
-      "organization": "17.-20.9.2026",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://eveeno.com/fma-bad-urach.",
-        "http://www.peace4future.de"
-      ],
-      "snippet": "Liebe Interessierte im weiten Feld der Internationalen Beziehungen, \n\n \n\nwir von Peace for Future laden euch wieder herzlich zur kommenden\nFriedensmentor*innen-Ausbildung ein, die Mitte September im Haus auf der Alb\nin Bad Urach stattfindet!\n\n \n\nFür wen ist die Ausbildung? \n\n- Für Menschen zwischen ca. 18-28 Jahre.\n\n- Für Menschen, die mehr über Frieden und Konflikt erfahren möchten und\nneugierig sind, was sie für einen gewaltfreien Umgang tun können. \n\n- Für Interessierte, die Tools und Methoden an die Hand bekommen möchten, um\nFrieden im Alltag, in Schule, Ausbildung, Studium oder Beruf zu stiften. \n\n \n\nWas Du davon hast und was Du lernst: \n\n- Grundlagen zu Frieden, Sicherheit, Konflikt & Gewalt. \n\n- wie du Konflikte konstruktiv bearbeiten kannst.\n\n- welche Alternativen zu Gewalt es auf gesellschaftlicher und politischer\nEbene gibt.\n\n- praktische Tools, die du direkt anwenden kannst.\n\n \n\nWANN und WO: \n\n17.-20.09.2026 in Bad Urach (auf der Schwäbischen Alb)\n\n \n\nINFOS und BEWERBUNG: \n\nAnmelden kannst du dich über folgenden Link:\nhttps://eveeno.com/fma-bad-urach.  \n\nDie Plätze sind begrenzt. Der Anmeldeschluss ist der 16.08.2026. \n\n \n\nSei auch Du dabei, bewirb Dich jetzt zur Ausbildung und erzähle davon\nweiter!\n\nWir freuen uns auf Dich und auf eine kreative, erfahrungsreiche Zeit!\n\n \n\nBei Peace for Future engagieren sich junge Menschen für eine ganzheitliche\nFriedenskultur sowie für konstruktive Konfliktlösung. Mehr über Peace for\nFuture erfährst du unter www.peace4future.de <http://www.peace4future.de>\noder auf unserer Instagram-Seite: @peace.for.future. Die\nFriedensmentor*innen-Ausbildung findet statt in Kooperation mit der\nServicestelle Friedensbildung Baden-Württemberg.\n\n \n\nHerzliche Grüße von \n\nSandra & dem gesamten Peace for Future-Team \n\n \n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260702/13988bfb/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "eu",
-        "peace"
-      ],
-      "id": "59cfd4fc407ff1d8"
-    },
-    {
-      "subject": "Stellenausschreibung - Bürgerlobby Klimaschutz e.V.",
-      "from": "Hannah Seifert <hannah.seifert@wtnet.de>",
-      "date": "Wed, 1 Jul 2026 21:58:21 +0200",
-      "dateUtc": "2026-07-01T19:58:21+00:00",
-      "organization": "Universität eingeschrieben",
-      "positionType": "Student Assistant",
-      "deadline": "iges Beschäftigungsverhältnis von mindestens 9 Monaten anstreben",
-      "deadlineDate": null,
-      "links": [
-        "https://de.citizensclimatelobby.org/"
-      ],
-      "snippet": "Hallo zusammen,\n\nEs gibt aktuell eine Stellenausschreibung bei der Bürgerlobby Klimaschutz e.V. (Citizens Climate Lobby) auf die ich gerne aufmerksam machen würde:\n\nZur Unterstützung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine Studentische Hilfskraft (m/w/d) (Mini-Job)mit den Schwerpunkten Organisation & Social Media.\n\nArbeitszeit: monatlich 30 h (weitestgehend flexibel einteilbar)\nVergütung: 590 €\nUrlaubstage: 25 pro Jahr\nArbeitsort: Remote/ selten Präsenz bei Veranstaltungen\n\nDeine Aufgaben:\nOrganisation und Koordination\n? Allgemeine organisatorische Aufgaben im Tagesgeschäft wie z.B. Betreuung von Aktiven, Ortsgruppen und neuen Interessierten\n? Vorbereitung, Koordination und Moderation von Onlineveranstaltungen (im Wechsel mit Deinen KollegInnen)\n? Mitarbeit bei der jährlichen Weihnachtsspenden-Aktion Öffentlichkeitsarbeit und Social Media\n? Konzeption, Planung und Erstellung von Inhalten für unsere Social-Media-Kanäle (vor allem Instagram, ggf. LinkedIn/ Bluesky) in Zusammenarbeit mit der Social Media AG\n? Verfassen kurzer Texte (Posts, Captions, Stories) und einfache Bild- oder Videobearbeitung (z.B. mit Canva)\n? Mitarbeit beim Ausbau unseres Newsletters und der Website-Inhalte (Texte überarbeiten, kleine Aktualisierungen)\n? Pflege und regelmäßige Aktualisierung der Website (Vorkenntnisse sind von Vorteil, alternativ wird die Bereitschaft zur Einarbeitung vorausgesetzt)\n\nDein Profil\n? Du bist an einer Hochschule oder Universität eingeschrieben.\n? Du hast großes Interesse an Klimaschutz, Klima- und Umweltpolitik sowie an zivilgesellschaftlichem Engagement.\n? Du arbeitest strukturiert, zuverlässig, selbstständig und behältst auch bei mehreren Aufgaben den Überblick. Du kommunizierst gerne, klar und wertschätzend.\n? Social Media ist dir vertraut (insbesondere Instagram)\n? Sicherer Umgang mit gängigen Office-Programmen (Google Docs/Sheets); Erfahrungen mit Tools wie Canva, Zoom, Slack oder ähnlichen Plattformen sind von Vorteil.\n? Du kannst dich mit den Zielen und Werten der Bürgerlobby Klimaschutz identifizieren.\n\nWir bieten:\n? Umfangreiche Einarbeitung und zuverlässige Unterstützung durch den Vorstand/Team\n? Einblicke in die praktische Klima- und Umweltpolitik und in die Arbeit einer engagierten, weitgehend ehrenamtlichen Bürger:innenbewegung\n? Eine abwechslungsreiche Tätigkeit an der Schnittstelle von Organisation, Kommunikation und Ehrenamtsmanagement\n? Die Möglichkeit, eigene Ideen einzubringen und eigenverantwortlich kleinere Projekte umzusetzen\n? Flexible Arbeitszeiten, die sich gut mit dem Studium vereinbaren lassen\n\nWenn du Lust hast, die Arbeit der Bürgerlobby Klimaschutz aktiv mitzugestalten, freuen wir uns auf deine Bewerbung. Wir freuen uns insbesondere über Bewerbungen, die ein längerfristiges Beschäftigungsverhältnis von mindestens 9 Monaten anstreben.\nBitte sende bis spätestens 15.07.2026: ein kurzes Motivationsschreiben mit Lebenslauf sowie Arbeitsproben (z.B. Social-Media-Beiträge, Social-Media/Presse-Texte) per E-Mail an: vorstand@ccl-d.org \nKontakt für Rückfragen: bitte ausschließlich an Tamara Kusnierz (tk@ccl-d.org)\n\n\n\nBeste Grüße\n--\nHannah Seifert \nBürgerlobby Klimaschutz - Citizens' Climate Lobby Germany e.V. (CCL-D)\nWebsite:https://de.citizensclimatelobby.org/\nInstagram: @buergerlobbyklimaschutz\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/b2b58e78/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : 260525_CCL-D-Stellenausschreibung-Minijob.pdf\nDateityp    : application/pdf\nDateigröße  : 117658 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/b2b58e78/attachment.pdf>\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/b2b58e78/attachment-0001.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "eu"
-      ],
-      "id": "a9b3974cbacbd7d1"
-    },
-    {
-      "subject": "Für Studierende: Politische Wochenendseminare in Bonn | Pop meets Politics und Vielfalt unter Druck",
-      "from": "News Verein zur Förderung politischen Handelns e.V. <news@vfh-online.de>",
-      "date": "Wed, 1 Jul 2026 15:37:11 +0000",
-      "dateUtc": "2026-07-01T15:37:11+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://vfh-online.de/seminare/popkultur-und-politik/",
-        "https://www.vfh-online.de/seminare/queerpolitik-zwischen-fortschritt-kulturkampf/",
-        "http://vfh-online.de/.",
-        "http://www.vfh-online.de/",
-        "http://www.instagram.com/vfh_denken_hilft/",
-        "http://www.facebook.com/vfh.jump"
-      ],
-      "snippet": "Liebe Liste,\n\nwir möchten Euch auf zwei Veranstaltungen aufmerksam machen, die für einige von Euch sicherlich interessant sind. Wir freuen uns außerdem, wenn Ihr unser Angebot an andere potenziell Interessierte weiterleitet uns bedanken uns für die Unterstützung unserer Arbeit!\n\nPopkultur & Politik: Zwischen Botschaft und Unterhaltung\nVon Utopien, Gesellschaftsbildern und Kulturkämpfen\n11.09.26 - 13.09.26 in Bonn\nSeminargebühr: 80,00 Euro\n\nPopkultur ist mehr als bloße Unterhaltung. Filme, Serien, Musik, Computerspiele oder Literatur prägen unsere Vorstellungen von Gesellschaft, vermitteln Werte und erzählen Geschichten über Macht, Gerechtigkeit, Freiheit oder Zukunft. Ob die dystopische Welt von The Hunger Games, die politischen Botschaften im Hip-Hop, die Gesellschaftskritik in Serien wie Black Mirror oder Fragen von Krieg und Moral in Computerspielen - Popkultur greift politische Themen auf, hält den Spiegel vor und entwickelt Visionen. In diesem Seminar fragen wir danach, wie politische Ideen, Weltbilder und Konflikte in populären Medien verhandelt werden und welche gesellschaftspolitischen Aussagen in ihnen enthalten sind. Wir widmen uns besonders den Dystopien und Utopien der Popkultur und nehmen die Funktionen unter die Lupe, die Popkultur für politische Meinungsbildung und gesellschaftliche Verständigungsprozesse erfüllt.\nDas Seminar richtet sich an Studierende und junge Berufstätige. Mehr Informationen und der Link zur Anmeldung finden sich hier<https://vfh-online.de/seminare/popkultur-und-politik/>.\n\nVielfalt unter Druck\nQueerpolitik zwischen Fortschritt und Kulturkamp\n20.11.26 - 22.11.26 in Bonn\nSeminargebühr: 80,00 Euro\n\nIn den vergangenen Jahren wurden in Deutschland wichtige Schritte zur rechtlichen Gleichstellung queerer Menschen vollzogen. Nach der Einführung der Ehe für alle im Jahr 2017 trat 2024 das Selbstbestimmungsgesetz in Kraft. Es ermöglicht trans, inter und nicht-binären Personen, ihren Vornamen und Geschlechtseintrag beim Standesamt eigenständig und ohne medizinische Nachweise zu ändern.\nDie zunehmende Sichtbarkeit von LSBTQIA+-Themen stößt jedoch auf immer stärkeren politischen wie gesellschaftlichen Gegenwind. Diese Entwicklungen sind kein rein deutsches Phänomen, sondern Teil eines breiteren internationalen Trends, in dem Fragen von sexueller und geschlechtlicher Vielfalt zunehmend politisiert werden.\nDas Seminar nimmt die Geschichte und Gegenwart der Queerpolitik in Deutschland und weltweit in den Blick. Ziel ist eine kritische Auseinandersetzung mit aktuellen queerpolitischen Debatten und den dahinterliegenden gesellschaftlichen Dynamiken.\nDas Seminar richtet sich an Studierende und junge Erwachsene. Anmeldeschluss ist der 15.10. 2026. Weitere Informationen und den Link zur Anmeldung findet Ihr hier.<https://www.vfh-online.de/seminare/queerpolitik-zwischen-fortschritt-kulturkampf/>\n\nNoch kurz zu uns: Der v.f.h. ist ein gemeinnütziges und überparteiliches Bildungswerk. In dieser Funktion führen wir bundesweit und im europäischen Ausland Seminare, Trainings und Workshops für junge Menschen durch. Ziel des v.f.h. ist es, diese durch politische Bildung zu politischem Handeln zu motivieren und zu befähigen. Hier geht's zu unserer Website: http://vfh-online.de/.\n\nFür Rückfragen stehe ich gerne zur Verfügung.\nHerzliche Grüße\n\nMarie Kemter [sie/ihr]\n________________________________________________________\nBildungsreferentin\n\nv.f.h. Verein zur Förderung politischen Handelns e.V.\nin Nordrhein-Westfalen vertreten durch das Politische Bildungswerk:\nJunge Erwachsene machen Politik (JumP)\nRathausgasse 22-24\n53111 Bonn\nfon: 0228 - 96 38 551|mobil: 0162 - 2153843\nemail: mail@vfh-online.de<mailto:mail@vfh-online.de>\nwww.vfh-online.de<http://www.vfh-online.de/>\nwww.instagram.com/vfh_denken_hilft/<http://www.instagram.com/vfh_denken_hilft/>\n\n\n\n________________________________________________________\nv.f.h. Verein zur Förderung politischen Handelns e.V.\nAssociation for the Advancement of Political Action\nin Nordrhein-Westfalen vertreten durch das Politische Bildungswerk:\nJunge Erwachsene machen Politik (JumP)\n\nRathausgasse 22-24\n53111 Bonn\nfon: 0228 - 96 38 551\nfax: 0228 - 96 38 553\nemail: mail@vfh-online.de<mailto:mail@vfh-online.de>\nwww.vfh-online.de<http://www.vfh-online.de/>\nwww.facebook.com/vfh.jump<http://www.facebook.com/vfh.jump>\nwww.instagram.com/vfh_denken_hilft/<http://www.instagram.com/vfh_denken_hilft/>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/e610e2d5/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "eu"
-      ],
-      "id": "64c64e1306347fa2"
-    },
-    {
-      "subject": "Online-Veranstaltung: Der politische Umsturz in den USA (mit Martin Kronauer) (08.07.2026)",
-      "from": "Nikolai Huke <huke.nikolai@gmail.com>",
-      "date": "Wed, 1 Jul 2026 13:36:52 +0200",
-      "dateUtc": "2026-07-01T11:36:52+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://us02web.zoom.us/meeting/register/tZcud-ypqDMtGtRbYscXovQ3YM0UjwKKNniM",
-        "https://prokla.de/index.php/PROKLA/de/article/view/2201",
-        "https://akg-online.org/",
-        "https://mosaik-online.at/mosaik-podcast/",
-        "https://lists.uni-hamburg.de/mailman/listinfo/arbeitsrechte-prekaer.wiso",
-        "https://www.telepolis.de/article/Arbeitsrechte-Warum-viele-Beschaeftigte-sie-nicht-durchsetzen-11305578.html",
-        "https://www.uni-hamburg.de/newsroom/forschung/2026/0505-fv-ha-wiso-prekaer-beschaeftigte.html",
-        "https://doi.org/10.5771/0342-300X-2026-2-93"
-      ],
-      "snippet": "Jour Fixe \"Kritische Gesellschaftsforschung\" #41\n08.07.2026.2026, 16:00-17:00 Uhr\nIst dies schon Wahnsinn, so hat es doch Methode ? der politische Umsturz \nin den USA (mit Martin Kronauer)\nModeration: Nikolai Huke\n\nAnmeldung unter \nhttps://us02web.zoom.us/meeting/register/tZcud-ypqDMtGtRbYscXovQ3YM0UjwKKNniM\n\nWir beobachten einen politischen Umsturz in den USA, der auf die \nZerstörung von Institutionen und Rechtsstaatlichkeit zielt. Getragen \nwird er vom radikalisierten Neoliberalismus der Tech-Milliardäre und von \nder »Make America Great Again«-Bewegung. Zugleich beobachten wir eine \nökonomische Weltmacht, die sich ihrem Niedergang mit einer neuformierten \nimperialen Politik entgegenzustemmen versucht. Beides trägt auf den \nersten Blick irrationale Züge, die gleichwohl einer eigenen Logik und \nZielstrebigkeit folgen. Diese ist nicht auf Rückschritt aus, vielmehr \nauf eine Zukunft, die im Interesse einer neuen herrschenden Klasse \ndemokratischen Interventionen entzogen sein soll.\n\nHintergrundtext: https://prokla.de/index.php/PROKLA/de/article/view/2201\n\n---\n\nIm Rahmen des digitalen Jour Fixe stellen jeden zweiten Mittwoch im \nMonat kritische Gesellschaftsforscher:innen ihre Analyseperspektiven \nund/oder Forschungsergebnisse zur Diskussion. Alle Interessierten sind \nherzlich willkommen. Der Jour Fixe wird unterstützt durch die \nAssoziation für kritische Gesellschaftsforschung (https://akg-online.org/).\n\nVorangegangene Veranstaltungen des Jour Fixe sind als Podcast \nverfügbar: https://mosaik-online.at/mosaik-podcast/\n\nWeitere Termine:\n\n09.09.2026: Arbeit am Wohnen. Zur schwierigen Aneignung eines \nstädtischen Reproduktionsmittels (Moritz Rinn)\n\n14.10.2026: Bleiberecht jenseits des Nationalstaats. Kämpfe um Sanctuary \nPolicy in den USA (Janika Kuge)\n\n11.11.2026: Time to Care. Chronofeministische Politiken der Zeit \n(Friederike Beier)\n\n-- \nDr. Nikolai Huke\n\nWissenschaftlicher Mitarbeiter im Projekt \"Handlungsfähigkeiten und politisches Bewusstsein von Arbeitnehmer:innen\" (gefördert durch die DFG)\n\nLeiter des Projekts \"Arbeitsrechte in prekären Lebenslagen\" (gefördert durch die Hans-Böckler-Stiftung)\nNewsletter des Projekts:https://lists.uni-hamburg.de/mailman/listinfo/arbeitsrechte-prekaer.wiso\n\nKo-Leiter der Task Force \"Globale Verteilungskämpfe. Migrationsabwehr als Quelle autoritärer Gefährdung der Demokratie\" (gefördert durch die VolkswagenStiftung)\n\nTel. +49(0)1578-7414416\n\nNeueste Publikationen & Medienberichte:\n\nArbeitsrechte: Warum viele Beschäftigte sie nicht durchsetzen\nhttps://www.telepolis.de/article/Arbeitsrechte-Warum-viele-Beschaeftigte-sie-nicht-durchsetzen-11305578.html\n\nWie kann das Arbeitsrecht besser durchgesetzt werden?\nhttps://www.uni-hamburg.de/newsroom/forschung/2026/0505-fv-ha-wiso-prekaer-beschaeftigte.html\n\nKalkulierter Rechtsbruch. Warum Unternehmen Arbeitsrechte systematisch verletzen (können)\nhttps://doi.org/10.5771/0342-300X-2026-2-93\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/c7b15982/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 5,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "politik",
-        "eu",
-        "stiftung"
-      ],
-      "id": "bd59d180da21420b"
-    },
-    {
-      "subject": "Berlin: Praktikant*in für Umwelt und Reporting gesucht",
-      "from": "\"Laura Hemmerling\" <laura.hemmerling@globalcompact.de>",
-      "date": "Wed, 1 Jul 2026 10:14:13 +0000",
-      "dateUtc": "2026-07-01T10:14:13+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://www.globalcompact.de/karriere",
-        "https://www.globalcompact.de/",
-        "https://www.linkedin.com/company/1492349/admin/",
-        "https://www.globalcompact.de/news/newsletter"
-      ],
-      "snippet": "Liebe Liste,\n\nim UN Global Compact Netzwerk Deutschland e. V. haben wir aktuell eine Stelle als Praktikant*in für Umwelt & Reporting<https://www.globalcompact.de/karriere> ausgeschrieben und freuen uns auf Bewerbungen an personal@globalcompact.de<mailto:personal@globalcompact.de>\n\nHerzlichen Dank und liebe Grüße\nLaura\n\n\n\n[Ein Bild, das Text, Logo, Schrift, Symbol enthält.  KI-generierte Inhalte können fehlerhaft sein.]\nLaura Hemmerling\nJunior Managerin Kommunikation & Marketing\n#gerneperDu\n\nUN Global Compact Netzwerk Deutschland e. V.\nZimmerstraße 56\n10117 Berlin\n\nT. +49 (0) 30 232 537 112\nlaura.hemmerling@globalcompact.de<mailto:sophie.bense@globalcompact.de> | www.globalcompact.de<https://www.globalcompact.de/>\nLinkedIn<https://www.linkedin.com/company/1492349/admin/> | Newsletter<https://www.globalcompact.de/news/newsletter>\n\nUN Global Compact Netzwerk Deutschland e.V.; Sitz der Gesellschaft: Berlin, Deutschland; Eingetragen am Amtsgericht Charlottenburg, Berlin (VR 40320 B);\nVertretungsberechtige Vorstandsmitglieder: Thorsten Pinkepank (Vorsitzender) und Dr. Katja Böhme (Schatzmeisterin)?\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/446681d2/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image002.png\nDateityp    : image/png\nDateigröße  : 41789 bytes\nBeschreibung: image002.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/446681d2/attachment.png>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "18f0584bffd442a6"
-    },
-    {
-      "subject": "Contemporary East Asian Studies (MA CEAS) and Modern East Asian (MA MEAS)",
-      "from": "IN-EAST <in-east@uni-due.de>",
-      "date": "Wed, 1 Jul 2026 10:16:04 +0200",
-      "dateUtc": "2026-07-01T08:16:04+00:00",
-      "organization": "Institute for East Asian Studies IN-EAST/ at the University of",
-      "positionType": "N/A",
-      "deadline": "for both programs is:",
-      "deadlineDate": null,
-      "links": [
-        "https://www.uni-due.de/in-east/study_programs/ma_ceas.php",
-        "https://www.uni-due.de/in-east/study_programs/ma_meas.php",
-        "https://www.instagram.com/ineastude/"
-      ],
-      "snippet": "Dear all,\n\nplease kindly circulate this call for applications for our two MA \nprograms, *Contemporary East Asian Studies (MA CEAS) and Modern East \nAsian (MA MEAS)* studies among interested students and colleagues.\n\n/*Please note that no prior knowledge of an Asian language is required \nfor the MA CEAS.*/\n\n/*\n*/\n\nThe /Institute for East Asian Studies IN-EAST/ at the University of \nDuisburg-Essen welcomes applications for its two *MA programs in East \nAsian Studies*. Both study programs aim at training students in the \ntheoretical and problem-centered analysis of East Asian societies, \npolitics and economies and are taught in English.\n\nThe application deadline for both programs is:\n\n  * *July 15 for non-EU citizens with non-EU degrees */(soft deadline,\n    technically possible until July 31)/\n  * *September 15 for EU citizens/BildungsinländerInnen/Non-EU citizens\n    with EU degrees*\n\nInterested students are welcome to reach out and contact our team at \nmaceas@in-east.de\n\n\nThe Master?s Program in *Contemporary East Asian Studies (MA CEAS)* is a \nsocial science-based program with a contemporary and interdisciplinary \nprofile. It offers research-focused training for highly qualified \ngraduates with a BA or similar degree in social sciences or economic \nscience.\n\nStudents in the MA CEAS program focus on learning Chinese, Japanese or \nKorean language and specialize in social sciences or economics, \ncombining intensive language training with interdisciplinary and \ndiscipline-specific modules on East Asia. Prior skills in an East Asian \nlanguage are not required.\n\nFor details on requirements, the application process and study program \ncontents see:\n\nhttps://www.uni-due.de/in-east/study_programs/ma_ceas.php\n\n\nThe Master?s Program in *Modern East Asian Studies (MA MEAS)* is \ndesigned for students with a BA degree in East Asian regional studies or \nEast Asian language studies, ideally with a disciplinary focus in the \nsocial or economic sciences.\n\nIt aims to build students? skills in assessing contemporary change \nprocesses in the East Asian region. Proficiency in an East Asian \nlanguage (Chinese, Japanese or Korean) is further developed based on the \nstudents? prior advanced skills in the respective language.\n\nFor details on requirements, the application process and study program \ncontents see: https://www.uni-due.de/in-east/study_programs/ma_meas.php\n\n\n*Contact:* maceas@in-east.de\n\n*Instagram*: https://www.instagram.com/ineastude/ \n<https://www.instagram.com/ineastude/>\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/bc03cf71/attachment.htm>\n\n------------------------------\n\nSubject: Fußzeile der Nachrichtensammlung\n\nib-liste mailing list\nib-liste@lists.fu-berlin.de\nhttps://lists.fu-berlin.de/listinfo/ib-liste\n\n\n------------------------------\n\nEnde ib-liste Nachrichtensammlung, Band 70, Eintrag 1\n*****************************************************",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "länder",
-        "eu",
-        "social science"
-      ],
-      "id": "a24ba186f8851549"
-    },
-    {
-      "subject": "[Monthly Retro Reflection: Free Demo Session] Few dates left",
-      "from": "Eszter Boros <info@eszterboros.eu>",
-      "date": "Wed, 1 Jul 2026 08:34:00 +0200",
-      "dateUtc": "2026-07-01T06:34:00+00:00",
-      "organization": "Unknown",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://app.minup.io/book/eszter/events/52fbc72b-82ab-4433-96fa-f89d9b6e8ed2",
-        "https://app.minup.io/book/eszter/service/7578",
-        "https://app.minup.io/book/eszter/service/16054",
-        "https://www.linkedin.com/in/eszter-boros/",
-        "https://mailchi.mp/a9fddd7955df/careertransitions",
-        "https://www.eszterboros.eu/books"
-      ],
-      "snippet": "Dear IB-Liste,\n\nI hope everyone is coping well with the heat!\n\nI'm reworking some of my online services and would love to get your\nfeedback, too. So if you're up for some mid-summer reflection, then join\none of my sessions this week or next week. I'll ask for your feedback after\nthe session.\n\n\n*Monthly Retro Reflections*\n\n*Would you like to get more intentional with your professional goals?Do you\nwant to prioritise a more balanced work-life?Do you want to reflect and\ngrow in a supportive community?*\n\nThe Monthly Retro Reflections\n<https://app.minup.io/book/eszter/events/52fbc72b-82ab-4433-96fa-f89d9b6e8ed2>\nare designed to do that. An opportunity to pause and reflect, check in with\nyourself and what needs attention, gain new perspective and set intentions\nfor the coming weeks.\n\nIn the next two weeks, I'm hosting free demo sessions, you can check them\nout without any obligation to join later.\nSign up here, there are multiple date options:\nhttps://app.minup.io/book/eszter/events/52fbc72b-82ab-4433-96fa-f89d9b6e8ed2\n\nIf you have questions, message me.\nHave a lovely week,\nEszter\n\n\n*Book your *??*Summer Special\n<https://app.minup.io/book/eszter/service/7578>*??* 3 x 60-min 1:1 sessions\nfor only €150.*\n*--*\nDiscovery Call <https://app.minup.io/book/eszter/service/7578> | 1:1 Session\n<https://app.minup.io/book/eszter/service/16054> | LinkedIn\n<https://www.linkedin.com/in/eszter-boros/> | Newsletter\n<https://mailchi.mp/a9fddd7955df/careertransitions> | My Books\n<https://www.eszterboros.eu/books>\n--\n*I don?t expect immediate answers!*\nYou might not be working when I am, and that?s ok.\nPlease make sure to reply only when it suits you.\nMails can wait ? time with loved ones and rest can not.\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260701/f6928df2/attachment.htm>\n\n------------------------------",
-      "isJob": false,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 1,
-      "dsPolicyMatchedKeywords": [
-        "eu"
-      ],
-      "id": "7fe278da34390d1d"
-    },
-    {
-      "subject": "Early Career Researcher - Geopolitics, Decarbonization and Weaponization of Energy",
-      "from": "Rainer Quitzow <rainer.quitzow@rifs-potsdam.de>",
-      "date": "Tue, 30 Jun 2026 17:10:48 +0200",
-      "dateUtc": "2026-06-30T15:10:48+00:00",
-      "organization": "institut für Nachhaltigkeit (RIFS) am GFZ",
-      "positionType": "PhD",
-      "deadline": "August 2nd, 2026",
-      "deadlineDate": "2026-08-02",
-      "links": [
-        "https://www.rifs-potsdam.de/en/node/12355",
-        "https://www.rifs-potsdam.de",
-        "https://www.linkedin.com/in/rainer-quitzow-20b1042/",
-        "https://www.rifs-potsdam.de/en/newsletter",
-        "https://www.rifs-potsdam.de/de/newsletter"
-      ],
-      "snippet": "Dear colleagues,\n\nWe are searching for a suitable early-career researcher or PhD candidate \nfor our new project on \"Geopolitics, Decarbonization and the \nWeaponization of Energy\". The project and position is funded from \n1.7.2026 - 30.6.2029 by the German Federal Foreign Office. (The position \nmay under certain circumstances be extended to compensate for a late \nstart, but this is not guaranteed). The position is primarily \nresearch-focused but involves substantial exposure to policy makers (in \nparticular at the Foreign Office) and industry.\n\nApplication deadline: August 2nd, 2026\n\nPlease find more information on the position here: \nhttps://www.rifs-potsdam.de/en/node/12355\n\nBest regards\n\nRainer\n\n\n-- \n\n*Prof. Dr. Rainer Quitzow*\nResearch Group Lead, Geopolitics of Energy and Industrial Transformation\nForschungsinstitut für Nachhaltigkeit (RIFS) am GFZ\nResearch Institute for Sustainability (RIFS) at GFZ\n\nProfessor for Sustainability and Innovation\nTechnische Universität Berlin\n\nTel: +49 (0) 331-6264 22374\nMobil: +49 (0) 176 2293 0741\nMail: rainer.quitzow@rifs-potsdam.de\nWeb: www.rifs-potsdam.de <https://www.rifs-potsdam.de>\n\nLN: Rainer Quitzow <https://www.linkedin.com/in/rainer-quitzow-20b1042/>\nUpdates from the RIFS?\nRegister here <https://www.rifs-potsdam.de/en/newsletter> for our \nmonthly newsletter (oder hier \n<https://www.rifs-potsdam.de/de/newsletter>für die deutsche Version)\n\nRIFS Logo\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260630/9071a1a1/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : HuP0o6T8G1SsFP0i.png\nDateityp    : image/png\nDateigröße  : 6273 bytes\nBeschreibung: nicht verfügbar\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260630/9071a1a1/attachment.png>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 3,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "policy",
-        "eu"
-      ],
-      "id": "745d650f8e37ce0b"
-    },
-    {
-      "subject": "Ausschreibung Werkstudent*in Advocacy bei internationaler NGO (Handicap International)",
-      "from": "Veronika WIES <v.wies@hi.org>",
-      "date": "Tue, 30 Jun 2026 12:38:23 +0000",
-      "dateUtc": "2026-06-30T12:38:23+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "ige Verfügbarkeit (mind",
-      "deadlineDate": null,
-      "links": [
-        "https://www.handicap-international.de/de/homepage",
-        "https://www.handicap-international.de/de/jobs-werkstudierende-advocacy-berlin"
-      ],
-      "snippet": "Liebe Mitglieder der IB-Liste,\n\nZur Unterstützung der Abteilung Advocacy in unserem Berliner Büro sucht Handicap International<https://www.handicap-international.de/de/homepage> ab 01.08.2026 eine*n Werkstudent*in.\n\nDie Abteilung Advocacy koordiniert und organisiert unsere politische Arbeit in Kooperation mit den Fachkolleg*innen in München und Berlin sowie in Koordination mit der Föderation Humanity & Inclusion in Paris und Brüssel. Die Abteilungsleitung ist in München ansässig.\nUnsere politischen Schwerpunktthemen liegen in den Bereichen Abrüstung und Schutz der Zivilbevölkerung im Krieg sowie Inklusion in der humanitären Hilfe und Rehabilitation.\n\nAufgabenbereiche:\n\n  *   Recherchen, Übersetzungen, Erstellung von Textvorlagen\n  *   Unterstützung bei der Öffentlichkeitsarbeit zu politischen Inhalten (Newsletter, Webseiten, Social Media)\n  *   Mitarbeit bei Organisation und Durchführung von Events in Berlin\n  *   Organisation und Protokollierung von Sitzungen\n  *   Erstellung und Visualisierung von Key Performance Indicators (KPIs)\n  *   Unterstützung bei Kontakten im parlamentarischen Bereich, Adressverwaltung und Terminkoordination\n  *   Unterstützung bei Verteilung von Studien an institutionelle und politische Kontakte\n\nDein Profil:\n\n  *   Eingeschriebene*r Student*in (bevorzugt im Bereich Politik, Völkerrecht)\n  *   Sehr gute Englischkenntnisse, möglichst muttersprachliche Deutschkenntnisse\n  *   Französischkenntnisse sind von Vorteil\n  *   Sicherer und kreativer Schreibstil im Deutschen und Englischen\n  *   selbstständige Arbeitsweise und Organisationstalent\n  *   Interesse für humanitäre und rüstungspolitische Inhalte\n  *   Verantwortungsbewusstsein, Kontaktfreudigkeit und Aufgeschlossenheit\n  *   Freude an der Teamarbeit und Flexibilität\n  *   Aufgrund der intensiven Einarbeitungszeit längerfristige Verfügbarkeit (mind. 1 Jahr)\n\nUmfang und Vergütung:\n\n  *   8 Std/Woche à 15€ (Masterstudium, Staatsexamen) bzw. 14€ (Bachelorstudium)\n\nWeitere Informationen können der Stellenausschreibung entnommen werden: Werkstudierende (m/d/w) | Handicap International<https://www.handicap-international.de/de/jobs-werkstudierende-advocacy-berlin>\n\nBewerbungsschluss ist der 10.07.2026\n\nBeste Grüße\n\nVeronika Wies\nReferentin Advocacy\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260630/88ea24a5/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "r ",
-        "verwaltung",
-        "politik",
-        "eu"
-      ],
-      "id": "79611318889885a2"
-    },
-    {
-      "subject": "Praktikant*in (m/w/d) im BMZ Beratungsvorhaben \"Zukunft der Entwicklungszusammenarbeit mit Asien\"",
-      "from": "\"Haerle, Madeleine Anna GIZ\" <madeleine.haerle@giz.de>",
-      "date": "Tue, 30 Jun 2026 11:45:27 +0000",
-      "dateUtc": "2026-06-30T11:45:27+00:00",
-      "organization": "Unknown",
-      "positionType": "Position",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://jobs.giz.de/index.php?ac=jobad&id=78646",
-        "http://www.giz.de/"
-      ],
-      "snippet": "Interessiert an internationalen Beziehungen und Entwicklungszusammenarbeit? Bei der GIZ gibt es eine spannende Gelegenheit, aktiv an der Gestaltung der Zukunft der Entwicklungszusammenarbeit mit Asien mitzuwirken.\n\nPosition: Praktikant*in (m/w/d) im Sektorvorhaben \"Zukunft der Entwicklungspolitik mit Asien\" bei der GIZ\n\nWas dich erwartet:\n\n  *   Spannende Einblicke in die Arbeit des BMZ\n  *   Mitgestalten zukunftsweisender Projekte\n  *   Ein dynamisches und internationales Arbeitsumfeld\n\n\nProfil:\n\n  *   Interesse an Entwicklungszusammenarbeit und internationalen Beziehungen\n  *   Studienhintergrund in relevanten Fachbereichen\n  *   Kommunikationsstärke und Teamfähigkeit\n\nMehr Infos zur Stellenausschreibung findest du hier<https://jobs.giz.de/index.php?ac=jobad&id=78646>.\n\n\nMadeleine Haerle\nJunior-Projektmanagerin BMZ Beratungsvorhaben \"Zukunft der Entwicklungszusammenarbeit mit Asien\"\nAsien, Pazifik, Lateinamerika, Karibik (APLAK)\n\nDeutsche Gesellschaft für\nInternationale Zusammenarbeit (GIZ) GmbH\nDag-Hammarskjöld-Weg 1-5\n65760 Eschborn\nDeutschland\n\nT +49 6196 797522\nE madeleine.haerle@giz.de<mailto:madeleine.haerle@giz.de>\nI  www.giz.de<http://www.giz.de/>\n\n\n________________________________\nDeutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH;\nSitz der Gesellschaft Bonn und Eschborn/Registered offices Bonn and Eschborn, Germany;\nRegistergericht/Registered at Amtsgericht Bonn, Germany; Eintragungs-Nr./Registration no. HRB 18384 und/and Amtsgericht Frankfurt am Main, Germany; Eintragungs-Nr./Registration no. HRB 12394;\nUSt-IdNr./VAT ID no. DE 113891176;\nVorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Niels Annen;\nVorstand/Management Board: Thorsten Schaefer-Guembel (Vorstandssprecher/Chair), Ingrid-Gabriela Hoven (Stellvertretende Vorstandssprecherin/Vice-Chair), Anna Sophie Herken\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260630/4038a81d/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 4,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "politik",
-        "eu",
-        "entwicklungspolitik"
-      ],
-      "id": "4f5a812dc61a09c8"
     }
   ],
   "stats": {
-    "new_items": 14,
-    "total_items": 135,
+    "new_items": 16,
+    "total_items": 125,
     "processed_messages": 23,
     "processed_messages_imap": 23,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 13,
-    "removed_past_deadline_items": 3,
+    "removed_old_items": 22,
+    "removed_past_deadline_items": 4,
     "removed_legacy_linkedin_alerts": 0
   }
 }
