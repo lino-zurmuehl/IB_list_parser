@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:54:13.192417+00:00",
+  "generated_at": "2026-08-07T11:48:01.790945+00:00",
   "source": "imap",
   "items": [
     {
@@ -2829,66 +2829,15 @@
         "sozialwissenschaft"
       ],
       "id": "a5510ccbc2aaa2d7"
-    },
-    {
-      "subject": "Hertie School - We are hiring!",
-      "from": "\"Jobs @ Hertie School\" <jobs@hertie-school.org>",
-      "date": "Fri, 10 Jul 2026 11:31:31 +0000",
-      "dateUtc": "2026-07-10T11:31:31+00:00",
-      "organization": "University of Social Sciences<https://hertie-school",
-      "positionType": "Postdoc",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81056/communications-manager-gn-for-civica-the-european-university-of-social-sciences-full-time-40-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81052/associate-communications-and-social-media-gn-plattform-staatsmodernisierung-part-time-20-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81043/faculty-and-centre-assistant-gn-part-time-25-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81044/grants-and-finance-coordinator-executive-education-gn-full-time-40-hoursweek",
-        "https://hertie-school.dvinci-easy.com/de/jobs/81045/grants-and-finance-coordinator-executive-education-gn-vollzeit-40-stundenwoche",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81051/phd-researchersresearch-associates-gn-public-administration-reform-and-government-digitalization-part-or-full-time",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81042/postdoctoral-researcher-european-union-law-and-politics-gn-full-time-40-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/80954/student-assistant-student-recruitment-gn-part-time-10-15-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81055/student-assistants-gn-executive-education-part-time-20-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81053/student-research-assistant-gn-plattform-staatsmodernisierung-part-time-10-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81054/student-assistant-gn-plattform-staatsmodernisierung-part-time-10-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81046/student-assistant-development-team-gn-part-time-20-hoursweek",
-        "https://hertie-school.dvinci-easy.com/en/p/en/jobs/81047/student-assistant-career-development-gn-part-time-20-hoursweek",
-        "https://www.hertie-school.org/en/jobs",
-        "http://www.hertie-school.org/",
-        "https://bsky.app/profile/hertieschool.bsky.social",
-        "https://de.linkedin.com/school/hertie-school/",
-        "https://www.instagram.com/thehertieschool/",
-        "https://www.youtube.com/user/hertieschoolberlin",
-        "https://www.hertie-school.org/en/news/detail/content/top-positions-for-the-hertie-school-in-che-ranking"
-      ],
-      "snippet": "Dear all,\n\nPlease note our current job openings:\n\nAdministrative Staff\n\n  *   NEW: Communications Manager (gn) for CIVICA ? The European University of Social Sciences<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81056/communications-manager-gn-for-civica-the-european-university-of-social-sciences-full-time-40-hoursweek>\n  *   NEW: Associate Communications and Social Media (gn) - Plattform #Staatsmodernisierung<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81052/associate-communications-and-social-media-gn-plattform-staatsmodernisierung-part-time-20-hoursweek>\n  *   Faculty and Centre Assistant (gn)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81043/faculty-and-centre-assistant-gn-part-time-25-hoursweek>\n  *   Grants and Finance Coordinator - Executive Education (gn) EN<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81044/grants-and-finance-coordinator-executive-education-gn-full-time-40-hoursweek>\n  *   Grants and Finance Coordinator - Executive Education (gn) DE<https://hertie-school.dvinci-easy.com/de/jobs/81045/grants-and-finance-coordinator-executive-education-gn-vollzeit-40-stundenwoche>\n\nAcademic Staff\n\n  *   NEW: PhD Researchers/Research Associates (gn) - Public Administration Reform and Government Digitalization<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81051/phd-researchersresearch-associates-gn-public-administration-reform-and-government-digitalization-part-or-full-time>\n  *   Postdoctoral Researcher ? European Union Law and Politics (gn)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81042/postdoctoral-researcher-european-union-law-and-politics-gn-full-time-40-hoursweek>\n\nStudent Assistants\n\n  *   NEW: Student Assistant - Student Recruitment (gn)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/80954/student-assistant-student-recruitment-gn-part-time-10-15-hoursweek>\n  *   NEW: Student Assistants (gn) - Executive Education<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81055/student-assistants-gn-executive-education-part-time-20-hoursweek>\n  *   NEW: Student Research Assistant (gn) - Plattform #Staatsmodernisierung<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81053/student-research-assistant-gn-plattform-staatsmodernisierung-part-time-10-hoursweek>\n  *   NEW: Student Assistant (gn) - Plattform #Staatsmodernisierung<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81054/student-assistant-gn-plattform-staatsmodernisierung-part-time-10-hoursweek>\n  *   Student Assistant ? Development Team (gn)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81046/student-assistant-development-team-gn-part-time-20-hoursweek>\n  *   Student Assistant - Career Development (gn)<https://hertie-school.dvinci-easy.com/en/p/en/jobs/81047/student-assistant-career-development-gn-part-time-20-hoursweek>\n\n\n\n\nYou are welcome to circulate these calls within your networks. All current vacancies can also be found on our website<https://www.hertie-school.org/en/jobs>.\n\n\n\nBest wishes,\n\nNadja\n\n\n\nNadja Starke | (she/her/hers)\nAssociate Human Resources\n\nHertie School\nThe University of Governance in Berlin\n\nFriedrichstraße 180\n10117 Berlin ? Germany\nstarke@hertie-school.org<mailto:starke@hertie-school.org>\nPhone +49 30 259 219 142\n\n?? hertie-school.org<http://www.hertie-school.org/>\n??  Bluesky<https://bsky.app/profile/hertieschool.bsky.social> | LinkedIn<https://de.linkedin.com/school/hertie-school/> | Instagram<https://www.instagram.com/thehertieschool/> | YouTube<https://www.youtube.com/user/hertieschoolberlin>\n\n[Ein Bild, das Text, Schrift, Logo, Kreis enthält.    Automatisch generierte Beschreibung]<https://www.hertie-school.org/en/news/detail/content/top-positions-for-the-hertie-school-in-che-ranking>\n\nHertie School gemeinnützige GmbH\nVorsitzender des Aufsichtsrats: Frank Mattern\nVorsitzender des Kuratoriums: Prof. Dr. Helge Braun\nGeschäftsführer: Dr. Axel Baisch\nSitz der Gesellschaft: Berlin\nRegistergericht: Amtsgericht Charlottenburg HRB 97018 B\nHertie School ? gegründet und gefördert von der Gemeinnützigen Hertie-Stiftung\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260710/c46840b9/attachment.htm>\n-------------- nächster Teil --------------\nEin Dateianhang mit Binärdaten wurde abgetrennt...\nDateiname   : image001.png\nDateityp    : image/png\nDateigröße  : 78408 bytes\nBeschreibung: image001.png\nURL         : <https://lists.fu-berlin.de/private/ib-liste/attachments/20260710/c46840b9/attachment.png>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": true,
-      "dsPolicyScore": 9,
-      "dsPolicyMatchedKeywords": [
-        "gis",
-        "eu",
-        "stiftung",
-        "governance",
-        "government",
-        "development",
-        "public administration",
-        "social science",
-        "european union"
-      ],
-      "id": "7785079d1133beb3"
     }
   ],
   "stats": {
-    "new_items": 19,
-    "total_items": 101,
+    "new_items": 10,
+    "total_items": 100,
     "processed_messages": 24,
     "processed_messages_imap": 24,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 12,
+    "removed_old_items": 6,
     "removed_past_deadline_items": 5,
     "removed_legacy_linkedin_alerts": 0
   }
