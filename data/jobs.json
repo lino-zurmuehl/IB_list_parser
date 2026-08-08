@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:35:47.533251+00:00",
+  "generated_at": "2026-08-08T11:30:50.527894+00:00",
   "source": "imap",
   "items": [
     {
@@ -2746,12 +2746,12 @@
     }
   ],
   "stats": {
-    "new_items": 12,
+    "new_items": 13,
     "total_items": 97,
     "processed_messages": 25,
     "processed_messages_imap": 25,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 8,
+    "removed_old_items": 6,
     "removed_past_deadline_items": 7,
     "removed_legacy_linkedin_alerts": 0
   }
