@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:30:19.713414+00:00",
+  "generated_at": "2026-08-18T11:26:38.306216+00:00",
   "source": "imap",
   "items": [
     {
@@ -2561,7 +2561,7 @@
     }
   ],
   "stats": {
-    "new_items": 13,
+    "new_items": 8,
     "total_items": 92,
     "processed_messages": 24,
     "processed_messages_imap": 24,
