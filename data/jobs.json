@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:32:43.611638+00:00",
+  "generated_at": "2026-08-20T11:27:51.851109+00:00",
   "source": "imap",
   "items": [
     {
@@ -2549,40 +2549,15 @@
         "verordnung"
       ],
       "id": "c2eed4a8608f280d"
-    },
-    {
-      "subject": "Call for Applications: Young Voices for Europe Breakfast bei der IEP-Jahrestagung, 17.-18. September 2026",
-      "from": "Laura Christoph <Laura.Christoph@iep-berlin.de>",
-      "date": "Thu, 23 Jul 2026 10:38:28 +0000",
-      "dateUtc": "2026-07-23T10:38:28+00:00",
-      "organization": "Institut für Europäische Politik",
-      "positionType": "N/A",
-      "deadline": "Not found",
-      "deadlineDate": null,
-      "links": [
-        "https://forms.gle/diAHG362pw1Ftpax8.<https://forms.gle/diAHG362pw1Ftpax8"
-      ],
-      "snippet": "Liebe IB-Liste,\n\nam 17. und 18. September 2026?findet die Jahrestagung des Instituts für Europäische Politik (IEP) statt und in diesem Jahr möchten wir jungen Stimmen noch mehr Raum geben.\n\nDu studierst, promovierst oder startest gerade ins Berufsleben? Du beschäftigst dich mit europapolitischen Themen und hast Lust nach einem Impuls von Prof. Dr. Frank Schimmelfennig, dem Vorsitzenden unseres Wissenschaftlichen Direktoriums, und mit anderen engagierten jungen Europäer:innen über die drängenden Zukunftsfragen der EU zu diskutieren?\n\nDann bewirb Dich für unser Young Voices for Europe Breakfast! Das Frühstück am?Morgen des zweiten Konferenztages (18. September, 08:15-09:15 Uhr) bietet die Gelegenheit, Perspektiven zu den Prioritäten für die Zukunft Europas auszutauschen. Die ausgewählten?Teilnehmenden sind außerdem?eingeladen, an der?gesamten IEP-Jahrestagung?teilzunehmen und spannende?Diskussionen zu Themen?wie Demokratie, Sicherheit, institutionellen Reformen/EU-Erweiterung?und Wettbewerbsfähigkeit?Europas zu verfolgen.\n\nBewerben kannst du?Dich bis zum?18. August 2026.\n\nWeitere Informationen und?das Bewerbungsformular?findest du hier: https://forms.gle/diAHG362pw1Ftpax8.<https://forms.gle/diAHG362pw1Ftpax8>\n\nDie Zahl der Plätze ist begrenzt. Die Auswahl erfolgt auf Grundlage der eingegangenen Bewerbungen. Bei Fragen, kontaktiert mich gern unter laura.christoph@iep-berlin.de<mailto:laura.christoph@iep-berlin.de>.\n\nWir freuen uns auf Eure Bewerbung!\n\nFreundliche Grüße,\nLaura Christoph\n\nWissenschaftliche Mitarbeiterin\nInstitut für Europäische Politik\n\n\n\n-------------- nächster Teil --------------\nEin Dateianhang mit HTML-Daten wurde abgetrennt...\nURL: <https://lists.fu-berlin.de/private/ib-liste/attachments/20260723/03a89929/attachment.htm>\n\n------------------------------",
-      "isJob": true,
-      "isLinkedInJob": false,
-      "sourceTag": "imap",
-      "sourceFolder": "IB-liste",
-      "isDsPolicyFit": false,
-      "dsPolicyScore": 2,
-      "dsPolicyMatchedKeywords": [
-        "politik",
-        "eu"
-      ],
-      "id": "e0351d5eff9e1601"
     }
   ],
   "stats": {
-    "new_items": 18,
-    "total_items": 93,
+    "new_items": 10,
+    "total_items": 92,
     "processed_messages": 25,
     "processed_messages_imap": 25,
     "processed_messages_linkedin": 0,
-    "removed_old_items": 6,
+    "removed_old_items": 7,
     "removed_past_deadline_items": 4,
     "removed_legacy_linkedin_alerts": 0
   }
